@@ -1,0 +1,1387 @@
+
+
+1 Consider the following about the recently constituted Banks Board Bureau (BBB).
+1.  It will be a subsidiary of the RBI, consisting of eminent professionals and officials for public sector banks (PSBs).
+2.  It will replace the Appointments Board of Government.
+3.  It will approve mergers and acquisition of commercial banks in India.
+4.  It will restructure the bad loans of distressed banks.
+Select the correct answer using the codes below.
+a)  1, 2 and 4 only
+b)  2 only
+c)  1 and 3 only
+d)  1, 2, 3 and 4
+Answer: B
+ Statement 1 & 2: BBB will be a super authority (Autonomous Body) of eminent professionals and officials for public sector banks (PSBs). It will replace the Appointments Board of Government.
+Statement 3 & 4: It will guide banks on mergers and consolidations and also ways to address the bad loans problem among other issues. It will not regulate mergers and restructure bad loans.
+Source: http://www.thehindu.com/business/Industry/centres-nod-for-bank-board-bur eau/article8293334.ece
+
+2 The Amending Act (1781) to the Regulating Act of 1773 had which of the following provisions?
+1.  Increase in the jurisdiction of Supreme Court established by the Regulating Act
+1773
+2.  Recognition of the appellate jurisdiction of the Governor-General-in-Council
+3.  Enactment of a temporary Uniform Civil Code
+Select the correct answer using the codes below.
+a)  1 only
+b)  2 and 3 only
+c)  1 and 3 only
+d)  2 only
+Answer: D
+Statement 1: It was actually the opposite. The act significantly reduced the powers of the Supreme Court at Calcutta. The actions of the servants of the Company in their official capacity were exempted from the jurisdiction of the Supreme Court.
+It also separated the Governor-General-in-Council and revenue matters from the
+Court's jurisdiction.
+Statement 2: The Act recognized the appellate jurisdiction of the Governor-General- in-Council.
+It empowered the Governor-General and Council to convene as a Court of Record to hear appeals from the Provincial Courts on civil cases. It meant that appeal could be taken from the provincial courts to the Governor General & Council and that was to be the final court of appeal.
+Statement 3: The Act asserted that Mohammedan cases should be determined by
+Mohammedan law and Hindu law applied in Hindu cases. So, 3 is clearly wrong.
+
+3 The International Finance Corporation (IFC), the investment arm of the World Bank has launched its first Uridashi Masala Bonds. Why corporate prefer Masala Bonds over External Commercial Borrowings (ECBs)?
+a)  Masala bonds do not face currency fluctuation risks.
+b)  There is no limit to borrowing under Masala bonds unlike ECBs.
+c)  Masala Bonds are subsidized by the government.
+d)  Masala bonds are not bought and sold under market mechanism unlike ECBs.
+Answer: A
+Option (b) can be easily eliminated as India has quantitative restrictions over capital account (like foreign currency borrowing and lending).
+Option (c) is wrong. Option (d) is also wrong, as Masala bonds are also market related instruments issued by the IFC.
+Option (a): They are issued to foreign investors and settled in US dollars. Hence the
+currency risk lies with the investor and not the issuer, unlike external commercial borrowings (ECBs), where Indian companies raise money in foreign currency loans. While ECBs help companies take advantage of the lower interest rates in international markets, the cost of hedging the currency risk can be significant.
+You can read all about Masala bonds in the Q Source.
+Source: http://www.thehindubusinessline.com/opinion/columns/masala-bonds/articl e7194362.ece
+
+4 Which of the following phenomenon is observed due to Doppler Effect?
+1.  Increase in sound of Car Siren when it is approaching
+2.  Redshift
+3.  Neutron bombing in Nuclear Reactors
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  3 only
+c)  2 and 3 only
+d)  1, 2 and 3 only
+Answer: A
+The Doppler Effect (or Doppler shift) is the change in frequency of a wave (or other periodic event) for an observer moving relative to its source.
+For e.g. it causes a car engine or siren to sound higher in pitch when it is approaching than when it is receding.
+The Doppler Effect for electromagnetic waves such as light is of great use in astronomy and results in either a so-called redshift or blueshift. It has been used to measure the speed at which stars and galaxies are approaching or receding from us; that is, their radial velocities.
+
+5 Consider the following statements about the Act of 1909 which is also known as Morley- Minto Reforms.
+1.  It introduced a system of communal representation.
+2.  It provided for the association of Indians with the executive Councils of the Viceroy and Governors.
+3.  It curtailed the deliberative functions of the legislative councils at the provincial level but increased the same at Central level.
+4.  It relaxed the central control over the provinces by separating the central and provincial subjects.
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  3 and 4 only
+c)  1, 2 and 4 only
+d)  1, 2, 3 and 4
+Answer: A
+Statement 1: It introduced a system of communal representation for Muslims by accepting the concept of 'separate electorate'. Under this, the Muslim members were to be elected only by Muslim voters. Thus, the Act 'legalised communalism' and Lord Minto came to be known as the Father of Communal Electorate.
+Statement 2: Satyendra Prasad Sinha became the first Indian to join the Viceroy's
+Executive Council. He was appointed as the law member.
+Statement 3: It enlarged the deliberative functions of the legislative councils at both the levels. For example, members were allowed to ask supplementary questions, move resolutions on the budget, and so on.
+Statement 4: This was done in the Act of 1919.
+
+6 The protected area which hosts Mangroves as well as the Giant Salt Water Crocodiles is
+a)  Hemis National Park
+b)  Bhitarkanika National Park
+c)  Khirganga National Park
+d)  Papikonda Wildlife Sanctuary
+Answer: B
+Mangroves, saltwater crocodile, white crocodile, Indian python, black ibis, wild pigs, rhesus monkeys, chital are the major attractions in the Bhitarkanika park.
+Both Hemis and Khirganga are in Himachal Pradesh and thus cannot host mangroves and salt water crocodile. Option (a) can be eliminated.
+Papikonda does not host mangroves. So, (d) is also eliminated.
+
+7 A geostationary orbit is a particular type of geosynchronous orbit where a satellite in geosynchronous orbit returns to the same point in the sky at the same time each day. This is made possible as
+1.  The satellite orbits directly above the poles.
+2.  The satellite follows the direction of the Earth's rotation.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: B
+It is a circular orbit nearly 36,000 kilometres above the Earth's equator following the direction of the Earth's rotation.
+An object in such an orbit has an orbital period equal to the Earth's rotational period (one sidereal day), and thus appears motionless, at a fixed position in the sky, to ground observers.
+Communications satellites and weather satellites are often placed in geostationary orbits, so that the satellite antennas (located on earth) which communicate with them do not have to rotate to track them, but can be pointed permanently at the position in the sky where the satellites are located
+
+8 The raga which is sung late in night is
+a)  Raga Darbari
+b)  Raga Todi
+c)  Raga Bhopali
+d)  Raga Bhimpalasi
+Answer: A
+Todi should be performed in the late morning. Raga Bhopali should be sung after sunset.
+Bhimpalasi should be sung in late Afternoon.
+Raga Darbari is a raga in the Kanada family, which is thought to have originated in Carnatic music and brought into North Indian music by Miyan Tansen, the 16th- century composer in emperor Akbar's court.
+
+9 Which of the following statements is INCORRECT with regard to Polar Vortex?
+a)  It is a large-scale cyclone.
+b)  Coriolis force is needed for a Polar vortex to be sustained.
+c)  It strengthens in the winter and weakens in the summer.
+d)  It reduces depletion of ozone.
+Answer: D
+Option (a): There are two polar vortices in the atmosphere of planet Earth, one around the North Pole, and one around the South Pole. Each polar vortex is a persistent, large-scale cyclone, circling the planet's geographical poles.
+The bases of the two polar vortices are located in the middle and upper troposphere and extend into the stratosphere.
+Option (b): As with other cyclones, their rotation is caused by the Coriolis effect. Option (c): These cold-core low-pressure areas strengthen in the winter and weaken
+in the summer due to their dependence upon the temperature differential between
+the equator and the poles.
+When the polar vortex is strong, the Westerlies increase in strength. When the polar cyclone is weak, the general flow pattern across mid-latitudes buckles and significant cold outbreaks occur, for e.g. in 2013 North America.
+Option (d): Ozone depletion occurs within the polar vortices - particularly over the Southern Hemisphere - reaching a maximum depletion in the spring. So, (d) is wrong.
+
+10 As per the Indian Independence Act of 1947, the Governor-general of India was to be
+a)  Elected by the first Constituent Assembly or Central Legislative Assembly of
+India
+b)  Appointed by the Viceroy on the advice of the executive council
+c)  Appointed by the British Monarch on the advice of the dominion cabinet
+d)  Nominated by the dominion cabinet based on the recommendation of the
+Viceroy
+Answer: C
+The Act abolished the office of viceroy and provided, for each dominion, a governor-general, who was to be appointed by the British King on the advice of the dominion cabinet.
+His Majesty's Government in Britain was to have no responsibility with respect to the Government of India or Pakistan.
+It also abolished the office of the secretary of state for India and transferred his functions to the secretary of state for Commonwealth Affairs.
+
+11 Consider the following about United Nations Development Programme (UNDP).
+1.  UN Economic and Social Council is its parent organization.
+2.  The status of UNDP is that of an executive board within the United Nations General
+Assembly.
+3.  UNDP is funded entirely by voluntary contributions from member nations.
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1 and 3 only
+d)  1, 2 and 3
+Answer: D
+Statement 1: UNDP activities are coordinated trough the machinery of the Economic and Social Council. It is the United Nations' global development network, (headquartered in New York City).
+Statement 2: The UNDP Administrator is the third highest-ranking official of the United Nations after the United Nations Secretary-General and Deputy Secretary- General.
+Statement 3: UNDP works with nations on their own solutions to global and national development challenges. As they develop local capacity, they draw on the people of UNDP and its wide range of partners.
+Singh
+
+12 A 'Trickle-down' approach to economic policy making will rely on which of the following?
+1.  High tax rates for corporations and wealthy individuals
+2.  Complete nationalization of the means of production
+3.  Improving economic growth rates
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  3 only
+c)  1 and 3 only
+d)  1, 2 and 3
+Answer: B
+It is argued by trickle down economists that cutting income tax for the rich will not just benefit high-earners, but also everyone as it generates additional demand and employment in the economy.
+Also, increased profits for firms may be reinvested into expanding output. This again leads to higher growth, wages and incomes for all.
+Lower income taxes increase the incentive to for people to work leading to higher productivity and economic growth.
+So, clearly statement 1 is wrong, and 3 is correct as per the Trickle down economic approach.
+
+13 The Constituent Assembly was constituted in 1946 under the scheme formulated by the
+Cabinet Mission Plan. As per the Plan
+1.  Each province and princely state was to be allotted seats in proportion to their respective population.
+2.  Princely states could veto the resolutions passed in the Constituent assembly.
+3.  The representatives of princely states were to be nominated by the heads of the princely states.
+4.  Community based representation was to be abolished in the constituent assembly.
+Select the correct answer using the codes below.
+a)  1 and 3 only
+b)  1, 2 and 4 only
+c)  3 only
+d)  1, 3 and 4 only
+Answer: A
+Statement 1: Roughly, one seat was to be allotted for every million population.
+Statement 2: There was no such provision. In fact, the 93 seats allotted to the princely states were not filled as they decided to stay away from the Constituent Assembly.
+Statement 3: The representatives of each community were to be elected by members of that community in the provincial legislative assembly and voting was to be by the method of proportional representation by means of single transferable vote.
+Statement 4: Seats allocated to each British province were to be decided among the three principal communitiesMuslims, Sikhs and general (all except Muslims and Sikhs), in proportion to their population.
+
+14 Consider the following statements about the external sector.
+1.  Assertion (a): Current Account deficit as a percentage of GDP has steadily increased during the last decade.
+2.  Reason (R): India has recently abolished controls over the current account convertibility.
+In the context of the above, which of these is correct?
+a)  A is correct, and R is an appropriate explanation of A.
+b)  A is correct, but R is not an appropriate explanation of A.
+c)  A is correct, but R is incorrect.
+d)  Both A and R are incorrect.
+Answer: D
+CAD had increased and then steadily decreased during the last decade, and more so in the last 5 years to now nearly 1.5% of GDP. So, A is incorrect.
+India had long abolished controls on the current account. It is the capital account which is not fully convertible. So, R is also incorrect.
+
+15 Which of the following was/were committees associated with the Constituent Assembly of India?
+1.  Welfare State Ideals committee
+2.  A States Committee for Negotiating with the States
+3.  A provincial Constitution Committee
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 only
+c)  1 and 3 only
+d)  2 and 3 only
+Answer: D
+The Constituent Assembly appointed a number of committees to deal with different tasks of constitution-making. Out of these, eight were major
+committees and the others were minor committees. The names of these committees and their chairmen are given below:
+Major Committees:
+Union Powers Committee - Jawaharlal Nehru Union Constitution Committee - Jawaharlal Nehru Provincial Constitution Committee - Sardar Patel Drafting Committee - Dr. B.R. Ambedkar
+Advisory Committee on Fundamental Rights, Minorities and Tribal and
+Excluded Areas - Sardar Patel.
+Rules of Procedure Committee - Dr. Rajendra Prasad
+States Committee (Committee for Negotiating with States) - Jawaharlal
+Nehru
+Steering Committee - Dr. Rajendra Prasad
+
+16 Effective Revenue Deficit is
+a)  Revenue deficit minus grants for creation of capital Assets
+b)  Revenue receipts adjusted for expenditure on interest payments
+c)  Fiscal deficit minus revenue expenditure
+d)  Revenue deficit minus plan allocation to States and UTs
+Answer: A
+Broadly, the expenditure which does not result in creation of assets for the Government of India, is treated as revenue expenditure.
+All grants given to the State Governments/Union Territories and other parties are also treated as revenue expenditure even though some of the grants may be used for creation of capital assets.
+Revenue expenditure which results in the creation of capital assets is reduced from revenue deficit to arrive at the effective revenue deficit (ERD).
+
+17 Which of the following erstwhile provinces had the largest membership in the
+Constituent Assembly of India?
+a)  United Provinces
+b)  Madras
+c)  West Bengal
+d)  Bombay
+Answer: A
+Both the Indian provinces and Princely states were the members of constituent assembly of India.
+Former taken together were greater in number than the princely states.
+United Provinces had 55 members, Madras had 49, West Bengal 19 and Bombay 21. Out of all princely states, Travancore had the highest membership of 6. Other
+princely states had 1-4 members in the constituent assembly of India.
+
+18 In ancient Indian Buddhist monasteries, a ceremony called Pavarana used to be held. It was the
+a)  Occasion to elect the Sanghaparinayaka and two speakers one on Dhamma and the other on Vinaya
+b)  Confession by monks of their offences committed during their stay in the monasteries during the rainy season
+c)  Ceremony of initiation of new person into the Buddhist Sangha in which the head is shaved an when yellow robes are offered
+d)  Gathering of Buddhist monks on the next day to the full moon day of
+Ashadha when they take up affixed abode for the next four months or rainy season
+Answer: B
+Pavarana is a Buddhist holy day celebrated on Aashvin full moon of the lunar month.
+It marks the end of the 3 lunar months of Vassa, sometimes called "Buddhist Lent."
+This day marks the end of the rainy season in some Asian countries like Thailand, where Theravada Buddhism is practiced.
+On this day, each monk must come before the community of monks (Sangha) and atone for an offense he may have committed during the Vassa.
+Most Mahayana Buddhists do not observe Vassa, though many Son/Thien monks in Korea and Vietnam do observe an equivalent retreat of three months of intensive practice in one location.
+
+19 Consider the following about the federal structure of India.
+1.  The Indian federal structure is the result of an agreement between the states.
+2.  All states have a legitimate right to secede from the federation by legislative means.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: D
+The term 'Federation' has nowhere been used in the Constitution. Article 1 describes India as a 'Union of States'.
+This implies two things: one, Indian Federation is not the result of an agreement by the states; and two, no state has the right to secede from the federation. So, a secessionist movement by say the state of Nagaland is not legitimate and constitutional.
+Both statements 1 and 2 are wrong.
+Hence, the Indian Constitution has been variously described as 'federal in form but unitary in spirit'.
+
+20 The Constitution establishes the parliamentary system not only at the Centre but also in
+the states. Which of the following is/are the major features of parliamentary government in
+India?
+1.  Sovereignty of the Indian Parliament
+2.  Collective responsibility of the executive to the legislature and Judiciary
+3.  Membership of the ministers in the legislature
+4.  Presence of nominal and real executives
+5.  Resolution of all Parliamentary disputes by the Judiciary
+Select the correct answer using the codes below.
+a)  1, 2 and 4 only
+b)  2, 3 and 4 only
+c)  3 and 5 only
+d)  1, 2, 3, 4 and 5
+Answer: B
+Statement 1: The Indian Parliament is not a sovereign body even though it is based on British Parliamentary model where the Parliament is sovereign.
+Statement 2: The parliamentary system is based on the principle of cooperation and co-ordination between the legislative and executive organs and the collective responsibility of the latter to the former. It is not accountable to the Judiciary. Judiciary only reviews the actions of the executive when challenged.
+Statement 3: Ministers are mostly chosen from the legislature. They act as the members of the particular house.
+Statement 4: President and Governor are nominal executives, whereas the PM and
+CMs are real executives wielding de facto powers.
+Statement 5: The Chairman of the house resolves all major disputes within the Parliament including the charges of political defection under anti-defection law. However, in some cases like investigation of scams and election related disputes, Judiciary resolves the disputes.
+
+21 Cutch Rebellion in 1819 occured because
+1.  The British government destroyed the communication facilities in and outside of
+Cutch.
+2.  The British took control the salt produced at the coasts.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: D
+The British interfered in the internal feuds of the Cutch and, in 1819, defeated and deposed the Cutch ruler Rao Bharamal in favour of his infant.
+A British resident governed the areas as the de facto ruler with the help of a regency council.
+The administrative innovations made by the regency council coupled with excessive land assessment caused deep resentment.
+Independence
+
+22 What do you understand by the statement, "The Directive principles of State Policy
+(DPSP) in the constitution are non-justiciable in nature"?
+a)  The courts cannot recognize the DPSP in their judgments.
+b)  DPSP cannot be enforced by law.
+c)  They are not enforceable by the courts for their violation.
+d)  All of (a), (b) and (c)
+Answer: C
+Option (a): They do recognize. For e.g. certain laws that violate Article 14 of the constitution can be declared legitimate if they fulfil DPSP under parts of Article 39.
+In the Minerva Mills case (1980), the Supreme Court held that 'the Indian Constitution is founded on the bedrock of the balance between the Fundamental Rights and the Directive Principles'.
+Option (b): DPSP like organizing village panchayats, cheap legal remedies for the poor have already been implemented by law.
+Option (c): For e.g. if adequate steps are not taken to stop circulation of intoxicants like liquors (a DPSP), the courts cannot dictate the government to do so.
+
+23 The value of secularism can be found in which of the following parts of the constitution?
+1.  Preamble
+2.  Directive Principles of State Policy
+3.  Fundamental Duties
+4.  Fundamental Rights
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  3 and 4 only
+c)  1, 3 and 4 only
+d)  1, 2, 3 and 4
+Answer: D
+Statement 1: The Preamble secures to all citizens of India liberty of belief, faith and worship.
+Statement 2: The State shall endeavour to secure for all the citizens a Uniform Civil
+Code (Article 44 of DPSP).
+Statement 3: Article 51A mentions this as one of the fundamental duties: "to promote harmony and the spirit of common brotherhood amongst all the people of India transcending religious, linguistic and regional or sectional diversities and to renounce practices derogatory to the dignity of women."
+Statement 4: The State shall not deny to any person equality before the law or equal protection of the laws (Article 14). The State shall not discriminate against any citizen on the ground of religion (Article 15). All persons are equally entitled to freedom of conscience and the right to freely profess, practice and propagate any religion (Article 25).
+
+24 AEW&CS project of India's Defence Research and Development Organisation (DRDO)
+is related to A.
+b)
+c) D.
+Improving surveillance capabilities of the Indian Air Force
+Increasing the cyber security of the armed forces
+Improving the strike range of ballistic missiles
+Establishing dedicated satellite channel for military communication
+Answer: A
+It is called Airborne Early Warning and Control System (AEWACS).
+The DRDO AEWACS programme aims to deliver three radar-equipped surveillance aircraft to the Indian Air Force. It will be mounted on an aircraft.
+The Radar will have an extended range mode against fighter aircraft.
+
+25 Which of the following matters is/are dealt by the Third Schedule of the Constitution?
+1.  Allocation of seats in the Rajya Sabha to the states and the union territories
+2.  Provisions for elections to the Parliament and state legislatures
+3.  Provisions relating to the privileges of dignitaries
+4.  Forms of Oaths or Affirmations for constitutional functionaries
+5.  Provisions relating to disqualification of the members of Parliament and State
+Legislatures
+Select the correct answer using the codes below.
+a)  1 and 5 only
+b)  3 and 4 only
+c)  4 only
+d)  2 and 5 only
+Answer: C
+Statement 1: It falls under the fourth schedule.
+Statement 2: These are covered by the Representation of People of India Act. Statement 3: These are matters of the second schedule. It also covers emoluments,
+allowances etc.
+Statement 5: The Anti-defection part is covered under the tenth schedule.
+
+26 The victor of this Battle took Bihar province in the end of 12th Century, eradicating Buddhism in that area, and later in early 13th Century, his army completed the occupation of the province of Bengal. The battle was
+a)  Battle of Tarain
+b)  Battle of chausa
+c)  Battle of Chausa
+d)  Battle of Panipat
+Answer: A
+The battles were fought in 1191 and 1192 near the town of Tarain (Taraori), near Thanesar in present-day Haryana, between a Ghurid force led by Mu'izz al-Din and a Chauhan Rajput army led by Prithviraj Chauhan.
+In the Second Battle of Tarian, Prithviraj Chauhan was defeated by Mohammed
+Ghori.
+The Second Battle of Tarain 1192 A.D. destroyed the imperial power of the
+Chauhan Dynasty.
+The subsequent attempts of the Hindu kings to resist the Muslim tide proved futile. Muslim power was strongly founded in Northern India after the battle. Thus the Second battle of Tarain 1192 A.D. may be regarded as a turning point in Indias history.
+
+27 Consider the following statements.
+1.  Assertion (a): Preamble of the Constitution cannot be amended by the Parliament.
+2.  Reason (R): Preamble is not considered as a part of the constitution.
+In the context of the above, which of these is correct?
+a)  A is correct, and R is an appropriate explanation of A.
+b)  A is correct, but R is not an appropriate explanation of A.
+c)  A is correct, but R is incorrect.
+d)  Both A and R are incorrect.
+Answer: D
+The Supreme Court has held that the Preamble is a part of the
+Constitution.
+As per the SC, the Preamble can be amended under A368, subject to the condition that no amendment is done to the 'basic features'.
+The Preamble has been amended only once so far, in 1976, by the 42nd Constitutional Amendment Act, which has added three new words-Socialist, Secular and Integrity-to the Preamble. This amendment was held to be valid.
+
+28 Consider the following about the Parliament's power to reorganise the States?
+1.  A State reorganization bill can be introduced in the Parliament only with the prior recommendation of the President.
+2.  The Home Minister must send the bill to the Governor concerned for his ratification.
+3.  If a state legislature unanimously opposes reorganization of the state concerned, the bill is sent to the Supreme Court for a review.
+Select the correct answer using the codes below.
+a)  1 only
+b)  1 and 2 only
+c)  2 and 3 only
+d)  None of the above
+Answer: A
+ Statement 1: It is mentioned as a condition in Article 3 of the constitution.
+Statement 2: Before recommending the bill, the President has to refer the same to the state legislature concerned for expressing its views within a specified period.
+Statement 3: There is no such provision. The division of Andhra Pradesh took place despite the opposition of the state legislature.
+
+29 Which of the following species are NOT State animals of the states of India?
+1.  Wild buffalo
+2.  Snow leopard
+3.  Giant squirrel
+4.  Nilgiri tahr
+Select the correct answer using the codes below.
+a)  1, 2 and 4 only
+b)  4 only
+c)  1 and 3 only
+d)  All are State animals.
+Answer: D
+This is a comprehensive list of State Animals, Birds, Trees and Flowers of India.
+You should ideally research a bit on some important species mentioned here http://www.frienvis.nic.in/KidsCentre/State-Animals-Birds-Trees-Flowers-of-India_
+1500.aspx
+Questions on most of these species have been covered in the previous 
+
+30 Which of the following fundamental rights are conferred to Indian citizens but not foreign citizens living in India?
+1.  Right against discrimination on grounds of religion
+2.  Right to conserve one's culture
+3.  Right to Life and Liberty
+4.  Right to freedom of speech and expression
+Select the correct answer using the codes below.
+a)  2 only
+b)  1, 2 and 4 only
+c)  1 and 2 only
+d)  3 and 4 only
+Answer: B
+Other rights unavailable to foreign citizens are:
+Equality of opportunity in matters of public employment (Article 16). Right of minorities to establish and administer educational institutions (Article 30)
+Protection of six rights regarding freedom of : (i) speech and expression, (ii) assembly, (iii) association, (iv) movement, (v) residence, and (vi) profession (Article 19).It is notable that foreign citizens even enjoy the Right to elementary education (Article 21a).
+
+31 Consider the following about fundamental rights.
+1.  They are not available against the action of private individuals.
+2.  They can be available only to citizens and not to legal or commercial entities.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: D
+Statement 1: They are available against the actions of private individuals, for e.g. right against untouchability. So, 1 is clearly wrong.
+Statement 2: It is wrong. For e.g. media enjoys the right against government censorship as a part of Article 19 - Freedom of Speech and Expression.
+
+32 A Minimum Support Price (MSP) is announced for certain crops by the Union Government prior to the sowing season. Which of the following approves a hike in the MSP?
+a)  Commission for Agricultural Costs and Prices (CACP)
+b)  Cabinet Committee on Economic Affairs
+c)  Food Corporation of India (FCI)
+d)  Ministry of Agriculture and Public Distribution
+Answer: B
+The prices are decided or hiked by CCEA on the basis of the recommendations of the Commission for Agricultural Costs and Prices (CACP).
+The MSP of raw Jute was recently hiked by CCEA based on the proposal forwarded by Union Agriculture Ministry had in order increase the raw jute cultivation which has been declining in recent years.
+MSP and related issues have been covered in previous 
+t-hikes-raw-jute-msp-by-18-5-to-rs-3200/qtl-for-2016-17/articleshow/51126376.cms
+
+33 Equal Protection of Laws' granted under Article 14 of the Constitution may imply
+a)  No person is above the law.
+b)  Equal treatment of equals under the law.
+c)  Absence of arbitrary power with the state.
+d)  The society operates on laws.
+Answer: B
+Article 14 has two parts: equality before law and equal protection of laws.
+The first concept basically means law is for everyone whoever it might be.
+The second concept means law will apply equally to equally situated people. For e.g. if an adult receives a punishment of 3 years imprisonment, another adult for the same crime and same circumstances should also get 3 years of imprisonment.
+
+34 The Supreme Court held that the freedom of speech and expression includes
+1.  Right against tapping of telephonic conversation
+2.  Right against strike called by a political party or organisation
+
+3.  Freedom of commercial advertisements
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1 and 3 only
+d)  1, 2 and 3
+Answer: D
+ It includes:
+Right to propagate one's views as well as views of others. Freedom of the press.
+Freedom of commercial advertisements.
+Right against tapping of telephonic conversation.
+Right to telecast, that is, government has no monopoly on electronic media. Right against bundh called by a political party or organisation.
+Right to know about government activities. Freedom of silence.
+Right against imposition of pre-censorship on a newspaper.
+Right to demonstration or picketing but not right to strike.
+The State can impose reasonable restrictions on the exercise of the freedom of speech and expression on the grounds of sovereignty and integrity of India, security of the state, friendly relations with foreign states, public order, decency or morality, contempt of court, defamation, and incitement to an offence.
+
+35 Consider the following items in the Annual budget - Expenditure section.
+1.  Plan Assistance to State & UT Governments
+2.  Subsidies
+3.  States' share of taxes & duties
+Arrange these items in increasing order of their share in the budget.
+a)  2<3<1
+b)  2<1<3
+c)  1<2<3
+d)  1<3<2
+Answer: C
+ This is the summary of the expenditures of the Union government. If you are unable to access the image, check page 5 of
+http://indiabudget.nic.in/ub2016-17/bag/bag11.pdf
+
+36 Which of the following is the central difference between the economic philosophies of
+Socialism and Communism?
+a)  State v/s non-state ownership of factors of production
+b)  Right of labour
+c)  Central v/s decentralized planning
+d)  Role of market in delivering social services
+Answer: A
+ Socialistic economy emphasises the collective ownership of the means of production (property and assets). It also ascribes a large role to the state in running the economy.
+Communist economy on the other hand advocates state ownership of all properties including even labour and absolute power to state in running the economy.
+So, the most appropriate option is (a).
+
+37 Consider the following about the writ of Mandamus.
+1.  It is used to prevent usurpation of public offices by ineligible individuals.
+2.  It cannot be issued against public executive authorities.
+3.  It cannot be issued by the lower courts.
+Select the correct answer using the codes below
+a)  1 and 2 only
+b)  3 only
+c)  2 and 3 only
+d)  1 only
+Answer: B
+ Statement 1 & 2: That is the writ of Quo Warranto, not Mandamus. Mandamus is a command issued by the court to a public official asking him to perform his official duties that he has failed or refused to perform.
+Statement 3: It can also be issued against any public body, a corporation, an inferior court, a tribunal or government for the same purpose.
+
+38 The 1857 revolt did NOT spread to which of the following parts of the country?
+1.  Lucknow
+2.  Allahabad
+3.  Kashmir
+4.  Travancore
+Select the correct answer using the codes below.
+a)  3 and 4 only
+b)  2, 3 and 4 only
+c)  1 and 2 only
+d)  4 only
+Answer: A
+ In some regions of Company-controlled India, such as Bengal, the
+Bombay Presidency, and the Madras Presidency, remained largely calm.
+In Punjab, the Sikh princes backed the Company by providing soldiers and support. The large princely states of Hyderabad, Mysore, Travancore, and Kashmir, as well
+as the smaller ones of Rajputana, did not join the rebellion.
+In some regions, such as Oudh, the rebellion took on the attributes of a patriotic revolt against European presence.
+
+39 If a person's "Right to Vote" is infringed, what remedy does she he have?
+a)  Move the Supreme Court citing violation of fundamental rights
+b)  File a non-judicial petition with the Election Commission of India
+c)  File a case against the Chief Electoral Officer of the State
+d)  Move the High court for infringement of a constitutional right
+Answer: D
+ Right to Vote is a constitutional right, not a fundamental right. So, SC
+cannot be approached for issuing a writ petition.
+High court enforces legal rights, and should be approached in case of its infringement.
+ECI only conducts elections and maintains the database of voters. It does not have the authority to enforce the Right to Vote. Same is true for the Chief Electoral Officer.
+
+40 The Regulating Act of 1773 is said to be of great constitutional importance in India. Which of the following can be the reason(s) for it?
+1.  It created a federal architecture to govern India decentralizing the administrative system
+2.  It transferred control of India from commercial companies to a British government representative in India.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: D
+ It was the first step taken by the British Government to control and regulate the affairs of the East India Company in India, and it recognised, for the first time, the political and administrative functions of the Company. So, 2 is clearly wrong. The transfer of control happened late in 1858.
+Also, the act laid the foundations of central administration in India. There was neither a provision to decentralize the administration nor creating a federation of autonomous states. So, 1 is wrong too.
+You can read the exact provisions from the Q Source.
+
+41 In economics, the term 'invisible hand' is often used in the context of
+a)  Indirect effects of government policy on employment and output
+b)  Self-correcting quality of the market
+c)  Welfare orientation of the State
+d)  Role of regulatory mechanisms in preventing market failures
+Answer: B
+ According to the invisible hand theory, each of us, acting in our own
+self-interests, generates a demand for goods and services that compels others to deliver those goods and services in the most efficient manner so that they may be able to receive compensation from others and make a profit in doing so.
+In this process, resources are allocated in the most efficient manner, in contrast to a process that relies on a centrally planned system.
+
+42 How is the writ jurisdiction of the Supreme Court (SC) different from that of a High
+Court (HC)?
+1.  SC can issue writs for any purpose, whereas HCs can only issue them for the enforcement of fundamental rights.
+2.  SC can issue writ against the government, whereas HCs cannot.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: D
+ Statement 1: The Supreme Court can issue writs only for the enforcement of fundamental rights whereas a high court can issue writs not only for the enforcement of Fundamental Rights but also for any other purpose.
+Statement 2: The Supreme Court can issue writs aga-inst a person or government throughout the territory of India whereas a high court can issue writs against a person residing or against a government or authority located within its territorial
+jurisdiction only or outside its territorial jurisdiction only if the cause of action arises within its territorial jurisdiction.
+
+43 'Economic efficiency' as used by economists and policymakers is related to which of the following?
+1.  Optimal allocation of goods and services
+2.  Resource efficient production
+3.  Reaching equal income levels for all economic agents
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1 and 3 only
+d)  1, 2 and 3
+Answer: A
+ Statement 1: It is when goods and services are distributed according to consumer preferences and needs of corporations.
+Statement 2: It is when the maximum number of goods and services are produced with a given amount of inputs.
+Statement 3: All agents may not equal incomes, and yet the economic system can be most efficient. So, 3 is wrong.
+For a better understanding of the term please refer to http://www.economicshelp.org/microessays/costs/efficiency/
+
+44 If a ship moves from seawater to freshwater, it will
+a)  Sink down a little bit
+b)  Rise above the water a little bit
+c)  Remain unaffected
+d)  Stop floating on water surface
+Answer: A
+ The ship is floated by the buoyant force of the water upwards.
+It is proportional to the density of water. Higher the density, like seawater, greater is the upward force on the ship (cancelling its weight downwards), and higher it its level.
+Freshwater has lower density, hence the ship will sink down a little bit.
+
+45 Annual Survey of Industries is published by
+a)  Ministry of Heavy Industries and Public Enterprises
+b)  Ministry of Statistics and Programme Implementation
+c)  Ministry of Commerce
+d)  Department of Industrial Policy and Promotion
+Answer: B
+ The Annual Survey of Industries (ASI) is the principal source of industrial statistics in India.
+The Survey is conducted annually under the statutory provisions of the Collection of
+Statistics Act 2008.
+The ASI extends to the entire country except the States of Arunachal Pradesh and
+Mizoram and Union territory of Lakshadweep. It covers all factories registered
+under the sections 2(m) (i) and 2(m) (ii) of the Factories Act 1948 i.e. those factories employing 10 or more workers using power; and those employing 20 or more workers without using power.
+
+46 Consider the following about the Interim Government (1946) of India, whose members were the members of the Viceroy's Executive Council.
+1.  The defence portfolio was held by the President of the Council.
+2.  There was no Health portfolio in the interim government.
+3.  External Affairs portfolio was managed by the Home Minister.
+Select the correct answer using the codes below
+a)  1 only
+b)  2 and 3 only
+c)  1 and 3 only
+d)  None of the above
+Answer: D
+ The Viceroy's Executive Council became the executive branch of the interim government.
+Originally headed by the Viceroy of India, it was transformed into a council of ministers, with the powers of a prime minister bestowed on the vice-president of the Council, a position held by Jawaharlal Nehru.
+Statement 1: Defense portfolio was held by Sardar Baldev Singh who was only a member of the council.
+Statement 2: Health portfolio existed and was held by Ghaznafar Ali Khan. Statement 3: External Affairs & Commonwealth Relations was held by Pandit
+Nehru, who was the Vice-President of the Council. Home, Information &
+Broadcasting portfolio was held by Sardar Vallabhbhai Patel.
+
+47 Consider the following about the United Nations Environment Programme (UNEP).
+1.  It is funded entirely by the Global Environment Facility (GEF).
+2.  It is a member of United Nations Development Group.
+3.  It published the report "Global Environment Outlook".
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1 and 3 only
+d)  1, 2 and 3
+Answer: B
+ Statement 1: It is not funded by the GEF, but member nations contribute substantially to it. It is in fact one of the several implementing agencies for the GEF.
+UNEP's main activities are related to:
+Climate change, including the Territorial Approach to Climate Change
+(TACC);
+Disasters and conflicts; Ecosystem management;
+Environmental governance; Harmful substances; and Resource efficiency.
+http://www.unep.org/geo/
+
+48 The Doha Development Round is associated with which of the following organizations?
+a)  World Bank
+b)  United Nations Development Programme
+c)  World Trade Organization
+d)  United Nations Economic and Social Council
+Answer: C
+ It is the current trade-negotiation round of the World Trade Organization
+(WTO) which commenced in 2001.
+Its objective is to lower trade barriers around the world, and thus facilitate increased global trade.
+Progress in negotiations stalled after the breakdown of the 2008 negotiations over disagreements concerning agriculture, industrial tariffs and non-tariff barriers, services, and trade remedies between some developed and developing nations.
+
+49 Which of the following are parts of the eight core industries in India?
+1.  Electricity
+2.  Fertilizer
+3.  Telecommunications
+4.  Steel
+5.  Textiles
+Select the correct answer using the codes below.
+a)  1, 2 and 4 only
+b)  1, 2, 4 and 5 only
+c)  3 and 5 only
+d)  1, 2, 3, 4 and 5
+Answer: A
+ There are eight Core Industries in India (with the Base:
+2004-05=100), six existing'basic/infrastructure industries' with two new additions i.e. Natural Gas and Fertilizer.
+Core Industries together have a combined weight of 37.90 per cent in the Index of
+Industrial Production (IIP).
+Individual percentages of them are - Coal (weight: 4.38%); Crude Oil (weight:
+5.22%); Natural Gas (weight: 1.71%); Petroleum refinery (weight: 5.94%); Fertiliser (weight: 1.25%); Steel (weight: 6.68%); Cement (weight: 2.41%); and Electricity (weight: 10.32%).
+
+50 'August Offer' of 1940 of the British government relates to
+a)  Appointment of a representative Constitution Making Body after the Second
+World War
+b)  Partition of India based on a referendum
+c)  Setting up provisional governments in the Princely states
+d)  Abolition of the system of communal electorates if India participated in the
+Second World War
+Answer: A
+ After the Congress ministries (in the Provinces) resigned in 1939, the
+British asked again for the support of the Congress in WW-II.
+Later in 1940, INC passed a resolution offering the British Government support in war, if a provisional National Government is setup at Centre.
+This was responded by Lord Linlithgow in the sort of a proposal which is called
+August Offer.
+The august Offer turned down the demand of the Congress to set up a national
+Government at the centre but proposed the following:
+A representative "Constitution Making Body" shall be appointed immediately
+after the war.
+The number of the Indians in the Viceroy's Executive council will be increased.
+A war advisory Council would be set up.
+The Congress did not approve the August Offer.
+
+51 Exercise Force Eighteen, one of the largest multi-national military exercises, is being conducted by India as part of its Look (Act) East policy. Which of these nations is/are NOT its participant(s)?
+1.  Pakistan
+2.  USA
+3.  China
+4.  Russia
+Select the correct answer using the codes below.
+a)  2 and 4 only
+b)  3 and 4 only
+c)  1 and 3 only
+d)  1 only
+Answer: D
+ Participating nations are: ASEAN countries along with ASEAN Plus nations viz. India, Australia, Japan, New Zealand, China, South Korea, Russia and US .
+
+10 ASEAN countries from South East Asia are Brunei, Cambodia, Laos, Indonesia, Malaysia, Myanmar, Philippines, Singapore, Thailand and Vietnam.
+It is the largest multinational ground forces exercise to be conducted on
+Humanitarian Mine Action (HMa) and Peace Keeping Operations (PKO).
+The multinational military exercise is an outcome of 2015 ADMM Plus (ASEAN Defence Ministers' Meeting).
+http://www.thehindubusinessline.com/news/five-things-to-watch-out-for-today/articl e8300314.ece
+
+52 Consider the following statements.
+1.  It made the Governor-General of Bengal as the Governor-General of India and vested all civil and military powers in him.
+2.  The Governor-General of India was given exclusive legislative powers for the entire
+British India.
+The provisions above were made in which of the following Acts?
+a)  Charter Act of 1833
+b)  Charter Act of 1853
+c)  Government of India Act of 1858
+d)  Pitt's India Act of 1784
+Answer: A
+ Statement 1: The act created, for the first time, a Government of India having authority over the entire territorial area possessed by the British in India. Lord William Bentick was the first governor-general of India.
+Statement 2: It deprived the governor of Bombay and Madras of their legislative powers. The Governor-General of India was given exclusive legislative powers for the entire British India. The laws made under the previous acts were called as Regulations while laws made under this act were called as Acts.
+Others: It ended the activities of the East India Company as a commercial body, which became a purely administrative body. It provided that the company's territories in India were held by it'in trust for His Majesty, His heirs and successors'.
+
+53 Which of the following is the single largest source of annual receipts for the government?
+a)  Interest receipts
+b)  Union Excise Duties
+c)  External Grants
+d)  Corporation Tax
+Answer: D
+ Please go through major items of receipts here
+Please go through major items of receipts here
+Major items of expenditure are here of which interest payments account for the most.
+http://indiabudget.nic.in/ub2016-17/bag/bag3.pdf
+
+54 The Supreme Court has declared which of the following rights as part of Article 21: Right to Life and Liberty?
+1.  Right to free legal aid
+2.  Right against delayed execution
+3.  Right to shelter
+4.  Right to decent environment
+5.  Right to livelihood
+Select the correct answer using the codes below.
+a)  2, 3 and 4 only
+b)  1, 3 and 5 only
+c)  2 and 4 only
+d)  1, 2, 3, 4 and 5
+Answer: D
+ Some other important rights under interpretation of Article 21 are:
+Right to health.
+Right to free education up to 14 years of age. Right to free legal aid
+Right against solitary confinement. Right to speedy trial.
+Right against handcuffing.
+Right against inhuman treatment.
+
+55 January 26 was specifically chosen as the 'date of commencement' of the Constitution because
+a)  It was on this day in 1930 that Purna Swaraj day was celebrated.
+b)  The members of the Constituent assembly appended their signatures to the
+Constitution of India on this date.
+c)  The Government of India Act 1935 was enacted on this date, which became the bedrock of the Indian constitution
+d)  The transfer of power from the British Crown to native Indian government
+took place on this date.
+Answer: D
+ It was chosen because of its historical importance.
+It was on this day in 1930 that Purna Swaraj day was celebrated, following the resolution of the Lahore Session (December 1929) of the INC.
+With the commencement of the Constitution, the Indian Independence Act of 1947 and the Government of India Act of 1935, with all enactments amending or supplementing the latter Act, were repealed.
+Option (b) is wrong as it happened on 24th January 1950
+
+56 An "Outcome Budget" is presented by each Ministry/Department in respect of all Demands/Appropriations controlled by them. Apart from financial outlays, the outcome budget covers which of the following under the Ministry/Department?
+1.  Scheme-wise analysis of physical performance
+2.  Review of performance of statutory and autonomous bodies under its administrative control
+3.  Reform measures within the Ministry/Department
+Select the correct answer using the codes below
+a)  1 only
+b)  2 and 3 only
+c)  1 and 3 only
+d)  1, 2 and 3
+Answer: D
+ Outcome Budget contains a brief introductory note on the organization and functions of the Ministry/Department, list of major programmes/schemes
+implemented by the Ministry/Department, its mandate, goal and policy framework, budget estimates, scheme-wise analysis of physical performance and linkage between financial outlays and outcome, review covering overall trends in expenditure vis-a-vis budget estimates in recent years, review of performance of statutory and autonomous bodies under the administrative control of the Ministry/Department, reform measures, targets and achievements and plans for future refinements.
+
+57 Which of the Acts passed by the British Parliament introduced an open competition system of selection and recruitment of civil servants in India before independence?
+a)  Charter Act of 1853
+b)  Indian Councils Act of 1861
+c)  Indian Councils Act of 1892
+d)  Charter Act of 1833
+Answer: A
+ It introduced an open competition system of selection and recruitment of civil servants.
+The covenanted civil service was thus thrown open to the Indians also.
+Accordingly, the Macaulay Committee (the Committee on the Indian Civil Service)
+was appointed in 1854.
+Before this the Charter Act of 1833 attempted to introduce a system of open competition for selection of civil servants, and stated that the Indians should not be debarred from holding any place, office and employment under the Company. However, this provision was negated after opposition from the Court of Directors.
+
+58 The right to property is a legal right and not a fundamental right. This has which of the following implications?
+1.  There is no guaranteed right to compensation in case of acquisition of a private property by the state.
+2.  It can be regulated without a constitutional amendment by an ordinary law of the
+Parliament.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: C
+ Statement 1: For e.g. the earlier Land Acquisition Act did not provide for resettlement and rehabilitation after the acquisition of private land by the state.
+Statement 2: Since it is a legal right, it can be curtailed by the Parliament through an ordinary law.
+Other implications are:
+It protects private property against executive action but not against legislative action.
+In case of violation, the aggrieved person cannot directly move the Supreme Court under Article 32 (right to constitutional remedies including writs) for its enforcement. He can move the High Court under Article 226.
+
+59 Consider the following about Atal Innovation Mission (AIM).
+1.  It is being setup under NITI Aayog.
+2.  It will fund start-ups.
+3.  It will provide free grants to all research institutions and organizations for any kind of research being done in India.
+Select the correct answer using the codes below
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1 and 3 only
+d)  1, 2 and 3
+Answer: A
+ It will provide funds to a network of institutions to conduct research on innovations that can improve economic growth and job creation. It will not fund all research institutions in India. So, 3 is wrong.
+The mission will also provide inputs to all central ministries on innovation and suggest a funding mechanism for result-oriented researchv
+SETU in NITI Aayog: PIB
+
+60 Cultural and educational rights given under Articles 29 and 30 of the Indian constitution imply
+1.  Minorities have the right to conserve their language and script.
+2.  Minorities have a fundamental right to receive financial support from the government to preserve their traditions.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: A
+ Statement 1: In the recent case of Niyamgiri Hills in Odisha, the SC ordered the MoEF to reconsider its decision to grant bauxite mining license to a mining company as it was affecting the local tribe's religious and cultural heritage. So, 1 is correct.
+Statement 2: Generally the government does support minorities. For e.g. Jains being a minority now receive land concessions from the government. However, obtaining such support is not their fundamental right. So, 2 is wrong.
+
+61 Consider the following statements.
+1.  It is the largest protected area in the Eastern Himalaya biodiversity hotspot.
+2.  The park harbours the northernmost lowland evergreen rainforests in the world.
+3.  The habitat changes with increasing altitude from tropical moist forests to Alpine meadows and perennial snow.
+4.  The park has extensive bamboo forests.
+The above refer to?
+a)  Namdapha National Park
+b)  Balpakram National Park
+c)  Nongkhyllem Wildlife Sanctuary
+d)  Nokrek National Park
+Answer: A
+ It is located in Arunachal Pradesh in Northeast India. It is also the third largest national park in India in terms of area. It is located in the Eastern Himalayan sub-region and is recognized as one of the richest areas in biodiversity in India
+The park is located between the Dapha bum range of the Mishmi Hills and the
+Patkai range.
+The habitat changes with increasing altitude from tropical moist forests to Montane forests, temperate forests and at the higher elevations, to Alpine meadows and perennial snow. The park has extensive bamboo forests and secondary forests in addition to the primary forests.
+
+62 Which of the following were introduced or provided for by the Government of India Act of 1919?
+1.  Bicameralism
+2.  Direct Elections
+3.  Central Public Service Commission
+4.  Autonomy to provincial legislatures to enact their budgets
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  1, 2 and 3 only
+c)  3 and 4 only
+d)  1, 2, 3 and 4 only
+Answer: D
+ Statement 1 & 2: It introduced, for the first time, bicameralism and direct elections in the country. Thus, the Indian Legislative Council was replaced by
+a bicameral legislature consisting of an Upper House (Council of State) and a Lower House (Legislative Assembly). The majority of members of both the Houses were chosen by direct election.
+Statement 3: It provided for the establishment of a public service commission. Hence, a Central Public Service Commission was set up in 1926 for recruiting civil servants.
+Statement 4: It separated, for the first time, provincial budgets from the Central budget and authorised the provincial legislatures to enact their budgets.
+
+63 Which of the following is the competent authority to change the name of any State of
+India?
+a)  Concerned State Legislature
+b)  Governor concerned
+c)  Parliament
+d)  Union Home Minister
+Answer: C
+ The Constitution authorizes the Parliament to form new states or alter the areas, boundaries or names of the existing states without their consent.
+The United Provinces was the first state to have a new name. It was renamed'Uttar
+Pradesh' in 1950. In 1969, Madras was renamed'Tamil Nadu'.
+
+64 Which of the following statements about Down's syndrome is INCORRECT?
+a)  It affects the intelligence of a person.
+b)  It is a genetic disorder.
+c)  It may cause death earlier than normal.
+d)  It causes neo-natal paralysis of body.
+Answer: D
+ It is a genetic disorder caused by the presence of all or part of a third copy of chromosome 21.
+It is typically associated with physical growth delays, characteristic facial features, and mild to moderate intellectual disability.
+For e.g. the average IQ of a young adult with Down syndrome can be 50, equivalent to the mental age of an 8- or 9-year-old child.
+The parents of the affected individual are typically genetically normal. The extra chromosome occurs by random chance.
+
+65 The Preamble to the Indian Constitution is based on the
+a)  Preamble of the Nehru Report produced in 1928
+b)  Prelude of the Government of India Act, 1935
+c)  'Objectives Resolution' adopted by the Constituent Assembly in 1946
+d)  'Outcome Paper' of the Lahore Session of the Indian National Congress,
+1930.
+Answer: C
+ 'Preamble' refers to the introduction or preface to the Constitution. It contains the summary or essence of the Constitution.
+The Preamble to the Indian Constitution is based on the'Objectives Resolution', drafted and moved by Pandit Nehru, and adopted by the Constituent Assembly. It has been amended by the 42nd Constitutional Amendment Act (1976), which added three new wordssocialist, secular and integrity.
+
+66 Some of the developed countries have started to boycott goods manufactured in developing countries using 'sweat labour' in addition to banning those manufactured by child labour. 'Sweat labour' implies goods produced by
+a)  Labourers trafficked from other nations
+b)  Labourers working in inhuman or unhealthy working conditions
+c)  Labour working in the unorganized sector which is not regulated by the state
+d)  Children of more than 14 years of age but less than 18 years
+Answer: B
+ Sweat labour means those who are employed for long hours, at low pay and in poor working conditions. This can be common for workers in many poor countries.
+It is also an ethical issue where arguments are forwarded from both sides justifying sweat labour or not.
+You can read about it here
+http://www.globalethicsnetwork.org/profiles/blogs/two-faces-of-economic-develop ment-the-ethical-controversy
+
+67 The higher the concentration of the mineral in rocks, the more economical it is to mine it. Which of the following processes help in the concentration of minerals on earth?
+1.  Hydrothermal deposits
+2.  Weathering
+3.  Water erosion
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 only
+c)  2 and 3 only
+d)  1, 2 and 3
+Answer: D
+ Statement 1: Hydrothermal deposits are produced when groundwater circulates to depth and heats up either by coming near a hot igneous body at depth or by circulating to great depth along the geothermal gradient.
+Such hot water can dissolve valuable substances throughout a large volume of rock. As the hot water moves into cooler areas of the crust, the dissolved substances are precipitated from the hot water solution.
+Statement 2: During chemical weathering and original body of rock is greatly reduced in volume by the process of leaching, which removes ions from the original rock. Elements that are not leached form the rock thus occur in higher concentration in the residual rock.
+Statement 3: The velocity of flowing water determines whether minerals are carried in suspension or deposited. For e.g. when the velocity of the water slows, large minerals or minerals with a higher density are deposited.
+
+68 The Indian Constitution establishes certain independent bodies like Election
+Commission of India, Union Service Public Commission, Comptroller and Auditor General of India. How does it secure their independence from the government?
+1.  The Government has no right to appoint or remove the chairman of these bodies.
+2.  These bodies are not financed from the Consolidated Fund of India.
+3.  These bodies are not legal entities like the government.
+4.  The government cannot take any action against these bodies or their office holders.
+Select the correct answer using the codes below.
+a)  3 and 4 only
+b)  1, 2 and 4 only
+c)  2 and 3 only
+d)  None of the above
+Answer: D
+Statement 1: The President appoints the CAG, CEC of India and
+Chairman of UPSC. So, 1 is wrong.
+Statement 2: The expenses of these bodies and their office holders e.g. CAG of
+India, are charged on the consolidated fund of India. So, 2 is wrong.
+Statement 3: They are legal entities and can be sued just as the government can be sued.
+Statement 4: The government can initiate disciplinary action against the office holders for malpractices, corruption etc. So, 4 is also wrong.
+The Constitution ensures the independence of these bodies through various provisions like security of tenure, fixed service conditions, expenses being charged
+on the Consolidated Fund of India, and so on.
+
+69 A cloudburst is an extreme amount of precipitation. It can be caused due to
+1.  Collision of heavy clouds with mountains
+2.  Mixing of warm air parcel with cooler air resulting in sudden condensation
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: C
+Apart from the conditions mentioned in the question:
+Cloud burst is actually a situation when the inter-molecular forces between the H2O molecules get very high due to the rapid decrease in the temperature or excess of electrostatic induction in the clouds causing the lighting to remain inside the cloud only, which causes hyperactive energy inside the cloud.
+The water molecules get denser and denser and get condensed but do not leave the cloud due to excess of electroforces.
+As the water concentration get higher and higher and so the weight gets heavier the water no longer is able to maintain force with the clouds and so they fall and it precipitates.
+
+70 Consider the following about Brent Crude which serves as a major benchmark price for purchases of oil worldwide.
+1.  It is extracted from North Sea.
+2.  It is high in sulphur content.
+3.  It is of higher density than any other crude oil variety.
+4.  It is included in the OPEC Reference Basket.
+Select the correct answer using the codes below.
+a)  1 only
+b)  2, 3 and 4 only
+c)  1 and 4 only
+d)  1, 2 and 3 only
+Answer: A
+Brent Crude is a major trading classification of sweet light crude oil that serves as a major benchmark price for purchases of oil worldwide.
+This grade is described as light because of its relatively low density, and sweet because of its low sulphur content. Brent Crude is extracted from the North Sea and comprises Brent Blend, Forties Blend, Oseberg and Ekofisk crudes.
+OPEC Basket, is a weighted average of prices for petroleum blends produced by
+OPEC countries.
+The OPEC Basket, including a mix of light and heavy crudes, is heavier than both
+Brent crude oil, and West Texas Intermediate crude oil.
+
+71 Heavy Water has applications as
+1.  Catalyst in Fusion reactions
+2.  Moderator in a Nuclear Reactor
+3.  Neutrino Detector
+Select the correct answer using the codes below.
+a)  3 only
+b)  1 and 2 only
+c)  2 and 3 only
+d)  1, 2 and 3
+Answer: C
+Statement 2: The details are technical to discuss here. But, the Sudbury Neutrino Observatory uses heavy water as the detecting medium for neutrino.
+Statement 3: Heavy water is used in certain types of nuclear reactors, where it acts as a neutron moderator to slow down neutrons so that they are more likely to react
+with the fissile uranium-235 than with uranium-238, which captures neutrons without fissioning.
+
+72 Which of the following most appropriately explains the system of 'diarchy' introduced by the Government of India Act of 1919?
+a)  There was a division of control of the Government of India between the
+British Secretary of State and the Viceroy
+b)  Administration of India was divided between Central and provincial governments
+c)  Both the official and non-official councils of Governor-General got the right to issue ordinances
+d)  None of the above
+Answer: D
+ The Act divided the provincial subjects into two parts-transferred and reserved.
+The transferred subjects were to be administered by the governor with the aid of ministers responsible to the legislative Council.
+The reserved subjects, on the other hand, were to be administered by the governor and his executive council without being responsible to the legislative Council.
+This dual scheme of governance was known as 'diarchy'-a term derived from the
+Greek word di-arche which means double rule. However, this experiment was largely unsuccessful. 
+
+73 Which of the following most appropriately describes INS Arihant?
+a)  It is India's largest aircraft carrier.
+b)  It is India's first indigenously built nuclear armed submarine.
+c)  It is Indian Navy's first ground borne surveillance system.
+d)  None of the above
+Answer: B
+It is a 6,000-tonne nuclear powered submarine and is more than 100 metre long.
+It is powered by a pressurised light water reactor built with Russia's help. This reactor generates tremendous heat, driving a steam turbine
+Presently, Indian Navy operates the INS Chakra, a nuclear-powered submarine which is leased for 10 years from Russia in 2012.
+
+74 Which of the following was/were associated with Thomas Macaulay?
+1.  Minutes on Indian Education
+2.  Draft of Indian Penal Code
+3.  Draft of first Indian Forest Policy
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  1 and 3 only
+c)  2 and 3 only
+d)  1, 2 and 3
+Answer: A
+You can read about statement 1 here
+http://www.languageinindia.com/april2003/macaulay.html#minute
+The IPC was drafted in 1860 on the recommendations of first law commission of India established in 1834 under the Government of India Act 1833 under the Chairmanship of Thomas Babington Macaulay.
+
+75 If the difference between the Gross Domestic Product (GDP) and Net Domestic Product
+(NDP) is very less for an economy, what can it imply?
+a)  The economy is growing at a very slow rate.
+b)  The economy can be technologically advanced.
+c)  The economy has low natural resource base.
+d)  Foreign investments form a major chunk of investments in the economy.
+Answer: B
+ NDP = GDP - Depreciation
+So it is basically the GDP minus the total value of the 'wear and tear' (depreciation)
+that happened in the assets while the goods and services were being produced.
+The governments of the economies decide and announce the rates by which assets depreciate (done in India by the Ministry of Commerce and Industry) and a list is published, which is used by the different sections of the economy to determine the real levels of depreciations in different assets.
+So, if the depreciation levels are low, it may show the achievements of the economy in the area of research and development which have tried cutting the levels of depreciation in a historical time period.
+
+76 Yielding the floor in Indian Parliament is related to
+a)  Passing between the member addressing the House and the Chair which is considered breach of Parliamentary etiquette.
+b)  A Member raising a discussion on topics different from the business schedule of the house
+c)  Termination of a sitting of the House without any definite date being fixed for the next sitting.
+d)  None of the above
+Answer: D
+ Option (a) is called "Crossing the floor". Option (b) is called adjournment motion.
+Option (c) is called adjournment sine dine.
+You can see important parliamentary terms here
+http://rajyasabha.nic.in/rsnew/parliamentary_term/important_partliament_term.asp
+Yielding the floor means the Speaker can ask a member of the House to stop speaking and let another member speak.
+
+77 The British Government announced the appointment of a seven-member statutory
+Simon commission in 1927 to
+a)  Study and report on Constitutional reforms in India
+b)  Review the working of bureaucracy in India
+c)  Propose amendments in educational reforms made by Wood's despatch, 1854
+d)  Report on land revenue policy of the British government in India
+Answer: A
+ The topic has been covered in previous 
+All the members of the commission were British and hence, all the parties boycotted the commission.
+The commission submitted its report in 1930 (Recommendations have been covered in previous 
+To consider the proposals of the commission, the British Government convened three round table conferences of the representatives of the British Government, British India and Indian princely states.
+On the basis of these discussions, a 'White Paper on Constitutional Reforms' was prepared and submitted for the consideration of the Joint Select Committee of the British Parliament.
+The recommendations of this committee were incorporated (with certain changes) in the next Government of India Act of 1935.
+
+78 Consider the following statements regarding the Chakiarkoothu form of dance.
+1.  It is from Kerala.
+2.  The performer narrates episodes from Hindu epics and Puranas.
+3.  It is a solo performance.
+4.  Mizhavu is the accompanying instrument.
+5.  It is performed in the Koothambalam.
+Select the correct answer using the codes below.
+a)  1, 2 and 4 only
+b)  1 and 5 only
+c)  2, 3 and 4 only
+d)  1, 2, 3, 4 and 5
+Answer: D
+ It is performed in the Koothambalam; a place inside Hindu temples specifically designed for performing Kutiyattam and Chakyar Koothu. Ideally, the performance takes place in conjunction with festivals, presented by members of the Chakyar community along with the Ambalavasi Nambiars.
+It is a solo performance, by a narrator in a distinctive headgear and black moustache with his torso smeared with sandalwood paste and red dots all over the body. The headgear resembles snake's hood, to symbolise the narration by Anantha, the thousand headed serpent.
+
+79 The first Parliament in the world to completely run on solar power is of
+a)  USA
+b)  Pakistan
+c)  Israel
+d)  China
+Answer: B
+ The project to run parliament building on solar power is a venture supported by Pakistan's close ally and strategic partner China.
+It is a bicameral legislature that consists of the Senate (upper house) and the
+National Assembly (lower houses).
+Currently, there some parliaments in world like Israel's Knesset that partly run on solar power.
+http://indianexpress.com/article/world/world-news/pakistan-parliament-solar-power- nawaz-sharif/
+
+80 The Roaring Forties are strong westerly winds found in the Southern Hemisphere. They are caused due to
+1.  Air being displaced from the Equator towards the South Pole
+2.  Earth's rotation
+3.  Equatorial counter-currents
+4.  Thermal dipole created in the Pacific Ocean
+Select the correct answer using the codes below.
+a)  1, 3 and 4 only
+b)  2 and 3 only
+c)  1 and 2 only
+d)  1, 2, 3 and 4
+Answer: C
+Hot air rises at the Equator and is pushed towards the poles by cooler air travelling towards the Equator (an atmospheric circulation feature known as the Hadley Cell).
+At about 30 degrees from the equator, the outward-travelling air sinks to lower altitudes, and continues toward the poles closer to the ground (the Ferrel Cell), then rises up again from about 60 degrees as the air joins the Polar vortex.
+This travel in the 30 to 60 degree zone combines with the rotation of the earth to move the air currents from west to east, creating westerly winds.
+
+81 The Government of India Act of 1935 marked a major milestone towards establishing a
+'responsible government' in India. What do you understand by 'responsible government' in this context?
+a)  The Governor was required to act with the advice of ministers responsible to the provincial legislature.
+b)  Government of India took major steps in promoting the welfare of vulnerable sections of Indian population
+c)  The Viceroy, Governor and Ministers would conduct themselves strictly based on laws
+d)  Bureaucracy will act as per the instructions of the elected representatives
+instead of the Governor and Viceroy
+Answer: A
+Responsible government is a system which embodies the principle of parliamentary accountability, such as in India.
+It is also the foundation of the Westminster system of parliamentary democracy. Government is responsible to the parliament rather than to the monarch, or, in a
+colonial context, to the imperial government.
+If the parliament is bicameral, then the government is responsible first to the parliament's lower house, which is more numerous, directly elected and thus more representative than the upper house.
+
+82 The August Movement of 1942 in India relates to
+a)  Peasant revolts against Zamindars in tribal areas
+b)  Uprising of Bhils against outsiders which were assimilated in the national movement.
+c)  Agitation by Indian National Army in Burma which then staged march towards India
+d)  None of the above
+Answer: D
+ It was the Quit India Movement.
+In 1939 Indian nationalists were angry that British Governor-General of India, Lord Linlithgow, had without consultation with them brought India into the war. The Muslim League supported the war, but Congress was divided.
+Thus, the All-India Congress Committee after the failure of the Cripps Mission launched a mass pro
+
+83 Mekong-Ganga Cooperation Project is
+a)  A security agreement between India and ASEAN
+b)  A bilateral investment agreement involving India and Myanmar
+c)  A joint border demarcation exercise of East Asian countries and India
+d)  Cooperation in tourism, culture, education, and transportation linkages between India and some East Asian nations
+Answer: D
+ It was established in 2000 at Vientiane at the First MGC Ministerial
+Meeting.
+It comprises six member countries, namely India, Thailand, Myanmar, Cambodia, Laos and Vietnam.
+They emphasised four areas of cooperation, which are tourism, culture, education, and transportation linkage in order to be solid foundation for future trade and investment cooperation in the region.
+In the la
+
+84 The Prayag Assembly convened by Harshavardhana is best known for being
+a)  An assembly of universal character for offerings of royal charities to all classes of people
+b)  An assembly for compilation of all major teachings of Buddhism
+c)  A meeting of all literary gems in Harsha's Kingdom for showcasing the finest literature produced during the reign of Harsha
+d)  A consortium of all merchants from major Kiingdoms to promote trade
+between Kingdoms
+Answer: A
+ In the year 643 A.D., Harsha held a great religious assembly in his capital at Kanauj on the bank of the river Ganges. The purpose of the assembly was to highlight the teachings of Buddha.
+The Kanauj Assembly was followed by another spectacular assembly at Prayaga in the same year.
+While the Kanauj Assembly was a religious assembly to highlight Mahayanism, the Prayaga Assembly was an assembly of universal character for offerings of royal charities to all classes of people.
+It was known as the Maha Moksha Parishud. Harsha was at his best in the Prayaga Assembly as a generous monarch and an admirer of all the major faiths of his country.
+
+85 Apart from framing the Constitution and enacting ordinary laws, the Constituent
+Assembly also
+1.  Ratified India's membership of the Commonwealth
+2.  Adopted the national flag and anthem
+3.  Elected the first President of India
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1 and 3 only
+d)  1, 2 and 3
+Answer: D
+The Constituent Assembly also performed the following functions:
+It ratified the India's membership of the Commonwealth in May 1949. It adopted the national flag on July 22, 1947.
+It adopted the national anthem on January 24, 1950. It adopted the national song on January 24, 1950.
+It elected Dr Rajendra Prasad as the first President of India on January 24,
+
+1950.
+
+86 The Sethusamudram Shipping Canal Project involves digging a long deepwater channel linking the
+a)  Palk Strait with the Gulf of Mannar
+b)  Lakshadweep Islands with Northern provinces of Sri Lanka
+c)  Kanyakumari Lagoons to the lagoons in Northern provinces of Sri Lanka
+d)  Adam's bridge and Ramanam Isthmus
+Answer: A
+ It is a proposed project to create a shipping route in the shallow straits between India and Sri Lanka.
+This would provide a continuously navigable sea route around the Indian Peninsula. The channel would be dredged in the Sethusamudram sea between Tamil Nadu and Sri Lanka, passing through the limestone shoals of Adam's Bridge (also known as Rama's Bridge or Ram Sethu)
+It will dig a long deepwater channel linking the shallow Palk Strait with the Gulf of
+Mannar.
+
+87 Which of the following represents India at the IMF?
+a)  An Executive Director nominated by the government
+b)  Union Finance Secretary
+c)  Head of the largest Public Sector Bank (PSB)
+d)  Finance Minister
+Answer: A
+Finance Minister is the ex-officio Governor on the Board of Governors of the IMF.
+RBI Governor is the Alternate Governor at the IMF.
+India is represented at the IMF by an Executive Director, who also represents three other countries as well, viz. Bangladesh, Sri Lanka and Bhutan.
+http://timesofindia.indiatimes.com/business/india-business/Subir-Gokarn-appointed- executive-director-at-IMF/articleshow/49759280.cms
+
+88 The historian Barani refused to consider the state in India under Delhi Sultans as truly
+Islamic because
+1.  The Muslims theologists did not decide or dictate state policy.
+2.  The Sultan supplemented the Muslim law by framing his own regulations
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: C
+The state under the Delhi sultan was Islamic only in a formal sense.
+This means that the sultans did not allow any open violation of the Islamic law and appointed Muslim divines to profitable offices of state and granted them revenue- free lands.
+But the sultans did not allow the Muslim divines to dictate the policy of the state. though they could not rule in complete disregard of the views and wishes of these theologians.
+And also the sultans had to supplement the Muslim law by framing their own regulations. That is why, the contemporary historian. Barani, refused to consider the state in India as truly Islamic, but one based on worldly or secular considerations (jahandan).
+
+89 The Constitution of India establishes a federal system of government. It contains all the usual features of a federation which are?
+1.  Division of powers between Central and Regional governments
+2.  Flexibility of the Constitution
+3.  Independent Judiciary
+4.  All-India Services
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 and 4 only
+c)  1 and 3 only
+d)  1, 2 and 3 only
+Answer: C
+ The usual features of a federation, viz., two government, division of powers, written Constitution, supermacy of Constitution, rigidity of Constitution, independent judiciary and bicameralism.
+However, the Indian Constitution also contains a large number of unitary or non- federal features, viz., a strong Centre, single Constitution, single citizenship, flexibility of Constitution, integrated judiciary, appointment of state governor by the Centre, all-India services, emergency provisions, and so on.
+
+90 Launching an artificial satellite in which of the following ways would save effort?
+1.  Launching it from equator instead of poles
+2.  Launching it in eastward direction instead of westward direction
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: C
+Statement 1: Radius on poles is smaller than its radius on equators. The away we move from centre of earth, lower is the gravitational force and this is the reason that the gravitational pull is minimum at Equator. So, Equator or the
+places near to equator are found suitable for launching the satellites as it will save
+efforts.
+Statement 2: Earth rotes from west to east, the satellites are launched in Eastward direction so that the speed of earth's rotation which comes nearly 462 meters per second will provide it additional push.
+
+91 The writ of Certiorari is issued by
+a)  A higher court to a lower court or tribunal
+b)  Judiciary to the executive
+c)  Judiciary to the legislature
+d)  A higher court to its officers
+Answer: A
+ It is issued by a higher court to a lower court or tribunal either to transfer a case pending with the latter to itself or to squash the order of the latter in a case. It is issued on the grounds of excess of jurisdiction or lack of jurisdiction or error of law.
+Thus, unlike prohibition, which is only preventive, certiorari is both preventive as well as curative.
+Certiorari is not available against legislative bodies and private individuals or bodies.
+
+92 Dalhousie's chief aim was the consolidation of British rule in India for which he adopted the principle of centralization. For the newly acquired territories he devised the
+'Non-Regulation System" under which
+a)  Commissioners were appointed to deal with the administrative problems.
+b)  All finances were to be regulated by the Governor General.
+c)  No authority in India could frame regulations on its own for new territories and had to rely on orders of the British Crown.
+d)  The British would remain away from administrative affairs of the new
+territories and instead regulate them by subsidiary alliance.
+Answer: A
+ These commissioners were made responsible to the Governor-General in the Council. He handed over all other powers relating to justice, police, and land revenue to the District Magistrates.
+Dalhousie also made provision for the appointment of a Lieutenant Governor of Bengal. By the Parliamentary Act of 1853, the Governor-General was relieved of his functions as the governor of Bengal.
+
+93 Sannyasi Rebellion refers to
+a)  Displaced peasants and demobilized soldiers of Bengal being led by religious monks and dispossessed zamindars against the British
+b)  Sanyasis rising in objection to the regulation of religious practices by the
+British
+c)  Dispossessed Zamindars going on hunger and water strikes due to illegitimate annexation of agricultural land by the state
+d)  The activities of an organized group of Sannyasis who resorted to print and
+mass media for exposing the British
+Answer: A
+Displaced peasants and demobilized soldiers of Bengal led by religious monks and dispossessed zamindars were the first to rise up in the Sanyasi rebellion, made famous by Bankim Chandra Chatterjee in his novel Anand Math, that lasted from 1763 to 1800.
+It was followed by the Chuar uprising which covered five districts of Bengal and
+Bihar from 1766 to 1772 and then, again, from 1795 to 1816. Read this to know more about the rebellion.
+https://en.wikipedia.org/wiki/Sannyasi_Rebellion#Early_events
+
+94 The people of Satara rose in revolt under Dhar Rao in 1840 because
+a)  British imposed very high land taxes on peasants.
+b)  The popular ruler of Satara was deposed and banished by the British.
+c)  All fertile land in the village was confiscated by the British.
+d)  Satara forests were dismantled and a new order of administration was
+imposed.
+Answer: B
+You should know about these two important uprisings.
+Koli Rising: The Kolis, the neighbours of the Bhils, also resented the imposition of British rule, dismantlement of their forests and the new order of administration and caused widespread employment. The Kolis rose in rebellion in 1829, in 1839 and once again during 1844-1848.
+Satara revolt: The people of Satara rose in revolt under Dhar Rao in 1840, because the popular ruler of Satara Pratap Singh was deposed and banished by the British. Narsing Patekar led revolt in 1844. He was defeated and captured by the British.
+Bhil Rising in 1817-1819: The Bhils, an aboriginal tribe of Western Ghats with their strongholds in Khandesh, revolted against their new master, the English East India Company, fearing agrarian hardships under the new regime. The British crushed the revolt.
+
+95 The guarantor of the fundamental rights of the Indian citizens is the
+a)  President of India
+b)  Parliament
+c)  Supreme Court of India
+d)  National Human Rights Commission
+Answer: C
+ The Supreme Court is a federal court, the highest court of appeal, the guarantor of the fundamental rights of the citizens and the guardian of the
+Constitution.
+Under Article 32 of the constitution, a citizen can approach the Supreme Court in case of infringement of fundamental rights.
+The SC can enforce the fundamental right by issuing orders to the concerned authority.
+NHRC only investigates cases of human rights violations; it is not the guarantor of fundamental rights.
+
+96 The constitution describes which of the following as fundamental in the governance of the country?
+a)  Preamble
+b)  Directive Principles of State Policy
+c)  Fundamental Rights
+d)  Fundamental Duties
+Answer: B
+The Constitution (Article 37) itself says that these principles are fundamental in the governance of the country and it shall be the duty of the State to apply these principles in making laws.
+Options (a) can be eliminated as it contains largely values to be achieved. Option (d) is more about the code of conduct expected of a citizen.
+
+97 Consider the following statements with regard to the Indian capitalist class in the Indian national movement:
+1.  It preferred mass civil disobedience as opposed to the constitutional forms of struggle.
+2.  It was against the ideology of imperialism.
+Which of these is/are true?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  None
+Answer: C
+ The Indian capitalist class had its own notions of how the anti- imperialist struggle ought to be waged.
+It was always in favour of not completely abandoning the constitutional path and the negotiating table and generally preferred to put its weight behind constitutional
+forms of struggle as opposed to mass civil disobedience. So, 1 is correct. This was due to several reasons.
+First, there was the fear that mass civil disobedience, especially if it was prolonged, would unleash forces which could turn the movement revolutionary in a social sense (i.e., threaten capitalism itself).
+Second, the capitalists were unwilling to support a prolonged all-out hostility to the government of the day as it prevented the continuing of day-to-day business and threatened the very existence of the class.
+
+98 Special drawing rights can be used to
+1.  Settle Balance of Payment transactions
+2.  Augment Foreign Exchange Reserves
+3.  Fund infrastructure projects
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1 and 3 only
+d)  1, 2 and 3
+Answer: A
+It cannot be used to fund infrastructure projects as it is not a currency.
+In some international treaties and agreements, XDRs are used to value penalties, charges or prices.
+The Montreal Convention and other treaties also use XDRs in this way.
+It also forms a part of India's Forex reserves. However, the contribution is relatively small when compared to currency reserves of foreign nations.
+
+99 Consider the following statements about General Anti-Avoidance Rules (GAAR):
+1.  It applies to indirect taxes only.
+2.  It will be applicable only when one of the main purposes of the transaction is to avoid taxes.
+Which of these is/are true?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: B
+ In India, the proposed Direct Tax Code 2010 (DTC 2010 or Code) seeks to address the issues relating to tax avoidance and evasion by bringing in General Anti-Avoidance Rules (GAAR) in addition to various transaction-specific Special Anti-Avoidance provisions.
+However, where tax benefit is to be considered as the sole criterion (as is currently recognized under the proposed new Code) for determining tax avoidance, such a provision may undermine the common denominator in determination of a tax avoidance scheme, i.e., the principle that though the taxpayer is free to choose the most tax efficient method, the commercial justification for the choice taken and tax consideration (benefit) is not the only reason.
+
+100 The "National treatment" policy advocated by the World Trade Organization (WTO)
+means
+1.  Imported goods should be treated no less favorably than domestically produced goods.
+2.  Foreign companies must enjoy the same funding and protection by the government
+as domestic industries.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: A
+Statement 1: This was introduced to tackle non-tariff barriers to trade (e.g. technical standards, security standards et al. discriminating against imported goods).
+Statement 2: There are certain limits on supporting domestic industry so that it does not harm the interest of the foreign companies operating in a nation. However, no clause states that they should enjoy the same funding and protection by the government as domestic industries.

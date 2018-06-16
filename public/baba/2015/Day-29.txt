@@ -1,0 +1,185 @@
+1. Consider the following
+1. Melting of Iron metal
+2. Rusting of Iron
+3. Bending of iron rod
+4. Drawing a wire of iron metal
+Which of the following are the examples of Physical Changes? 
+1. 1, 2 and 3
+2. 1, 2 and 4
+3. 1, 2, 3 and 4
+4. 1, 3 and 4
+Answer:  4
+NCERT-class 9 th
+Rusting is a chemical change
+
+2. A goalkeeper in a game of football pulls his hands backwards after holding the ball shot at the goal. This enables the goal keeper to
+1. exert larger force on the ball
+2. reduce the force exerted by the ball on hands
+3. increase the rate of change of momentum
+4. decrease the rate of change of momentum
+Answer:  2
+NCERT- 9 th science- chapter 9
+
+3. A boy is whirling a stone tied with a string in a horizontal circular path. If the string breaks, the stone
+1. will continue to move in the circular path
+2. will move along a straight line towards the centre of the circular path
+3. will move along a straight line tangential to the circular path
+4. will move along a straight line perpendicular to the circular path away from the boy
+Answer:  3
+Before the thread is released, the stone moves in a circular path with a certain speed and changes direction at every point. The change in direction involves change in velocity or acceleration. The force that causes this acceleration and keeps the body moving along the circular path is acting towards the centre. This force is called the centripetal (meaning 'centre-seeking') force. In the absence of this force, the stone flies off along a straight line.  This straight line will be a tangent to the circular path (NCERT- Class 9
+
+4. Consider the following
+1. Jellyfish
+2. Dogfish
+3. Starfish
+4. Silverfish
+5. Lionfish
+Which of the above are TRUE FISH? 
+1. 1, 3, 4 and 5
+2. 3, 4 and 5
+3. 2, 3 and 4
+4. 2 and 5
+Answer:  4
+The strict biological definition of a fish, above, is sometimes called a true fish. True fish are also referred to as finfish or fin fish to distinguish them from other aquatic life harvested in fisheries or aquaculture NCERT- Class 9 th - Chapter 7
+
+5. A change in the physical state can be brought about
+1. only when energy is given to the system
+2. only when energy is taken out from the system
+3. when energy is either given to, or taken out from the system
+4. without any energy change
+Answer:  3
+NCERT- 9 th , Chapter 3
+
+6. Two chemical species X and Y combine together to form a product P which contains both X and Y
+X + Y =P
+X and Y cannot be broken down into simpler substances by simple chemical reactions.
+Which of the following concerning the species X, Y and P are correct?
+1. P is a compound
+2. X and Y are compounds
+3. X and Y are elements
+4. P has a fixed composition
+Select the correct codes
+1. 1,  2 and 3
+2. 1, 2 and 4
+3. 2, 3 and 4
+4. 1, 3 and 4
+Answer:  4
+Since X and Y cannot be broken down into simpler substances by simple chemical reactions, they are not COMPOUNDS NCERT- 9 th , Chapter 2
+
+7. Consider the following
+1. Evaporation of gas
+2. Compression of the gas
+3. Solubility of Gas
+4. Expansion of the gas
+5. Diffusion of gas
+Which of the above phenomenon (in liquid medium) will increase with the increase in Temperature? 
+1. 1, 2, 3, 4 and 5
+2. 1,  4 and 5
+3. 1, 3, 4 and 5
+4. 2, 4 and 5
+Answer:  2
+NCERT- Class 9 th , Chapter 1
+In understanding the effects of temperature on the solubility of gases, it is first important to remember that temperature is a measure of the average kinetic energy. As temperature increases, kinetic energy increases. The greater kinetic energy results in greater molecular motion of the gas particles. As a result, the gas particles dissolved in the liquid are more likely to escape to the gas phase and the existing gas particles are less likely to be dissolved.  The converse is true as well. The trend is thus as follows: increased temperatures mean lesser solubility and decreased temperatures mean higher solubility.  Le Chatelier's principle allows better conceptualization of these trends. First, note that the process of dissolving gas in liquid is usually exothermic. As such, increasing temperatures result in stress on the product side (because heat is on the product side). In turn, Le Chatelier's principle predicts that the system shifts towards the reactant side in order to alleviate this new stress. Consequently, the equilibrium concentration of the gas particles in gaseous phase increases, resulting in lowered solubility.  Conversely, decreasing temperatures result in stress on the reactant side (because heat is on the product side). In turn, Le Châtelier's principle predicts that the system shifts toward the product side in order to compensate for this new stress. Consequently, the equilibrium concentration of the gas particles in gaseous phase would decrease, resulting in greater solubility.
+
+8. Consider the following
+1. Water, air, wind
+2. Air, sugar, oil
+3. Oxygen, water, sugar
+4. Salt, juice, air
+Above substances are arranged in the increasing order of 'forces of attraction'  between their particles. Which one of them represents a correct arrangement? 
+1. Water, air, wind
+2. Air, sugar, oil
+3. Oxygen, water, sugar
+4. Salt, juice, air
+Answer:  3
+NCERT- Class 9 th , chapter 1
+
+9. Choose the correct statement of the following
+1. Conversion of solid into vapours without passing through the liquid state is called vapourisation.
+2. Conversion of vapours into solid without passing through the liquid state is called sublimation.
+3. Conversion of vapours into solid without passing through the liquid state is called freezing.
+4. Conversion of solid into liquid is called sublimation
+Answer:  2
+NCERT-9 th , Chapter 1
+
+10. Weeds affect the crop plants by
+1. killing of plants in field before they grow
+2. dominating the plants to grow
+3. competing for various resources of crops (plants) causing low availability of nutrients
+Select the correct choice
+1. 1, 2 and 3
+2. Only 2
+3. Only 3
+4. Only 1
+Answer:  3
+NCERT- Class 9 th , chapter 15
+
+11. Consider the following
+1. Electricity
+2. Coal
+3. Cement
+4. Fertilizers
+5. Steel
+Out of the core industries given, arrange them (increasing order) according to their weight in Index of Industrial Production (IIP)
+1. 1-5-2-3-4
+2. 1-3-4-2-5
+3. 4-1-2-5-3
+4. 4-3-2-5-1
+Answer:  4
+1. Electricity- 10.32
+2. Coal- 4.38
+3. Cement- 2.41
+4. Fertilizers- 1.25
+5. Steel- 6.68
+
+12. Consider the following
+1. Reducing the number of documents for import
+2. E-Biz Project
+3. Decentralization of Federalism
+4. Skill Development Initiatives
+Which of the above will accrue to more strong industrial growth of India? 
+1. 1, 2, 3 and 4
+2. 2, 3 and 4
+3. 1, 3 and 4
+4. 1, 2 and 4
+Answer:  2
+Export rather than import (reduction in number of documents) will provide strength to Indian industries.
+
+13. A new scheme, the 'Deendayal Upadhyaya Gram Jyoti Yojana' (DDUGJY), has been launched with the objectives of
+1. Merging agriculture and non-agriculture feeders to facilitate distribution companies (discoms) in the judicious fostering of supply to agricultural and non-agricultural consumers.
+2. Metering in Urban Areas
+3. Private sector discoms are eligible to have financial support
+Select the correct choice
+1. 1, 2 and 3
+2. Only 2
+3. Only 3
+4. 1 and 3
+Answer:  3
+Separating agriculture and non-agriculture feeders to facilitate distribution companies (discoms) in the judicious fostering of supply to agricultural and non-agricultural consumers and metering is to be done in rural areas (objective)
+
+14. Which of the following are Sedimentary Basins of India?
+1. Kashmir valley
+2. Jaisalmer
+3. Cambay
+4. Gondwana
+Select the correct choice
+1. 1, 2 and 3
+2. 2, 3 and 4
+3. 1, 2, 3 and 4
+4. 1, 3 and 4
+Answer:  3
+All are sedimentary Basins
+
+15. Which of the following schemes will promote Urban Infrastructure?
+1. Swatch Bharat Abhiyan
+2. Smart City Scheme
+3. Bharat Nirman
+4. Indira Awas Yojana
+5. HRIDAY
+Select the correct code
+1. 1, 3 and 4
+2. 2, 4 and 5
+3. 1, 2 and 5
+4. All
+Answer:  3
+Bharat Nirman and IAY- Rural infrastructure schemes

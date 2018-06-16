@@ -1,0 +1,218 @@
+1. Consider the following with respect to fundamental forces on Earth
+1. The range of Gravitational and Electromagnetic Force are almost equal in nature.
+2. Gravitational Force is a strong force as compared to Weak Nuclear force.
+Select the correct statement/s
+1. Only 1
+2. Only 2
+3. Both
+4. None
+Answer: (1)
+Explanation:
+Range of Gravitational Force- Infinite
+Range of Electromagnetic Force- Infinite
+Strength of Gravitational Force- 10^-36
+Strength of Weak Nuclear Force- 10^-13
+
+2.  Consider the following statements
+1. Law of Gravitation at the Moon is One-Sixth that at the Earth.
+2. Acceleration due to gravity is the same both on the Moon and the Earth.
+Select the correct statement/s
+1. Only 1
+2. Only 2
+3. Both
+4. None
+Answer: (4)
+Explanation:
+The laws of nature are the same everywhere in the universe. The acceleration due to gravity at the moon is one-sixth that at the earth, but the law of gravitation is the same both on the moon and the earth.)
+
+3. It is said that Ancient Indian science had contributed significantly in various aspects of scientific advancement. Consider the following with respect to the development of science in Ancient India
+1. The difference between Wave and Current was fully understood in Ancient Indian science.
+2. Ancient scientists were able to distinguish between various types of rotational, translational and vibrational motions.
+Select the correct code/s
+1. Only 1
+2. Only 2
+3. Both
+4. None
+Answer: (3)
+Explanation:
+Ideas on Motion in Ancient Indian Science Ancient Indian thinkers had arrived at an elaborate system of ideas on motion. Force, the cause of motion, was thought to be of different kinds: force due to continuous pressure (nodan), as the force of wind on a sailing vessel; impact (abhighat), as when a potter's rod strikes the wheel; persistent tendency (sanskara) to move in a straight line (vega) or restoration of shape in an elastic body; transmitted force by a string, rod, etc. The notion of (vega) in the Vaisesika theory of motion perhaps comes closest to the concept of inertia.  Vega, the tendency to move in a straight line, was thought to be opposed by contact with objects including atmosphere, a parallel to the ideas of friction and air resistance. It was correctly summarised that the different kinds of motion (translational, rotational and vibrational) of an extended body arise from only the translational motion of its constituent particles. A falling leaf in the wind may have downward motion as a whole (patan) and also rotational and vibrational motion (bhraman, spandan), but each particle of the leaf at an instant only has a definite (small) displacement. There was considerable focus in Indian thought on measurement of motion and units of length and time. It was known that the position of a particle in space can be indicated by distance measured along three axes.  Bhaskara (1150 A.D) had introduced the concept of 'instantaneous motion' (tatkaliki gati), which anticipated the modern notion of instantaneous velocity using Differential Calculus.  The difference between a wave and a current (of water) was clearly understood; a current is a motion of particles of water under gravity and fluidity while a wave results from the transmission of vibrations of water particles
+
+4. Amongst the following, the examples of 'Contact Forces' are
+1. Electromagnetic Force
+2. Gravitational Force
+3. Frictional Force
+4. Air resistance
+5. Viscous Force
+Select the correct code
+1. 1,3,4 and 5
+2. 1, 2 and 3
+3. 3, 4 and 5
+4. 1, 2, 4 and 5
+Answer: (3)
+Explanation:
+Contact force is the force in which an object comes in contact with another object. Contact forces are also direct forces. Contact forces are a something that pull on it. Contact forces are ubiquitous and are responsible for most visible interactions between macroscopic collections of matter. The most common instances of this include friction, normal force, and tension A non-contact force is a force applied to an object by another body that is not in direct contact with it. The most familiar example of a non-contact force is weight. All four known fundamental interactions are non-contact forces. Contact forces arise also when solids are in contact with fluids. For example, for a solid immersed in a fluid, there is an upward bouyant force equal to the weight of the fluid displaced. The viscous force, air resistance, etc are also examples of contact forces
+
+5. Carbohydrates are vital source of energy for any living organism. Consider the following with respect to various types of energy resources in plants and animals.
+1. Glycogens are solely coming from animals, specifically made by the liver and the muscles, while the starch solely comes from the green plants and staple foods like potatoes and cassavas.
+2. Cellulose occurs exclusively in plants and it is the most abundant organic substance in plant kingdom.
+3. Human store glucose as Starch as well as Gycogens coming from plants and animals respectively.
+Select the correct code/s
+1. 1 and 2
+2. 1 and 3
+3. Only 3
+4. 1, 2 and 3
+Answer: (1)
+Explanation:
+Starch is the main storage polysaccharide of plants. It is the most important dietary source for human beings. High content of starch is found in cereals, roots, tubers and some vegetables.  Cellulose occurs exclusively in plants and it is the most abundant organic substance in plant kingdom. It is a predominant constituent of cell wall of plant cells. The carbohydrates are stored in animal body as glycogen. It is also known as animal starch.  Glycogen is the body's storage form of starch, though it is technically glucose. To understand this, you must understand that starch is a plant's storage form of glucose.  However, as humans, we store the same glucose as glycogen. Our body is equipped to contain excess glucose molecules as glycogen rather than starch.
+
+6. Biodiesel can be produced from among the following-
+1. Jatropa
+2. Pongamia Pinnata
+3. Sunflower
+4. Rape Seeds
+Select the correct code
+1. 1 and 2
+2. 1, 2 and 4
+3. Only 1
+4. All
+Answer: (4)
+Explanation:
+Pongamia Pinnata is a viable non-toxic alternative to jatropha for making biodiesel. Being a legume, it fixes nitrogen into the soil and is often used as a windbreak between fields on farms. Bio Diesel fuel can be produced from oilseed plants such as rape seeds, sunflower, canola and or JATROPHA CURCAS.
+
+7. Recently India applied for membership of Missile Technology Control Regime. Consider the following statements with respect to MTCR
+1. MTCR is a binding treaty between member nations to limit the proliferation of missiles and missile technology.
+2. The activities of the MTCR are consistent with the UN's non-proliferation and export control efforts.
+Select the correct code
+1. Only 1
+2. Only 2
+3. Both
+4. None
+Answer: (2)
+Explanation: MTCR is not a treaty itself. The Missile Technology Control Regime (MTCR) is an informal and voluntary partnership between 34 countries to prevent the proliferation of missile and unmanned aerial vehicle technology capable of carrying a 500 kg payload for at least 300 km.  While there is no formal linkage, the activities of the MTCR are consistent with the UN's non-proliferation and export control efforts. For example, applying the MTCR Guidelines and Annex on a national basis helps countries to meet their export control obligations under UN Security Council Resolution 1540. 
+
+8. Consider the following regarding BRAHMOS Missile jointly developed by India and Russia
+1. Its range of 290km is governed by Missile technology Control Regime (MTCR) of which Russia is a member.
+2. Its only disadvantage is its surface to surface variant.
+3. It works on the principle of 'Fire and Forget'.
+Select the correct code
+1. 1 and 2
+2. 2 and 3
+3. 1 and 3
+4. All
+Answer: (3)
+Explanation: Brahmos is a supersonic cruise missile.
+MTCR controls the proliferation of missile and unmanned aerial vehicle technology capable of carrying a 500 kg payload for at least 300 km. Since India is not a member of MTCR and Russia is, therefore the joint development could not cross the limit of 300 Km and hence the missile's range is 290 km Brahmos can be launched from Submarines, Ships, Land and Air. So, it can be surface to surface, Submarine to Air and under development Air to Air. Hence second statement is wrong.
+
+9. Recently Lead (Pb) was making news due to its contamination in Maggie. Consider the following statements with respect to Lead
+1. High concentration of Pb leads to Dyslexia.
+2. One if its major uses is in the glass of computer and television screens, where it shields the viewer from radiation.
+Select the correct code
+1. Only 1
+2. Only 2
+3. Both
+4. None
+Answer: (3)
+Explanation:
+Lead is a major constituent of the lead-acid battery used extensively in car batteries. It is used as a coloring element in ceramic glazes, as projectiles, in some candles to threat the wick. It is the traditional base metal for organ pipes, and it is used as electrodes in the process of electrolysis. One if its major uses is in the glass of computer and television screens, where it shields the viewer from radiation. Other uses are in sheeting, cables, solders, lead crystal glassware, ammunitions, bearings and as weight in sport equipment.  Once taken into the body, lead distributes throughout the body in the blood and is accumulated in the bones.  Depending on the level of exposure, lead can adversely affect the nervous system, kidney function, immune system, reproductive and developmental systems and the cardiovascular system.  Lead exposure also affects the oxygen carrying capacity of the blood.  The lead effects most commonly encountered in current populations are neurological effects in children and cardiovascular effects (e.g., high blood pressure and heart disease) in adults.  Infants and young children are especially sensitive to even low levels of lead, which may contribute to behavioural problems, learning deficits and lowered IQ.
+
+10. The class of compound known as Biocides are used by Archaeologists in the preservation and reconstruction of archaeological sites. However, it has variety of other applications like
+1. Antibiotics
+2. Pesticides
+3. Antifouling Products
+4. Anticancer Agent
+5. Antifungal
+Select the correct codes
+1. 1, 2, 3 and 5
+2. 2,3,4 and 5
+3. 2, 3,  and 4
+4. All of the above
+Answer: 1
+Explanation: A biocide is a chemical substance or microorganism which can deter, render harmless, or exert a controlling effect on any harmful organism by chemical or biological means. Biocides are commonly used in medicine, agriculture, forestry, and industry. 
+A biocide can be:
+A pesticide- this includes fungicides, herbicides, insecticides, algicides and rodenticides etc An antimicrobial- this includes germicides, antibiotics, antiviral, antibacterial, antifungal and antifouling products etc.
+
+11. Consider the following w.r.t Mangroves Forest
+1. The Pichavaram mangroves in Tamil Nadu is India's largest Mangrove Forest
+2. Asia has the largest concentration of the world's mangroves except Middle East
+Select the correct code
+1. Only 1
+2. Only 2
+3. Both
+4. None
+Answer:  1
+Explanation- Pichavaram mangroves is India's largest mangrove Forest. Middle East also has good concentration of Mangroves. Oman, near Muscat, supports large areas of mangroves, in particular at Shinas, Qurm Park and Mahout Island. In Arabic, mangrove trees are known as qurm, thus the mangrove area in Oman is known as Qurm Park. 
+
+12. The term micro-satellite is associated with which of the following? 
+1. Genetics
+2. Space Technology
+Select the correct code
+1. Only 1
+2. Only 2
+3. Both
+4. None
+Answer:  3
+Explanation- http://en.wikipedia.org/wiki/Miniaturized_satellite#Microsatellite
+http://en.wikipedia.org/wiki/Microsatellite
+
+13. "Global-warming potential (GWP) is a relative measure of how much heat a greenhouse gas traps in the atmosphere". Consider the statements on which GWP depends
+1. the absorption of infrared radiation by a given species
+2. the spectral location of its absorbing wavelengths
+3. the atmospheric lifetime of the species
+Identify the correct statement/s
+1. 1 and 2
+2. Only 3
+3. 1 and 3
+4. 1,2 and 3
+Answer:  4
+Explanation- https://en.wikipedia.org/wiki/Global-warming_potential
+http://www.thehindu.com/todays-paper/tp-national/india-needs-clear-policy-on-ozonegases/article6205565.ece
+
+14. With reference to "Sankirtana", consider the following
+1. Ritual singing, drumming and dancing of Manipur
+2. It encompasses an array of arts performed to mark religious occasions and various stages in the life of the Vaishnav people of Manipur plains.
+3. It is practiced at the centre of a temple, where performers narrate the lives and deeds of Krishna through songs and dance
+4. It is inscribed on the Representative List of the UNESCO Intangible Cultural Heritage of Humanity
+Incorrect statement is/are
+1. 1 and 2
+2. 1, 2 and 3
+3. All
+4. None
+Answer:  4
+http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/manipuri-sankirtanainscribed-on-unescos-intangible-heritage-list/article5435312.ece
+
+15. With reference to 'System of Rice Intensification', consider the following
+1. It originated in USA
+2. It's a water intensive methodology
+3. It is a patented methodology and India has access to it.
+Correct statement is/ are
+1. 1,2 and 3
+2. 2 and 3
+3. Only 1
+4. None
+Answer:  4
+Explanation- Originated in Medagascar not USA. It helps in saving water. Not a patent
+http://www.thehindu.com/opinion/op-ed/more-rice-from-less-water/article6183223.ece
+
+16. As per Indian culture, the word 'Kolam' is associated with
+1. Art of Rangoli in southern parts of the country
+2. A type of tribe
+3. Art of Weaving of people of ancient origin
+Correct statement(s)
+1. Only 1
+2. 1 and 2
+3. Only 3
+4. None
+Answer:  2
+http://www.thehindu.com/news/national/telangana/kolam-women-dish-outknowledge-on-traditional-food/article6318693.ece
+
+17."Albedo is the percentage of incoming radiation reflected off a surface". Consider the following statements
+1. The more radiation reflected the more Global warming that occurs.
+2. Polar ice has highest albedo.
+Incorrect statement(s)
+1. Only 1
+2. Only 2
+3. Both
+4. None
+Answer:  1
+http://www.ecocem.ie/environmental,albedo.htm
+http://www.eoearth.org/view/article/149954/

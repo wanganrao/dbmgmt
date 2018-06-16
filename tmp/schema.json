@@ -1,0 +1,297 @@
+{
+  "items": [
+    {
+      "type": [
+        "http://schema.org/QAPage"
+      ],
+      "properties": {
+        "title": [
+          " IAS GS PAST 2011 question paper"
+        ],
+        "name": [
+          " IAS GS PAST 2011 question paper"
+        ],
+        "about": [
+          {
+            "type": [
+              "http://schema.org/Question"
+            ],
+            "properties": {
+              "text": [
+                "\n                            \n                                    In the context of global oil prices, \"Brent crude oil\" is frequently referred to in the news. What does this term imply ?\n1.    It is a major classification of crude oil.\n2.    It is sourced from north sea.\n3.    It does not contain sulphur.\nWhich of the statements given above is/are correct ?\n                            \n                        "
+              ],
+              "suggestedAnswer": [
+                {
+                  "type": [
+                    "http://schema.org/Answer"
+                  ],
+                  "properties": {
+                    "text": [
+                      "\n                                                2 only.\n                                            \n                                        "
+                    ]
+                  }
+                },
+                {
+                  "type": [
+                    "http://schema.org/Answer"
+                  ],
+                  "properties": {
+                    "text": [
+                      "\n                                                1 and 2 only.\n                                        "
+                    ]
+                  }
+                },
+                {
+                  "type": [
+                    "http://schema.org/Answer"
+                  ],
+                  "properties": {
+                    "text": [
+                      "\n                                                1 and 3 only.\n                                        "
+                    ]
+                  }
+                },
+                {
+                  "type": [
+                    "http://schema.org/Answer"
+                  ],
+                  "properties": {
+                    "text": [
+                      "\n                                                1,2, and 3.\n                                        "
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": [
+              "http://schema.org/Question"
+            ],
+            "properties": {
+              "text": [
+                "\n                            \n                                    The function of heavy water in a nuclear reactor is to ?\n                            \n                        "
+              ],
+              "suggestedAnswer": [
+                {
+                  "type": [
+                    "http://schema.org/Answer"
+                  ],
+                  "properties": {
+                    "text": [
+                      "\n                                                 Slow down the speed of neutrons.\n                                            \n                                        "
+                    ]
+                  }
+                },
+                {
+                  "type": [
+                    "http://schema.org/Answer"
+                  ],
+                  "properties": {
+                    "text": [
+                      "\n                                                Increase the speed of neutrons.\n                                        "
+                    ]
+                  }
+                },
+                {
+                  "type": [
+                    "http://schema.org/Answer"
+                  ],
+                  "properties": {
+                    "text": [
+                      "\n                                                Cool down the reactor.\n                                        "
+                    ]
+                  }
+                },
+                {
+                  "type": [
+                    "http://schema.org/Answer"
+                  ],
+                  "properties": {
+                    "text": [
+                      "\n                                                Stop the nuclear reaction.\n                                        "
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": [
+              "http://schema.org/Question"
+            ],
+            "properties": {
+              "text": [
+                "\n                            \n                                    In India, if a religious sect/community is given the status of a national minority , what special advantages it is entitled to ?\n1.    It can establish and administer exclusive educational institutions.\n2.    The president of India automatically nominates a representative of the community to Lok Sabha.\n3.    It can derive benefits from the prime minister’s 15­point  programme.\nWhich of the statements give above is/are correct ?\n                            \n                        "
+              ],
+              "suggestedAnswer": [
+                {
+                  "type": [
+                    "http://schema.org/Answer"
+                  ],
+                  "properties": {
+                    "text": [
+                      "\n                                                1 only.\n                                            \n                                        "
+                    ]
+                  }
+                },
+                {
+                  "type": [
+                    "http://schema.org/Answer"
+                  ],
+                  "properties": {
+                    "text": [
+                      "\n                                                2 and 3 only.\n                                        "
+                    ]
+                  }
+                },
+                {
+                  "type": [
+                    "http://schema.org/Answer"
+                  ],
+                  "properties": {
+                    "text": [
+                      "\n                                                1 and 3 only.\n                                        "
+                    ]
+                  }
+                },
+                {
+                  "type": [
+                    "http://schema.org/Answer"
+                  ],
+                  "properties": {
+                    "text": [
+                      "\n                                                1,2 and 3.\n                                        "
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": [
+              "http://schema.org/Question"
+            ],
+            "properties": {
+              "text": [
+                "\n                            \n                                    India is home to lakhs of person with disabilities, what are the benefits available to them under the law ?\n1.    Free schooling till the age of 18 years in government­ run schools.\n2.    Preferential  allotment of land for setting up business.\n3.    Ramps in public buildings.Which of the statements given above is/are correct ?\n                            \n                        "
+              ],
+              "suggestedAnswer": [
+                {
+                  "type": [
+                    "http://schema.org/Answer"
+                  ],
+                  "properties": {
+                    "text": [
+                      "\n                                                1 only.\n                                            \n                                        "
+                    ]
+                  }
+                },
+                {
+                  "type": [
+                    "http://schema.org/Answer"
+                  ],
+                  "properties": {
+                    "text": [
+                      "\n                                                2 and 3 only.\n                                        "
+                    ]
+                  }
+                },
+                {
+                  "type": [
+                    "http://schema.org/Answer"
+                  ],
+                  "properties": {
+                    "text": [
+                      "\n                                                1 and 3 only.\n                                        "
+                    ]
+                  }
+                },
+                {
+                  "type": [
+                    "http://schema.org/Answer"
+                  ],
+                  "properties": {
+                    "text": [
+                      "\n                                                1,2 and 3.\n                                        "
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": [
+              "http://schema.org/Question"
+            ],
+            "properties": {
+              "text": [
+                "\n                            \n                                    With what purpose is the government of India promoting the concept of \"Mega food parks\" ?\n1.    To provide good infrastructure facilities for the food processing  industry.\n2.    To increase the processing of perishable items and reduce wastage.\n3.    To provide emerging and eco­friendly food processing technologies to entrepreneurs.\nSelect the correct answer using the codes given below :\n                            \n                        "
+              ],
+              "suggestedAnswer": [
+                {
+                  "type": [
+                    "http://schema.org/Answer"
+                  ],
+                  "properties": {
+                    "text": [
+                      "\n                                                1 only.\n                                            \n                                        "
+                    ]
+                  }
+                },
+                {
+                  "type": [
+                    "http://schema.org/Answer"
+                  ],
+                  "properties": {
+                    "text": [
+                      "\n                                                1 and 2 only.\n                                        "
+                    ]
+                  }
+                },
+                {
+                  "type": [
+                    "http://schema.org/Answer"
+                  ],
+                  "properties": {
+                    "text": [
+                      "\n                                                2 and 3 only.\n                                        "
+                    ]
+                  }
+                },
+                {
+                  "type": [
+                    "http://schema.org/Answer"
+                  ],
+                  "properties": {
+                    "text": [
+                      "\n                                                1,2 and 3.\n                                        "
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": [
+        "http://schema.org/QAPage"
+      ],
+      "properties": {
+        "text": [
+          "IAS previous years question papers",
+          "CSP 2015",
+          "CSP 2014",
+          "CSP 2013",
+          "CSP 2012",
+          "CSP 2011"
+        ],
+        "url": [
+          "http://mcqforum.local:8088/IAS/GS/PAST/2011/"
+        ]
+      }
+    }
+  ]
+}

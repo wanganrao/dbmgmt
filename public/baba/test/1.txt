@@ -1,0 +1,1194 @@
+1. The amount of which of the following gases remains constant in the atmosphere as a whole?
+a) Carbon dioxide
+b) Water vapor
+c) Methane
+d) Both (b) and (c)
+Answer: B 
+All the gases mentioned in the option are variable gases. However, in the atmosphere as a whole, the total amount of water vapor remains nearly constant. Thus it's listing as a variable gas means variable in location, not variable in time.
+
+2. Consider the following statements
+1. Habitat is unique for a species while no two species in a habitat can have the same niche
+2. The term habitat means the sum of all the activities and relationships of a species by which it uses the resources in its niche for its survival and reproduction.
+Select the incorrect statement/s
+a) Only 1
+b) Only 2
+c) Both
+d) None
+Answer: C 
+Both the statements are wrong. Habitat is not unique for a species. Different species can have same habitat but no two species in a habitat can have the same niche.  Definition of Niche- The term niche means the sum of all the activities and relationships of a species by which it uses the resources in its habitat for its survival and reproduction.
+Source- NIOS Environment- Chapter 4, Principles of Ecology: Niche and Organism
+
+3. Which of the following is also known as the cold zone of the atmosphere as it lacks a heat source?
+a) Troposphere
+b) Stratosphere 
+c) Tropopause
+d) Thermosphere
+Answer: C 
+All the layers of the atmosphere i.e. troposphere, stratosphere, mesosphere and thermosphere are called as warm zones. The layers which separate these warm zones are cold simply because they lack any source of heat.
+
+4. Primary succession is much more difficult than Secondary succession because
+1. There are relatively very few places on earth that do not already have communities of organisms
+2. It takes more time due to formation of soil in the process of Primary Succession
+Select the correct code
+a) Only 1
+b) Only 2
+c) Both
+d) None
+Answer: C 
+Primary succession is much more difficult to observe than secondary succession because there are relatively very few places on earth that do not already have communities of organisms. Furthermore, primary succession takes a very long time as compared to secondary succession as the soil is to be formed during primary succession while secondary succession starts in an area where soil is already present.
+Source- NIOS -Chapter 4, Principles of Ecology
+
+5. The zone of homogeneous composition of principal gases is known as homosphere . Which of the following thermal layers are encompassed by the homosphere ?
+1. Troposphere
+2. Stratosphere
+3. Mesosphere
+4. Thermosphere
+Select the correct code: 
+a) 1, 2 and 3
+b) 2 and 3
+c) 1 and 3
+d) 1, 2, 3 and 4
+Answer: A 
+The thermosphere lies in the heterosphere .
+
+6. Which of the followings have Positive association?
+1. Commensalism
+2. Amensalism
+3. Mutualism
+4. Predation
+Select the correct code
+a) 1, 2 and 3
+b) 2 and 4
+c) 1 and 3
+d) Only 3
+Answer: C 
+Amensalism : This is a negative association between two species in which one species harms or restricts the other species without itself being adversely affected or harmed by the presence of the other species.
+Predation: In this type of interaction predator captures, kills and eats an animal of another species called the prey. The predator naturally benefits from this relationship; while the prey is harmed.  Commensalism: In this relationship one of the species benefits while the other is neither harmed nor benefited Mutualism: This is a close association between two species in which both the species benefit Question asked for positive association. So Commensalism and Mutualism will be the answer.
+Source: NIOS-Chapter 4, Principles of Ecology
+
+7. Consider the following statements regarding the heterosphere and select the correct ones.
+1. There is layering of gases in accordance with their weights in the heterosphere .
+2. The phenomenon of "northern lights" takes place in this layer.
+3. Long distance communication using radio waves is not possible in this layer.
+Select the correct answer using the code given below
+a) Only 1
+b) 2 and 3
+c) 1 and 2
+d) All of the above
+Answer: C 
+This is a simple question if you have understood the layering of atmosphere as per temperature, composition and ionization. The first statement is true as layering of gases as per weight is typical of the heterosphere . Second option is true with respect to the ionosphere. Since ionosphere lies in the heterosphere , this statement is also correct. By extending the same logic, the third statement is false as long distance communication takes place in the ionosphere.
+
+8. Consider the following
+1. Earthworm
+2. Penicillium
+3. Woodlice
+4. Sea cucumbers
+5. Mushrooms
+Which of the above are Decomposers?
+a) 1, 3 and 4
+b) 1, 2, 3, 4 and 5
+c) 1, 3, 4 and 5
+d) 2, 3 and 4
+Answer: B 
+All of them are decomposers. Penicillium is bacteria and act as decomposer. In the desert there are many different decomposers, some of them are snails, slugs, earthworms, bacteria and mushrooms.
+
+9. Moisture is a vital element of weather and climate. Now, c onsider the following controls of weather and climate. Select the controls that have a bearing on moisture element of a location.
+1. General circulation of the oceans
+2. Altitude
+3. Topographic barriers
+4. Storms
+Choose the correct answer using the code given below
+a) 1 and 3 only
+b) 2 and 3 only
+c) 1,2 and 3 only
+d) All the above
+Answer: D 
+
+10. Consider the following statements regarding 'Sacred Groves'
+1. Sacred groves are found in Thar Desert of Rajasthan
+2. They are protected under Forest Right Act, 2006
+Select the correct code
+a) Only 1
+b) Only 2
+c) Both
+d) None
+Answer: A 
+Sacred groves occur in a variety of places - from scrub forests in the Thar Desert of Rajasthan, to rain forests in the Western Ghats. Himachal Pradesh in the North and Kerala in the South are specifically known for their large numbers of sacred groves. It is also found in Madhya Pradesh and Hills of Meghalaya In 2002 an amendment was brought in Wildlife Protection Act, 1972 to include Sacred Grooves under the act.
+
+11. Which of the following are the instruments or provisions available in the Indian constitution to ensure smooth functioning of the Parliament?
+1. Question Hour
+2. Zero Hour
+3. Codified Parliamentary Privileges
+4. The office of Whip
+Select the correct answer using the given codes below:
+a) 1, 2 and 3
+b) 1 Only
+c) None
+d) 3 Only
+Answer: C 
+Question Hour - The first hour of every parliamentary sitting is slotted for this. During this time, the members ask questions and the ministers usually give answers. The questions are of three kinds, namely, starred, unstarred and short notice. Question hour is mentioned in the Rules of procedure of the House but not in the Constitution The zero hour starts immediately after the question hour and lasts until the agenda for the day ( ie ,regular business of the House) is taken up. In other words, the time gap between the question hour and the agenda is known as zero hour. It is an Indian innovation in the field of parliamentary procedures.  Unlike the question hour, the zero hour is not mentioned in the Rules of Procedure. Thus it is an informal device available to the members of the Parliament to raise matters without any prior notice.  Under the constitutional law and in the arena of Indian Parliament, the expression ' privilege and immunity' signifies certain special or exceptional rights of Lok Sabha or Rajya Sabha or its individual members which are generally accepted as necessary for the exercise of their constitutional functions.  Parliamentary Privileges help in smooth functioning of the Parliament, but there is no such thing as Codified Parliamentary Privileges . Though the demand for codification of privileges is not new and since early 1950's concerns have been raised, especially by the press, to remove the alleged arbitrariness prevailing in the exercise of privileges by the legislative bodies. Even the judiciary while deciding controversial matters relating to privileges, in its obiter dicta, has suggested such codification.  The office of 'whip' is mentioned neither in the Constitution of India nor in the Rules of the House nor in a Parliamentary Statute. It is based on the conventions of the parliamentary government. Every political party, whether ruling or Opposition has its own whip in the Parliament. He is appointed by the political party to serve as an assistant floor leader. He is charged with the responsibility of ensuring the attendance of his party members in large numbers and securing their support in favour of or against a particular issue. He regulates and monitors their behaviour in the Parliament. The members are supposed to follow the directives given by the whip. Otherwise, disciplinary action can be taken.  Source: Indian Polity - Lakshmikanth
+
+12. Consider the following statements.
+1. In the night sky the twinkling effect is shown by stars and planets only. Not by moon and other natural or artificial satellites.
+2. The twinkling effect is due to the multiple reflection of light as it travels through layers of different densities in the atmosphere.
+Select the correct answer using the code given below.
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 or 2
+Answer: D 
+The twinkling effect in the night sky is shown only by stars.  
+As the light beam travels a long distance in atmosphere, it passes through different layers of changing densities. Because of this it is constantly refracting( not reflecting). As the the light beams constantly changes its path, it appears to a stationary observer that the star is blinking.
+
+13. During sunrise and sunset, the sky appears reddish at the horizon. Which of the following phenomena are responsible for this?
+1. Scattering
+2. Total internal reflection
+3. Transmission
+Select the correct code:
+a) 1, 2 and 3
+b) 1 and 2
+c) 2 and 3
+d) Only 1
+Answer: D 
+When th e Sun is low in the Sky, the light has passed through so much atmosphere that nearly all of the blue wavelengths have been scattered away, leaving only the longest wavelengths of visible light, orange and red- the dominant colors of light we see at sunrise and sunset.
+
+14. Match the following
+1. Anil Kakodkar's committee i ) Rail safety
+2. Bibek Debroy Committee ii) Modernization of Railways
+3. Sam Pitroda committee iii) Restructuring of Indian railways and Private Participation
+Select the correct answer using the given codes below: 
+a) 1-ii, 2-iii, 3-i
+b) 1-i, 2-iii, 3-ii
+c) 1-i, 2-ii, 3-iii
+d) 1-ii, 2-iii, 3-ii
+Answer: B 
+Kakodkar Committee, which was constituted to review safety of railway system. Sreedharan Committee was formed to review the delegation of commercial powers for railway projects for lower levels of bureaucracy. Mittal Committee was formed to suggest ways and means to raisethe revenue of the Railways.
+The Sam Pitroda committee looked into the ways and means to modernise the Railway system. Similarly Debroy Committee was set up to study and report the limited role of Railway Board, revamping of HR functions and restructuring the Board.
+Source: http://www.newindianexpress.com/nation/Setting-up-of-Several-Railway-Expert-Committees-Questioned/2015/04/21/article2774437.ece http://www.business-standard.com/article/economy-policy/debroy-committee-for-railways-revamp-115061101418_1.html
+
+15. On a hot day, the transfer of heat from the Earth's surface to the atmosphere takes place through1.
+Conduction
+2. Convection
+3. Radiation
+4. Advection
+Choose the correct options using the codes given below:
+a) Only 1, 2 and 3
+b) Only 1, and 2
+c) Only 2
+d) All of the above
+Answer: B 
+The heat transfer from the surface to the layer of atmosphere immediately above takes place through conduction. However, since air is a poor conductor of heat, the subsequent heat transfer takes place through physical movement of air molecules i.e. convection.
+
+16. Consider the following statements about Jupiter.
+1. Jupiter, like Saturn and Uranus, has rings around it.
+2. Jupiter has the fastest rotation amongst all the planets of the solar system, completing a rotation on its axis in less than 10 hours.
+3. The latest probe to visit Jupiter will be Juno, expected to arrive in July 2016.
+Select the correct answer using the code given below.
+a) 1 only
+b) 1 and 3
+c) 2 and 3
+d) All of the above
+Answer: D 
+Some facts about Jupiter Jupiter has the shortest day of all the planets: It turns on its axis once every 9 hours and 55 minutes. The rapid rotation flattens the planet slightly, giving it an oblate shape.  Jupiter orbits the Sun once every 11.8 Earth years: From our point of view on Earth, it appears to move slowly in the sky, taking months to move from one constellation to another.  Jupiter has a thin ring system: Its rings are composed mainly of dust particles ejected from some of Jupiter's smaller worlds during impacts from incoming comets and asteroids. The ring system begins some 92,000 kilometres above Jupiter's cloud tops and stretches out to more than 225,000 km from the planet. They are between 2,000 to 12,500 kilometres thick.  Eight spacecraft have visited Jupiter: Pioneer 10 and 11, Voyager 1 and 2, Galileo, Cassini, Ulysses, and New Horizons missions. The Juno mission is its way to Jupiter and will arrive in July 2016. Other future missions may focus on the Jovian moons Europa , Ganymede, and Callisto , and their subsurface oceans.
+
+17. With regard to Minimum Support Price (MSP), consider the following
+1. MSP is a form of market intervention by the Government of India
+2. MSP is decided based on the recommendations of Agricultural Produce Marketing Committee
+3. MSP would ensure that the country's agricultural output responds to the changing needs of its consumers.
+Select the correct answer using the given codes below:
+a) 1 Only
+b) 1 and 3
+c) 1 and 2
+d) 1, 2 and 3
+Answer: B 
+Minimum Support Price (MSP) is a form of market intervention by the Government of India to insure agricultural producers against any sharp fall in farm prices. The minimum support prices are announced by the Government of India at the beginning of the sowing season for certain crops on the basis of the recommendations of the Commission for Agricultural Costs and Prices (CACP).  MSP is price fixed by Government of India to protect the producer - farmers - against excessive fall in price during bumper production years. The minimum support prices are a guarantee price for their produce from the Government. The major objectives are to support the farmers from distress sales and to procure food grains for public distribution. In case the market price for the commodity falls below the announced minimum price due to bumper production and glut in the market, government agencies purchase the entire quantity offered by the farmers at the announced minimum price.  MSP also ensures that the country's agricultural output responds to the changing needs of its consumers. This year, for instance, the prices of pulses have shot up sharply due to a sharp fall in production in the just concluded rabi season. The Centre has thus hiked the MSP of pulses by a larger margin than for paddy, to expand sowing of pulses in the coming year.
+Source: http://vikaspedia.in/agriculture/market-information/minimum-support-price http://www.thehindubusinessline.com/opinion/all-you-wanted-to-know-about-minimum-support-price/article7342789.ece
+
+18. The International Astronomical Unit put Pluto in the category of a dwarf planet. Which of the following condition/s was/were not fulfilled by Pluto for it to be called a Planet?
+1. A planet should have attained a spheroid shape due to rotation on its axis.
+2. A planet should have a fixed elliptical orbit around the sun
+3. A planet should have cleared its orbit from other smaller bodies like asteroids etc. because of its gravitational pull.
+Select the correct answer using the code given below.
+a) 1 only
+b) 2 and 3
+c) 3 only
+d) 1 and 3
+Answer: C 
+According to International Astronomical Unit, three parameters have been chosen to decide whether an orbiting celestial body should be called a planet or not.
+· A planet should have attained a spheroid shape due to rotation on its axis.
+· A planet should have a fixed elliptical orbit around the sun · A planet should have cleared its orbit from other smaller bodies like asteroids etc. because of its gravitational pull.
+Out of these three, Pluto does not fulfill the third criterion, i.e. it has not cleared its orbit. Hence, its status was changed from planet to a dwarf planet.
+(Since New Horizon reached Pluto this year, a question can be expected from Pluto.)
+
+19. Which of the following Committee has made recommendations on reforms in higher education sector?
+a) Rangarajan committee
+b) Naresh Chandra Committee
+c) Kelkar Committee
+d) Yashpal committee
+Answer: D
+Rangarajan committee has made recommendations on decontrol of sugar industry, poverty estimates, gas pricing, public sector enterprises.
+Naresh Chandra Committee on Corporate governance Vijay Kelkar Committee recommendations on cutting fiscal deficit.
+Yashpal committee recommendations on reforms in higher education sector Source: http://www.aicte-india.org/misyashpal.php http://prayatna.typepad.com/education/2009/07/summary-of-full-text-of-the-yashpal-committee-report.html
+
+20. Consider the following statements regarding adiabatic cooling of a rising air parcel
+1.  The volume of the air parcel remains constant throughout.
+2.  There is only a transfer of energy and not of matter.
+Choose the correct from the following options:
+a) Only 1
+b) Only 2
+c) Both 1 and 2
+d) Neither 1 nor 2
+Answer: D
+Adiabatic cooling takes place when an air parcel rises up in the atmosphere. There is no addition or subtraction of heat energy. The volume keeps on increasing as atmospheric pressure decreases with altitude. The increase in volume leads to wider spacing of air molecules which reduces the frequency of intermolecular collisions leading to decreased temperature.
+
+21. An 'earth-like' shape, usually used to describe celestial bodies, which is slightly flattened at the poles, is -
+a) Partial Sphere.
+b) Geoid .
+c) Pseudo-hemisphere.
+d) Planetoid.  
+Answer: B
+The literal meaning of " Geoid " is 'earth-like' shape. And the earth has flattened poles. This is mentioned in the NCERT 6th Geography textbook.
+
+22. Cities like Los Angeles and Mexico City suffer from severe air pollution. Which of the following atmospheric phenomena/ factors accentuate this problem?
+a) Vertical air currents
+b) Concentration of ozone layer
+c) Volcanic activity
+d) Temperature inversion
+Answer: D
+A very simple and direct question. Needs no explanation.
+
+23. Consider the following statements
+1. The Armed Forces special powers was first used by the British to suppress the Quit India Movement
+2. The Armed Forces Special Powers Act (AFSPA) can be deployed only in North Eastern States apart from Jammu and Kashmir
+3. AFSPA gives powers to the army officers to arrest anyone without a warrant
+4. The Army officers have legal immunity for their actions taken under this Act
+Select the correct answer using the given codes below:
+a) 2, 3 and 4
+b) 3 only
+c) 1, 3 and 4
+d) 3 and 4 only
+Answer: C
+Armed Forces (Special Powers) Acts (AFSPA), are Acts of the Parliament of India that grant special powers to the Indian Armed Forces in what each act terms "disturbed areas". The Act was enacted the centre to counter insurgency.
+In 1958 it was applied to the Seven Sister States in India's northeast. Another passed in 1983 and applied to Punjab and Chandigarh and was withdrawn in 1997, roughly 14 years after it came to force & from Tripura in 2015. Another such act was passed in 1990 and applied to Jammu and Kashmir.
+According to the Armed Forces Special Powers Act (AFSPA), in an area that is proclaimed as "disturbed", an officer of the armed forces has powers to · After giving such due warning, Fire upon or use other kinds of force even if it causes death, against the person who is acting against law or order in the disturbed area for the maintenance of public order, · Destroy any arms dump, hide-outs, prepared or fortified position or shelter or training camp from which armed attacks are made by the armed volunteers or armed gangs or absconders wanted for any offence.
+· To arrest without a warrant anyone who has committed cognizable offences or is reasonably suspected of having done so and may use force if needed for the arrest.
+· To enter and search any premise in order to make such arrests, or to recover any person wrongfully restrained or any arms, ammunition or explosive substances and seize it.
+· Stop and search any vehicle or vessel reasonably suspected to be carrying such person or weapons.
+· Any person arrested and taken into custody under this Act shall be made present over to the officer in charge of the nearest police station with least possible delay, together with a report of the circumstances occasioning the arrest.
+· Army officers have legal immunity for their actions. There can be no prosecution, suit or any other legal proceeding against anyone acting under that law. Nor is the government's judgment on why an area is found to be disturbed subject to judicial review.
+· Protection of persons acting in good faith under this Act from prosecution, suit or other legal proceedings, except with the sanction of the Central Government, in exercise of the powers conferred by this Act.
+Source: https://en.wikipedia.org/wiki/Armed_Forces_(Special_Powers)_Act http://www.livemint.com/Politics/ZppBTWeVoJCVAKRIjyhCVI/AFSPA-explained-How-does-it-work-exactly.html
+
+24. Consider the following statements
+1. The planetary bodies in the outer Solar system are made of lighter elements.
+2. The satellites of giant planets are composed mostly of ice.
+3. All the satellites of Outer planets do not have tectonic activity.
+Select the correct answer using the code given below.
+a) 1 and 2
+b) 1 and 3
+c) 2 and 3
+d) All of the above
+Answer: A
+The outer planets consist of planets beyond the asteroid belt. These planets do not have a solid surface and consists of gases (primarily hydrogen and some amount of helium with other gases in traces). These are lighter.
+As the distance of these planets from the sun is significantly large, the temperature is very low. Because of this, the satellite of these planets consists of ice crystals.
+Although the planets have a gaseous nature, their satellites have a solid crust in which the phenomenon of plate tectonics occurs.
+
+25. Ceres, the largest of the asteroids is found in between the orbits of Mars and Jupiter. According to many scientists, the asteroids are -
+a) Parts of a planet which exploded many years back.
+b) Parts of a planet which hasn't formed yet, and is in the process of becoming a planet.
+c) Sub-celestial bodies which are originated outside our solar system.
+d) Smaller sized comets and larger sized meteors.
+Answer: A
+It is widely believed that asteroids which are present between the orbits of Mars and Jupiter are actually parts of a planet which had exploded many years back.
+
+26. In drawing the isotherms on the world map for January, which of the following observations will be incorrect ?
+1. Isotherms will be more regular in the southern hemisphere.
+2. Isotherms will move towards the equator on the continents.
+3. Isotherms will cross the western coast of Africa at right angle.
+Select the correct code:
+a) Only 1 and 2
+b) Only 2 and 3
+c) Only 1 and 3
+d) Only 3
+Answer: D
+Because of the presence of the cool ocean current along the western coast of Africa, the isotherm runs almost parallel to the coast. So the third statement is wrong. Rest of the statements defines the characteristic features of land-ocean variations in heating.
+
+27. Consider the following statements
+1. The diameter of moon is One sixth of the earth.
+2. The moon takes 27 days to complete one revolution around the earth and exactly the same time to complete one rotation on its axis.
+3. Only one side of the moon can be seen from the surface of the earth.
+Select the incorrect answer using the code given below.
+a) None of the above.
+b) 1 only
+c) 1 and 2
+d) 2 and 3
+Answer: B
+Our earth has only one satellite, that is, the moon. Its diameter is only one-quarter that of the earth. It appears so big because it is nearer to our planet than other celestial bodies. It is about 3 ,84,400 km away from us.
+The moon moves around the earth in about 27 days. It takes exactly the same time to complete one spin. As a result, only one side of the moon is visible to us on the earth.
+
+28. Which of the following statements is/are correct regarding Ayurveda , Yoga and Naturopathy, Unani , Siddha and Homoeopathy ( AYUSH)?
+1. AYUSH is an autonomous body, which functions as a Department under the Ministry of Health and Family Welfare.
+2. There has been a resurgence of AYUSH due to the increase in life style disorders and multi drug resistant diseases.
+3. AYUSH has launched National AYUSH Mission (NAM) during 12th Five Year Plan, to promote AYUSH medical systems through cost effective AYUSH services and strengthening of educational systems.
+Select the correct answer using the code given below
+a) 2 and 3
+b) 3 only
+c) 1, 2 and 3
+d) 1 only
+Answer: A
+The Ministry of AYUSH was formed with effect from 9 November 2014 by elevation of the The Department of AYUSH.
+The Department of Ayurveda , Yoga and Naturopathy, Unani , Siddha and Homoeopathy, abbreviated as AYUSH, is a governmental body in India purposed with developing education and research in ayurveda (Indian traditional medicine), yoga, naturopathy, unani , siddha , and homoeopathy, and other alternative medicine systems. The department was created in March 1995 as the Department of Indian Systems of Medicine and Homoeopathy (ISM&H). AYUSH received its current name in March 2003. That time it was operated under the Ministry of Health and Family Welfare.
+AYUSH has launched National AYUSH Mission (NAM) during 12th Plan for implementing through States/UTs. The basic objective of NAM is to promote AYUSH medical systems through cost effective AYUSH services, strengthening of educational systems, facilitate the enforcement of quality control of Ayurveda , Siddha and Unani & Homoeopathy (ASU &H) drugs and sustainable availability of ASU & H raw-materials. It envisages flexibility of implementation of the programmes which will lead to substantial participation of the State Governments/UT. The NAM contemplates establishment of a National Mission as well as corresponding Missions in the State level. NAM is likely to improve significantly the Department's outreach in terms of planning, supervision and monitoring of the schemes.
+With the increase in the number of lifestyle disorder, there has been a resurgence of interest in the AYUSH system of Medicine in the country and abroad. Knowing the potentials of AYUSH Government of India made it to be a critical part of NRHM.
+Source: https://en.wikipedia.org/wiki/Ministry_of_AYUSH http://www.indianmedicine.nic.in/ http://www.nhp.gov.in/ayush_ms
+
+29. A circle can be measured completely in 360 degrees. Since the parallels of latitudes cover the whole planet, there are totally 
+1.  180 latitudes in the Northern Hemisphere.
+2.  180 latitudes in the Southern Hemisphere.
+3.  90 latitudes in the Northern Hemisphere.
+4.  90 latitudes in the Southern Hemisphere.
+Select the correct code
+a) Both (1) and (2)
+b) Both (3) and (4) 
+c) The total number of latitudes cannot be measured.
+d) None of the above
+Answer: C
+There are 90 latitudes in the Northern Hemisphere, the top-most North Pole being the 90 degree N. And there are 90 latitudes in the Southern Hemisphere, the southernmost South Pole being the 90 degree S.
+
+30. Consider the following statements regarding the nature of wind:
+1. Had there been no coriolis effect, wind direction would always have followed the pressure gradient with it's flow making right angle with the isobars.
+2. Had there been no friction, wind direction would have followed a path parallel to the isobars.
+Choose the correct statements:
+a) Only 1
+b) Only 2
+c) Both 1 and 2
+d) Neither 1 nor 2
+Answer: C
+The movement of air is a function of pressure gradient, coriolis effect and friction. In the absence of coriolis effect , there won't be any deflection in wind direction and it will follow the pressure gradient at right angle with the isobars. In absence of friction, there is a balance between pressure gradient and coriolis effect which gives rise to a wind that moves parallel to the isobars. In fact such movement is possible in the upper atmosphere where the effect of friction is negligible. Wind moves parallel to the isobars and is called a geostrophic wind.
+
+31. Which of the followings are correct about Nitrogen dioxide?
+1. It is a lung irritant and can lead to severe respiratory disorders in children.
+2. It can damage leaves of plants and can retard the rate of Photosynthesis.
+3. The red haze during heavy traffic is due to the presence of NO  in air.
+4. It is harmful to various textile fibers and metals.
+Select the correct answer using the code given below.
+a) All of the above 
+b) 1 and 3
+c) 1 and 2
+d) 1, 2 and 3
+Answer: A
+The irritant red haze in the traffic and congested places is due to oxides of nitrogen. Higher concentrations of NO2 damage the leaves of plants and retard the rate of photosynthesis. Nitrogen dioxide is a lung irritant that can lead to an acute respiratory disease in children. It is toxic to living tissues also. Nitrogen dioxide is also harmful to various textile fibres and metals.
+Dinitrogen and dioxygen are the main constituents of air. These gases do not react with each other at a normal temperature. At high altitudes when lightning strikes, they combine to form oxides of nitrogen.
+NO2 is oxidised to nitrate ion, NO3 - which is washed into soil, where it serves as a fertilizer. In an automobile engine, (at high temperature) when fossil fuel is burnt, dinitrogen and dioxygen combine to yield significant quantities of nitric oxide (NO) and nitrogen dioxide ( NO2 ) as given below: N2 (g) + O2 (g) --> 1483K ? 2NO( g) NO reacts instantly with oxygen to give NO2 2NO (g) + O2 (g) ? 2NO2 (g) Rate of production of NO2 is faster when nitric oxide reacts with ozone in the stratosphere.
+NO (g) + O3 (g) ? NO2 (g) + O2 (g)
+
+32. Which of the following is/are human right under 'Universal declaration of human rights'?
+1. Right to food
+2. Right to work
+3. Right to seek and to enjoy in other countries asylum from persecution
+Select the correct answer using the code given below
+a) 2 and 3
+b) 1 and 3
+c) 1, 2 and 3
+d) 1 only
+Answer: C
+The Universal Declaration of Human Rights (UDHR) is a declaration adopted by the United Nations General Assembly on 10 December 1948 at the Palais de Chaillot , Paris.
+Article 14, Everyone has the right to seek and to enjoy in other countries asylum from persecution.
+Article 23, Everyone has the right to work, to free choice of employment, to just and favourable conditions of work and to protection against unemployment.
+Article 25, Everyone has the right to a standard of living adequate for the health and well-being of himself and of his family, including food, clothing, housing and medical care and necessary social services, and the right to security in the event of unemployment, sickness, disability, widowhood, old age or other lack of livelihood in circumstances beyond his control.
+Source: http://www.un.org/en/universal-declaration-human-rights/
+
+33. The Torrid Zone receives the maximum amount of heat on the surface of the Earth. This is located between
+a) Equator and Tropic of Cancer.
+b) Tropic of Cancer and Tropic of Capricorn
+c) Tropic of Capricorn and Equator
+d) 15 degrees above and below the Equator
+Answer: B
+The Torrid Zone is that zone which is between the Tropic of Cancer and Tropic of Capricorn, and where maximum amount of the sun's heat is received.
+
+34. The characteristics of photochemical smog are:
+1. It is oxidizing in nature.
+2. It consists of Ozone, Nitrogen Oxides, Sulphur Oxides and Hydrocarbons.
+Select the correct answer using the code given below.
+a) None of the above
+b) both 1 and 2
+c) only 1
+d) only 2 
+Answer: C
+The word smog is derived from smoke and fog. This is the most common example of air pollution that occurs in many cities throughout the world. There are two types of smog: · Classical smog occurs in cool humid climate. It is a mixture of smoke, fog and sulphur dioxide.
+Chemically it is a reducing mixture and so it is also called as reducing smog.
+· Photochemical smog occurs in warm, dry and sunny climate. The main components of the photochemical smog result from the action of sunlight on unsaturated hydrocarbons and nitrogen oxides produced by automobiles and factories. Photochemical smog has high concentration of oxidising agents and is, therefore, called as oxidising smog.
+The point to be noted is that, in photochemical smog, there is no oxide of SULPHUR.
+
+35. Consider the following statements regarding trade winds:
+1. Trade winds are the most consistent and they never change their direction.
+2. They bring enormous amounts of precipitation in the low lying islands on their path.
+Choose the wrong option from the following options:
+a) Only 1
+b) Only 2
+c) Both 1 and 2
+d) Neither 1 nor 2
+Answer: C
+There are exceptions to the consistency and direction of the trade winds, especially over the Indian Ocean where seasonal reversal in the form of monsoon takes place annually. Moreover, trade winds bring rain only to those areas where there is a topographical barrier. Low lying islands remain virtually rain less.
+
+36. The Earth has been divided into many Time Zones. Which of the following statement is true regarding the Time Zones?
+a) Each Time Zone covers 15 degrees of longitudes, and 60 minutes.
+b) Each Time Zone covers 30 degrees of longitudes, and 60 minutes.  
+c) Each Time Zone covers 15 degrees of longitudes, and 90 minutes.
+d) Each Time Zone covers 30 degrees of longitudes, and 90 minutes.
+Answer: A
+The Earth is divided into 24 time zones, each encompassing 60 minutes. Also, 360/24 = 15 degrees. So, option (a) is correct.
+
+37. What was the premise of Shillong Accord of 1975?
+a) It was an agreement signed between the Government of India and Meghalaya on renouncing the demand for secession by the underground organisations.
+b) It was a peace treaty between India and Pakistan seeking to reverse the consequences of the 1971 war
+c) It was as a treaty concerning the status of Tibet negotiated by representatives of the Republic of China, Tibet and India
+d) None
+Answer: D
+Simla Accord (1914) was as a treaty concerning the status of Tibet negotiated by representatives of the Republic of China, Tibet and the United Kingdom in Simla in 1913 and 1914.
+The Simla Agreement signed by Prime Minister Indira Gandhi and President Zulfikar Ali Bhutto of Pakistan on 2nd July 1972 was much more than a peace treaty seeking to reverse the consequences of the 1971 war (i.e. to bring about withdrawals of troops and an exchange of PoWs ). It was a comprehensive blue print for good neighbourly relations between India and Pakistan.
+Shillong Accord of 1975 was an agreement signed between the Government of and Nagaland's underground government (or Naga Federal government), to accept- · supremacy of Constitution of India without condition · surrender their arms and renounce their demand for the secession of Nagaland from India · representatives of the underground organisations should have reasonable time to formulate other issues for discussion for final settlement.
+Source: Wikipedia http://mea.gov.in/in-focus-article.htm?19005/Simla+Agreement+July+2+1972
+
+38. Which of the following is incorrect regarding Eutrophication ? .
+a) It is caused due to excessive algal bloom in ponds and lakes.
+b) Some algae may release toxins which are harmful for other aquatic organisms.
+c) It decreases the Biochemical Oxygen Demand of the water body.
+d) Algal bloom may cover the water surface blocking all the sunlight required for photosynthesis by underwater plants, leading to their death.
+Answer: C
+Eutrophication is when the environment becomes enriched with nutrients. This can be a problem in marine habitats such as lakes as it can cause algal blooms.
+. Fertilisers are often used in farming, sometimes these fertilizers run-off into nearby water causing an increase in nutrient levels.
+. This causes phytoplankton to grow and reproduce more rapidly, resulting in algal blooms.
+. This bloom of algae disrupts normal ecosystem functioning and causes many problems.
+. The algae may use up all the oxygen in the water i.e. increases the BOD( rather than deceasing), leaving none for other marine life. This results in the death of many aquatic organisms such as fish, which need the oxygen in the water to live.
+. The bloom of algae may also block sunlight from photosynthetic marine plants under the water surface.
+. Some algae even produce toxins that are harmful to higher forms of life. This can cause problems along the food chain and affect any animal that feeds on them.
+
+39. Pick the odd one out in the following sets of Mountains
+a) Himalayan Mountains- Nepal.
+b) Aravali Range- India.
+c) Vosges- Europe.
+d) Appalachians- North America.
+Answer: C
+Except Vosges, which is a Block Mountain Range, others are Fold Mountains.
+
+40. Consider the following statements:
+1. Jet streams are a feature of the upper stratosphere.
+2. The most typical feature of jet streams is their location in the atmosphere over the area of greatest temperature gradient.
+Which of the statements is/are correct?
+a) Both 1 and 2
+b) Neither 1 nor 3
+c) Only 1
+d) Only 2
+Answer: D
+Jet stream is a feature of the upper troposphere located over the area of greatest horizontal temperature gradient- that is, cold just poleward and warm just equatorward .
+
+41. Which of the following are correctly matched?
+1. Itai - Itai Cadmium
+2. Methemoglobinamia Methane
+3. Minamata disease Nitrates
+Select the correct answer using the code given below.
+a) All of the above
+b) 1 only
+c) 1 and 2
+d) 2 and 3
+Answer: B
+Itai-itai disease ("it hurts-it hurts disease") was the name given to the mass cadmium poisoning of Toyama Prefecture, Japan, starting around 1912. Cadmium poisoning can also cause softening of the bones and kidney failure. The cadmium was released into rivers by mining companies in the mountains, which were successfully sued for the damage. Itai-itai disease is known as one of the Four Big Pollution Diseases of Japan.
+Excess nitrate in drinking water can cause disease such as methemoglobinemia ('blue baby' syndrome).
+Minamata disease, sometimes referred to as Chisso-Minamata disease is a neurological syndrome caused by severe mercury poisoning. Symptoms include ataxia, numbness in the hands and feet, general muscle weakness, loss of peripheral vision, and damage to hearing and speech. In extreme cases, insanity, paralysis, coma, and death follow within weeks of the onset of symptoms.
+A congenital form of the disease can also affect fetuses in the womb.
+
+42. Consider the following regarding polar high:
+1. It develops because of the anticyclonic conditions brought about by the extremely low temperatures of the poles.
+2. Arctic high is much less pronounced and more transitory than it's Antarctic counterpart.
+3. Polar high gives rise to polar easterlies.
+Choose the correct option:
+a) Only 1
+b) Only 1 and 2
+c) Only 2 and 3
+d) 1, 2 and 3
+Answer: D
+Self explanatory.
+
+43. That field of science which encompasses the 'study of structure of atmosphere and elements of weather and climates and climatic types of regions' is -
+a) Climatology
+b) Geomorphology
+c) Hydrology
+d) Atmospherology
+Answer: A
+Climatology is the study of structure of atmosphere and elements of weather and climates and climatic types of regions.
+
+44. Consider the following statements with reference to the Real Estate (Regulation and Development) Bill, 2013
+1. It covers both residential and commercial real estate
+2. Mandatory registration of real estate projects and real estate agents
+3. The measures incorporated in the Bill, would boost domestic and foreign investment in the Real Estate sector
+4. The provisions under the Bill, would help the Government of India to achieve its objective of providing Housing for All by 2022.
+Select the correct answer using the code given below
+a) 1 and 2
+b) 1 Only
+c) 1, 2 and 3
+d) All of the above
+Answer: D
+The Union Cabinet chaired by the Prime Minister, Shri Narendra Modi , on April, 2015 gave its approval to amendments to the Real Estate (Regulation and Development) Bill, 2013 pending in the Rajya Sabha , and approved amendments proposed in the Bill.
+The Real Estate (Regulation and Development) Bill is a pioneering initiative to protect the interest of consumers, to promote fair play in real estate transactions and to ensure timely execution of projects.
+The Bill provides for a uniform regulatory environment, to protect consumer interests, help speedy adjudication of disputes and ensure orderly growth of the real estate sector. The Bill contains provisions of registration of real estate projects and registration of real estate agents with the Real Estate Regulatory Authority; functions and duties of promoters and allottees ; establishment of Real Estate Regulatory Authority; establishment of fast track dispute resolution mechanism through adjudication; establishment of a Real Estate Appellate Tribunal; offences and penalties etc.
+These measures are expected to boost domestic and foreign investment in the sector and help achieve the objective of the Government of India to provide 'Housing for All by 2022', through enhanced private participation.
+The Bill ensures mandatory disclosure by promoters to customers through registration of real estate projects as well as real estate agents with the Real Estate Regulatory Authority. The Bill aims at restoring confidence of the general public in the real estate sector; by instituting transparency and accountability in real estate and housing transactions. This in turn will enable the sector to access capital and financial markets essential for its long term growth. The Bill will promote orderly growth through consequent efficient project execution, professionalism and standardization.
+The Bill is expected to ensure greater accountability towards consumers, and to significantly reduce frauds and delays. The Bill is also expected to promote regulated and orderly growth through efficiency, professionalism and standardization. It seeks to ensure consumer protection, without adding another stage in the procedure for sanctions.
+Source: http://pmindia.gov.in/en/news_updates/amendments-to-the-real-estate-regulation-and-development-bill-2013/ http://pib.nic.in/newsite/PrintRelease.aspx?relid=118039
+
+45. Bio-accumulating compounds do not have which of the following characteristics?
+1. They are fat soluble.
+2. High resistance to degradation by biological means.
+3. Rate of accumulation is lower than the rate of removal.
+4. Highly soluble in water.
+Select the answer using the code given below.
+a) 1 and 2
+b) 3 and 4
+c) 1 and 3
+d) 2 and 4
+Answer: B
+Bioaccumulation refers to the accumulation of substances, such as pesticides, or other chemicals in an organism. Bioaccumulation occurs when an organism absorbs a toxic substance at a rate faster than that at which the substance is lost.
+These compounds are stored in the body's fat, and when the fatty tissues are used for energy, the compounds are released and cause acute poisoning. They are generally highly resistant to biological decay and are not easily soluble in water, hence they do not get out of the system of an organism through excreta.
+
+46. The interface between physical geography and human geography has led to the development of Biogeography.
+1. Environmental Geography
+2. Political Geography
+3. Zoo Geography
+4. Plant Geography
+5. Economic Geography
+Which of the following are included in Biogeography?
+a) Only (1), (2) and (3)
+b) Only (1), (3) and (4)
+c) Only (3), (4) and (5)
+d) All of the Above
+Answer: B
+Political and Economic Geography are not a part of Biogeography. The other three options are correct.
+
+47. Which of the following is incorrect about Intertropical convergence zone (ITCZ)?
+a) ITCZ can never shift beyond the Tropic of Cancer
+b) The minimum variation in the position of the ITCZ is observed on the eastern margin of the Pacific
+c) Maximum variation in the location of ITCZ is associated with monsoon activity in Eurasia and Australia
+d) All are correct
+Answer: A
+The shift in the location of ITCZ is closely associated with the weather and climatic characteristics of the tropics. It can shift as much as 25 degrees north of the equator in July and 20 degrees south of the equator in January. So, there is all possibility of the the ITCZ crossing the Tropic of Cancer.
+
+48. Consider the following statements with reference to the Government's flagship program Aadhaar or Unique Identity Authority of Indian (UIDAI)
+1. UIDAI is a non-statutory body
+2. Aadhaar is not mandatory for availing services or benefits under Government schemes.
+3. It provides identity to only citizens of India on Voluntary basis.
+4. Enrolment for a UID does not lead to automatic enrolment in the National Population Register (NPR)
+Select the correct answer using the code given below
+a) 1, 3 and 4
+b) 2 and 4
+c) 1, 2 and 4
+d) 2 and 3
+Answer: C
+The Unique Identification Authority of India (UIDAI) was established in January 2009 and is part of the Planning Commission of India. UIDAI aims to provide a unique 12 digit ID number to all residents (and not citizens alone) in India on a voluntary basis. The number will be known as AADHAAR. The UIDAI will own and operate a Unique Identification Number database which will contain biometric and demographic data of citizens.
+It was by an executive order of January 28, 2009 that the UIDAI was created. An executive action could not circumvent Parliament. National Identification Authority of India Bill 2010 is yet to receive approval of Parliament before being declared a law. Hence it is a non-statutory body.
+Objective: The scheme has been promoted by the UIDAI as enabling a number of social benefits including improving the public distribution system, enabling financial inclusion, and improving the Mahatma Gandhi National Rural Employment Guarantee Scheme (NREGS). Despite these benefits, the UIDAI only guarantees identity, and does not guarantee rights, benefits or entitlement Source: https://uidai.gov.in/about-uidai.html http://www.dailypioneer.com/todays-newspaper/aadhaar-has-no-legal-base.html
+
+49. Match the following
+1. Meteorology A) Population Geography
+2. Demography B) Soil Geography
+3. Sociology C) Climatology
+4. Pedology D) Social Geography
+Select the correct code
+a) 1B, 2C, 3A and 4D
+b) 1D, 2B, 3C and 4A
+c) 1A, 2D, 3B and 4C
+d) 1C , 2A, 3D and 4B
+Answer: D
+Meteorology is a part of Climatology. Demography is a term used in Population Geography. Sociology and Social Geography are inter-twined. Pedology is a part of Soil Geography.
+
+50. The first organisms to take hold in a hostile environment are called:
+a) Climax species
+b) Seral species
+c) First plants
+d) Pioneer species
+Answer: D
+The species that invade a bare area are called pioneer species. In primary succession on rocks these are usually lichens which are able to secrete acids to dissolve rock, helping in weathering and soil formation. These later pave way to some very small plants like bryophytes, which are able to take hold in the small amount of soil. They are, with time, succeeded by bigger plants, and after several more stages, ultimately a stable climax forest community is formed. The climax community remains stable as long as the environment remains unchanged.
+
+51. Which of the following local winds are colder than the air they replace while descending down a mountain slope?
+1. Mistral
+2. Taku
+3. Bora
+4. Foehn
+Select the correct code:
+a) All of the above
+b) Only 1, 3 and 4
+c) Only 1, 2 and 3
+d) Only 4
+Answer: C
+Foehn is warm relative to the air it replaces.
+
+52. Recently , the Government of India agreed to drop the key amendments in the controversial Land acquisition bill, 2015. Which of the following amendments/clauses were restored?
+1. Assent of 70% farmers for public-private partnerships
+2. Social Impact Assessment
+3. Assent of 80% farmers for private projects
+4. Stringent provisions that sought to punish officials for any malpractices during acquisition of land.
+Select the correct answer using the code given below
+a) 1, 2 and 4
+b) 1, 2 and 3
+c) 2, 3 and 4
+d) All of the above
+Answer: D
+Controversial amendments restored: · The consent clause in the 2013 law mandated that those acquiring land get the assent of 70% farmers for public-private partnerships (PPP) and 80% for private projects . This was removed by the NDA government to accommodate concerns of industry that the process of acquisition would be drawn out. It will now be reinstated.
+· Another key clause that has been reinstated is on social impact assessment . The industry lobby had argued that this would delay the process of acquisition.
+· Another amendment that sought to dilute stringent provisions that sought to punish officials for any malpractices during acquisition of land.
+To know more about Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 refer https://en.wikipedia.org/wiki/Right_to_Fair_Compensation_and_Transparency_in_Land_Acquisition,_Rehabilitation_and_Resettlement_Act,_2013
+
+53. The most accepted theory regarding the origin of the Moon, is
+a) Initially, the earth and the moon formed a single rapidly rotating body. The whole mass became a dumb-bell shaped body and eventually it broke.
+b) The material forming the moon has been separated from the depression that is currently occupied by the Pacific Ocean.  
+c) The formation of the Moon is due to a "great impact" where another celestial body collided with the Earth and it blasted a small piece of the Earth into space. This portion of the blasted material continued to orbit the earth.
+d) The Moon had its origins which are even prior to the origin of the Earth.
+Answer: C
+Even though a concrete proof doesn't exist, a majority of scientists believe that the formation of the Moon is due to a "great impact" where another celestial body collided with the Earth and it blasted a small piece of the Earth into space. This portion of the blasted material continued to orbit the earth.
+
+54. Which of the following is not correct about mangrove forests?
+1. They can survive in saline water.
+2. Their roots are not exposed during low tide.
+3. Some species have developed wide buttress roots.
+4. Leaves are adapted to expel large amount of water.
+Select the answer using the code given below.
+a) 1 and 3
+b) 1 and 2
+c) 2 and 4
+d) 2, 3 and 4
+Answer: C
+Mangroves have had to physically adapt their leaves, their roots and their reproductive methods in order to survive in a harsh, dynamic environment of soft, low oxygen soils and varying salinity.
+Leaf adaptations to saline conditions · Many mangrove species, such as the Grey Mangrove and the River Mangrove (common species along the Redlands coast), have leaves with glands that excrete salt.
+· Some species such as the Grey Mangrove can also tolerate the storage of large amounts of salt in their leaves - which are discarded when the salt load is too high.
+· Mangroves can also restrict the opening of their stomata (these are small pores through which carbon dioxide and water vapour are exchanged during photosynthesis). This allows the mangrove to conserve its fresh water, an ability vital to its survival in a saline environment.
+· Mangroves are able to turn their leaves to reduce the surface area of the leaf exposed to the hot sun.
+This enables them to reduce water loss through evaporation.
+Root adaptations to soft, saline, low oxygen soils · A distinctive feature of mangroves is their far-reaching, exposed roots. While these roots come in many different shapes and sizes, they all perform an important function - structural support in the soft soils.
+· Some species of mangroves have pneumataphores , which are above-ground roots. These are filled with spongy tissue and peppered with small holes that offer structural support and allow oxygen to be transferred to the roots trapped below ground in the anaerobic (low oxygen) soils.
+· The roots of many mangrove species are also adapted to stop the intake of a lot of the salt from the water before it reaches the plant.
+Reproductive adaptations to tidal environment · Some mangrove species have evolved to produce seeds that float. The tide acts as the method of dispersal to avoid crowding of young plants.
+· Other mangrove species are viviparous. They retain their seeds until after it has germinated and a long, cylindrical propagule has formed. When it has matured to this stage, the parent tree drops it into the water, where it remains dormant until it finds the soil and is able to put out roots.
+
+55. Which of the following are matched correctly? Local wind Region
+1. Mistral Rhone valley
+2. Bora Adriatic
+3. Foehn Alps
+4. Chinook Rocky
+Select the correct answer using the code given below
+a) Only 1 and 2
+b) Only 2, 3 and 4
+c) Only 4
+d) 1, 2 ,3 and 4
+Answer: D
+All are correct. Please note that local winds are very important for prelims point of view. Kindly go through the text and learn them by heart.
+
+56. The formation of the crust, mantle and core can be attributed to the following characteristic
+a) Volatility
+b) Density
+c) Pressure
+d) Volume
+Answer: B
+Due to the differential density, material with higher density flowed down and formed the Core and the Mantle, whereas material with lighter density floated on the top as the Crust.
+
+57. What is the main objective of the Smart Cities Mission?
+a) To make the city more competitive
+b) To improve the quality of life of people
+c) To provide robust and scalable infrastructure
+d) Connectivity evolution 
+Answer: B
+Though all the options are the objectives of the Smart Cities Mission, the main objective here, would be to improve the quality of life of citizens. UPSC comes out with similar questions just to confuse you. In this context, you have to choose the most appropriate answer among the given options.
+What is a SMART City? · A city equipped with basic infrastructure to give a decent quality of life, a clean and sustainable environment through application of some smart solutions.
+· Assured water and electricity supply, sanitation and solid waste management, efficient urban mobility and public transport, robust IT connectivity, e-governance and citizen participation, safety and security of citizens.
+· Public information, grievance redressal , electronic service delivery, citizens' engagement, waste to energy & fuel, waste to compost, 100% treatment of waste water, smart meters & management, monitoring water quality, renewable source of energy, efficient energy and green building, smart parking, intelligent traffic management system.
+For more information refer 's Monthly Current Affairs Magazine (August, 2015)
+
+58. Which of the following are the ideal conditions for the growth of corals ?.
+1. Clear transparent water to allow sunlight.
+2. High temperature about 21  o  C.
+3. Low salinity
+4. Turbidity
+Select the correct answer using the code given below.
+a) 1 and 2
+b) 1, 2 and 3
+c) 2, 3 and 4
+d) All of the above
+Answer: A
+The ideal conditions for the growth of corals are: 
+· High stable temperature. (almost all the tropical corals are found near 21 · Clean and transparent water, which allows sunlight.
+· Shallow depth (again for availability of sunlight) · Saline water( about 35 parts per thousand)
+
+59. Occurrence of El Nino will normally result in which of the following?
+1. Droughts in Indonesia, South India and Central America
+2. Floods in Australia
+3. Abnormally high temperature in eastern sub-tropical Pacific
+Select the correct answer using the code given below
+a) Only 1
+b) Only 1 and 2
+c) Only 2 and 3
+d) 1, 2 and 3
+Answer: A
+ o  C isotherm) The occurrence of El Nino is usually associated with droughts in Australia, Indonesia, Central America and India. Whereas areas like south-west United States, western Latin America etc receive high precipitation and flooding. Abnormally high temperature occurs in the equatorial Pacific.
+
+60. The correct chronology for the evolution of the atmosphere is 1.
+Loss of the Primordial Atmosphere.
+2.  Contribution of the hot interior of the earth.
+3.  Modification of the atmosphere by the living world through photosynthesis.
+4.  Global warming through the industrial revolution.
+Select the correct code
+a) (1)-(3)-(2)-(4)
+b) (2)-(1)-(3)-(4)
+c) (1)-(3)-(4)-(2)
+d) (1)-(2)-(3)-(4)
+Answer: D
+This is self-explanatory.
+
+61. Consider the following statements
+1. If a company exports a product at a price higher than the price it normally charges on its own home market is called dumping
+2. A protectionist tariff that a domestic government imposes on foreign imports that it believes are priced below fair market value is called anti-dumping
+Select the correct code/s
+a) Only 1
+b) Only 2
+c) Both
+d) None
+Answer: B
+First statement is wrong. When it is lower, it's called dumping Anti - Dumping Duty ' A protectionist tariff that a domestic government imposes on foreign imports that it believes are priced below fair market value.
+http://www.investopedia.com/terms/a/anti-dumping-duty.asp https://www.wto.org/english/tratop_e/adp_e/adp_e.htm http://www.thehindubusinessline.com/economy/macro-economy/antidumping-duty-imposed-on-linen-fabric-from-china-hong-kong/article7550042.ece
+
+62. Consider the following characteristics of the climate of region:
+1. Warm to hot all year
+2. Distinct wet and dry seasons
+3. Seasonal shifting of tropical wind and pressure belts, especially ITCZ
+Which of the following represents the climatic characteristics given above?  
+a) Savanna climate
+b) Monsoon climate
+c) Tropical wet climate
+d) Mediterranean climate
+Answer: A
+All the characteristics indicate towards savanna climate.
+
+63. The process through which the gasses were outpoured from the interior of the earth, during the evolution of the atmosphere, is called -
+a) Degassing
+b) Bubbling
+c) Sublimation
+d) There is no specific term for this phenomenon.
+Answer: A
+The process through which the gasses were outpoured from the interior of the earth, during the evolution of the atmosphere is called degassing.
+
+64. Recently, Nuclear Deal was signed between Iran and P5+1 country. Which among the following does not come under P5+1 country?
+a) China, Germany, France, Russia
+b) Germany, France, Russia, United Kingdom
+c) United States, Japan, France, United Kingdom
+d) France, United States, Germany, Russia
+Answer: C
+The term refers to the UN Security Council's five permanent members (the P5) namely China, France, Russia, the United Kingdom, and the United States; plus Germany. The P5+1 are often referred to as the E3+3 by European countries.
+
+65. Consider the following characteristics of the climate of region:
+1. Warm/ hot summers
+2. Mild winters
+3. Year round mildness in coastal areas
+4. Moderate precipitation concentrated in winter
+Which of the following represents the climatic characteristics given above?
+a) Monsoon climate
+b) British type climate
+c) China type climate
+d) Mediterranean climate
+Answer: D
+All the characteristics indicate towards Mediterranean climate.
+
+66. Match the following Critically Endangered species location
+1. Hangul Kashmir
+2. Large spotted Civet Western Ghats
+3. Pygmy hog Manipur
+4. Flying Squirrel Uttarakhand
+Select the correct answer using the code given below.
+a) all of the above
+b) 1 only
+c) 1 and 2
+d) 1,2 and 3
+Answer: C
+The Kashmir stag also called hangul , is a subspecies of wapiti native to India, Kashmir stag is listed as critically endangered by IUCN as population is counted 160 mature individuals in the 2008 census.
+The Malabar large-spotted civet also known as the Malabar civet, is a viverrid endemic to the Western Ghats of India. It is listed as Critically Endangered by IUCN as its population size is estimated to number fewer than 250 mature individuals, with no subpopulation greater than 50 individuals.
+The pygmy hog is a critically endangered suid , previously spread across India, Nepal, and Bhutan, but now only found in Assam. The current world population is about 150 individuals or fewer The Namdapha flying squirrel is an arboreal, nocturnal flying squirrel endemic to India.  The known habitat is tall Mesua ferrea jungles, often on hill slopes in the catchment area of Na Dihing river (particularly on the western slope of Patkai range) in North eastern India.
+
+67. Which of the following d oesn't aid the formation of katabatic winds?
+a) Gravity
+b) Convection
+c) Radiation cooling
+d) Funneling through a narrow valley
+Answer: B
+A katabatic wind originates from radiational cooling of air atop a plateau, a mountain, glacier, or even a hill. Since the density of air is inversely proportional to temperature , the air will flow downwards, warming adiabatically as it descends. The temperature of the wind depends on the temperature in the source region and the amount of descent. In the case of the Santa Ana, for example, the wind can (but does not always) become hot by the time it reaches sea level. In the case of Antarctica, by contrast, the wind is still intensely cold.
+As you know c onvection has no role to play in the formation of katabatic winds.
+
+68. Which one of the following has the longest duration?
+a) Eon
+b) Period
+c) Era
+d) Epoch 
+Answer: A
+Eon>Era>Period>Epoch
+
+69. Consider the following statements
+1. Recently launched, GSAT-6 is a communication satellite of India
+2. It will provide national security and law enforcement agencies, a secured satellite telephony service, through S-Band communication services.
+3. It will provide multimedia and broadcasting services through C-Band communication services.
+Select the correct code
+a) Only 1
+b) 2 and 3
+c) Only 2
+d) 1, 2 and 3
+Answer: A
+The GSLV D-6 is the second successful consecutive launch of the GSLV series with indigenous cryogenic upper stage. ISRO had on January 5, 2014 launch GSLV D-5, after a similar attempt failed in
+2010.
+S- Band: Multimedia applications C- Band: secured satellite telephony service The 2,117-kg GSAT-6 is a predominantly S-band communication satellite that enables multimedia applications . It will be used purely for 'strategic' purposes by the Armed Forces and for societal uses during a disaster or an emergency.
+http://www.thehindu.com/todays-paper/tp-national/gsat6-will-be-a-game-changer/article7584402.ece http://www.thehindu.com/news/national/geostationary-satellite-launch-vehicle-gslvd6-successfully-launched/article7587039.ece
+
+70. The magnitude scale and the intensity scale used to measure during an earthquake are 
+a) Richter and Mercalli scale respectively.
+b) Mercalli and Richter scale respectively.
+c) Both are measured by the Richter scale.
+d) Both are measured by the Mercalli scale.
+Answer: A
+Richter scale is used to measure the magnitude of the earthquake whereas Mercalli scale is just used to measure the intensity of the earthquake
+
+71. Which of the following is not a characteristic of La Nina?
+a) Unusually cool water off the Indonesian coast
+b) Stronger trade winds
+c) Wetter Southeast Asia and Australia
+d) Intense monsoons
+Answer: A
+Water off the Indonesian coast becomes warmer than the usual. It leads to intensification of precipitation in the region.
+
+72. Which of the following explains the correct meaning of Catabolism?
+a) Physical Break down of detritus into smaller particles.
+b) Inorganic material percolates into the soil and precipitate in different horizons.
+c) Degradation of detritus into simpler inorganic compounds by the action of bacterial and fungal enzymes.
+d) Removal of water content from the organic material in the presence of sunlight.
+Answer: C
+Detritivores (e.g., earthworm) break down detritus into smaller particles. This process is called fragmentation. By the process of leaching, water soluble inorganic nutrients go down into the soil horizon and get precipitated as unavailable salts. Bacterial and fungal enzymes degrade detritus into simpler inorganic substances. This process is called as catabolism.
+
+73. Which of the following are the immediate effects of earthquakes?
+1. Differential ground settlement
+2. Soil liquefaction.
+3. Land and mud slides
+4. Ground lurching.
+5. Ground displacement.
+6. Fires and Floods
+Select the correct code
+a) Only (1), (2), (3) and (5)
+b) Only (2), (3), (4), (5) and (v6)
+c) Only (1), (3), (4) and (5)
+d) All of the Above
+Answer: D
+The options are self-explanatory
+
+74. Consider the following statements regarding precipitation pattern:
+1. Western coast of tropical landmasses receive heavy rainfalls due to pronounced orographic effect.
+2. North Africa and Australia have extensive dry zones because of the blocking effect of the landmasses or highlands to the west.
+Choose the correct options from the codes given below:
+a) Only 1
+b) Only 2
+c) Both 1 and 2
+d) Neither 1 nor 2
+Answer: D
+It is the eastern coast of tropical landmasses that receive heavy rainfalls due to pronounced orographic effect. North Africa and Australia have extensive dry zones because of the blocking effect of the landmasses or highlands to the east
+
+75. The Companies Act of 2013 mandates a contribution of two per cent of post-tax profits of companies to corporate social responsibility (CSR) activities. Consider the following
+1. Contribution to the Prime Minister's National Relief Fund
+2. Reducing child mortality
+3. Combating human immunodeficiency virus
+4. Contribution to any fund set up by the Central Government or the State Governments for socio-economic development
+Which of the above activities are considered as Corporate Social Responsibility?
+a) 1, 2 and 3
+b) 2 and 3 Only
+c) None
+d) All of the above
+Answer: D
+Activities which may be included by companies in their Corporate Social Responsibility Policies · eradicating extreme hunger and poverty; · promotion of education; · promoting gender equality and empowering women; · reducing child mortality and improving maternal health; · combating human immunodeficiency virus, acquired immune deficiency syndrome, malaria and other diseases; · ensuring environmental sustainability; · employment enhancing vocational skills; · social business projects; · contribution to the Prime Minister's National Relief Fund or any other fund set up by the Central Government or the State Governments for socio-economic development and relief and funds for the welfare of the Scheduled Castes, the Scheduled Tribes, other backward classes, minorities and women; and · such other matters as may be prescribed.
+Source: http://www.india-briefing.com/news/indias-corporate-social-responsibility-mandate-companies-act-2013-8057.html/
+
+76. Which of the following statements is/are true about the Earth's crust?
+1. It is brittle in nature.
+2. Oceanic crust is thicker than continental crust.
+3. Oceanic crust has predominantly basalt in it.
+4. It is the outermost solid part of the earth.
+Select the correct code
+a) Only (1) and (4)
+b) Only (1), (2) and (4)
+c) Only (1), (3) and (4)
+d) All of the Above 
+Answer: C
+Oceanic crust is thinner than the continental crust.
+
+77. Which of the following places will record highest variability in precipitation?
+a) Philippines
+b) Mexico city
+c) Riyadh
+d) Singapore
+Answer: C
+Riyadh's location in the interior gives its climate the typical continental character. In continental climate, the variability of precipitation is too high.
+
+78. Capital Infusion in an economy
+1. Increases demand
+2. Decreases the interest rate
+3. Increases savings
+4. Increases efficiency
+Select the correct answer using the code given below
+a) 1 and 2 Only
+b) 2 and 3 Only
+c) 1, 2 and 4
+d) 1, 3 and 4
+Answer: A
+Capital infusion often refers to the cross-subsidization of divisions within a firm. When one division is not doing well, it might benefit from an infusion of new funds from the more successful divisions. In the context of venture capital, it can also refer to funds received from a venture capitalist to either get the firm started or to save it from failing due to lack of cash.
+In the context of an economy, the Capital infusion will increase investment and demand. It neither increases savings or efficiency of an economy. It is upto the economy on how the efficiently the money is spent during the crisis situation.
+Capital Infusion will lower the cost of lending to banks under the Marginal Standing Facility Window (MSF) to improve liquidity in the system.
+More capital to PSU banks will lower the borrowing cost and increase their capacity to lend, besides promoting investments.
+Source: http://www.nasdaq.com/investing/glossary/c/capital-infusion
+
+79. During volcanic eruptions, magma comes to the surface. This magma comes from -
+a) The Asthenosphere .
+b) The Outer Core.
+c) The Inner Mantle.
+d) The Lower Crust.
+Answer: A
+Most of the magma which comes out during the volcanic eruptions is originated from the Asthenosphere , which is at the boundary of the Crust and the Outer Mantle.
+
+80. Which of the following is the most abundant greenhouse gas in the Earth's atmosphere?
+a) Carbon dioxide
+b) Methane
+c) Water vapor
+d) Nitrous oxide
+Answer: C
+Self explanatory
+
+81. Standing crop means: 
+a) Net crop grown by a farmer in one season.
+b) The mass of living material at a certain time in a certain trophic level.
+c) Total dry mass of forest produce in a year.
+d) None of the above.
+Answer: B
+Each trophic level has a certain mass of living material at a particular time called as the standing crop.
+The standing crop is measured as the mass of living organisms (biomass) or the number in a unit area.
+The biomass of a species is expressed in terms of fresh or dry weight
+
+82. The "NIFE" layer is chemically made up of
+a) Nitrogen, Iodine and Ferrous.
+b) Nickel and Iron.
+c) Nitrogen and Iron.
+d) Nickel and Fluorine Extract.
+Answer: B
+Nife - Nickel and Iron (Fe).
+
+83. Consider the following
+1. Gudi Parwa
+2. Holi
+3. Ugadi
+4. Kanyarkali
+Which of the above are Harvest Festivals of India?  
+a) 2 and 4
+b) 1, 2 and 3
+c) 2, 3 and 4
+d) All of the above
+Answer: D
+Onam , biggest harvest festival is celebrated in August- September in Kerala All are harvest festivals of India
+
+84. This type of volcanoes are the most explosive -
+a) Calderas
+b) Mid-Ocean Ridge Volcanoes.
+c) Shield Volcanoes.
+d) Deccan Traps
+Answer: A
+Calderas are the most explosive.
+
+85. Which of the following ecological pyramids are always upright ?.
+a) Pyramid of numbers
+b) Pyramid of biomass
+c) Pyramid of Energy
+d) All of these can be inverted in special cases.
+Answer: C
+The energy pyramid is always upright as the flow of energy is always unidirectional from lower tropic level to higher trophic level. Only 10% energy is transferred from lower to higher trophic level. This is called ten percent rule.
+
+86. On 19th August 2015, the Reserve Bank of India gave 'in-principle' licenses to eleven entities to launch payments banks. Which of the following statements are correct with regard to Payment Banks?
+1. These are specialised banks that provide services mainly to small businesses, low income households and also unorganised sector
+2. They do not carry lending activities
+3. It is mandatory that 25% of its branches must be in the unbanked rural area.
+4. They accept deposits and remittances services
+Select the correct answer using the codes given below.
+a) 1, 2 and 3
+b) 2 and 4
+c) All of the above
+d) 1 and 4
+Answer: C
+Payment Banks are a step towards financial inclusion Characteristics of payment banks: 
+· These are specialised banks that provide services to small businesses, migrated labour and low income households.
+· Payments banks will provide small savings accounts to its customers.
+· Payments banks will also allow mobile firms, supermarket chains and others to cater to small scale businesses.
+· Payments banks do not carry lending activities. This means that the banks are not allowed to give credits to its customers.
+· Such banks will only be allowed to accept deposits and offer payment services.
+· These banks have to use 'Payments Bank' in its name which will differentiate it from other banks.
+· Payments banks cannot form subsidiaries or undertake any non-banking activities.
+· These banks are mainly based in rural parts of India, specifically areas which are unbanked.
+· The deposits made in payments banks need to be invested in government bonds.
+· 25% of its branches must be in the unbanked rural area. The bank must use the term "payments bank" in its to differentiate it from other types of bank. The banks will be licensed as payments banks under Section 22 of the Banking Regulation Act, 1949 and will be registered as public limited company under the Companies Act, 2013.
+For more information refer 's Monthly Current Affairs Magazine (August, 2015) http://www.allbankingsolutions.com/Banking-Tutor/Payment-Banks-in-India.htm
+
+87. Consider the statements regarding Earth's interior and seismic waves.
+1. Primary waves totally disappear in the core region revealing that outer core is made up of liquid.
+2. Secondary waves show changes in its speed as it travels from magma chamber to lithosphere region indicating difference in density.
+3. The speed of secondary waves is highest inside the Earth's Core region indicating highest density in the Core region.
+Select the correct code
+a) 1, 2 only.  
+b) 2 only.
+c) 1, 3only.
+d) 2, 3 only.
+Answer: B
+The second statement is only correct one amongst them all.
+
+88. Which of the following has the largest population in the food chain?
+a) Producers
+b) Primary consumers
+c) Secondary consumers
+d) Decomposers
+Answer: D
+Decomposers play an important role in the food chain. Usually they are not represented in ecological pyramids. But as far as their number is concerned, they are the highest amongst all trophic levels.
+
+89. ________ separates Lakshadweep islands (India) from Maldives
+a) Eight degree channel
+b) Nine degree channel
+c) Ten degree channel
+d) None
+Answer: A
+Eight degree channel separates Lakshadweep islands (India) from Maldives
+
+90. A: In the stratosphere, temperature increases with increasing height.
+R: The presence of ozone layer increases the absorption of UV rays from insolation .
+Select the correct code 
+a) Both A and R are true and R is the correct explanation of A.
+b) Both A and R are true but R is not the correct explanation of A.
+c) A is true but R is false.
+d) A is false but R is true.
+Answer: A
+Both the statements are true, and the statement (B) is the correct reasoning for statement (A)
+
+91. With reference to the earth's origin, the primitive environment primarily consisted of which of the following gases:
+1. Nitrogen
+2. Ammonia
+3. Fluorine
+4. Methane
+5. Nitrogen dioxide
+6. Hydrogen
+7. Oxygen
+8. Carbon dioxide
+Select the correct code
+a) 2, 4, 6 and 8 only
+b) All of the above
+c) 1, 2, 4, 6, 7 and 8 only
+d) 6 only
+Answer: A
+Ammonia, methane, hydrogen and carbon dioxide were the only predominant gases during the primitive environment of the initial stages of the planet Earth.
+
+92. Earth's magnetosphere is the area around the Earth where the geomagnetic field stretches out into space. Consider the following statements regarding magnetosphere.
+1. It is uneven in shape as it stretches largely towards the Sun because of Sun's magnetic field.
+2. Solar winds can have influence on the Earth's magnetosphere.
+3. This sphere deflects the charged particles that approach the Earth's surface.
+Select the correct code
+a) 1, 2 only.
+b) 2, 3 only.
+c) 1, 3 only.
+d) All the above.
+Answer: B
+It stretches away from the sun's magnetic field, so Statement 1 is wrong. The other two are correct.
+
+93. The atmosphere is held around the earth by
+a) Primordial heat from inside the earth
+b) Magnetic force around the earth that attracts all charged dust particles
+c) Coriolis force and adhesive frictional force between the earth and atmosphere
+d) Gravitational force of the Earth
+Answer: D
+Self-explanatory - Gravitational force of the Earth.
+
+94. Consider the following statements
+1. Water and Temperature are the limiting factors in the productivity of an ecosystem
+2. Interactions and associations like mutualism or parasitism has no role to play in productivity of an ecosystem
+Select the incorrect statement/s
+a) Only 1
+b) Only 2
+c) Both
+d) None 
+Answer: B
+Water, nutrient and temperature affect the productivity of an ecosystem. Compare desert with tropical areas! Also, biological interactions like mutualism; parasitism etc increase the productivity of an ecosystem.
+
+95. Consider the following statements
+1. Sucker fish and shark shows amensalism relationship
+2. Mutualism is exemplified by the nitrogen fixing bacteria.
+3. Symbiosis is a condition in which there is a close physical association between the individuals of a pair of species.
+Select the incorrect statements
+a) 1 and 2
+b) 2 and 3
+c) Only 2
+d) Only 1
+Answer: D
+Sucker fish and shark shows commensalism.
+
+96. Consider the following
+1. Octopus
+2. Hagfish
+3. Sable fish
+4. Shark
+Which of them are belongs to benthos community?
+a) 1 and 3
+b) 2, 3 and 4
+c) 1, 2, 3
+d) All
+Answer: D
+All belongs to benthos community. Benthos community includes all those plants and animals which live on the sea bottoms right from the littoral marine biome to the open sea biome.
+
+97. Which of the following factors control the depth of the photic zone?
+1. Presence of suspended particulate matters
+2. The angle at which sun's ray hit the earth's surface
+3. The differential rate of wavelength absorption
+Select the correct answer using the code
+a) Only 2
+b) 1, 2 and 3
+c) Only 3
+d) 1 and 2
+Answer: B
+Self explanatory
+
+98. Consider the following statements
+1. In the ocean, the temperature variations increases with increasing depth
+2. The marine environment is thermally less stable than the land environment
+Select the correct statement/s using code
+a) Only 1
+b) Only 2
+c) Both
+d) None
+Answer: D
+Temperature variations go on decreasing with increasing depth and in Deep Ocean, seasonal temperature variation become insignificant. Marine environment is thermally more stable than land environment. The specific heat of water is higher than solid; it absorbs heat and loses it more slowly than the land surface. Also, ocean temperatures remain in a far narrower range and change far more slowly than land temperatures.
+
+99. India has launched its first Air Quality Index. What are the chief pollutants under AQI?
+1. Ozone
+2. Sea Spray
+3. Sulphur dioxide
+4. Nitrogen dioxide
+5. Elementary Carbon
+Select the correct code
+a) 1, 3, 4 and 5
+b) 2, 3, 4 and 5
+c) 1, 2, 3, 4 and 5
+d) 1, 3 and 4
+Answer: C
+Sea spray refers to aerosol particles that are formed directly from the ocean. Sea spray is a form of Particulate Matter. Elementary carbon is also known as Black Carbon-a PM. So, all of the above are chief pollutants under AQI
+
+100. Which of the following are associated with natural processes of Nitrogen Fixation?
+1. Lightening
+2. Cloud Bursting
+3. Bacteria
+4. Blue-green Algae
+5. Fungi
+Select the correct codes
+a) 1, 2,3 and 4
+b) 3, 4 and 5
+c) 1, 3 and 4
+d) 1, 2, 3, 4 and 5 
+Answer: C 
+There are only two major pathways of natural nitrogen fixation and they are lightening and by bacteria and blue green algae 

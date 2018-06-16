@@ -1,0 +1,995 @@
+Q1. If the side of a cubical room is root(3) m, then the maximum length of the pole that can be placed inside it can be
+(a) 2root(3)m
+(b) 3 m
+(c) 3root(3) m
+(d) 9 m
+
+Q2. A car runs at a speed of 40 km per hour during the first half of the journey and at a speed of 60 km per hour during the second half of the journey. The average speed of the car is 
+(a) 48 kmph
+(b) 50 kmph
+(c) 52 kmph
+(d) 54 kmph
+
+Q3. In the figure given below, if angle X = 60°, angle Y = 100° and ABC is an equilateral triangle, then angle Z =
+(a) 100°
+(b) 120°
+(c) 140°
+(d) 160°
+
+Q4. If '+' means 'subtraction', '÷' means 'addition', '?' means 'less than', '-' means 'greater than', 'x' means 'equal to', '<' means 'multiplication', and '>' means 'division', then which of the following statements is true ?
+(a) 9 ? 5 + 2 ÷ 4 > 12
+(b) (9 + 5) ? (2 < 4) > 2
+(c) 9 + 5 ÷ (2 < 4) x 12
+(d) 9 < 5 - 2 ÷ (4 < 12)
+
+Q5. Approximate value of [201/2 + 25-1/2 + 183 + 10-2] is
+(a) 5828
+(b) 5842 
+(c) 5836
+(d) 5844
+
+Q6. If the diameter of a cycle wheel is 3 ft, then the number of complete rotations that the wheel will make in covering a distance of 30 ft is
+(a) 2
+(b) 3
+(c) 4
+(d) 5
+
+Q7. Ram Singh gives half of his cash reserves to his wife, one half of the remaining to his son and one third of the remaining to his daughter. If his daughter's share is Rs. 12,500, then the total cash reserves with Ram Singh were
+(a) Rs. 21,500
+(b) Rs. 75,000
+(c) Rs. 1,00,000
+(d) Rs. 1,50,000
+
+Q8. In binary system, 1010 is equivalent to
+(a) 8
+(b) 9
+(c) 10
+(d) 11
+
+Q9. In the following division sum, where x's represent digits from 0 to 9, the digit at the hundredth place in the dividend
+(a) 0
+(b) 1
+(c) 2
+(d) 3
+
+Q10. Two taps can fill a tank separately in 20 minutes and 30 minutes respectively. If both the taps are opened simultaneously, then the tank can be filled in
+(a) 50 minutes
+(b) 15 minutes
+(c) 12 minutes
+(d) 10 minutes
+
+Q11. The dimensions of a rectangle are 51 m and 49 m respectively while side of a square is 50 m. Which of the following statements is correct ?
+(a) Diagonals of the square and the rectangle are equal
+(b) Diagonals of both the geometrical figures intersect at right angles
+(c) The perimeters of both the geometrical figures are equal
+(d) Both the geometrical figures are of the same area
+
+Q12. Which of the following represents the relationship between animals, elephants and lions ?
+
+Q13. If 1/3 can be written as (13), M/N as (MN) and P, Q, R, S are integers such that then
+(a) (PQ, RS) = (I, I)
+(b) (PS, QR) = (I, I)
+(c) (PR, QS) = (I, I)
+(d) (QR, PS) = (I, I)
+
+Q14. In a school, out of 40 staff members, 30 are males. Some of the female teachers can sing while no male can sing. The principal invited six persons to a party by drawing lots. It was found that no member in the party could sing. Which of the following conclusions can be definitely drawn ?
+(a) Only males were invited to the party
+(b) Some of the invitees were males and some were females who could not sing
+(c) Only females, who could not sing, were invited to the party
+(d) None of the above
+
+Q15. A dice has numbers 1, 2, 3, 4, 5 and 6 on its faces. Four positions of the dice are as shown below. The number on the face opposite to the face with number 6 is
+(a) 2
+(b) 3 
+(c) 4
+(d) 5
+
+Q16. Which of the following expressions has the greatest value ?
+(a) [(2-1)0]2
+(b) [(40)-1/2]2
+(c) [(2-2)-1]2
+(d) [(2-1)2]2
+
+Q17. Avinash is Ravi's eldest brother. Ravi is younger to Ajay. Ravi and Ajay are not brothers. Which of the following statements is definitely true ?
+(a) Ajay is younger to Avinash
+(b) Avinash is younger to Ajay
+(c) Ajay is younger to Ravi
+(d) None of the above
+
+Q18. Lineage is
+(a) A straight line joining any two points on the globe
+(b) The line of descendants of a particular ancestor
+(c) The paleolithic age
+(d) The linking of genes
+
+Q19. Arrange the following in a chronological order
+(i) Foundation of Muslim League
+(ii) Jallianwala Bagh Massacre
+(iii) Khilafat Movement
+(iv) Civil Disobedience Movement
+(a) (i), (iii), (ii), (iv)
+(b) (i), (ii), (iii), (iv)
+(c) (iv), (ii), (i), (iii)
+(d) (ii), (iv), (i), (iii) 
+
+Q20. Which of the following was the principal article of food of the Indus Valley people ?
+(a) Fish
+(b) Palm-date
+(c) Eggs
+(d) Wheat
+
+Q21. Which of the following is a characteristic feature of the Indus Valley Civilisation?
+(a) Their chief deities were Mother Goddess and Shiva
+(b) They worshipped bulls
+(c) They had all amenities of a developed city life
+(d) They did not know of iron
+
+Q22. Which of the following statements about Hiuen-Tsang is not true ?
+(a) He visited India during the reign of Harshavardhana
+(b) He spent some time at Nalanda University
+(c) He advocated for strong Indo-China relations
+(d) He influenced Buddhism
+
+Q23. 'Go back to the Vedas' was the motto of
+(a) Swami Vivekananda
+(b) Raja Ram Mohan Roy
+(c) Swami Dayanand Saraswati
+(d) M. G. Ranade
+
+Q24. Arrange the following in a chronological order :
+(i) Dandi March
+(ii) Simon Commission
+(iii) Poona Pact
+(iv) Gandhi Irwin Pact
+(a) (i), (ii), (iii), (iv) 
+(b) (iii), (ii), (i), (iv)
+(c) (ii), (i), (iii), (iv)
+(d) (iii), (iv), (ii), (i)
+
+Q25. Which of the following States has 'Urdu' as its official language ?
+(a) Bihar
+(b) Jammu & Kashmir
+(c) Madhya Pradesh
+(d) Rajasthan
+
+Q26. India, Pakistan and Bangladesh are the members of SAARC. The other members of SAARC are
+(a) Burma, Bhutan, Nepal, Maldives
+(b) Sri Lanka, Bhutan, China, Afghanistan
+(c) Bhutan, Nepal, Sri Lanka, Maldives
+(d) Mauritius, Afghanistan, Burma, China
+
+Q27. In 1981, approximately 13,000 million eggs were consumed in India. The per capita consumption of eggs in India was
+(a) 18
+(b) 19
+(c) 20
+(d) 23
+
+Q28. According to the Livestock Census of 1982 in India, the ratio of the cattle population to the buffalo population was approximately
+(a) 1 : 2
+(b) 1 : 3
+(c) 2 : 3
+(d) 3 : 1
+
+Q29. Gandhara School of Art was developed during the reign of 
+(a) Ashoka
+(b) Kanishka
+(c) Chandragupta
+(d) Bindusara
+
+Q30. In 1985, Baba Amte received
+(a) Padma Bhushan
+(b) Nobel Prize for Literature
+(c) Ramon Magsaysay Award for Public Service
+(d) Goethe Award
+
+Q31. The main function of the National Development Council is
+(a) To promote national integration
+(b) To develop villages
+(c) To review the working of the National Plan from time to time
+(d) None of the above
+
+Q32. In South Africa, the approximate percentage of non-whites is
+(a) 70%
+(b) 60%
+(c) 40%
+(d) 80%
+
+Q33. Sarkaria Commission was set up to
+(a) Investigate about the riots that took place in Delhi in 1984
+(b) Maintain Centre-State relationship
+(c) Make necessary investigations and suggestions regarding the problem of Punjab
+(d) Investigate about the assassination of Mrs. Indira Gandhi
+
+Q34. The Communist Khmer Rouge is a political party of
+(a) North Korea 
+(b) Vietnam
+(c) Kampuchea
+(d) Thailand
+
+Q35. Which of the following States has the largest population of Scheduled Tribes?
+(a) Assam
+(b) Madhya Pradesh
+(c) Bihar
+(d) West Bengal
+
+Q36. "Curtain Raisers" is written by
+(a) R. K. Narayan
+(b) Kuldip Nayar
+(c) Nirad C. Chaudhuri
+(d) K. Natwar Singh
+
+Q37. Kahuta is
+(a) A bird sanctuary in Tamil Nadu
+(b) A tribe of Mizoram
+(c) A place in Pakistan where nuclear research centre is located
+(d) None of the above
+
+Q38. Which of the following statements is true about Annie Besant ?
+(i) She was the President of Indian National Congress
+(ii) She was the founder of the Asiatic Society
+(iii) She was the founder of the Theosophical Society
+(a) (i) and (ii)
+(b) (i) and (iii)
+(c) (i) only
+(d) (i), (ii) and (iii)
+
+Q39. Which of the following statements about Mohammad-bin- Tughlaq is correct ?
+(a) He introduced paper currency
+(b) He introduced the postal system
+(c) He was the ablest man among the crowned heads of the medieval age
+(d) None of the above
+
+Q40. Which of the following was the main reason of the downfall of Mauryan empire?
+(a) Weak successors of Ashoka who could not control the empire properly
+(b) Religious policy of Ashoka
+(c) Ashoka maintained friendly relations with his neighbours
+(d) None of the above
+
+Q41. Which of the following countries joined EEC on January 1, 1986 ?
+(a) Spain and Greece
+(b) Denmark and Belgium
+(c) Portugal and Spain
+(d) Italy and Portugal
+
+Q42. Which of the following statements is correct ?
+In 1985, Geet Sethi
+(a) Became the youngest World billiards champion
+(b) Defeated Subhash Agarwal to reach the finals
+(c) Won Arthur Walker Trophy
+(d) None of the above
+
+Q43. Arrange the following in proper sequence :
+(i) "Vinayapitaka"
+(ii) "Gita Govinda" 
+(iii) "Raghuvansha"
+(iv) "Atharvaveda"
+(a) (iii), (ii), (i), (iv)
+(b) (iv), (iii), (ii), (i)
+(c) (iv), (i), (iii), (ii)
+(d) (ii), (iv), (iii), (i)
+
+Q44. Which of the following proposals were made by the Cripps Mission ?
+(i) Participation of Indian States in the Constitution-making body
+(ii) Forming separate State for the Muslims
+(iii) Election of the Constitution-making body by the members of the lower house of the Provincial Legislature
+(a) (i) and (ii)
+(b) (i) and (iii)
+(c) (ii) and (iii)
+(d) (i), (ii) and (iii)
+
+Q45. Asom Gana Parishad was recently in the news because
+(a) Of the 64 elected members, 52 are bachelors
+(b) All the 64 legislators are in the age group of 25 to 35
+(c) All the legislators have been elected for the first time
+(d) All of the above
+
+Q46. After U.S.A., which of the following countries has decided to withdraw from the UNESCO ?
+(a) U.S.S.R.
+(b) China
+(c) U.K.
+(d) None of these
+
+Q47. India earns maximum foreign exchange from the export of
+(a) Gems and jewellery 
+(b) Non-ferrous base metals
+(c) Textile fabrics including cotton and man-made fibres
+(d) Tea
+
+Q48. Which of the following statements is true ?
+(a) India was placed second in the Los Angeles Olympic hockey competition
+(b) India won gold medal in the Moscow Olympic Hockey competition
+(c) India won the 1985 Champions Trophy
+(d) 1982 World Cup Hockey tournament was held in Pakistan
+
+Q49. The Directive Principles of State Policy have been given precedence over Fundamental Rights in the .. Constitutional Amendment
+(a) 41st
+(b) 42nd
+(c) 43rd
+(d) 45th
+
+Q50. The Prevention of Food Adulteration Act came into force in
+(a) 1954
+(b) 1955
+(c) 1964
+(d) 1976
+
+Q51. Which of the following States are not covered by the Panchayati Raj ?
+(a) Tripura and Sikkim
+(b) Manipur and Assam
+(c) Meghalaya and Nagaland
+(d) Assam and West Bengal 
+
+Q52. Match the columns :
+(A) Vitamin A 1. Beriberi
+(B) Vitamin B 2. Rickets
+(C) Vitamin C 3. Scurvy
+(D) Vitamin D 4. Sterility
+(E) Vitamin E 5. Night Blindness
+  A B C D E
+(a) 5 4 3 2 1
+(b) 5 1 3 2 4
+(c) 1 2 3 4 5
+(d) 3 2 1 5 4
+
+Q53. Who inscribed the name of Khalifa of Baghdad on his coins ?
+(a) Alauddin Khilji
+(b) Iltutmish
+(c) Qutub-ud-din
+(d) Balban
+
+Q54. Theatre production of Peter Brooks' "Mahabharata" features whom among the following ?
+(a) Victor Banerjee
+(b) Mallika Sarabhai
+(c) Shashi Kapoor
+(d) Naseeruddin Shah
+
+Q55. Match the columns :
+(A) Rajendra Prasad 1. "A Nation in the Making"
+(B) Dilip Mukherjee 2. "India Divided"
+(C) S. N. Bannerjee 3. "My Experiments with Truth" 
+(D) Mahatma Gandhi 4. "The Terrorists"
+  A B C D
+(a) 2 1 4 3
+(b) 2 4 1 3
+(c) 4 2 3 1
+(d) 2 4 3 1
+
+Q56. Match the columns :
+(A) English 1. Israel
+(B) Amharic 2. Namibia
+(C) Swahili 3. Ethiopia
+(D) Hebrew 4. Kenya
+(a) 3 4 1 2
+(b) 4 1 2 3
+(c) 2 4 1 3
+(d) 2 3 4 1
+
+Q57. Match the columns :
+(A) Australia 1. Pretoria
+(B) Canada 2. Riyadh
+(C) South Africa 3. Canberra
+(D) Saudi Arabia 4. Ottawa
+  A B C D
+(a) 2 4 1 3
+(b) 3 4 1 2
+(c) 4 3 1 2
+(d) 3 4 2 1
+
+
+Q58. Match the columns:
+(A) Varanasi 1. Indian Rare Earths Ltd.
+(B) Koyali 2. Hindustan Machine Tools Ltd.
+(C) Pinjore 3. Diesel Locomotive Works
+(D) Alwaye 4. Petro-chemical complex
+  A B C D
+(a) 4 3 2 1
+(b) 3 4 2 1
+(c) 1 2 3 4
+(d) 1 2 4 3
+
+Q59. Match the columns :
+(A) Amjad Ali Khan 1. Flute
+(B) Ali Hussain 2. Sarod
+(C) Hari Prasad Chaurasia 3. Tabla
+(D) Alia Rakha 4. Shehnai
+  A B C D
+(a) 2 1 3 4
+(b) 4 2 1 3
+(c) 2 4 1 3
+(d) 1 2 3 4
+
+Q60. Which of the following statements about ozone layer is correct ?
+(a) It converts UV radiations into electrical energy
+(b) It protects the earth's life forms by preventing the damaging UV radiations from reaching earth's surface
+(c) It is of uniform thickness 
+(d) None of the above
+
+Q61. Pumice is derived from
+(a) Volcanic rock
+(b) Sedimentary rock
+(c) Igneous rock
+(d) Acid lava
+
+Q62. Standard of living of a nation can be judged by
+(a) Increase in GNP at factor cost
+(b) Increase in GNP at cost including taxes and duties
+(c) Increase in NNP at factor cost
+(d) None of the above
+
+Q63. When Mohsina Kidwai became the Union Health Minister,
+(a) She became the second woman Minister in the Union Cabinet
+(b) She became first woman Minister from Uttar Pradesh
+(c) She became the first woman Minister to hold the post twice
+(d) None of the above
+
+Q64. Which of the following is correct about the Chief Election Commissioner ?
+He holds the office till he attains the age of
+(a) 62 years
+(b) 65 years
+(c) 62 years or completes 3 years of service, whichever is earlier
+(d) 65 years of age or completes 5 years of service, whichever is earlier
+
+Q65. Constitution does not recognise the caste system because
+(a) India is secular
+(b) It leads to inequality which is against the Constitution
+(c) It leads to untouchability 
+(d) All of the above
+
+Q66. Reagan-Gorbachev meet in Geneva was held to
+(a) Discuss the Afghanistan issue
+(b) Reopen East-West dialogue for peace and disarmament
+(c) Suspend nuclear tests
+(d) Discuss "Star Wars" proposal
+
+Q67. The important function of taxation in India is to
+(a) Reduce black money
+(b) Generate funds for Government expenditure
+(c) Reduce inflation
+(d) None of the above
+
+Q68. 'Live Aid' was
+(A) A 15-hour non-stop rock music programme
+(B) Shown simultaneously in London and Philadelphia
+(C) A programme organised in aid of famine-hit Africans
+(D) Telecasted live all over the world
+(a) A, B and C
+(b) A, B, C and D
+(c) A, C and D
+(d) A only
+
+Q69. Match the columns:
+(A) Sanjeev Kumar 1. Cancer
+(B) Rock Hudson 2. Heart attack
+(C) Yul Brynner 3. AIDS
+  A B C
+(a) 2 1 3 
+(b) 3 1 2
+(c) 2 3 1
+(d) None of the above
+
+Q70. A person walking barefooted in a field feels a sharp sting and on examination two puncture marks are found on his leg. He is most probably bitten by
+(a) Poisonous snake
+(b) Non-poisonous snake
+(c) Scorpion
+(d) Rat
+
+Q71. A new biofertiliser is
+(a) Compost
+(b) Farmyard manure
+(c) Green blue algae
+(d) Nitrates
+
+Q72. High tides at antipodes are caused due to
+(a) Gravitational pull of the moon and the sun
+(b) Gravitational pull of the sun
+(c) Centrifugal, centripetal and gravitational pull of the sun
+(d) Centrifugal, centripetal and gravitational pull of the sun and the moon
+
+Q73. "Poverty and Un-British Rule in India" was written by
+(a) Dadabhai Naoroji
+(b) Mahatma Gandhi
+(c) Sardar Patel
+(d) Madan Mohan Malviya
+
+Q74. The southernmost part of India lies in
+(a) Tamil Nadu 
+(b) Kerala
+(c) Lakshadweep
+(d) Andhra Pradesh
+
+Q75. The ancient Indian coins were introduced during the
+(a) 3rd century AD
+(b) 3rd century BC
+(c) Kanishka's period
+(d) Ashoka's reign
+
+Q76. Recently there was a controversy regarding the plantation of
+(a) Acacia
+(b) Eucalyptus
+(c) Tamarindus
+(d) None of the above 
+
+Q77. Influence of genes in controlling the activity of living organisms is through
+(a) Photosynthesis
+(b) Protein synthesis
+(c) Vitamins
+(d) Hormones
+
+Q78. The founder of Asiatic Society was
+(a) William Jones
+(b) Annie Besant
+(c) William Kerry
+(d) Havell
+
+Q79. The Nagara style of temple architecture is associated with
+(a) North India
+(b) South India 
+(c) East India
+(d) None of the above
+
+Q80. Interleukin, recently discovered, is a cure for
+(a) Arthritis
+(b) Diabetes
+(c) Cancer
+(d) Influenza
+
+Q81. Which of the following crops is a tropical monsoon crop ?
+(a) Rice
+(b) Wheat
+(c) Ragi
+(d) Jowar
+
+Q82. Atmospheric temperature increases at the higher altitudes due to
+(a) Convection
+(b) Radiation
+(c) Conduction
+(d) Inversion
+
+Q83. Which of the following is wrongly matched ?
+(a) Abul Fazal - "Babumama"
+(b) Kalhana - "Rajtarangini"
+(c) Mohd. Jayasi - "Padmavat"
+(d) Abdul Hamid - "Badshahnama"
+
+Q84. Triple antigen vaccine is given to the children to protect them against
+(a) Polio
+(b) Whooping cough 
+(c) Contagious diseases
+(d) None of the above
+
+Q85. AIDS is
+(1) Caused by virus
+(2) Carried by body fluid, blood and serum
+(3) Found mostly in males
+(4) Found mostly in homosexuals
+(a) 1 and 4 are correct
+(b) 1,2 and 4 are correct
+(c) 2 and 3 are correct
+(d) 1, 2, 3 and 4 are correct
+
+Q86. Besides India and Sweden, which of the following countries received the 'Beyond War' award?
+(a) Mexico, Argentina and Tanzania
+(b) Mexico, Greece and Tanzania
+(c) Mexico, Argentina and Zimbabwe
+(d) Yugoslavia, Argentina and Tanzania
+
+Q87. Which of the following elements exists in maximum quantity in atmosphere ?
+(a) Oxygen
+(b) Hydrogen
+(c) Carbon
+(d) Nitrogen
+
+Q88. A small wooden block is floating in a tub of water. The water is gradually heated. The volume of the wooden block visible above the water level
+(a) Increases
+(b) Decreases
+(c) Fluctuates 
+(d) Remains the same
+
+Q89. If a toy boat in a tank sinks, the level of water will
+(a) Increase
+(b) Decrease
+(c) Fluctuate
+(d) Remain the same
+
+Q90. Black hole
+(a) Does not emit any radiations
+(b) Converts UV/radiations to infra-rec1 radiations
+(c) Absorbs all the radiations that fall on it
+(d) Is an imaginary concept in Physics
+
+Q91. Direct taxation was introduced by the ___ committee
+(a) Wanchoo
+(b) Chetty
+(c) Kaldor
+(d) Raja Chelliah
+
+Q92. Which of the following is the correct sequence in order of increasing power consumption ?
+(a) Television, Fan, Electric Kettle, Electric Iron
+(b) Television, Fan, Electric Iron, Electric Kettle
+(c) Fan, Television, Electric Kettle, Electric Iron
+(d) Fan, Television, Electric Iron, Electric Kettle
+
+Q93. Whose tomb among the following is not located in India ?
+(a) Akbar
+(b) Humayun
+(c) Jehangir
+(d) Itmad-ud-daula
+
+Q94. Soybeans are rich in 
+(a) Proteins
+(b) Vitamin A
+(c) Minerals
+(d) Carbohydrates
+
+Q95. The final product of photosynthesis is
+(a) Carbohydrates
+(b) Carbon dioxide
+(c) Oxygen
+(d) Water
+
+Q96. "Females are inferior to males," said Aristotle. Actually, it is not true. The true statement would be that females are different from males. More research is required in this regard. What conclusions can be obtained from the above lines ?
+(a) Aristotle was a male chauvinist
+(b) Females may be inferior to males
+(c) Nothing can be said about the superiority of males unless research is done
+(d) Research is required to clearly tell the differences between the males and the females
+
+Q97. Operation Flood II refers to
+(a) Krishna-Cauvery link
+(b) Cleaning of Ganga water
+(c) Decreasing floods in the country
+(d) None of the above
+
+Q98. Mixed farming means
+(a) Growing two crops at one time
+(b) Growing different crops in succession
+(c) Using different soils
+(d) Agriculture involving crops and livestock 
+
+Q99. Rotation of crops means
+(a) Different crops are grown in succession to maintain the soil fertility
+(b) Growing two crops at the same time
+(c) Same crop is grown after some time
+(d) None of the above
+
+Q100. Which of the following statements is correct about the feature film "Paroma" ?
+(a) Rakhee acted in this film and it was directed by Mrinal Sen
+(b) It featured the prominence of women
+(c) It featured the exploitation of women
+(d) It was directed by Aparna Sen
+
+Q101. Which of the following statements about Kalpakkam Atomic Power Plant is/are true ?
+(i) It used for the first time the uranium-plutonium monocarbide fuel
+(ii) It can generate up to 3,50,000 MW of power
+(iii) It used the enriched uranium-plutonium oxide fuel
+(iv) Only two other countries have the distinction of having a centre for atomic research like the one at Kalpakkam
+(a) (i), (ii), (iv)
+(b) (i), (ii), (iii) and (iv)
+(c) (i), (ii), (iii)
+(d) (i) and (ii) only
+
+Q102. In 1984-85, the approximate percentage of energy produced from the following sources was Thermal Hydel Nuclear
+(a) 65% 34% 1%
+(b) 63% 34.5% 2.5% 
+(c) 60% 32.5% 7.5%
+(d) 61% 35% 3.5%
+
+Q103. Mean Sea Level (MSL) is the
+(a) Average level of the sea
+(b) Height of water above ground level
+(c) Average height of waves
+(d) None of the above
+
+Q104. In 1985, one of the worst natural disasters in the world resulting in the killing of 20,000 persons occurred in
+(a) Mexico due to a series of earthquakes
+(b) Bangladesh due to volcanic eruptions
+(c) Colombia due to earthquake
+(d) Bhopal due to gas tragedy
+
+Q105. The maximum cropped area of the country is in
+(a) Maharashtra
+(b) Punjab
+(c) Madhya Pradesh
+(d) Uttar Pradesh
+
+Q106. The areas in India that receive approximately an average of more than 200 cm of rainfall annually are
+(a) Meghalaya, Assam, Nagaland, Arunachal Pradesh
+(b) Orissa, Madhya Pradesh, Gujarat, Maharashtra
+(c) Meghalaya, Assam, Rajasthan, Jammu & Kashmir
+(d) Meghalaya, Delhi, Punjab, Rajasthan
+
+Q107. Which of the following Acts was introduced by the Britishers to remove the shortcomings of the Regulating Act ?
+(a) Pitt's India Act, 1784
+(b) Rowlatt Act 
+(c) The Charter Act of 1793
+(d) Government of India Act 1919
+
+Q108. Rajagopalachari's formula was
+(a) Merger of princely States
+(b) Formulation of a separate Muslim State
+(c) Plebiscite to Muslims whether they should form a separate State
+(d) Forming a Constituent Assembly
+
+Q109. Swaraj Party was formed after the failure of
+(a) Quit India Movement
+(b) Satyagraha Movement
+(c) Non-cooperation Movement
+(d) Civil Disobedience Movement
+
+Q110. Which of the Following is a 'cognizable offence' ?
+(a) First offence committed by any person
+(b) Offence committed by a minor
+(c) Offence other than murder
+(d) Offence which can be dealt with by the court
+
+Q111. To increase the voltage of alternative current, we can use
+(a) Capacitor
+(b) Transformer
+(c) Inverter
+(d) Rectifier
+
+Q112. Gokaldas Tejpal Sanskrit Pathshala was the place where
+(a) The first session of Indian National Congress was held
+(b) Max Mueller came to study Sanskrit
+(c) A.O. Hume used to live
+(d) Gandhiji made his first Ashram
+
+
+Q113. Which of the following is not included in Mughal paintings ?
+(a) Portraits
+(b) Islamic themes
+(c) Flowers and plants
+(d) Hunting scenes
+
+Q114. In the given figure, if P is a point of the source of light, R is retina and L is the lens of the eye, the person having such condition of his eyes is suffering from
+(a) Cataract
+(b) Myopia
+(c) Hypermetropic
+(d) Night Blindness
+
+Q115. Which of the following is not a member of OPEC ?
+(a) Venezuela
+(b) Algeria
+(c) Britain
+(d) U.A.E.
+
+Q116. Massive deforestation causes
+(a) Soil erosion
+(b) Famine
+(c) Floods
+(d) None of these
+
+Q117. The shaded area shown in the map of India 
+(a) Tropical wet evergreen forests
+(b) Deciduous forests
+(c) Wet temperate forests
+(d) Mangrove forests
+
+Q118. Which of the following is the correct order of increasing size of the grains of soil particles ?
+(A) Clay
+(B) Silt
+(C) Sand
+(D) Gravel
+(a) A, B, C, D
+(b) D, C, A, B
+(c) B, C, A, D
+(d) C, D, B, A
+
+Q119. Which of the following pairs is wrongly matched ?
+(a) New India 1. Henry Cotton
+(b) Khilafat 2. Maulana Azad movement
+(c) Communal 3. McDonald award
+(d) Bardoli 4. Sardar Patel satyagraha
+
+Q120. Arrange the following Buddhist councils in a chronological order
+(1) Vaishali
+(2) Rajagraha 
+(3) Patliputra
+(4) Sreenagar
+(a) 1, 4, 3, 2
+(b) 3, 2, 1, 4
+(c) 4, 1, 2, 3
+(d) 2, 1, 3, 4
+
+Q121. At a certain place, the Greenwich Mean Time is ahead by 12 hours. The place is located
+(a) 180°W of GMT
+(b) 180°E of GMT
+(c) 90°W of GMT
+(d) 90°E of GMT
+
+Q122. The supremacy and sovereignty of 'Khalifa' of Baghdad was strictly observed by Muslim kings in India because
+(a) 'Khalifa' was treated as religious head of the Muslim community
+(b) 'Khalifa' was treated as the legal head of the Muslim community
+(c) All the Muslim States in the world used to pay tributes to him
+(d) He used to decide all the cases efficiently
+
+Q123. Which of the following pairs is incorrect ?
+(a) Kiwi - Bird
+(b) Alligator - Crocodile
+(c) Bat - Mammal
+(d) Fish - Pisces
+
+Q124. Which of the following statements A, B, C and D is/are correct ?
+Winnie Mandela is
+(A) Wife of Nelson Mandela
+(B) A teacher by profession
+(C) Facing exile in her own country 
+(D) Winner of Nobel Peace Prize
+(a) A and C are correct
+(b) A, B and C are correct
+(c) A and B are correct
+(d) A, B, C and D are correct
+
+Q125. Which of the following two continents are just like the mirror images of each other ?
+(a) South America and Africa
+(b) South America and North America
+(c) South America and Australia
+(d) Europe and Asia
+
+Q126. Which of the following statements is incorrect ?
+(a) Entropy is a quantity introduced to give clear expression to the results of thermodynamics
+(b) Change in entropy is defined as the ratio of the amount of heat taken up to the absolute temperature
+(c) Change in entropy is directly proportional to the amount of heat taken up
+(d) The entropy of a system is a measure of its degree of disorder
+
+Q127. 'Ghuzak' is the name of a place where
+(a) Jayapala met his enemy Sabuktigin
+(b) Mahmud crushed defeat on Jayapala
+(c) Jayapala burnt himself on a funeral pyre since he was unable to survive the disgrace caused by his defeat at the hands of Mahmud
+(d) None of the above
+
+Q128. Which of the following pairs is/are correct ?
+(A) Main root - Storage 
+(B) Lateral root - Absorption
+(C) Root hair - Conduction
+(a) Only A
+(b) A and C
+(c) All are correct
+(d) None of the above
+
+Q129. Assertion: Sex ratio in India is in favour of males.
+Reason: In females there is a high rate of mortality during maternity.
+(a) if A and R both are correct and R is the correct explanation of A
+(b) if A and R both are correct but R is not the correct explanation of A
+(c) if A is correct and R is incorrect
+(d) if A is incorrect and R is correct
+
+Q130. Assertion: Comets have gaseous tails.
+Reason: They are very hot bodies.
+(a) if A and R both are correct and R is the correct explanation of A
+(b) if A and R both are correct but R is not the correct explanation of A
+(c) if A is correct and R is incorrect
+(d) if A is incorrect and R is correct
+
+Q131. Assertion: Alkalies are used for washing utensils.
+Reason: Alkalies are readily soluble in water.
+(a) if A and R both are correct and R is the correct explanation of A 
+(b) if A and R both are correct but R is not the correct explanation of A
+(c) if A is correct and R is incorrect
+(d) if A is incorrect and R is correct
+
+Q132. Assertion: Solar eclipse occurs on a new moon day.
+Reason: Moon is in conjunction with the sun.
+(a) if A and R both are correct and R is the correct explanation of A
+(b) if A and R both are correct but R is not the correct explanation of A
+(c) if A is correct and R is incorrect
+(d) if A is incorrect and R is correct
+
+Q133. Assertion: Carbon dioxide in air is necessary for sustaining life.
+Reason: Carbon dioxide is assimilated in carbohydrates in photosynthesis
+(a) if A and R both are correct and R is the correct explanation of A
+(b) if A and R both are correct but R is not the correct explanation of A
+(c) if A is correct and R is incorrect
+(d) if A is incorrect and R is correct
+
+Q134. Arrange the following in a chronological order
+(i) Surat Split
+(ii) Formation of Muslim League
+(iii) Partition of Bengal
+(iv) Regulating Act
+(a) (i). (ii), (iii), (iv)
+(b) (iv), (iii), (ii), (i)
+(c) (ii), (i), (iv), (iii) 
+(d) (ii), (iii), (iv), (i)
+
+Q135. Which period in the following graph shows the maximum growth in industrial production in India ?
+(a) I
+(b) II
+(c) III
+(d) IV
+
+Q136. If suitable Scheduled Caste/Tribe candidates are not available, the posts
+(a) May for the time being be filled by other candidates
+(b) Are left vacant
+(c) Are filled by Other Backward Classes candidates
+(d) None of the above
+
+Q137. In which of the following cases, there is a maximum increase in the percentage of votes cast in 1985 as compared to that in 1980. Farmers Professionals Skilled workers Unskilled workers
+(a) Farmers 
+(b) Professionals
+(c) Skilled workers
+(d) Unskilled workers
+
+Q138. The following graph shows the production and productivity of land fo? the years 1979 to 1986. Production is high durina1979 and 1985. The reason is
+(a) Increase in productivity
+(b) Increase in productivity and area
+(c) Increase in area
+(d) None of the above
+
+Q139. "Anushilan Samithi" was the terrorist organisation with its headquarters at
+(a) Lahore
+(b) Calcutta
+(c) Chandigarh
+(d) Islamabad
+
+Q140. Who declared, "Swaraj had 'stunk in the nostrils' and that without adequate discipline and restraint on the part of the people the movement had proved to be a 'Himalayan blunder'."
+(a) Bal Gangadhar Tilak
+(b) Sardar Vallabhbhai Patel
+(c) Mahatma Gandhi 
+(d) Subhash Chandra Bose
+
+Q141. The first political association in the Bombay Presidency was established by
+(a) Gopal Krishna Gokhale in 1905
+(b) S. N. Bannerjee in 1894
+(c) Dadabhai Naoroji in 1852
+(d) Annie Besant in 1924
+
+Q142. "The Arctic Home of the Vedas" was written by
+(a) Minoo Masani
+(b) Acharya Vinoba Bhave
+(c) S. Radhakrishnan
+(d) Bal Gangadhar Tilak
+
+Q143. The shape of the Himalayas is like
+(a) An arc
+(b) A curvilinear straight line
+(c) A straight line
+(d) A right angle
+
+Q144. Extrusive (Intrusive) rocks are forms of
+(a) Igneous rocks
+(b) Sedimentary rocks
+(c) Metamorphic rocks
+(d) None of the above
+
+Q145. Which of the following inferences can be drawn from the following statement ?
+A well balanced nutritious diet is essential for good athletes. This means
+(a) Bad athletes are having under-nutritious food
+(b) Well-balanced diet produces good athletes 
+(c) Athletes should take nutritious food
+(d) None of the above
+
+Q146. Match the columns :
+(A) Sir John Marshall 1. Glory of Indian Art
+(B) H. T. Prinsep 2. History of Indian Culture
+(C) A. K. Coomara Swamy 3. Writer during the time of Lord Hastings
+  A B C
+(a) 1 2 3
+(b) 3 2 1
+(c) 2 3 1
+(d) 2 1 3
+
+Q147. Which of the following is the organic matter of animal and vegetable origin in the soil ?
+(a) Humus
+(b) Vermiculite
+(c) Fulminic Acid
+(d) None of the above
+
+Q148. In India, the problem of utilisation of agriculture wastes is in
+(a) Conversion of starch into alcohol
+(b) Conversion of sugar into carbohydrates
+(c) Conversion of bran into molasses
+(d) Conversion of cellulose into sugar
+
+Q149. Which pair among the following had the similar views during the national movement ?
+(a) Subrahmaniam Bharati and Bal Gangadhar Tilak 
+(b) Chittaranjan Das and Motilal Nehru
+(c) Chittaranjan Das and Rajagopalachari
+(d) Mahatma Gandhi and Shaukat Ali
+
+Q150. Which of the following terms is used to denote the heavy rocks of the lithosphere?
+(a) Substratum
+(b) SIAL
+(c) SIMA
+(d) None of the above
+*****
+1. B 2. A 3. C 4. C 5. C 6. B 7. D 8. C 9. B 10. C 11. C 12. C 13. A 14. D 15. C 16. C 17. D 18. B 19. B 20. D 21. C 22. C 23. C 24. C 25. B 26. C 27. B 28. D 29. B 30. C 31. C 32. D 33. B 34. C 35. B 36. D 37. C 38. B 39. C 40. A 41. C 42. A 43. C 44. B 45. D 46. C 47. A 48. B 49. B 50. B 51. C 52. B 53. B 54. B 55. B 56. D 57. B 58. B 59. C 60. B 61. A 62. A 63. D 64. B 65. D 66. B 67. B 68. B 69. C 70. A 71. C 72. A 73. A 74. A 75. A 76. B 77. B 78. A 79. A 80. C 81. A 82. A 83. A 84. B 85. B 86. B 87. D 88. B 89. A 90. C 91. A 92. C 93. C 94. A 95. A 96. D 97. D 98. D 99. A 100. D 101. D 102. B 111. B 121. A 112. A 122. C 103. A 113. B 123. B 104. A 114. C 124. A 105. D 115. C 125. A 106. A 116. A 126. C 107. A 117. A 127. A 108. C 118. A 128. A 109. C 119. D 129. A 110. D 120. D 130. B 131. D 141. C 132. A 142. D 133. B 143. A 134. B 144. A 135. D 145. C 136. A 146. C 137. C 147. A 138. B 148. D 139. B 149. B 140. C 150. C 

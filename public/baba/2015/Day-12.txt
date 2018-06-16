@@ -1,0 +1,117 @@
+1. Consider the following statements
+1. The percentage of Open forest in India is more than Moderately Dense forest
+2. Area covered under Plantation is more than very Dense forest
+3. Shifting Cultivation has increased over the years and shares more land use as compared to Non-Forestry Plantation.
+Select the correct code-
+1. 1, 2 and 3
+2. 2 and 3
+3. 1 and 3
+4. None
+Answer:  4
+Explanation-
+According to Indian State of Forest report 2013
+Open Forest- 8.28% of Recorded Forest Area
+Moderately dense forest- 33.91%
+Plantation/Young crops-7.95
+Shifting Cultivation-0.81%
+Non-Forestry Plantation-1.22
+
+2.  Soil erosion is one of the major reasons for depleting forest covers of India. Consider the following statements w.r.t this-
+1. Excessive erosion of bottom soil reduces both the fertility and water holding capacity of the soil.
+2. Major part of Indian forest cover has undergone heavy soil erosion amounting almost 30% of Recorded Forest Area.
+Select the correct code-
+1. Only 1
+2. Only 2
+3. Both
+4. None
+Answer:  4
+Explanation- Excessive erosion of TOP soil, not Bottom soil. Erosion takes place on the top surface of soil. Major forest cover of India has undergone Mild Erosion amounting 63% of RFA. Heavy Soil erosion amounts to 2.24 % of RFA
+
+3. Which of the following is/are artificial methods of 'Forest Regeneration'?
+1. Taungya System
+2. Silviculture System
+Select the correct code-
+1. Only 1
+2. Only 2
+3. Both
+4. None
+Answer:  3
+Explanation- UPSC asks questions about Vegetative Stem cutting and other such methods.  Forest Survey Report has mentioned about Forest regeneration methods.  Silviculture is the practice of controlling the establishment, growth, composition, health, and quality of forests to meet diverse needs and values. The name comes from the Latinsilvi- (forest) + culture (as in growing). The study of forests and woods is termed silvology. Silviculture also focuses on making sure that the treatment(s) of forest stands are used to preserve and to better their productivity.  The taungya is a system whereby villagers and sometimes forest plantation workers are given the right to cultivate agricultural crops during the early stages of forest plantation establishment.  Taungya means hill cultivation, it was introduced into-India by Dr. Brandis in 1890 and the first Taungya plantation was raised in 1896 in north Bengal. It is practiced in Kerala, West Bangal, U.P., and to lesser extent in Tamil Nadu, A. P. Orissa and the north eastern hill regions. In southern India the system is called KUMARI; it is practiced in a areas with an assured annual rainfall of over 1200-1500mm.  This is a modified term of shifting cultivation in which labour is permitted to raise crop in an area but only side by side with the forest species planted by them. The practices consist of land preparation, tree planting, growing agricultural crop for 1 to 3 years until shade becomes the dense and then moving on to repeat the cycle in a different area.
+
+4. Consider the statements regarding 'Coral bleaching'
+1. It is the loss of zooxanthellae through either expulsion or loss of algal pigmentation.
+2. It happens due to increase in ocean temperature
+3. All the corals undergoing bleaching are dead corals
+Select the correct code-
+1. 1 and 3
+2. Only 2
+3. Only 1
+4. 2 and 3
+Answer:  3
+Explanation- First statement is true. Coral bleaching not only happens because of warm temperature but can also happen due to Cold temperature. Not all bleaching events are due to warm water. In January 2010, cold water temperatures in the Florida Keys caused a coral bleaching event that resulted in some coral death. Water temperatures dropped 12.06 degrees Fahrenheit lower than the typical temperatures observed at this time of year.  Researchers will evaluate if this cold-stress event will make corals more susceptible to disease in the same way that warmer waters impact corals.  When a coral bleaches, it is not dead. Corals can survive a bleaching event, but they are under more stress and are subject to mortality.
+
+5. Rhodiola has been a significant herb of research interests among the scientist all over the world. Consider the statements w.r.t Rhodiola
+1. It has immunomodulatory, adaptogenic and radio-protecting abilities.
+2. The root part is used by local people as vegetables
+3. It is found in cold regions of the world
+Which of the following statements is /are correct
+1. 1, 2, and 3
+2. 1 and 2
+3. Only 3
+4. 1 and 3
+Answer:  4
+Explanation- The leafy part is used as vegetables. The root is used as Medicine. 
+For more-
+http://timesofindia.indiatimes.com/home/science/Indian-scientists-find-a-wonder-herb-inthe-high-Himalayas/articleshow/40869492.cms
+
+6. Consider the statement below
+Germany is investing in an emission reduction project in India as an alternative to reducing emissions domestically. It will be called as-
+1. Joint Implementation
+2. Clean Development Mechanism
+3. Certified Emission Reduction Credits
+4. None
+Answer:  4
+Explanation- The definition given is of Joint Implementation but India cannot be its beneficiary since it applies among Annex 1 countries only. CDM applies to developing countries. 
+
+7. Identify the correct statement
+1. The Bio-safety protocol deals with genetically modified organism
+2. The Bio-safety protocol is also called as Nagoya Protocol
+3. Both Nagoya and Cartagena Protocol deals with genetic resources
+Select the correct code
+1. 1 and 2
+2. 2 and 3
+3. 1, 2 and 3
+4. 1 and 3
+Answer:  4
+Explanation- The Bio-safety protocol is Cartagena not Nagoya. Rest are correct
+
+8. The formation of ozone hole in the Antarctica region has been a cause of concern. What could be the reason for the formation of this hole?
+1. Presence of prominent tropospheric turbulence and inflow of chlorofluorocarbons
+2. Presence of prominent polar front and stratospheric clouds and inflow of chlorofluorocarbons.
+3. Absence of polar front and stratospheric clouds and inflow of chlorofluorocarbons.
+4. Increased temperature of polar region due to global warming
+Answer:  2
+Self explained
+
+9. Consider the following statements regarding Bio-asphalt
+1. It is eco-friendly to use bio-asphalt for surfacing of the roads
+2. Unlike traditional asphalts, bio-asphalts is not based on fossil fuels.
+3. Bio-asphalt can be made from organic waste materials.
+4. Bio-asphalt can be made from non-renewable resources
+Select the correct code-
+1. 1, 3 and 4
+2. 2, 3 and 4
+3. 1, 2 and 3
+4. All
+Answer:  3
+Except fourth statement, all are correct.
+https://en.wikipedia.org/wiki/Bioasphalt
+http://thegreenenergyblog.com/uncategorized/bioasphalt-renewable-constructionmaterial-2
+
+10. Which bacterial strain, developed from natural isolates by genetic manipulations, can be used for treating oil spills?
+1. Agrobacterium
+2. Clostridium
+3. Nitrosomonas
+4. Pseudomonas
+Answer:  4
+Explanation- Oil eating bacteria is an aerobic bacterium. The genetic name Pseudomonas created for organisms like oil eating bacteria was http://scienceblogs.com/oscillator/2010/06/08/oil-eating-bacteria/

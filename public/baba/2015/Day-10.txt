@@ -1,0 +1,104 @@
+1. Which of the following factors have never been accounted in the calculation of poverty in India before the Rangarajan committee came up with its report on Poverty?
+1. Cost of basic Education
+2. Health expenses
+3. Housing expenses
+4. Nutrition based expenses
+Choose the correct answer using the codes below.
+1. 1 and 2 only
+2. 1 and 4 only
+3. All of the above
+4. 4 only
+Answer: 4
+The Tendulkar committee, appointed before the Rangarajan committee, had included the estimates of health and education in its estimation of poverty. But the Rangarajan committee also included nutrition (fat etc.) and a richer basket of commodities for the poor's consumption. 
+
+2. The concept of 'Depreciation' is applicable to which of the following?
+1. Human capital
+2. Physical capital
+3. Currency
+Choose the correct answer using the codes below.
+1. 1 and 2 only
+2. 3 only
+3. 2 and 3 only
+4. All of the above
+Answer: 4
+Depreciation is nothing but a continous reduction in the value of something over time. Continuous use of machine leads to depreciation and change of technology makes a machine obsolete. That is an example of depreciation of physical capital. In the case of human capital, depreciation takes place with ageing but can be reduced, to a large extent, through continuous investment in education, health, etc. This investment also facilitates the human capital to cope with change in technology which is not the case with physical capital.
+
+3. Entrepreneurs, bureaucrats and politicians are now advancing views about how India can transform itself into a knowledge-based economy by
+1. making its skilled and educated youth fully employed in knowledge sectors
+2. increasing the enrolment ratio in tertiary education
+3. leveraging the power of the Information technology and intellectual capital
+4. reviving its ancient knowledge of science, medicine and astrology from scriptures
+Answer: 3
+In a knowledge economy, a significant part of a company's value may consist of intangible assets, such as the value of its workers' knowledge (intellectual capital).  Lesser-developed countries tend to have agriculture or agriculture and manufacturing-based economies, while developing countries tend to have manufacturing or manufacturing and servicebased economies, and developed countries tend to have service-based economies, which revolve mostly around intellectual capital.  IT, research, consultancy etc.  are major examples of a knowledge based economy.
+
+4. Consider the following statements with regard to the public expenditure on education in India.
+1. Elementary education takes a major share of total education expenditure.
+2. Expenditure per student in tertiary education is higher than that of elementary.
+3. Public expenditure on education per year is greater than that in Defence sector.
+  Choose the correct answer using the codes below.
+1.  1and 2 only
+2.  3 only
+3.  2 and 3 only
+4.  All of the above
+Answer: 4
+According to the latest UNDP report the government spending on education is 4.1 per cent of GDP which is lower than the global weighted average of  4.9 per cent. Defence sector accounts for around 2.5 per cent of GDP in India.  Expenditure on elementary education has to be greater than that in tertiary because of the huge number of students. For e.g. 12 crore children are served mid day meals daily in school!!!
+
+5. Non Banking Financial Company - Micro Finance Institutions (NBFC-MFIs) can serve which of following purposes in India?
+ 1. Education loans
+ 2. Loan for Income generation activities
+ 3. Savings account for the poor
+Choose the correct answer using the codes below.
+1.  1 and 2 only
+2.  3 only
+3.  2 and 3 only
+4.  All of the above
+Answer: 4
+As per RBI regulations, a part (i.e. maximum of 30%) of the aggregate amount of loans by NBFC- MFIs may be extended for other purposes such as housing repairs, education, medical and other emergencies. However aggregate amount of loans given for income generation should constitute at least 70 per cent of the total loans of the NBFC-MFI.  Microcredit is part of microfinance, which provides a wider range of financial services, especially savings accounts, to the poor. Modern microcredit is generally considered to have originated with the Grameen Bank founded in Bangladesh in 1983.
+
+6. Consider the following with reference to the unorganised sector in India.
+ 1. It generates a miniscule part of India's GDP.
+ 2. It employs a majority of India's working population.
+ 3. It is not regulated by any laws, rules or regulations.
+Choose the correct answer using the codes below.
+1.  1 and 2 only
+2.  1 and 3 only
+3.  2 and 3 only
+4.  2 only
+Answer: 4
+It employs nearly 90% of India's population and generates more than 50% of India's GDP. A number of social security schemes, laws, rules and regulations have been there for these workers. You can read about them here:
+http://vikaspedia.in/social-welfare/unorganised-sector-1/categories-of-unorganised-labourforce#section-8
+
+7. What is meant by the 'casualization of workforce'?
+1. Majority of labour moving from regular salaried jobs to self-employment
+2. Majority of labour moving from informal jobs to self-employment
+3. Majority of labour moving from regular salaried jobs to informal jobs
+4. Majority of labour moving from regular salaried and self-employment to informal jobs
+Answer: 4 In the last four decades (1972-2010), people have moved from self-employment and regular salaried employment to casual wage work. Yet self-employment continues to be the major employment provider. Scholars call this process of moving from self-employment and regular salaried employment to casual wage work as casualization of workforce. This makes the workers highly vulnerable due to lack of proper legal protection, tough work conditions and social security schemes.
+
+8. Which of the following human development indicators are published by the United Nations Development Program (UNDP)?
+1. Multi-dimensional poverty Index (MPI)
+2. Inequality-adjusted HDI
+3. Gender Development Index
+4. Gender Inequality Index
+Choose the correct answer using the codes below.
+1.  1, 2 and 4 only
+2.  1 and 3 only
+3.  2 and 3 only
+4.  All of the above
+Answer: 4
+Refer to this link. It has presented all the indicators beautifully.
+http://hdr.undp.org/en/data/map
+
+9. Consider the following statements with reference to inequality in India.
+1. India has the lowest income inequality among all emerging economies.
+2. Its income inequality is lower than that in all the western developed countries.
+3. Income inequality in India has increased in the last decade.
+Which of the above is/are true?
+1.  1 and 2 only
+2.  2 and 3 only
+3.  1 and 3 only
+4.  All of the above
+Answer: 3
+Refer to these two very important articles about inequality in India.
+http://www.thehindu.com/data/indias-staggering-wealth-gap-in-five-charts/article6672115.ece
+http://economictimes.indiatimes.com/news/economy/indicators/income-inequality-in-india-lowestamong-emerging-nations-oecd/articleshow/47373128.cms

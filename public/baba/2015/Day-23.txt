@@ -1,0 +1,143 @@
+1. The term 'Biological Passport' is associated with
+1. Genetic profiling of an individual
+2. An Athletes biological marker for Doping Test
+3. Biological marker of a diseased person
+4. A medical certificate for diagnosis on foreign hospitals
+Answer:  2
+
+2. Consider the following
+1. Mutation
+2. Gene Transfer
+3. Use of antibiotics in agriculture
+Which of the above will have negative impact on Anti-microbial Drug Resistance? 
+1. 1 and 2
+2. 2 and 3
+3. 1 and 3
+4. 1, 2 and 3
+Answer:  4
+Most microbes reproduce by dividing every few hours, allowing them to evolve rapidly and adapt quickly to new environmental conditions. During replication, mutations arise and some of these mutations may help an individual microbe survive exposure to an antimicrobial. Thus, negative impact on the anti-microbial drug resistance.  Microbes also may get genes from each other, including genes that make the microbe drug resistant. 
+Scientists also believe that the practice of adding antibiotics to agricultural feed promotes drug resistance. More than half of the antibiotics produced in the United States are used for agricultural purposes. This makes human prone to indirect intake of such antibiotics and helps in more active microbial activities and drugs will become more resistant lowering the anti-microbial drug resistance.
+
+3. Commercial Electric Motors do not use-
+1. A soft iron core on which the coil is wound
+2. A permanent magnet to rotate the armature
+3. An electromagnet to rotate the armature
+4. Large number of turns of the conducting wire in the current-carrying coil.
+Answer:  2
+NCERT-Class 10 th , page number- 233
+
+4. Consider the following statements
+1. Most power stations constructed these days produce Direct Current (DC)
+2. An important advantage of DC over AC is that electric power can be transmitted over long distance without much loss of energy.
+3. The use of AC over DC is the reason for power loss during transmission in Indian power generation system.
+Select the correct code
+1. 1, 2 and 3
+2. Only 1
+3. 1 and 2
+4. None
+Answer:  4
+NCERT- Class 10 th - Chapter 13, page-236-37
+
+5. The most important safety method for protecting electrical appliances from overloading at home is-
+1. Stabilizers
+2. Electric Fuse
+3. Earthing
+4. Electrical Meter
+Answer:  2
+
+6. Consider the following statements
+1. The conductivity of an alloy is generally higher than that of its constituent metals and that is why they are used in most of the heating devices like Electrical Iron, Toasters etc.
+2. Diamond has more conductivity than graphite
+Select the correct code
+1. Only 1
+2. Only 2
+3. Both
+4. None
+Answer:  4
+Resistivity of an alloy is higher not the conductivity. If conductivity will be higher, they will never be used in heating devices. Graphite has more conductivity because of its shape.  Diamond has less free electronic movement than graphite so conductivity is less. 
+
+7. A student sitting on the last bench can see the letters written on the board but has problem reading from his note book. What can be said about him? 
+1. The near point of his eyes has receded away
+2. The farther point of his eyes has come close.
+3. The near point of his eyes has come close
+4. The farther point of his eyes has receded away
+Answer:  1
+He is suffering from Hypermetropia- far sightedness. NCERT-Class 10
+
+8. The phenomenon of rainbow formation includes
+1. Dispersion
+2. Total Internal Reflection
+3. Refraction
+Select the correct code
+1. 1 and 3
+2. 2 and 3
+3. 1 and 2
+4. 1, 2 and 3
+Answer:  4
+NCERT- Class 10 th - page-194 th - page-189-90
+
+9. Consider the following regarding sunrise and sunset
+1. The time difference between actual sunrise and sunset is 4 minutes
+2. This is because of the phenomenon of Total Internal Reflection
+3. The apparent flattening of the Sun's disc at sunrise and sunset is due to atmospheric refraction.
+Select the wrong codes
+1. Only 1
+2. Only 3
+3. 1 and 2
+4. 1, 2 and 3
+Answer:  3
+Time difference is 2 minutes and it is due to atmospheric refraction
+
+10. At Noon, the Sun appears white because
+1. A little of the blue and violet colors are scattered.
+2. Blue color is scattered the most
+3. Red colour is scattered the most
+4. All the colours are scattered away
+Answer:  1
+NCERT- class 10 th , page-197
+
+11. Consider the following regarding Full Capital Account Convertibility.
+1. It may lead to downfall of domestic companies
+2. It will lead increased phenomenon of HOT money.
+3. Fiscal deficit will increase
+4. Decrease in cost of capital
+Select the correct code
+1. 1, 2, 3 and 4
+2. 1, 2 and 4
+3. 3 and 4
+4. 2, 3 and 4
+Answer:  2
+Fiscal deficit will reduce as cost of government borrowing will reduce in light of reduced interest rates.  There is a huge possibility of misallocation of capital inflows which means such capital inflows may fund low-quality domestic investments instead of investing in building up industries which leads to more capacity creation and utilization, and increased level of employment. This can also reduce the potential of country to increase exports and will thus create external imbalances. This can also lead to the export of domestic savings which one would have invested in domestic market otherwise but will now think of investing in foreign markets to reduce the risk.  Entry of foreign banks would result in increased competitiveness in terms of accessing the loan proposals as the foreign banks will shy away from giving loans to farmers and the small scale industrialists as they find them less credit worthy and Indian Banks will also follow the same route to be competitive.  International finance capital is highly volatile as the investor move from country to country in search for higher returns for their investments. This process has led to crisis in numerous developing countries. Such finance capital is referred to as "Hot Money ". FCAC exposes an economy to the risk of volatility on account on "Hot Money" flows in and out of the country.
+
+12. What constitutes Capital Account? 
+1. External Commercial Borrowing (ECB)
+2. Global Depository Receipts
+3. Foreign Portfolio Investments
+4. Interest Payments on International Investments
+Select the correct code
+1. 1, 2, 3 and 4
+2. 1, 2 and 3
+3. 2, 3 and 4
+4. 1, 2 and 4
+Answer:  2
+Interest payments on international investments is credited or debited into Current Account.
+
+13. Consider the following statements regarding correction in Balance of Payment (BoP)
+1. Money contraction will result in correction in BoP deficit
+2. Contraction in money supply will reduce the domestic prices and hence increase the import resulting into correction in BoP deficit
+3. Increase in tourism services will have positive impact on BoP
+Select the correct code
+1. 1, 2 and 3
+2. 2 and 3
+3. 1 and 2
+4. 1 and 3
+Answer:  4
+Contraction in money supply will reduce the domestic prices and hence increase the export not import thus resulting into correction in BoP deficit Less Money supply will reduce the aggregate demand and purchasing power. Less demand means fall in domestic prices and thrust to export. The fall in the domestic prices would encourage more exports, to earn better money.  Increase in tourism will add more foreign currency and hence BoP will get better.
+
+15. Ocean Thermal Energy is due to
+1. Energy stored by waves in the ocean
+2. Tides arising out in the ocean
+3. The temperature difference at different levels in the ocean
+4. The pressure difference at different levels in the ocean
+Answer:  3
+The water at the surface of the ocean or sea is heated by the Sun while the water in deeper sections is relatively cold. This difference in temperature is exploited to obtain energy in ocean-thermal-energy conversion plants

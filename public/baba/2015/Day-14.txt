@@ -1,0 +1,126 @@
+1.  Article 266 provides for Public Account of India. With regard to Public Account of India, which of the following statements are correct?
+1. It includes provident funds, savings deposits and loans raised by Government of India
+2. Payments from this account can be made without parliamentary appropriation.
+3. This account is operated by executive action
+Select the correct answer using the codes given below.
+1. 1 only
+2. 2 and 3 only
+3. 1, 2 and 3
+4. 1 and 3
+Answer: 2
+Loans raised by GOI are part of Consolidated Fund of India
+
+2. Rajya Sabha shares equal status and powers with Lok Sabha in which of the following?
+1. Introduction and passage of financial bills involving expenditure from Consolidated Fund of India
+2. Impeachment of the Vice-President
+3. Impeachment of the President.
+4. Enlargement of Jurisdiction of the SC and UPSC
+Select the correct answer using the codes given below.
+1. 1,2 and 3
+2. 1, 2 and 4
+3. 1 and 3 only
+4. 1, 3 and 4
+Answer: 4
+Rajyasabha enjoys greater powers in impeachment of VP as impeachment can be initiated only by RS.
+
+3. The Xth Schedule of Constituion provides provisions for disqualification of a member of Parliament on the grounds of defection. A member does not incur disqualification in
+which of the following cases?
+1. A nominated member can join any political party after 6 months.
+2. Speaker of LokSabha voluntarily gives up membership.
+3. member abstains or votes against the direction given by his political party.
+Select the correct answer using the codes given below.
+1. 1 and 2
+2. 1, 2 and 3
+3. 1 only
+4. 2 only
+Answer: 4
+
+4. Why was the system of proportional representation not preferred by constitution framers for the election of LokSabha ?
+1. It is highly expensive.
+2. It doesn't give any scope to organize bi-elections.
+3. It doesn't allow all sections of the society to get representation in proportion to their numbers.
+4. Large proportion of Indians being illiterates during independence.
+Choose the reason/s using the codes below. 
+1. 1, 2 only.
+2. 1, 3 only.
+3. 1, 2, 4 only.
+4. All the above.
+Answer: 3
+The simple majority system is currently followed for Lok Sabha. But this has a drawback that it doesn't represent the people proportion to their population. But proportional representation overcomes this problem and allows every part of the society to be represented proportional to their population.
+
+5. With reference to Cabinet Committees, consider the following
+1. They are constitutional bodies
+2. They are set up by the President according to the exigencies of the time and requirements of the situation
+Select the correct answer using the codes given below.
+1. 1 only
+2. 2 only
+3. Both 1 and 2
+4. Neither 1 nor 2
+Answer: 4
+They are extra-constitutional in emergence. In other words, they are not mentioned in the Constitution. However, the Rules of Business provide for their establishment.  They are of two types-standing and ad hoc. The former are of a permanent nature while the latter are of a temporary nature. The ad hoc committees are constituted from time to time to  deal with special problems. They are disbanded after their task is completed.  They are set up by the Prime Minister according to the exigencies of the time and requirements of the situation. Hence, their number, nomenclature, and composition varies from time to time.  Source :Lakshmikanth Chapter 21 'Central Council of Ministers'
+
+6. In India Parliament is the supreme legislative and deliberative body. As per the Constitution what part/s constitute/s Parliament?
+1. Lok Sabha.
+2. Rajya Sabha.
+3. The President.
+4. The Vice-President.
+5. The Speaker.
+Choose the correct code from the following. 
+1. 1, 2 only.
+2. 1, 2, 3 only.
+3. 1, 2, 3, 4 only.
+4. All the above.
+Answer: 2
+Under the Constitution, the Parliament of India consists of three parts viz, the President, the Council of States and the House of the People. In 1954, the Hindi names 'Rajya Sabha' and 'Lok Sabha' were adopted by the Council of States and the House of People respectively. The Rajya Sabha is the Upper House (Second Chamber or House of Elders) and the Lok Sabha is the Lower House (First Chamber or Popular House). The former represents the states and union territories of the Indian Union, while the latter represents the people of India as a whole.  Though the President of India is not a member of either House of Parliament and does not sit in the Parliament to attend its meetings, he is an integral part of the Parliament. This is because a bill passed by both the Houses of Parliament cannot become law without the President's assent. 
+
+7. When a resolution of removal of Vice-President is under consideration, The Vice-President can
+1. Preside over the Upper House ieRajya Sabha.
+2. Can be present in the House and take part in discussions and proceedings.
+3. Can vote in first instance.
+Choose the correct code from the following. 
+1. 2 only.
+2. 1, 2 only.
+3. 1, 3 only.
+4. None of the above.
+Answer: 1
+The Vice-President cannot preside over a sitting of the Rajya Sabha as its Chairman when a resolution for his removal is under consideration. However, he can be present and speak in the House and can take part in its proceedings, without voting, even at such a time (while the Speaker can vote in the first instance when a resolution for his removal is under consideration of the Lok Sabha).
+
+8. Under the 'Rules of LokSabha' , there is mention on Leader of the House. Consider the statements regarding the Leader of the House with respect to Lok Sabha. 
+1. Only Prime Minister can be the Leader of the House in Lok Sabha as he is the head of the Council of Ministers.
+2. A member of Lok Sabha who is not a Minister nominated by Prime Minister.
+3. A minister nominated from either of the House nominated by Prime Minister.
+4. The same functionary in U.S.A is known as the 'Majority Leader'. 
+Choose the incorrect statement/s from the following codes. 
+1) 1, 3 only.
+2) 1, 4 only.
+3) 2, 4 only.
+4) 1, 2, 3 only.
+Answer: 4
+Under the Rules of Lok Sabha, the 'Leader of the House' means the prime minister, if he is a member of the Lok Sabha, or a minister who is a member of the Lok Sabha and is nominated by the prime minister to function as the Leader of the House. There is also a 'Leader of the House' in the Rajya Sabha. He is a minister and a member of the Rajya Sabha and is nominated by the prime minister to function as such.
+
+9. Consider the following statements with respect to territorial constituencies for the purpose of direct elections to Lok Sabha (LS)
+1. Each State is allotted a number of seats in the LS in such a manner that the ratio between that number and its population is the same for all the states of India irrespective of its population.
+2. The ratio between the population of each constituency and the number of seats allotted to it is same throughout the state.
+Select the wrong statement-
+1. Only 1
+2. Only 2
+3. Both
+4. None
+Answer:  1
+First statement is not true for a State having a population of less than six millions. Second statement is correct
+
+10. Consider the following Committees of Parliament
+1. Public Account Committee
+2. Committee on Public Undertakings
+3. Committee on Subordinate Legislation
+4. Estimate Committee
+Which of the above committees trace its origin to pre-independence India?
+1. 1, 2, and 4
+2. 2 and 3
+3. 1 and 4
+4. None
+Answer:  3
+1. Public Account Committee- 1921 under provision of GoI Act of 1919
+2. Committee on Public Undertakings- 1964
+3. Committee on Subordinate Legislation- 1953
+4. Estimate Committee- Standing financial committee set up- 1921

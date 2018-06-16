@@ -1,0 +1,695 @@
+1. A parachutist jumps from a height of 5000 metre. The relationship between his falling speed, v and the distance fallen through d is best represented as : [1995]
+(a)
+(b)
+(c)
+(d)
+
+2. Who among the following anticipated Newton by declaring that all things gravitate to the earth? [1995]
+(a) Aryabhatta (b) Varahamihira
+(c) Buddhagupta (d) Brahmagupta
+
+3. A liquid is flowing in a streamlined manner through a cylindrical pipe. Along a section containing the axis of the pipe, the flow profile will be : [1996]
+(a)
+(b)
+(c) (d)
+
+4. The v ariation of displacement d with time t in the case of a particle falling freely under gravity from rest is correctly shown in graph: [1996]
+(a)
+(b) 
+(c)
+(d)
+
+5. A simple machine helps a person in doing: [1996]
+(a) less work
+(b) the same amount of work with lesser force
+(c) the same amount of work slowly
+(d) the same amount of work much faster
+
+6. The tendency of a liquid drop to contract and occupy minimum area is due to : [1997]
+(a) surface tension (b) viscosity
+(c) density (d) vapour pressure
+
+7. Which one of the following is a vector quantity?  [1997]
+(a) Momentum (b) Pressure
+(c) Energy (d) Work
+
+8. A girl is swinging on a swing in sitting position. When the girl stands up, the period of swing will : [1997]
+(a) be shorter
+(b) be longer
+(c) depends on the height of the girl
+(d) not change
+
+9. A boy standing at the point O in the given diagram throws a ball three times with the same force, but projecting it along different inclinations from the ground. The results of the throws have been plotted in the diagram. Which one of the following is a valid conclusion? [1997]
+Height Distance
+(a) The larger the initial inclination, the longer the throw
+(b) The larger the height reached, the longer the throw
+(c) The larger the height reached, the shorter the throw
+(d) The larger the initial inclination, the greater the height reached
+
+10. The working principle of a washing machine is : [1997]
+(a) centrifugation (b) dialysis
+(c) reverse osmosis (d) diffusion
+
+11. A smooth plane inclined at an angle Q with the horizontal as shown in the given figure. A body starts from rest and slides down on the inclined surface.  The time taken by the body to reach the bottom is: [1997]
+(a)  c 2h g 1 / sin (b) 2 h g q (c) (d) 2l g s in q 2 h g
+
+12. A ball is dropped from the top of a high building with a constant acceleration of 9.8 m/s2 . What will be its velocity after 2 seconds? [1998]
+(a) 9.8 m/s (b) 19.6 m/s
+(c) 29.4 m/s (d) 39.2 m/s
+
+13. A hunter aims his gun at a point between the eyebrows of a monkey sitting on a branch of a tree. Just as he fires, the monkey jumps down. The bullet will : [1999]
+(a) hit the monkey at the point aimed
+(b) hit the monkey below the point aimed
+(c) hit he monkey above the point aimed
+(d) miss the monkey altogether
+
+14. For which one of the following is capillarity not the reason? [1999]
+(a) Blotting of ink
+(b) Rising of underground water
+(c) Spread a water drop on a cotton cloth
+(d) Rising of water from the roots of a plant to its foliage
+
+15. Consider the following features of newer models of motor cars: [2000]
+1. Radial tyres
+2. Streamlined body
+3. Multipoint fuel injection
+4. Catalytic converter with exhaust
+Which of these features make the new models of motor cars more fuel efficient?
+(a) 1 and 2 (b) 2 and 3
+(c) 2, 3 and 4 (d) 1, 3 and 4
+
+16. Assertion (A) : A man standing on a completely frictionless surface can propel himself by whistling.
+Reason (R) : If no external force acts on a system, its momentum cannot change. [2000]
+Codes:
+(a) Both A and R are true and R is the correct explanation of A
+(b) Both A and R are true but R is not a correct explanation of A
+(c) A is true but R is false
+(d) A is false but R is true
+
+17. The mass of a body on earth is 100 kg (acceleration due to gravity, ge = 10 m/s2. If acceleration due to gravity on the moon is g / 6, then the mass of the body on the moon is : [2001] e 
+(a) 100/6 kg (b) 60 kg
+(c) 100 kg (d) 600 kg
+
+18. Consider the following statements: [2001] A simple pendulum is set into oscillation.  Then:
+1. the acceleration is zero when the bob passes through the mean position.
+2. in each cycle the bob attains a given velocity twice.
+3. both acceleration and velocity of the bob are zero when it reaches its extreme position during the oscillation.
+4. the amplitude of oscillation of the simple pendulum decreases with time.
+Which of these statements are correct?
+(a) 1 and 2 (b) 3 and 4
+(c) 1, 2 and 4 (d) 2, 3 and 4
+
+19. Which of the following distance-time graph (x-t) represents one-dimensional uniform motion? [2001]
+(a) (b) x x t t (c) (d) x x t
+
+20. Assertion (A) : With the increase of temperature, the viscosity of glycerine increases. [2002]
+Reason (R) : Rise of temperature increases kinetic energy of molecules.
+Codes :
+(a) Both A and R are true and R is the correct explanation of A
+(b) Both A and R are true but R is not a correct explanation of A
+(c) A is true but R is false
+(d) A is false but R is true
+
+21. Assertion (A) : An iron ball floats on mercury but gets immersed in water. [2002]
+Reason (R) : The specific gravity of iron is more than that of mercury.
+Codes:
+(a) Both A and R are true and R is the correct explanation of A
+(b) Both A and R are true but R is not a correct explanation of A
+(c) A is true but R is false
+(d) A is false but R is true
+
+22. A solid cube gets completely immersed in water when a 0.2 kg mass is placed on it. If the mass is removed, the cube is 2 cm above the water level. What is the length of each side of the cube? [2002]
+(a) 12 cm (b) 10 cm
+(c) 8 cm (d) 6 cm
+
+23. Assertion (A) : The weight of a body decreases with the increase of altitude on earth. [2003]
+Reason (R) : The earth is not a perfect sphere.
+Codes:
+(a) Both A and R are true and R is the correct explanation of A
+(b) Both A and R are true but R is not a correct explanation of A
+(c) A is true but R is false
+(d) A is false but R is true
+
+24. Consider the following statements: [2003] A 4-wheel vehicle moving in a sharp circular path at high speed will :
+1. overturn about its outer wheels
+2. overturn about its inner wheels
+3. skid outwards
+4. skid inwards
+Which of these statements are correct?
+(a) 1 and 3 (b) 2 and 4
+(c) 2 and 3 (d) 1 and 4
+
+25. An oil tanker partially filled with oil moves forward on a level road with uniform acceleration. The free surface of oil then: [2003]
+(a) remains horizontal
+(b) is inclined to the horizontal with smaller depth at the rear end
+(c) is inclined to the horizontal with larger depth at the rear end
+(d) assumes a parabolic curve
+
+26. If the radius of the earth were to shrink by one per cent, its mass remaining the same, the value of g on the earth's surface would: [2003]
+(a) increase by 0.5%
+(b) increase by 2%
+(c) decrease by 0.5%
+(d) decrease by 2%
+
+27. A car is running on a road at a uniform speed of 60 km/h. The net resultant force on the car is : [2004]
+(a) driving force in the direction of car 's motion
+(b) resistance force opposite to the direction of car 's motion
+(c) an inclined force
+(d) equal to zero
+
+28. A spherical body moves with a uniform angular velocity (w) around a circular path of radius r. Which one of the following statements is correct? [2004]
+(a) The body has no acceleration
+(b) The body has a radial acceleration w 2 r directed toward centre of path
+(c) The body has a radial acceleration 2/5w 2 r directed away from the centre of the path
+(d) The body has an acceleration w 2 tangential to its path 	
+
+29. A weightless rubber balloon is filled with 200 cc of water. Its weight in water is equal to : [2004]
+(a) 9.8/5 N (b) 9.8/10 N
+(c) 9.8/2 N (d) zero
+
+30. Which one of the following is the correct sequence of the given substances in the decreasing order of their densities? [2005]
+(a) Steel > Mercury > Gold
+(b) Gold > Mercury > Steel
+(c) Steel > Gold > Mercury
+(d) Gold > Steel > Mercury
+
+31. What is the approximate mean velocity with which the earth moves round the sun in its orbit? [2006]
+(a) 20 km/s (b) 30 km/s
+(c) 40 km/s (d) 50 km/s
+
+32. Four wires of same material and of dimensions as under are stretched by a load of same magnitude separately. Which one of them will be elongated maximum? [2007]
+(a) Wire of 1m length and 2 mm diameter
+(b) Wire of 2 m length and 2 mm diameter
+(c) Wire of 3 m length and 1.5 mm diameter
+(d) Wire of 1 m length and 1 mm diameter
+
+33. Three identical vessels A, B and C are filled with water, mercury and kerosene respectively up to an equal height. The three vessels are provided with identical taps at the bottom of the vessels. If the three taps are opened simultaneously, then which vessel is emptied first? [2007]
+(a) Vessel B
+(b) All the vessels A, B and C will be emptied simultaneously
+(c) Vessel A
+(d) Vessel C
+
+34. Consider the following statements : [2012 - I]
+If there were no phenomenon  of capillarity
+1. it would be difficult to use a kerosene lamp
+2. one would not be able to use a straw to consume a soft drink
+3. the blotting paper would fail to function
+4. the big trees that we see around would not have grown on the Earth
+Which of the statements given above are correct?
+(a) 1, 2 and 3 only (b) 1, 3 and 4 only
+(c) 2 and 4 only (d) 1, 2, 3 and 4
+
+35. Ball bearings are used in bicycles, cars, etc., because [2013 - I]
+(a) the actual area of contact between the wheel and axle is increased
+(b) the effective area of contact between the wheel and axle is increased
+(c) the effective area of contact between the wheel and axle is reduced
+(d) None of the above statements is correct
+
+36. The clouds float in the atmosphere because of their low: [1995]
+(a) temperature (b) velocity
+(c) pressure (d) density 
+
+37. Strips of two metals A and B are firmly jointed together as shown in the figure. [1999]
+A B On heating, A expands more than B does. If this j ointed strip is heated, then it will appear as
+(a) (b) (c) (d)
+
+38. Low temperatures (cryogenics) find application in : [1999]
+(a) space travel, surgery and magnetic levitation
+(b) surgery, magnetic levitation and telemetry
+(c) space travel, surgery and telemetry
+(d) space travel, magnetic levitation and telemetry
+
+39. Assertion (A) : A piece of copper and a piece of glass are heated to the same temperature. When touched, thereafter, the copper piece appears hotter than the glass piece.
+Reason (R) : The density of copper is more than that of glass. [2001]
+Codes:
+(a) Both A and R are true and R is the correct explanation of A
+(b) Both A and R are true but R is not a correct explanation of A
+(c) A is true but R is false
+(d) A is false but R is true
+
+40. Assertion (A) : The boiling point of water decreases as the altitude increases.
+Reason (R) : The atmospheric pressure increases with altitude. [2001]
+Codes :
+(a) Both A and R are true and R is the correct explanation of A
+(b) Both A and R are true but R is not a correct explanation of A
+(c) A is true but R is false
+(d) A is false but R is true
+
+41. When water is heated from 0ºC to l0ºC. Its volume: [2001]
+(a) increases
+(b) decreases
+(c) does not change
+(d) first decreases and then increases
+
+42. A hollow sphere of radius R, a hollow cube of side R and a thin circular plate of radius R, made up of the same material, are all heated to 20°C above room temperature. When left to cool in the room, which of them will reach the room temperature first? [2002]
+(a) Circular plate
+(b) Cube
+(c) Sphere
+(d) All of them will reach the room temperature at the same time
+
+43. Consider the following statements: . [2003]
+1. Steam at 100°C and boiling water at 100°C contain same amount of heat.
+2. Latent heat of fusion of ice is equal to the latent heat of vaporization of water.
+3. In an air-conditioner, heat is extracted from the room air at the evaporator coils and is rejected out at the condenser coils.
+Which of these statements is/are correct?
+(a) 1 and 2 (b) 2 and 3
+(c) Only 2 (d) Only 3
+
+44. Cloudy nights are warmer compared to clear cloudless nights, because clouds: [2001]
+(a) prevent clod waves from the sky from descending on earth
+(b) reflect back the heat given off by earth
+(c) produce heat and radiate it towards earth
+(d) absorb heat from the atmosphere and send it towards earth
+
+45. The surface of a lake is frozen in severe winter, but the water at its bottom is still liquid. What is the reason ?  [2011 - I]
+(a) Ice is a bad conductor of heat.
+(b) Since the surface of the lake is at the same temperature as the air, no heat is lost.
+(c) The density of water is maximum at 4°C.
+(d) None of the statements is correct 
+
+46. When the same note is played on a sitar and a flute, the sound produced can be distinguished from each other because of the difference in : [1995]
+(a) pitch, loudness and quality
+(b) pitch and loudness
+(c) quality only
+(d) loudness only 
+
+47. Given below are two statements, one labelled as Assertion (A) and other labelled as Reason (R). [1995]
+Assertion (A) : A diamond sparkles more than a glass imitation cut to the same shape.
+Reason (R) : The refractive index of diamond is less than that of glass.
+In context of the above two statements, which one of the following is correct?
+(a) Both A and R are true and R is the correct explanation of A
+(b) Both A and R are true and R is not a correct explanation of A
+(c) A is true but R is false
+(d) A is false but R is true
+
+48. Optical fibre works on the principle of : [1995]
+(a) total internal reflection
+(b) refraction
+(c) scattering
+(d) interference
+
+49. Suppose a rocketship is receding from the earth at a speed of 2/10 th the velocity of light. A light in the rocketship appears blue to the passengers on the ship.  What colour would it appear to an observer on the earth? [1995]
+(a) Blue (b) Orange
+(c) Yellow (d) Yellow-orange
+
+50. An air bubble in water will act like a : [1995]
+(a) convex mirror (b) convex lens
+(c) concave mirror (d) concave lens
+
+51. When a mirror is rotated by an angle q, the reflected ray will rotate by : [1996]
+(a) 0° (b) q/2
+(c) q (d) 2q
+
+52. Total internal reflection can take place when light travels from: [1996]
+(a) diamond to glass (b) water to glass
+(c) air to water (d) air to glass
+
+53. Match List I (Quantity) with List II (Units) and select the correct answer using the codes given below the lists: [1999]
+List-I List-II
+A. High speed 1. Mach
+B. Wavelength 2. Angstrom
+C. Pressure 3. Pascal
+D. Energy 4. Joule
+Codes:
+(a) A-2, B-1, C-3, D-4
+(b) A-1, B-2, C-4, D-3
+(c) A-1, B-2, C-3, D-4
+(d) A-2, B-1, C-4, D-3
+
+54. Consider the following statements:  [1999]
+1. If a person looks at a coin which is in a bucket of water, the coin will appear to be closer than it really is.
+2. If a person under water looks at a coin above the water surface, the coin will appear to be at a higher level than it really is.
+Which of the above statements is/are correct?
+(a) 1 and 2 (b) 1 alone
+(c) 2 alone (d) neither 1 nor 2
+
+55. A noise level of 100 decibel would correspond to: [2000]
+(a) Just audible sound
+(b) Ordinary conversation
+(c) Sound from a noisy street
+(d) Noise from a machine shop
+
+56. Assertion (A) : In a motion picture, usually 24 frames are projected every second over the whole length of the film.
+Reason (R) : An image formed on the retina of eye persists for about 0.1 s after the removal of stimulus.  [2000]
+Codes:
+(a) Both A and R are true and R is the correct explanation of A
+(b) Both A and R are true but R is not a correct explanation of A
+(c) A is true but R is false
+(d) A is false but R is true
+
+57. Assertion (A) : Small glass beads fixed on traffic signals glow brightly when light falls upon them.
+Reason (R) : Light is totally reflected when the angle of incidence exceeds a certain critical value and light travelling in a denser medium is reflected from a rarer medium. [2000]
+Codes :
+(a) Both A and R are true and R is the correct explanation of A
+(b) Both A and R are true but R is not a correct explanation of A
+(c) A is true but R is false
+(d) A is false but R is true
+
+58. When a CD (compact disc used in audio and video systems) is seen in sunlight, rainbow like colours are seen. This can be explained on the basis of the phenomenon of : [2000]
+(a) reflection and diffraction
+(b) reflection and transmission
+(c) diffraction and transmission
+(d) refraction, diffraction and transmission
+
+59. Assertion (A) : A stick is dipped in water in a slanting position. If observed sideways, the stick appears short and bent at the surface of water.  Reason (R) : A light coming from the stick undergoes scattering from water molecules giving the stick a short and bent appearance. [2001]
+(a) Both A and R are true and R is the correct explanation of A
+(b) Both A and R are true but R is not a correct explanation of A
+(c) A is true but R is false
+(d) A is false but R is true
+
+60. When light waves pass from air to glass, the variables affected are: [2001]
+(a) wavelength, frequency and velocity
+(b) velocity and frequency
+(c) wavelength and frequency
+(d) wavelength and velocity
+
+61. Consider the following statements: [2002]
+1. Light of longer wavelength are scattered much more than the light of shorter wavelength.
+2. The speed of visible light in water is 0.95 times the speed in vacuum.
+3. Radio waves are produced by rapidly oscillating electrical currents.
+4. To detect the overspeeding vehicles, police use the Doppler effect of reflected short radio waves.
+Which of these statements are correct?
+(a) 1 and 2 (b) 1 and 3
+(c) 2 and 4 (d) 3 and 4
+
+62. Consider the following natural phenomena: [2002]
+1. Terrestrial heating
+2. Reflection of light
+3. Refraction of light
+4. Diffraction of light
+Due t o which of these phenomena is a mirage formed ?
+(a) 1 and 2 (b) 2, 3 and 4
+(c) 1 and 3 (d) 4 only
+
+63. Di ffusion of li ght in the at mosphere takes plac e due to : [2003]
+(a) carbon dioxide
+(b) dust particles
+(c) helium
+(d) water vapours
+
+64. Which one of the following statements is not correct?  [2003]
+(a) The velocity of sound in air increases with the increase of temperature
+(b) The velocity of sound in air is independent of pressure
+(c) The velocity of sound in air decreases as the humidity increases
+(d) The velocity of sound in air is not affected by the change in amplitude and frequency
+
+65. In which one among the following is the speed of sound maximum? [2006]
+(a) Air at 0°C (b) Air at 100°C
+(c) Wat er (d) Wood
+
+66. Consider the following statements: [2007]
+1. If magenta and yellow coloured circles intersect, the intersected area will have red colour.
+2. If cyan and magenta coloured circles intersect, the intersected area will have blue colour.
+Which of the statements given above is/are correct?
+(a) 1 only (b) 2 only
+(c) Both 1 and 2 (d) Neither 1 nor 2
+
+67. Consider the following statements: [2007]
+1. A flute of smaller length produces waves of lower f r e q ue nc y.
+2. Sound travels in rocks in the form of longitudinal elastic waves only.
+Which of the statements given above is/are correct?
+(a) 1 only (b) 2 only
+(c) Both 1 and 2 (d) Neither 1 nor 2
+
+68. Assertion (A) : A jet aircraft moving at Mach Number equal to 1 travels faster at an altitude of 15 km than while moving at Mach Number equal to 1 near the sea level.
+Reason (R) : The velocity of sound depends on the temperature of the surrounding medium. [2007]
+(a) Both A are R are true and R is the correct explanation of A
+(b) Both A and R are true but R is not a correct explanation of A
+(c) A is true but R is false
+(d) A is false but R is true
+
+69. Assertion (A): Radio waves bend in a magnetic field.
+Reason (R): Radio waves are electromagnetic in nature. [2008]
+(a) Both A are R are true and R is the correct explanation of A
+(b) Both A and R are true but R is not a correct explanation of A
+(c) A is true but R is false
+(d) A is false but R is true
+
+70. Which one of the following types of waves are used in a night vision apparatus? [2009]
+(a) Radio waves (b) Microwaves
+(c) Infra-red waves (d) None of the above
+
+71. Consider the figure given below and answer the item that follows:
+P
+O
+2
+I
+n the figure shown above, OP
+S
+1
+P
+1
+ and OP
+ are two plane mirrors kept perpendicular to each other. S is the
+direction of a beam of light falling on the mirror OP 2 .  The direction of the reflected beam of light from the mirror OP will be: [2011 - II]
+(a) Perpendicular to the direction S.
+(b) At 45° to the direction S.
+(c) Opposite and parallel to the direction S.
+(d) At 60° to the direction S.
+
+72. Consider the following phenomena: [2013 - I]
+1. Size of the sun at dusk.
+2. Colour of the sun at dawn
+3. Moon being visible at dawn
+4. Twinkle of stars in the sky
+5. Polestar being visible in the sky
+Which of the above are optical illusions?
+(a) 1, 2 and 3 (b) 3, 4 and 5
+(c) 1, 2 and 4 (d) 2, 3 and 5
+
+73. Rainbow is produced when sunlight falls on drops of rain. Which of the following physical phenomena are responsible for this? [2013 - I]
+1. Dispersion 2. Refraction
+3. Internal reflection
+Select the correct answer using the codes below.
+(a) 1 and 2 only (b) 2 and 3 only
+(c) 1 and 3 only (d) 1, 2 and 3
+
+74. During a thunderstorm, the thunder in the skies is produced by the [2013 - I]
+1. meeting of cumulonimbus clouds in the sky
+2. lightning that separates the nimbus clouds
+3. violent upward movement of air and water particles
+Select the correct answer using the codes given below.
+(a) 1 only
+(b) 2 and 3
+(c) 1 and 3
+(d) None of the above produces the thunder
+
+75. Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R).
+Assertion (A): Transformer is useful for stepping up or stepping down voltages.
+Reason (R): Transformer is a device used in D.C.  circuits.
+In the context of the above two statements, which one of the following is correct? [1996]
+(a) Both A and R are true and R is the correct explanation of A
+(b) Both A and R are true but R is not a correct explanation of A
+(c) A is true but R is false
+(d) A is false but R is true 
+
+76. Domestic electrical wiring is basically a : [1996]
+(a) series connection
+(b) parallel connection
+(c) combination of series and parallel connections
+(d) series connection within each room and parallel connection elsewhere
+
+77. Which one of the following is paramagnetic in nature?  [1997]
+(a) Iron (b) Hydrogen
+(c) Oxygen (d) Nitrogen
+
+78. A fuse is used in mains electric supply as a safety device. Which one of the following statements about the fuse is correct? [1998]
+(a) It is connected in parallel with the main switch
+(b) It is made mainly from silver alloys
+(c) It must have a low melting point
+(d) It must have very high resistance
+
+79. Assertion (A) : The temperature of a metal wire rises when an electric current is passed through it. [1998]
+Reason (R) : Collision of metal atoms with each other releases heat energy.
+Codes:
+(a) Both A and R are true and R is the correct explanation of A
+(b) Both A and R are true but R is not a correct explanation of A
+(c) A is true but R is false
+(d) A is false but R is true
+
+80. Consider the following statements: [1999]
+An ordinary light bulb has a rather short life because the:
+1. filament wire is not uniform.
+2. bulb cannot be evacuated completely.
+3. wires supporting the filament melt at high temperatures.
+Which of the above statements are correct?
+(a) 1 and 3 (b) 2 and 3
+(c) 1 and 2 (d) 1, 2 and 3
+
+81. Consider the following statements regarding a motor car battery: [1999]
+1. The voltage is usually 12 V.
+2. Electrolyte used is hydrochloric acid.
+3. Electrodes are lead and copper.
+4. Capacity is expressed in ampere-hour.
+Which of the above statements are correct?
+(a) 1 and 2 (b) 2 and 3
+(c) 3 and 4 (d) 1 and 4
+
+82. Fluorescent tubes are fitted with a choke. The choke coil : [2000]
+(a) steps up the line voltage
+(b) steps-down the line voltage
+(c) reduces current in the circuit
+(d) chokes low frequency current
+
+83. Two wires have their lengths, diameters and resistivities all in the ratio of 1 : 2. If the resistance of the thinner wire is 10 ohm, the resistance of the thicker wire is : [2001]
+(a) 5 ohm (b) 10 ohm
+(c) 20 ohm (d) 40 ohm
+
+84. Assertion (A) : In our houses, the current in A.C.  electricity line changes direction 60 times per second.
+Reason (R) : The frequency of alternating voltage supplied is 50 Hz. [2004] 
+(a) Both A and R are individually true and R is the correct explanation of A
+(b) Both A and R are individually true but R is not the correct explanation of A
+(c) A is true but R is false
+(d) A is false but R is true
+
+85. What is the order of magnitude of electric resistance of the human body (dry) ? [2005]
+(a) 10 2 ohm (b) 10 ohm (c) 10 6 ohm (d) 10 4 8 ohm
+
+86. Which one of the following is printed on a commonly used fluorescent tube light? [2006]
+(a) 220 K (b) 273 K
+(c) 6500 K (d) 9000 K
+
+87. Graphene is frequently in news recently. What is its importance? [2012 - I]
+1. It is a two-dimensional material and has good electrical conductivity.
+2. It is one of the thinnest but strongest materials tested so far.
+3. It is entirely made of silicon and has high optical transparency.
+4. It can be used as 'conducting electrodes' required for touch screens, LCDs and organic LEDs.
+Which of the statements given above are correct?
+(a) 1 and 2 only
+(b) 3 and 4 only
+(c) 1, 2 and 4 only
+(d) 1, 2, 3 and 4
+
+88. Electrically charged  particles  from space travelling at speeds of several hundred km/sec can severely harm living beings if they reach the surface of the Earth. What prevents them from reaching the surface of the Earth? [2012 - I]
+(a) The Earth's magnetic field diverts them towards its poles
+(b) Ozone layer around the Earth reflects them back to outer space
+(c) Moisture in the upper layers of atmosphere prevents them from reaching the surface of the Earth
+(d) None of the statements is correct
+
+89. The known forces of nature can be divided into four classes, viz., gravity, electromagnetism, weak nuclear force and strong nuclear force. With reference to them, which one of the following statements is not correct?  [2013 - I]
+(a) Gravity is the strongest of the four
+(b) Electromagnetism acts only on particles with an electric charge
+(c) Weak nuclear force causes radioactivity
+(d) Strong nuclear force holds protons and neutrons inside the nucleus of an atom
+
+90. The technique used to transmit audio signals in television broadcasts is : [1995]
+(a) Amplitude Modulation
+(b) Frequency Modulation
+(c) Pulse Code Modulation
+(d) Time Division Multiplexing 
+
+91. Consider the following statements: [1996]
+At the present level of technology available in India, solar energy can be conveniently used to :
+1. Supply hot water to residential buildings.
+2. Supply water for minor irrigation projects.
+3. Provide street lighting.
+4. Electrify a cluster of villages and small towns.
+(a) 1, 2, 3 and 4 are correct
+(b) 2 and 4 are correct
+(c) 1 and 3 are correct
+(d) 1, 2 and 3 are correct 
+
+92. One astronomical unit is the average distance between: [1998]
+(a) Earth and the Sun
+(b) Earth and the Moon
+(c) Jupiter and the Sun
+(d) Pluto and the Sun
+
+93. For reproducing sound, a CD (Compact Disc) audio player uses a : [2000]
+(a) quartz crystal
+(b) titanium needle
+(c) laser beam
+(d) barium titanate ceramic
+
+94. Which one of the following does a TV remote control unit use to operate a TV set? [2000]
+(a) Light waves (b) Sound waves
+(c) Microwaves (d) Radio waves
+
+95. Consider the following statements: [2001]
+In a nuclear reactor, self-sustained chain reaction is possible, because:
+1. more neutrons are released in each of the fission reactions.
+2. the neutrons immediately take part in the fission process.
+3. the fast neutrons are slowed down by graphite.
+4. every neutron released in the fission reaction initiates further fission.
+Which of these statements are correct?
+(a) 1, 2 and 3 (b) 1 and 3
+(c) 2 and 4 (d) 2, 3 and 4
+
+96. Consider the following statements: [2005]
+1. A geo-stationary satellite is at an approximate height of 10,000 km.
+2. FM transmission of music is of very good quality because the atmospheric or man made noises which are generally frequency variations can do little harm.
+Which of the statements give above is/are correct?
+(a) 1 only (b) 2 only
+(c) Both 1 and 2. (d) Neither 1 nor 2
+
+97. What does the term Dolby B or Dolby C printed on tape-recorders and other sound systems refer to: [2006]
+(a) frequency Modulated System
+(b) amplitude Modulated System
+(c) noise Reduction Circuit
+(d) both DC and AC power can be used
+
+98. Which of the following types is used by computed tomography employed for visualisation of the internal structure of human body? [2007]
+(a) X-ray
+(b) South waves
+(c) Magnetic resonance
+(d) Radio isotopes
+
+99. The efforts to detect the existence of Higgs boson particle have become frequent news in the recent past.  What is/are the importance / importances of discovering this particle? [2013 - I]
+1. It will enable us to understand as to why elementary particles have mass.
+2. It will enable us in the near future to develop the technology of transferring matter from one point to another without traversing the physical space between them.
+3. It will enable us to create better fuels for nuclear fission.
+Select the correct answer using the codes given below.
+(a) 1 only (b) 2 and 3 only
+(c) 1 and 3 only (d) 1, 2 and 3
+
+100. With reference to 'fuel cells' in which hydrogen-rich fuel and oxygen are used to generate electricity.  Consider the following statements : [2015-I]
+1. If pure hydrogen is used as a fuel, the fuel cell emits heat and water as by-products.
+2. Fuel cells can be used for powering buildings and not for small devices like laptop computers.
+3. Fuel cells produce electricity in the form of Alternating Current (AC).
+Which of the statements given above is / are correct?
+(a) 1 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+
+101. Cryogenic engines find applications in : [1995]
+(a) sub-marine propulsion
+(b) frost-free refrigerators
+(c) rocket technology
+(d) research in superconductivity
+
+102. Consider the following statements: [1996]
+A person in a spaceship located half way between the earth and the sun will notice that the :
+1. sky is jet black.
+2. stars do not twinkle.
+3. temperature outside the spaceship is much higher than that on the surface of the earth.
+(a) 3 alone is correct (b) 1 and 2 are correct
+(c) 1 and 3 are correct (d) 1, 2 and 3 are correct
+
+103. The tail of a comet is directed away from the sun because: [1997]
+(a) as the comet rotates around the sun, the lighter mass of the comet is pushed away due to the centrifugal force alone
+(b) as the comet rotates, the lighter mass of the comet is attracted by some stars situated in the direction of its tail
+(c) the radiation emitted by the sun exerts a radial pressure on t he c omet t hrowi ng i ts t ai l away from the sun
+(d) the tail of the comet always exists in the same orientation
+
+104. A 'black hole' is a body in space which does not allow any radiation to come out. This property is due to its: [2000] 
+(a) very small size (b) very large size
+(c) very high density (d) very low size
+
+105. Consider the following statements in respect of India advanced satellite INSAT-4A: [2006]
+1. INSAT-4A was launched in December, 2005 from New Mexico.
+2. The European Commercial Launch Service Provider Arianespace was associated with the launch of INSA T-4A.
+3. Tata-Sky; a digital cable service provider; is associated with DTH television broadcasting service from INSA T 4A.
+Which of the statements given above are correct?
+(a) 1, 2 and 3 (b) 1 and 2 only
+(c) 2 and 3 only (d) 1 and 3 only
+
+106. In which of the following activities are Indian Remote Sensing (IRS) satellites used? [2015-I]
+1. Assessment of crop productivity
+2. Locating groundwater resources
+3. Mineral exploration
+4. Telecommunications
+5. Traffic studies
+Select the correct answer using the code given below.
+(a) 1, 2 and 3 only (b) 4 and 5 only
+(c) 1 and 2 only (d) 1, 2, 3, 4 and 5

@@ -1,0 +1,95 @@
+1. With reference to Indian satellites and their launchers, consider the following statements: [2002]
+1. All the INSAT series of satellites and their launched abroad
+2. PSL Vs were used to launch IRS-series of satellites
+3. India used the indigenously built cryogenic engines for the first time for powering the third stage of GSLV
+4. GSAT, launched in the year 2001, has payloads to demonstrate digital broadcast and internet services
+Which of these statements are correct?
+(a) 1, 2, 3 and 4 (b) 2, 3 and 4
+(c) 1, 2 and 4 (d) 1 and 3
+
+2. Assertion (A) : Artificial satellites are always launched from the earth in the eastward direction.
+Reason (R) : The earth rotates from west to east and so the satellite attains the escape velocity. [2002]
+(a) Both A and R are true and R is the correct explanation of A
+(b) Both A and R are true but R is NOT a correct explanation of A
+(c) A is true but R is false
+(d) A is false but R is true
+
+3. Consider the following statements: [2003]
+1. India launche its first full-fledged meteorological satellite (METSAT) in September, 2002
+2. For the first time, the space vehicle PSLV C-4 carried a payload of more than 1000 kg into a geosynchronous orbit
+Which of these statement is/are correct?
+(a) Only 1 (b) Only 2
+(c) Both 1 and 2 (d) Neither 1 nor 2
+
+4. NASA's Deep Impact space mission was employed to take detailed pictures of which comet nucleus? [2007]
+(a) Halley's Comet (b) Hale-Bopp
+(c) Hyakutake (d) Tempel 1
+
+5. Which one of the following pairs is not correctly matched? [2007]
+(a) Cosmic Background Explorer (COBE) : Satellite
+(b) Falcon: Under - sea cable system
+(c) Discovery: Space shuttle
+(d) Atlantis: Space station
+
+6. Selene-1, the lunar orbiter mission belongs to which one of the followings? [2008]
+(a) China (b) European Union
+(c) Japan (d) USA
+
+7. ISRO successfully conducted a rocket test using cryogenic engines in the year 2007. Where is the teststand used for the purpose, located? [2008]
+(a) Balasore (b) Thiruvananthapuram
+(c) Mahendragiri (d) Karwar
+
+8. Which one of the following is a spacecraft? [2008]
+(a) Apophis (b) Cassini
+(c) Spitzer (d) TechSar
+
+9. What is the purpose of the US Space Agency's Themis Mission, which was recently in the news? [2008]
+(a) To study the possibility of life on Mars
+(b) To study the satellites of Saturn
+(c) To study the colourful of display of high latitude skies
+(d) To build a space laboratory to study the stellar explosions
+
+10. Consider the following statements in respect of a jet engine and a rocket: [2008]
+1. A j et engine uses t he surrounding air for its oxygen supply and so is unsuitable for motion in space.
+2. A rocket carries its own supply of oxygen in the gas form, and fuel.
+Which of the statements given above is/are correct?
+(a) 1 only (b) 2 only
+(c) Both 1 and 2 (d) Neither 1 nor 2
+
+11. Consider the following statements: [2010] The satellite Oceansat-2 launched by India helps in
+1. estimating the water vapour content in the atmosphere.
+2. predicting the onset of monsoons.
+3. monitoring the pollution of coastal waters.
+Which of the statements given above is/are correct?
+(a) 1 and 2 only (b) 2 only
+(c) 1 and 3 only (d) 1, 2 and 3
+
+12. Satellites used for telecommunication relay are kept in a geostationary orbit. A satellite is said to be in such as orbit when : [2011 - I]
+1. The orbit is geosynchronous.
+2. The orbit is circular.
+3. The orbit lies in the plane of the earth's equator.
+4. The orbit is at an altitude of 22,236.
+Select the correct answer using the codes given below :
+(a) 1, 2 and 3 only (b) 1, 3 and 4 only
+(c) 2 and 4 only (d) 1, 2, 3 and 4
+
+13. An artificial satellite orbiting around the Earth does not fall down. Thi s is so bec ause t he att ract ion of Earth [2011 - I]
+(a) does not exist at such distance
+(b) is neutralized by the attraction of the moon
+(c) provides the necessary speed for its steady motion
+(d) provides the necessary acceleration for its motion
+
+14. Which of the following pairs is/are correctly matched?  [2014 - I]
+Spacecraft Purpose
+1. Cassini-Huygens : Orbiting the Venus and transmitting data to the Earth
+2. Messenger : Mapping and investigating the Mercury
+3. Voyager 1 and 2 : Exploring the outer solar system
+Select the correct answer using the code given below.
+(a) 1 only (b) 2 and 3 only
+(c) 1 and 3 only (d) 1, 2 and 3
+
+15. In the context of space technology, what is "Bhuvan", recently in the news? [2010]
+(a) A mini satellite launched by ISRO for promoting the distance education in India
+(b) The name given to the next Moon Impact Probe, for Chandrayan-II
+(c) A geoportal of ISRO with 3 D imaging capabilities of India
+(d) A space telescope developed by India

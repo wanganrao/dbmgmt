@@ -1,0 +1,139 @@
+1. The term 'law' in Article 13 includes
+a) ordinances issued by the president or the state governors
+b) laws enacted by the Parliament or the state legislatures
+c) notifications by the executive
+d) bye-laws
+Select the correct answer using the code given below:
+1) a, b and c
+2) b only
+3) b and c
+4) All of the above
+Answer: 4
+The term 'law' in Article 13 has been given a wide connotation so as to include the following:
+# Permanent laws enacted by the Parliament or the state legislatures;
+# Temporary laws like ordinances issued by the president or the state governors;
+# Statutory instruments in the nature of delegated legislation (executive legislation) like order,
+# bye-law, rule, regulation or notification;
+# Non-legislative sources of law, that is, custom or usage having the force of law. 
+Thus, not only a legislation, but any of the above can be challenged in the courts as violating a Fundamental Right and hence, can be declared as void.
+Source : Lakshmikanth Chapter 7 'Fundamental Rights'
+
+2. In the Indian context, which of the following laws/programs are/were formulated by successive Governments inorder to implement Directives as under Part IV of the Constitution? 
+a) Wildlife (Protection) Act (1972)
+b) Legal Services Authorities Act (1987)
+c) Three-tier Panchayat Raj system
+d) The Criminal Procedure Code (1973)
+Select the correct answer using the code given below:
+1) c only
+2) a, c and d
+3) a and c
+4) All the above
+Answer:  4
+The Wildlife (Protection) Act, 1972 was enacted to safeguard the wildlife (=Article 48 A) The Legal Services Authorities Act (1987) has established a nation-wide network to provide free and competent legal aid to the poor and to organise lok adalats for promoting equal justice (=Article 39A) Three-tier panchayati raj system (at village, taluka and zila levels) has been introduced to translate into reality Gandhiji's dream of every village being a republic (=Article 40).  The Criminal Procedure Code (1973) separated the judiciary from the executive in the public services of the state (=Article 50).
+Source : Lakshmikanth Chapter 8 'Directive Principles of States Policy'
+
+3. Which of the following Fundamental Rights are available only to citizens of India, but not to foreigners? 
+a) Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth
+b) Freedom to manage religious affairs
+c) Protection of language, script and culture of minorities
+d) Protection against arrest and detention in certain cases
+e) Right to elementary education
+Select the correct answer using the code given below:
+1) a and c
+2) a, c and e
+3) a, b and c
+4) b, d and e
+Answer: 1
+FR available only to citizens and not to foreigners
+# Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth (Article 15)
+# Equality of opportunity in matters of public employment (Article 16)
+# Protection of six rights of freedom of (Article 19)
+# Protection of language, script and culture of minorities (Article 29)
+# Right of minorities to establish and administer educational institutions (Article 30)
+Source : Lakshmikanth Chapter 7 'Fundamental Rights'
+
+4. 'Right to Property' was under major controversy since its inception in the Constitution of India. With regard to its present position, consider the following
+a) It is a Constitutional right
+b) The Supreme Court can issue writ jurisdiction, for the violation of the right.
+c) The right to property was deleted from Fundamental Rights by the 42th Amendment Act, 1976. 
+Select the correct answer
+1) c Only
+2) a Only
+3) a and b
+4) a and c
+Answer: 2
+44th Amendment Act of 1978 abolished the right to property as a Fundamental Right by repealing Article 19(1)(f) and Article 31 from Part III. Instead, the Act inserted a new Article 300A in Part XII. It provides that no person shall be deprived of his property except by authority of law. Thus, the right to property still remains a legal right or a constitutional right, though no longer a fundamental right. It is not a part of the basic structure of the Constitution. Writs are issued by Supreme Court only for the violation of the Fundamental Rights not legal rights. 
+Source : Lakshmikanth Chapter 7 'Fundamental Rights'
+
+5. In Indian context, the rule of equality before law is not absolute, there are certain exceptions to it. Consider the following cases
+a) A member of Parliament is answerable to court in respect of anything said or any vote given by him in Parliament
+b) The President or the Governor enjoy constitutional immunities
+c) Foreign ambassadors and diplomats enjoy not only criminal immunities but civil immunities as well
+Which of the above exception(s) is/are correct?
+1) a and c
+2) a and b
+3) b and c
+4) a, b and c
+Answer: 3
+Exceptions to 'equality before law':
+# The President of India and the Governor of States enjoy constitutional immunities
+# No member of Parliament shall be liable to any proceedings in any court in respect of anything said or any vote given by him in Parliament or any committee
+# The foreign sovereigns (rulers), ambassadors and diplomats enjoy immunity from criminal and civil proceedings.The UNO and its agencies enjoy the diplomatic immunity.
+Source : Lakshmikanth Chapter 7 'Fundamental Rights'
+
+6. Article 19, in the Indian Constitution guarantees to all citizens six rights (Right to Freedom). Consider the following with reference to Freedom of Movement
+a) The entry of outsiders in tribal areas is restricted
+b) The freedom of movement of prostitutes can be restricted on the ground of public health
+Select the correct answer using the code given below:
+1) a Only
+2) b Only
+3) Both a and b
+4) None
+Answer: 3
+The grounds of imposing reasonable restrictions on this freedom are two, namely, the interests of general public and the protection of interests of any scheduled tribe. The entry of outsiders in tribal areas is restricted to protect the distinctive culture, language, customs and manners of scheduled tribes and to safeguard their traditional vocation and properties against exploitation.  The Supreme Court held that the freedom of movement of prostitutes can be restricted on the ground of public health and in the interest of public morals. The Bombay High Court validated the restrictions on the movement of persons affected by AIDS.
+Source : Lakshmikanth Chapter 7 'Fundamental Rights'
+
+7. In Indian context, the concept of 'due process of law' was introduced in which of the following cases/law? 
+1) Minerva Mills Case
+2) Kesavananda Bharati case
+3) Menaka Gandhi Case
+4) 44 th Amendment Act
+Answer: 3
+In Menaka case (1978), the Supreme Court overruled its judgement in the Gopalan case by taking a wider interpretation of the Article 21. It ruled that the right to life and personal liberty of a person can be deprived by a law provided the procedure prescribed by that law is reasonable, fair and just. In other words, it has introduced the American expression 'due process of law'.
+Source : Lakshmikanth Chapter 7 'Fundamental Rights'
+
+8. Consider the following:
+Assertion (A): The Directive Principles are non-justiciable in nature
+Reason (R) :  Any law that gives effect to Directive Principles of State Policy in Article 39(b) and Article 39(c) and in the process the law violates Article 14 or Article 19, then the law is not considered unconstitutional
+Select the correct answer using the code given below:
+1) Both A and R are True and R is the correct explanation of A
+2) Both A and R are True and R is not the correct explanation of A
+3) A is True and R is False
+4) A is False and R is True
+Answer: 2
+Assertion and Reasoning both are correct when the statements are considered individually. But R is not the correct reasoning for the assertion stated.  The Directive Principles are non-justiciable in nature, that is, they are not legally enforceable by the courts for their violation. Therefore, the government (Central, state and local) cannot be compelled to implement them.  Reason (R) is a correct statement. The Supreme Court in Minerva Mills Case (1980) declared that DPSP was subordinate to FR's but FR's conferred by Article 14 and Article 19 were accepted as subordinate to the Directive Principles specified in Article 39 (b) and (c).
+Source : Lakshmikanth Chapter 8 'Directive Principles of States Policy'
+
+9. According to Indian Constitution, which one of the following is not a fundamental duty? 
+1) To vote in public elections
+2) To develop scientific temper
+3) To provide education for a child upto 14 years.
+4) To safeguard public property
+Answer: 1
+To vote in public elections and duty to pay taxes are not fundamental duties.
+Source : Lakshmikanth Chapter 9 'Fundamental Duties'
+
+10. Consider the following provisions under Directive Principles of State Policy as enshrined in the Constitution of India. 
+a) To promote educational and economic interests of SCs and STs. 
+b) To provide equal justice and free legal aid to the poor.
+c) To protect monuments of national importance
+d) To separate the judiciary from the executive in the public services of the State
+e) To secure for all citizens a uniform civil code throughout the country
+Which of the above are the Liberal-Intellectual principles that are reflected in the Directive Principles of State Policy? 
+1) a, c, d and e
+2) a, d and e
+3) c, d and e
+4) All the above
+Answer: 3
+Promotion of educational and economic interests of SCs and STs comes under the Gandhian Principles of DPSP whereas providing equal justice and free legal aid to the poor comes under the Socialistic Principles of DPSP.
+Source : Lakshmikanth Chapter 8 'Directive Principles of States Policy'

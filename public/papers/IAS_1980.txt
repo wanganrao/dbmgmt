@@ -1,0 +1,903 @@
+Q1. 240, ?, 120, 40, 10, 2
+(a) 240
+(b) 120
+(c) 180
+(d) 200
+
+Q2.0.5, 1, 2.5, 5, ?
+(a) 7.5
+(b) 6.5
+(c) 8.5
+(d) 9.5
+
+Q3. 4, 7, 3, 6, 2, 5, ?
+(a) 8
+(b) 1
+(c) 4
+(d) 3
+
+Q4. B, D, G, I, L, ?
+(a) M
+(b) N
+(c) O
+(d) P
+
+Q5. A, E, I, O, ?
+(a) T
+(b) P
+(c) G
+(d) U
+
+Q6. 1, 5, 8, 10, 11, ?
+(a) 3
+(b) 14
+(c) 12
+(d) 11
+
+Q7. A, C, F, ?, O
+(a) K
+(b) H
+(c) J
+(d) I
+
+Q8. CBA, WVU, IHG, TSR, ?
+(a) NOM
+(b) MON
+(c) ONM
+(d) NMO
+
+Q9. HI, Jl, KL, ML, NO, ? ?
+(a) PO
+(b) PQ
+(c) OP
+(d) QO
+
+Q10. DC, DE, FE, ??, HG, HI
+(a) DE
+(b) ED
+(c) FG
+(d) GF
+
+Q11. ?, 6, 30, 120, 360, 720
+(a) 5
+(b) 8
+(c) 1
+(d) 3
+
+Q12. 1, 3, 1, 9, 1, 81, 1 ?
+(a) 4
+(b) 1
+(c) 243
+(d) 6561
+
+Q13. 10, 12, 11; 14, 16, 15; ?; 22, 24, 23
+(a) 18, 20, 19
+(b) 18, 19, 20
+(c) 17, 19, 18
+(d) 21, 23, 24
+
+Q14. 2, 4, 8, 32, ?, 8192
+(a) 256
+(b) 128
+(c) 64
+(d) 32
+
+Q15. A, E, I, M, Q, U, ?
+(a) Z
+(b) Y
+(c) J
+(d) T
+
+Q16. Doctor : Patient : : Politician : ?
+(a) Voter
+(b) Chair
+(c) Money
+(d) Public
+
+Q17. Ignorance : Education : : Disease : ?
+(a) Hospital
+(b) Doctor
+(c) Medicine
+(d) Nurse
+
+Q18. Man : Biography : : Nation : ?
+(a) History
+(b) Geography
+(c) People
+(d) Leader
+
+Q19. Guilt : Past : : Hope : ?
+(a) Present
+(b) Sorrow
+(c) Past
+(d) Future
+
+Q20. Telephone : Cable : : Radio : ?
+(a) Microphone
+(b) Electricity
+(c) Wire
+(d) Wireless
+
+Q21. Who is regarded as the greatest lawgiver of ancient India ?
+(a) Megasthanese
+(b) Panini
+(c) Manu
+(d) Kautilya
+
+Q22. At which place Gautama Buddha delivered his first sermon ?
+(a) Sarnath
+(b) Lumbini
+(c) Bodh Gaya
+(d) Vaishali
+
+Q23. Who was the founder of the Servants of India Society ?
+(a) G. K. Gokhale
+(b) K. M. Roy
+(c) M. K. Gandhi
+(d) B. G. Tilak
+
+Q24. Saka era commenced from
+(a) 78 AD
+(b) 120 AD
+(c) 1000 AD
+(d) 1953 AD
+
+Q25. The year 1919 is associated with
+(a) Dandi March by Mahatma Gandhi
+(b) Jallianwala Bagh Tragedy
+(c) Chauri Chaura Incident
+(d) Partition of Bengal
+
+Q26. Whose name is associated with Fatehpur Sikri ?
+(a) Akbar
+(b) Babar
+(c) Shahjehan
+(d) Humayun
+
+Q27. Who introduced the 'Civil Services' in India ?
+(a) Lord Dalhousie
+(b) Lord Curzon
+(c) Lord Wellesley
+(d) Lord Cornwallis
+
+Q28. Who was the famous Deccan Hindu King whose fleet crossed
+the Bay of Bengal with an army and conquered a number of sates in
+Sumatra, Java and Malaysia ?
+(a) Rajaraja I
+(b) Rajendra Chola
+(c) Pulakesin
+(d) Mahipala II
+
+Q29. Why did India industrialise only gradually in the time of Britishers ?
+(a) Capitalists helped to set up new industries
+(b) Many technicians came from different parts of the world to set up new industries
+(c) Britishers seized and handicapped Indian cottage industries
+(d) People were fond of new machine made goods
+
+Q30. Which of the following was the most important characteristic of Kanishka's rule ?
+(a) Expansion of Buddhism outside India
+(b) Re-emergence of Jainism
+(c) Fourth Buddhist Council at Srinagar
+(d) Gandhara School of Art
+
+Q31. Gandhiji opposed the untouchability and he wanted
+(a) The Harijans to revolt against it
+(b) The people of India to give treatment of equality to the untouchables
+(c) Untouchability to be declared a crime under law
+(d) A social revolution to create a society based on equality
+
+Q32. Which of the following is not a tenet of Gandhian Socialism
+(a) Social justice
+(b) Concern for the poor but not hatred for the rich
+(c) Equality of opportunities of all
+(d) Nationalisation of all means of production and distribution
+
+Q33. Neolithic period of age is not characterised by
+(a) Agriculture
+(b) Use of copper
+(c) Domestication of animals
+(d) Fishing
+
+Q34. Which one of the following was the cause of disintegration of the Mughal Empire ?
+(a) War of succession among sons of Aurangzeb
+(b) Attacks of Nadir Shah and Ahmad Shah Abdali
+(c) Revolts of various communities like Jats, Sikhs, Rajputs, etc.
+(d) All of the above mentioned factors contributed to the downfall of the Mughal Empire
+
+Q35. Idol worship was started in
+(a) Gupta period
+(b) Vedic period
+(c) Epic period
+(d) Maurya period
+
+Q36. Which of the following was the main feature of the policy of Dual Government of British rulers in India ?
+(a) The English collected the revenues with the help of Indian Officials and they became virtually the head of the civil and military administration
+(b) The general administrative body consisted of two categories of rulers
+(c) Main items of administration were in the hands of local kings and rest were in the hands of British rulers
+(d) Some portions of land were ruled by the local kings and rest by the British rulers
+
+Q37. The basic education advocated by Gandhiji in Wardha Congress is related with
+(a) Compulsory elementary education
+(b) Social islevance of education to society
+(c) Demand of separate institutions for minorities
+(d) Compulsory military training for every student
+
+Q38. Which important event immediately preceded Jallianwala Bagh massacre ?
+(a) Rowlatt Act enactment
+(b) Communal award
+(c) Coming of Simon Commission
+(d) Quit India Movement
+
+Q39. Civil Disobedience Movement was suspended in 1921 because
+(a) Violence broke out at Chauri Chaura
+(b) Gandhiji was arrested for five years
+(c) Government accepted the demands of Indian leaders
+(d) People were not supporting this movement
+
+Q40. Sultanates of Delhi have taken which of the following in their buildings from the ancient architecture?
+(a) Mehrab
+(b) Gumbaj
+(c) Arched openings
+(d) Decoration figures
+
+Q41. Who started Bhoodan Movement in India ?
+(a) Gandhiji
+(b) Jayaprakash Narayan
+(c) Vinoba Bhave
+(d) Jawaharlal Nehru
+
+Q42. Name the God who lost his importance in the beginning of Christian era ?
+(a) Indra
+(b) Brahma
+(c) Vishnu
+(d) Mahesh
+
+Q43. Who were 'Jagirdars' during the reign of Akbar ?
+(a) Large estate owners
+(b) Officials of state who were given 'jagir' in place of cash pay
+(c) Revenue collectors
+(d) Autonomous rulers under Akbar
+
+Q44. Which statement about Colombo Plan is incorrect ?
+(a) The headquarters of the Colombo Plan are at Colombo
+(b) This is a plan of economic development for South and South East Asian countries
+(c) It is going to expire in 1981.
+(d) The Colombo Plan celebrated its Silver Jubilee in 1976
+
+Q45. What was the impact of Western Industrial Revolution on India ?
+(a) Handicrafts of India were ruined
+(b) Machines were introduced in textile industry
+(c) Heavy import duty was imposed on foreign goods
+(d) All technical hands got employment
+
+Q46. Which of the following is not a member of U.N.O. ?
+(a) Switzerland
+(b) Bahamas
+(c) Mauritius
+(d) Dominician Republic
+
+Q47. We can know about early Vedic period from
+(a) Archaeological excavations
+(b) Contemporary cultures
+(c) Rigveda
+(d) Jatak Katha
+
+Q48. Gandhiji was of the view that
+(a) All old traditions should be followed
+(b) All old traditions should be discarded
+(c) Only scientifically based traditions should be followed
+(d) Those traditions should not be followed which are against our moral values
+
+Q49. Upanishads are
+(a) Religious books of Hindus
+(b) Books dealing with ancient Hindu laws
+(c) Books on social behaviour of man
+(d) Prayers to God
+
+Q50. According to Gandhiji non-violence is
+(a) A way to attain truth
+(b) A way to win political freedom
+(c) The only way to realise God
+(d) An end in itself
+
+Q51. Which dynasty was well-known for excellent village administration ?
+(a) Pandyas
+(b) Pallavas
+(c) Cholas
+(d) Chalukyas
+
+Q52. The Ajanta Caves were built during the period of
+(a) Guptas
+(b) Kushans
+(c) Mauryas
+(d) Chalukyas
+
+Q53. The Indus Valley people had contacts with
+(a) Egyptians
+(b) Sumerians
+(c) Chinese
+(d) Mesopotamians
+
+Q54. In which way Sarnath is associated with Lord Buddha ?
+(a) He resided there
+(b) He was born there
+(c) He ruled there
+(d) He preached his first Sermon there
+
+Q55. Lothal is connected as excavation site of the civilisation of
+(a) Indus Valley Civilisation
+(b) Sumerians
+(c) Mesopotamians
+(d) Vedic Aryan
+
+Q56. The DYARCHY as introduced by the Government of India Act, 1919 postulated which of the following ?
+(a) A system of dual government in Bengal
+(b) Backward classes were entitled to vote
+(c) A few subjects were transferred to the Provincial Ministries and the rest retained by the Executive Council
+(d) Hindus and Muslims could vote separately
+
+Q57. Which of the following is not related to the Gandhara School of Art ?
+(a) Ellora
+(b) Ajanta
+(c) Khajuraho
+(d) Elephanta
+
+Q58. Which of the following is the most important cause for the decline of Buddhism after Ashoka?
+(a) Non-patronage by the kings
+(b) Condemnation of animal sacrifices
+(c) Growth of licentious practices in Buddhist centres
+(d) Allegiance to the middle path
+
+Q59. What was not the most important feature of land revenue system of Akbar ?
+(a) Collection of land revenue in kind or cash
+(b) Collection of land revenue based on accurate measurement of land
+(c) Collection of land revenue directly at the central treasury
+(d) Fixation of rates
+
+Q60. What is true of Indian National Congress during World War II ?
+(a) It demanded for its co-operation with the British that a provincial national government may be set up at the centre
+(b) It extended full support to the Indian National Army to oust the British from India
+(c) It decided to extend full support to the allied nations
+(d) It worked for the defeat of the allied nations
+
+Q61. Who is the new President of Iran ?
+(a) Robert Mugabe
+(b) Sharif Abdul Hamid Saraf
+(c) Abolhasan Bani Sadr
+(d) Babrak Karmal
+
+Q62. Who among the following was the Chief Guest at the Republic Day celebrations of 1980 ?
+(a) Valery Giscard d'Estaing
+(b) Leonid Brezhnev
+(c) Jimmy Carter
+(d) J. R. Jayawardene
+
+Q63. The venue of 1980 Olympics was
+(a) Tokyo
+(b) Mexico
+(c) Moscow
+(d) Athens
+
+Q64. Who got 'Bharat Ratna' award for 1980 ?
+(a) Birendra Kumar Bhattacharya
+(b) Mother Teresa
+(c) Mrs. Indira Gandhi
+(d) Jayaprakash Narayan
+
+Q65. A well known Indian player who took part in Olympic Games several times died recently. His name was associated with which game
+(a) Football
+(b) Hockey
+(c) Volleyball
+(d) Basketball
+
+Q66. Abdus Salam of Pakistan was a joint winner of 1979 Nobel Prize for his pioneer work in
+(a) Physics
+(b) Medicine
+(c) Chemistry
+(d) Economics
+
+Q67. Oil has been struck in which of the following places recently by the ONGC ?
+(a) Gunupur
+(b) Belonia
+(c) Ankleshwar
+(d) Krishna Godavari basin
+
+Q68. Who was India's captain for the last cricket test match held at Calcutta in February, 1980 against Pakistan ?
+(a) Sunil Gavaskar
+(b) Vishwanath
+(c) Kapil Dev
+(d) Venkataraghavan
+
+Q69. Prime Minister Mrs. Indira Gandhi visited Assam to talk with the leaders of the agitation on
+(a) 12th April, 1983
+(b) 6th April, 1980
+(c) 19th April, 1980
+(d) 20th April, 1980
+
+Q70. Name the king of only Hindu Kingdom in the world, who visited India in March 1980
+(a) Jigme Singhye Wangchuck
+(b) Birendra Bir Bikram Shah Dev
+(c) Rao Birendra Singh
+(d) Surya Bahadur Thapa
+
+Q71. 1979 Jnanpith Award was given to
+(a) Ashapurna Devi
+(b) Tarashankar Banerjee
+(c) Birendra Kumar Bhattacharjee
+(d) S. H. Vatsyayan 'Agyeya'
+
+Q72. In November, 1979, few Iranian protesters seized the U.S. Embassy, an American culture centre in Teheran and held more than 50 Americans as hostage. What was the cause of it ?
+(a) It was done to force U.S.A. to extradite the ailing former Shah who was undergoing treatment at that time in New York
+(b) America refused to purchase crude oil from Iran at their fixed price
+(c) America did not recognise Ayatollah Ruhollah Khomeini as the religious leader of Iran
+(d) America planned to invade Iran
+
+Q73. An earnest, widely supported move to enlarge U. N. Security Council, was made during the General Assembly's session. Which of the following countries voted against the above proposal ?
+(a) China
+(b) Japan
+(c) India
+(d) U.S.S.R.
+
+Q74. All responsibilities regarding elections in India are entrusted to
+(a) President
+(b) Prime Minister
+(c) Chief Justice
+(d) Chief Election Commissioner
+
+Q75. In 1980 Parliamentary elections which parties got the maximum number of seats in the descending order ?
+(a) Congress (I), Lok Dal, C. P. I. (M)
+(b) Lok Dal, C. P. I. (M), Congress (I)
+(c) D. M. K., Congress (I), Lok Dal
+(d) Janata, Congress (I), C. P. I. (M)
+
+Q76. In which case a joint session of the Lok Sabha and Rajya Sabha is convened by the President?
+(a) When a Finance Bill is to be passed by the Lok Sabha and the Rajya Sabha with 2/3rd majority
+(b) To impeach the President
+(c) If after a bill has been passed by one House and transmitted to the other House and the bill is rejected by the other House
+(d) All of the above
+
+Q77. 44th Amendment of the Constitution speaks of
+(a) Right to property as no longer a Fundamental Right
+(b) Suspension of individual liberty during emergency
+(c) Barring the courts from interfering in the disputes regarding the election of Prime Minister
+(d) Giving more importance to Directive Principles over Fundamental Rights.
+
+Q78. The Constitution 45th Amendment Bill, passed by Parliament extended reservation of seats for Scheduled Castes and Scheduled Tribes in Parliament and State Assemblies upto
+(a) 1980
+(b) 1985
+(c) 1990
+(d) 1995
+
+Q79. Finance Commission is appointed after every
+(a) 2 years
+(b) 5 years
+(c) 7 years
+(d) 10 years
+
+Q80. Rolling Plan can be best defined in context of India as
+(a) Formulation of annual plans
+(b) Perspective of Five-Year Plan with the provision of extending by one year at a time so that there would be a constant planning horizon of five years
+(c) Aims and achievements reviewed every year in a Five-Year Plan
+(d) Plan for full 5 years
+
+Q81. Council of Ministers of the Union of India is responsible to the
+(a) Parliament
+(b) President
+(c) Prime Minister
+(d) Chief Justice
+
+Q82. A candidate to become a member of Lok Sabha should not be
+less than
+(a) 21 years
+(b) 25 years
+(c) 30 years
+(d) 35 years
+
+Q83. The word "secular" denotes
+(a) Keeping away from all religions
+(b) Belief in one God
+(c) Freedom of religion and worship to all citizens
+(d) Practising different religions
+
+Q84. What is the maximum period during which Parliament may not meet?
+(a) Six months
+(b) One year
+(c) Two years
+(d) Three years
+
+Q85. Parliament consists of
+(a) Prime Minister and other Ministers
+(b) President, Prime Minister and other Ministers
+(c) President, Rajya Sabha and Lok Sabha
+(d) President, Chief Justice and Lok Sabha
+
+Q86. Rajya Sabha can delay the Money Bill passed by the Lok Sabha for a period not exceeding
+(a) 9 days
+(b) 14 days
+(c) 15 days
+(d) 30 days
+
+Q87. Highest per capita income is in
+(a) Punjab
+(b) West Bengal
+(c) Tamil Nadu
+(d) Gujarat
+
+Q88. Hong Kong is
+(a) A free port
+(b) An independent state
+(c) A free exchange market
+(d) All of the above
+
+Q89. Antyodaya scheme is meant
+(a) To help the Muslims
+(b) To help the Harijans
+(c) To help the minorities
+(d) To help the economically weakest sections of the society
+
+Q90. The trouble in Assam is 1980 was caused
+(a) Due to infiltration of foreign guerrillas in the area
+(b) Due to inclusion of foreigners in the electoral rolls of the State
+(c) Postponement of Lok Sabha elections in all the constituencies of the State
+(d) Due to prorogation of the State Assembly
+
+Q91. Which country is known as the 'Land of the Morning Calm'
+(a) Japan
+(b) Korea
+(c) Taiwan
+(d) Netherlands
+
+Q92. Country known as the Sugar Bowl of he World is
+(a) Cuba
+(b) India
+(c) Burma
+(d) Norway
+
+Q93. Bustard King is found in
+(a) Assam
+(b) Himalayan Range
+(c) Rajasthan
+(d) Madhya Pradesh
+
+Q94. Thyagaraja of 18th century was
+(a) The greatest musician who composed his songs in Telugu
+(b) The greatest Kathak dancer
+(c) The greatest playwright of Tamil
+(d) The greatest Sanskrit poet
+
+Q95. How many judges are there in the International Court of Justice ?
+(a) 10
+(b) 12
+(c) 15
+(d) 20
+
+Q96. Mixed economy refers to
+(a) The coexistence of heavy, small scale and cottage industries
+(b) The promotion of agriculture as well as cottage industries
+(c) The coexistence of rich as well as poor
+(d) Co-existence of public as well as private sector
+
+Q97. The only State in India that shows excess of females over males is
+(a) U.P.
+(b) Kerala
+(c) Maharashtra
+(d) Tamil Nadu
+
+Q98. The term 'Fourth Estate' refers to
+(a) A very backward State
+(b) Judiciary
+(c) Parliament
+(d) Press
+
+Q99. Qantas Airways belongs to
+(a) Australia
+(b) West Germany
+(c) East Germany
+(d) New Zealand
+
+Q100. Whose signatures are found on a hundred rupee note ?
+(a) President of India
+(b) Governor of Reserve Bank of India
+(c) Prime Minister
+(d) Finance Minister
+
+Q101. To ensure the efficiency, economic condition; etc. there are Control Boards for each major project except one for which a statutory corporation has been set up. That project is
+(a) Farakka Project
+(b) Bhakra Nahgal Project
+(c) Damodar Valley Project
+(d) Ramgangq Project
+
+Q102. The Bhilai Steel Plant was set up with the collaboration of the U.S.S.R., the Rourkela Steel Plant with the collaboration of West Germany, the Durgapur Steel Plant was constructed with the collaboration of
+(a) Britain
+(b) Japan
+(c) U.S.A.
+(d) Romania
+
+Q103. Silent Valley Project in Kerala was dropped because
+(a) Ecologists pointed out that the project will set up an environmental imbalance
+(b) India will have to spend a huge amount of foreign exchange to complete the project
+(c) Skilled labour and cheap power were not available
+(d) Some political controversy arose regarding the project
+
+Q104. 1980 Republic Day award 'Padma Vibhushan' was awarded to an exponent of Hindustani classical music who is
+(a) Vani Jairam
+(b) Bismillah Khan
+(c) Ravi Shankar
+(d) Rai Krishna Dass
+
+Q105. Skylab crashed on July 11, 1979 in
+(a) Pacific Ocean
+(b) Atlantic Ocean
+(c) Mediterranean Sea
+(d) Indian Ocean near western Australia
+
+Q106. Farakka agreement between Bangladesh and India implies
+(a) Sharing of river water of Ganges
+(b) Free navigation
+(c) Mutual understanding of border areas
+(d) A peace treaty
+
+Q107. Who was the second President of the Indian Republic ?
+(a) Dr. Zakir Hussain
+(b) Dr. S. Radhakrishnan
+(c) Dr. Rajendra Prasad
+(d) V. V Giri
+
+Q108. Who designed the city of Chandigarh ?
+(a) Le Corbusier
+(b) Jacob Epstein
+(c) Rodhin Auguste
+(d) Ferdinand M. V. De Lesseps
+
+Q109. India has launched Symphonic Satellite Telecommunication Experiment Project (STEP). It is a joint project of the
+(a) P and T Department and Indian Space Research Organisation
+(b) Ministry of Energy and Space Commission
+(c) Ministry of Defence and Indian Space Research Organisation
+(d) Indian Space Research Organisation and Ministry of Industry
+
+Q110. The Muslims march seven times round the Kaaba as path of their Haj pilgrimage in the city of
+(a) Riyadh
+(b) Mecca
+(c) Rabat
+(d) Jeddah
+
+Q111. Largest nationalised Bank in India is
+(a) Central Bank of India
+(b) Reserve Bank of India
+(c) State Bank of India
+(d) Bank of India
+
+Q112. Andrei Sakharov came into news in January 1980 because
+(a) He was set to internal exile in Gorky
+(b) He bagged Nobel Prize in medicine in 1979
+(c) He wrote a famous book named Gulag Archipelago
+(d) None of these
+
+Q113. Range of Television Broadcasting is confined to a limited distance because
+(a) Long waves are used
+(b) Short waves are absorbed by atmosphere
+(c) Energy of the waves is dissipated
+(d) Earth is spherical in shape
+
+Q114. Another name of Vitamin C is
+(a) Folic acid
+(b) Ascorbic acid
+(c) Niacin
+(d) Acetic acid
+
+Q115. Unit of distance used in navigation is
+(a) Nautical mile
+(b) Kilometre
+(c) Light year
+(d) Yard
+
+Q116. What type of mirror is used by motorists to see the road behind them ?
+(a) Convex
+(b) Concave
+(c) Plane
+(d) Concavo-convex
+
+Q117. The escape velocity from the earth's surface is about
+(a) 30 km/sec
+(b) 6 km/sec
+(c) 11.2 km/sec
+(d) 300 km/sec
+
+Q118. The chief constituent of gabar gas is
+(a) Methane
+(b) Carbon dioxide
+(c) Acetylene
+(d) Ethylene
+
+Q119. The radiant energy of the sun is due to
+(a) Nuclear fission
+(b) Nuclear fusion
+(c) Sinking of the sun
+(d) Violent explosions
+
+Q120. In microphone, transformation of energy takes place from
+(a) Sound into electrical energy
+(b) Electrical into sound energy
+(c) Sound into mechanical energy
+(d) Mechanical into sound energy
+
+Q121. Fuel used in a nuclear reactor is
+(a) Uranium
+(b) Heavy water
+(c) Barium
+(d) Cadmium
+
+Q122. The heater element in an electric iron is made of
+(a) Nichrome
+(b) Tungsten
+(c) Copper
+(d) Iron
+
+Q123. Dialysis is used for a patient suffering from
+(a) Kidney trouble
+(b) Liver trouble
+(c) Lung trouble
+(d) Heart trouble
+
+Q124. Green colour of plants is due to the presence of
+(a) Chlorophyll
+(b) Sugar
+(c) Mitochondria
+(d) Xylem
+
+Q125. Dry ice is
+(a) Solid carbon dioxide
+(b) Ice dust
+(c) Liquified nitrogen
+(d) Liquified hydrogen
+
+Q126. Neil Armstrong was the first person to reach on the moon.
+While walking on the moon
+(a) His mass remained the same but weight increased
+(b) His mass remained the same but weight decreased
+(c) His mass as well as weight decreased
+(d) His mass increased but weight remained the same
+
+Q127. Distance of stars is measured in
+(a) Light years
+(b) Kilometres per second
+(c) Kilometres only
+(d) Nautical miles
+
+Q128. The deficiency of Vitamin D causes
+(a) Rickets
+(b) Night blindness
+(c) Pellagra
+(d) Scurvy
+
+Q129. Isotopes of the same element differ in the number of
+(a) Protons
+(b) Neutrons
+(c) Electrons
+(d) Positrons
+
+Q130. Stainless steel contains which of the following ?
+(a) Aluminium and Zinc
+(b) Chromium and Carbon
+(c) Zinc and Mercury
+(d) Copper and Cadmium
+
+Q131. During processing and cooking which part of food is mostly destroyed ?
+(a) Proteins
+(b) Vitamins
+(c) Carbohydrates
+(d) Fats
+
+Q132. When iron rusts, the weight
+(a) Increases
+(b) Decreases
+(c) Remains the same
+(d) First increases then decreases
+
+Q133. What is mainly obtained from bauxite ?
+(a) Copper
+(b) Aluminium
+(c) Iron
+(d) Gold
+
+Q134. Which one of the following is secreted by Pancreas and regulates the amount of sugar in the body
+(a) Renin
+(b) Creatin
+(c) Vitamin
+(d) Insulin
+
+Q135. Which substance is commonly used in refrigerators ?
+(a) Freon
+(b) Oxygen
+(c) Ammonia
+(d) Sulphur dioxide
+
+Q136. Radar is used for
+(a) Detecting objects by using light waves
+(b) Reflecting sound waves to detect objects
+(c) Determining the presence and location of objects with radio waves
+(d) Tracking rain-bearing clouds
+
+Q137. Municipal water in India is generally treated with
+(a) Chlorine
+(b) Potassium permanganate
+(c) Sodium Chloride
+(d) Sodium Carbonate
+
+Q138. What is a continental shelf ?
+(a) It is a part of the ocean which is really an extension of the land mass, but submerged
+(b) It is that part where the ocean commences
+(c) It is a land mass which is surrounded by water on all sides
+(d) It is a part of the continent that is submerged in relatively shallow sea
+
+Q139. International date line
+(a) Roughly corresponds to 180th meridian, the regions to the east of which are counted as being one day earlier in their calendar dates than regions to the west
+(b) Roughly corresponds to 1 80fh meridian, the region to the west of which are counted as being one day earlier in their calendar dates than regions to the east
+(c) Roughly corresponds to 90th meridian which falls on the opposite side of the Greenwich meridian
+(d) Roughly corresponds to 135th meridian which falls on the opposite side of the Greenwich meridian
+
+Q140. In which type of rocks, fossils are more abundantly found ?
+(a) Igneous
+(b) Metamorphic
+(c) Sedimentary
+(d) None of these
+
+Q141. Doldrums refer to
+(a) A belt of calm and light variable winds near the equator
+(b) A particular area in the centre of the Pacific Ocean
+(c) The region of the upper atmosphere extending upward from the tropopause to about 20 kms. above the earth
+(d) None of these
+
+Q142. A narrow strip of land, bordered on both sides by water, connecting to larger bodies of land is called
+(a) Dune
+(b) Equinox
+(c) Isthmus
+(d) Strait
+
+Q143. When it is 8 A.M. on Wednesday of Greenwich
+(a) It is 10.30 P.M. on Wednesday at London
+(b) It is 6.15 A.M. on Tuesday at New York
+(c) It is 3.00 P.M. on Wednesday at Hong Kong
+(d) It is 5.00 P.M. on Wednesday at Tokyo
+
+Q144. Tallest four-legged animal is
+(a) Zebra
+(b) Elephant
+(c) Giraffe
+(d) Ostrich
+
+Q145. Reptile that is well known for its intense colour change is
+(a) Lizard
+(b) Chameleon
+(c) Glass Snake
+(d) Turtle
+
+Q146. Which bird has a chisel like bill ?
+(a) Parrot
+(b) Nightingale
+(c) Woodpecker
+(d) Woodchuck
+
+Q147. Heavy rainfall affects soil by
+(a) Increasing its acidity
+(b) Increasing its alkalinity
+(c) Reducing its fertility
+(d) None of these
+
+Q148. Pampas are the vast grassy plains of
+(a) South America
+(b) North America
+(c) Africa
+(d) Eurasia
+
+Q149. India ranks first in the production of ____ in the world
+(a) Tea
+(b) Sugar
+(c) Rice
+(d) Wheat
+
+Q150. The rising of evening star Venus indicates
+(a) South pole
+(b) North pole
+(c) East
+(d) West

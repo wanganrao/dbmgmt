@@ -1,0 +1,89 @@
+1. Assertion (A) : Information technology is fast becoming a very important field of activity in India.
+Reason (R) : Software is one of the major exports of the country and India has a very strong base in hardware. [1999]
+Codes:
+(a) Both A and R are true and R is the correct explanation of A
+(b) Both A and R are true but R is not a correct explanation of A
+(c) A is true but R is false
+(d) A is false but R is true
+
+2. The memory of a computer is commonly expressed in terms of kilobytes or megabytes. A byte is made up of: [2000]
+(a) eight binary digits
+(b) eight decimal digits
+(c) two binary digits
+(d) two decimal digits
+
+3. Consider the following statements: [2004]
+1. Smart card is a plastic card with an embedded microchip.
+2. Digital technology is primarily used with new physical communication medium such as satellite and fibre optics transmission.
+3. A digital library is a collection of documents in an organized electronic form available on the internet only.
+Which of the statements given above is/are correct?
+(a) 3 only (b) 1 and 2
+(c) 2 and 3 (d) 1, 2 and 3
+
+4. Consider the following: [2010]
+1. Bluetooth device 2. Cordless phone
+3. Microwave oven 4. Wi-Fi device
+Which of the above can operate between 2.4 and 2.5 GHz range of radio frequency band?
+(a) 1 and 2 only (b) 3 and 4 only
+(c) 1, 2 and 4 only (d) 1, 2, 3 and 4
+
+5. Recently, LASIK (Laser Assisted In Situ Keratomileusis) procedure is being made popular for vision correction.  Which one of the following statements in this context is-not correct? [2010]
+(a) LASIK procedure is used to correct refractive errors of the eye
+(b) It is a procedure that permanently changes the shapes of the cornea
+(c) It reduces a person's dependence on glasses or contact lenses
+(d) It is a procedure that can be done on the person of any age
+
+6. Which among the following do/does not belong/ belongs to the GSM family of wireless technologies?  [2010]
+(a) EDGE (b) LTE
+(c) DSL (d) Both EDGE and LTE
+
+7. What is the difference between Blue-tooth and Wi-Fi devices? [2011 - I]
+(a) Bluetooth uses 2.4 GHz radio frequency band, whereas Wi-Fi can use 2.4 GHz or 5 GHz frequency band
+(b) Bluetooth is used for Wireless Local Area Networks (WLAN) only, whereas Wi-Fi is used for wireless wide area networks (WWAN) only
+(c) When information is transmitted between two devices using Bluetooth technology, the devices have to be in the line of sight of each other, but when Wi-Fi technology is used the devices need not be in the line of sight of each other
+(d) The statements a and b given above are correct in this context
+
+8. What is the difference between a CFL and an LED lamp ?
+(1) To produce light, a CFL uses mercury vapour and phosphor while an LED lamp uses semiconductor material
+(2) The average life span of a CFL is much longer than that of an LED lamp
+(3) A CFL is less energy-efficient as compared to an LED lamp [2011 - I]
+Which of the statements given above is/are correct ?
+(a) 1 only (b) 2 and 3 only
+(c) 1 and 3 only (d) 1, 2 and 3
+
+9. Recently , "oil zapper" was in the news. What is it ?  [2011 - I]
+(a) It is an eco-friendly technology for the remediation of oily sludge and oil spills
+(b) It is the latest technology developed for undersea oil exploration
+(c) It is a genetically engineered high biofuel yielding maize variety
+(d) It is the latest technology to control the accidentally caused flames from oil wells.
+
+10. A new optical disc format known as the Blu-ray Disc (BD) is becoming popular. In what way is it different from the traditional DVD ? [2011 - I]
+1. DVD supports Standard Definition video while BD supports high definition video
+2. Compared to a DVD, the BD format has several times more storage capacity
+3. Thic kness of BD i s 2. 4 mm whil e t hat of DVD is 1. 2 mm.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 1 and 2 only
+(c) 2 and 3 only
+(d) 1,2 and 3
+
+11. What is "Virtual Private Network" ? [2011 - I]
+(a) It is a private computer network of an organization where the remote users can transmit encrypted information through the server of the organization.
+(b) It is a computer network across a public internet that provides users access to their organization's network while maintaining the security of the information transmitted.
+(c) It is a computer network in which users can access a shared pool of computing resources through a service provider.
+(d) None of the statements is correct description of Virtual Private Network.
+
+12. With reference to the use of nano-technology in health sector, which of the following statements is/are correct? [2015-I]
+1. Targeted drug delivery is made possible by nanotechnology.
+2. Nanotechnology can largely contribute to gene t he r a py.
+Select the correct answer using the code given below.
+(a) 1 only (b) 2 Only
+(c) Both 1 and 2 (d) Neither 1 nor 2
+
+13. With reference to 'Near Field Communication (NFC) Technology', which of the following statements is/are correct? [2015-I]
+1. It is a contactless communication technology that uses electromagnetic radio fields.
+2. NFC is designed for use by devices which can be at a distance of even a metre from each other
+3. NFC can use encryption when sending sensitive information.
+Select the correct answer using the code given below.
+(a) 1 and 2 only (b) 3 Only
+(c) 1 and 3 only (d) 1, 2 and 3

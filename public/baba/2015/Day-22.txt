@@ -1,0 +1,96 @@
+6. Consider the following statements regarding Statutory Liquidity Ratio (SLR)?
+1. It is the ratio of total deposit of the bank which is kept with RBI.
+2. It is maintained in non-cash form.
+Which of the above statement/s is/are correct? 
+1. 1 only
+2. 2 only
+3. Both 1 and 2
+4. Neither 1 nor 2
+Answer: (2)
+The statutory liquidity ratio (SLR) is the ratio (fixed by the RBI) of the total deposits of a bank whichis to be maintained by the bank with itself in non-cash form prescribed by the Government. 
+The cash reserve ratio (CRR) is the ratio (fixed by the RBI) of the total deposits of a bank in Indiawhich is kept with the RBI in cash form.
+
+8. An advance of banks is considered as Non Performing Asset (NPA) when
+1. Interest and/or principal remains overdue for two harvest seasons but for a period not exceeding two-and-a-half years in the case of agricultural loans.
+2. Interest and/or principal remain overdue for a period more than 90 days in respect of a term loan.
+Select the correct code from below. 
+1. 1 only
+2. 2 only
+3. Both 1 and 2
+4. Neither 1 nor 2
+Answer: (1)
+Explanation:
+Non-Performing Assets (NPAs) are bad debts of banks/Financial Institutions defined as follows An advance of banks/FIs where-
+(i) Interest and/or installment or principal remains overdue for a period more than 180 days inrespect of a term loan.
+(ii) Interest and/or installment or principal remains overdue for two harvest seasons but for aperiod not exceeding two-and-a-half years in the case of agricultural loans. 
+
+10. Activities of Non Banking Financial Companies (NBFC) are akin to that of banks but there are a few differences. Which of the following are correct regarding NBFCs?
+1. NBFC cannot accept demand deposits.
+2. Deposit insurance facility is not available to depositors of NBFCs.
+3. NBFCs are part of the payment and settlement system.
+Select the correct code from below.
+1. 2 and 3 only
+2. 1 and 3 only
+3. 1 and 2 only
+4. All the above
+Answer: (3)
+Explanation:
+Major difference between Banks and NBFCs are as follows:
+i. NBFC cannot accept demand deposits.
+ii. NBFCs do not form part of the payment and settlement system and cannot issue cheques drawn on itself.
+iii. Deposit insurance facility of Deposit Insurance and Credit Guarantee Corporation is not available to depositors of NBFCs, unlike in case of banks. 
+
+12. Consider the following regarding 'Game theory'
+1. It's based on strategic decision making
+2. It finds application in psychology, economics, mathematics and biology also.
+3. It finds immense potential in Artificial Intelligence
+Select the correct code
+1. 1 and 3
+2. 2 and 3
+3. 1 and 2
+4. 1, 2 and 3
+Answer:  4
+Google it- Basic
+
+13. Addition of which of the following has harmful effect in the process of filtration of water? 
+1. Silver
+2. Titanium Oxide
+3. Carbon nanotube
+Select the correct code
+1. 1 and 2
+2. Only 2
+3. 1, 2 and 3
+4. None
+Answer:  4
+All are used in Superior water filtration. 
+Silver- leaches in water and when the ions so released kill the bacteria by destroying the
+integrity of the cell and by damaging the cell proteins and terminating the DNA replication.
+Titanium oxide- also kills bacteria. Though its antibacterial property is best in the presence of
+UV light, the present study did not use UV light.
+Carbon Nanotubes- kill the bacteria through direct physical contact-and the roughness of the
+nanotubes also kills the bacteria.
+
+16. Which of the following are 'Raptors' to be found in India? 
+1. Forest Owlets
+2. Red headed Vulture
+3. Long Tailed Macaque
+4. Amur Falcons
+Select the correct code
+1. 1 and 3
+2. 1 and 2
+3. 2, 3 and 4
+4. 1, 2 and 4
+Answer:  4
+There are primarily two kinds of raptors - diurnal (day flying) and nocturnal (night flying). Out of the 333 species of diurnal birds of prey found in the world, 101 species can be found in the Indo-Malayan region. India's bio-geographical regions support 69 species of kites, vultures, eagles, harriers, hawks, buzzards and falcons in different habitats.  Among these raptors, the Indian White-backed Vulture, the Long Billed Vulture, the Slender Billed Vulture, the Red headed Vulture and the Forest Owlet are in the 'critically endangered' category, and the Egyptian Vulture and the Saker are in the 'endangered' list of the International Union for Conservation of Nature's (IUCN) 'Red List.' Some of the interesting and lesser-known species of raptors include Andaman Serpent Eagle and Great Nicobar Serpent Eagle which can only be found in the Andaman and the Great Nicobar islands respectively.  Other birds of prey like Amur Falcon, Buffy Fish Owl, Great Spotted Eagle and Chinese Sparrow hawk are also included in the book.
+
+17. Consider the following statements
+1. It is a tropical grass which is considered a sacred material in Vedic scriptures and is said to purify the offerings during such rituals.
+2. It has been identified as an eco-friendly food preservative.
+3. It also acts as disinfectant
+Select the correct term for above statements
+1. Darbha grass
+2. Bamboo grass
+3. Bermuda grass
+4. Lemon grass
+Answer:  1
+http://www.thehindu.com/news/cities/Tiruchirapalli/darbha-grass-a-naturalpreservative/article7000098.ece

@@ -1,0 +1,1465 @@
+
+
+1 In a cricket tournament conducted by ICC, before the beginning of quarter finals, the sum of the Net Run Rates (NRR) of all participating teams will be equal to
+a)  Average run rate of all participating teams
+b)  Zero
+c)  Can't be ascertained without further information
+d)  Mean of the run rates of the teams scoring the highest and lowest in the tournament
+Answer: B
+  Net Run Rate (NRR) has become the preferred method of breaking ties in multi-team one-day international tournaments.
+A team's net run rate is calculated by deducting from the average runs per over scored by that team throughout the competition, the average runs per over scored against that team throughout the competition.
+In the event of a team being all out in less than its full quota of overs, the calculation of its net run rate shall be based on the full quota of overs to which it would have been entitled and not on the number of overs in which the team was dismissed.
+For e.g. if India defeats Australia by scoring 250 in 50 overs as against a target of
+244 in 50 overs, India's run rate will be + (250-244)/50 = +0.12. Australia's will be its exact opposite, i.e. -0.12.
+Repeat the same process for all participating teams and we will get zero on adding all run rates.
+You can also see the following example (image from the link below) from the ongoing IPL 2016. Add the Net Run rates and you will get zero.
+http://ipl.cricket.com.pk/points-table/
+
+2 Consider the following statements about the role of media in elections.
+1.  All recognised National and State parties are allowed free access to the state owned electronic media scale for their campaigns for a certain duration during elections.
+2.  Media persons are given special passes to enter polling stations to cover the poll process and the counting halls during the actual counting of votes.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: C
+Statement 1: By Election Commission, all recognised National and State parties have been allowed free access to the state owned electronic media-AIR and Doordarshan- on an extensive scale for their campaigns during elections.
+The total free time allocated extends over 122 hours on the state owned Television and Radio channels. This is allocated equitably by combining a base limit and additional time linked to poll performance of the party in recent election.
+Statement 2: After the polling has finished, the votes are counted under the supervision of Returning Officers and Observers appointed by the Election
+Commission.
+n order to bring as much transparency as possible to the electoral process, the media are encouraged and provided with facilities to cover the election (including the actual counting of votes), although subject to maintaining the secrecy of the vote.
+Please refer to http://eci.nic.in/eci_main1/the_function.aspx#mediacoverage
+
+3 "Meerut Thesis, 1936" of the Congress Socialist Party (CSP) is related to
+a)  An effective armed resurgence against the British can be strategically planned from Meerut.
+b)  Developing leadership of revolutionary socialism within the Congress
+c)  Weakening the Imperial Legislative Councils by repeated by-elections
+d)  Joining all princely states in the freedom movement who have rebelled in the past against the British
+Answer: B
+Initially, the task of CSP was interpreted as the displacement of the existing leadership in Congress, which was declared to be incapable of developing the struggle of the masses to a higher level.
+The CSP was to develop as the nucleus of the alternative socialist leadership of the
+Congress.
+As the Meerut Thesis of the CSP put it in 1935, the task was to 'wean the anti- imperialist elements in the Congress away from its present bourgeois leadership and to bring them under the leadership of revolutionary socialism.
+This perspective was, however, soon found to be unrealistic and was abandoned in favour of a 'composite' leadership in which socialists would be taken into the leadership at all levels.
+
+4 Scientists have recently discovered a rare triple-star system named KELT-4Ab with a gas giant planet similar in size to Jupiter. The centre of gravity of any such triple star system must lie at the
+a)  Centre of the largest star of the triple star system
+b)  Centre of the orbit of the smallest star of the triple star system
+c)  Geometrical centre of the triple star system
+d)  None of the above
+Answer: D
+Centre of gravity is a point from which the weight of a body or system may be considered to act.
+Each star in a triple star system will revolve around the centre of gravity of the system.
+The centre of gravity can lie anywhere depending on the mass and distance of stars from each other. So, none of the options (a), (b) or (c) is correct.
+It is generally seen that for a triple star system to be stable, two stars form a binary (two) star system revolving around one another, and the third star orbits this pair at a distance much larger than that of the binary orbit.
+The reason for this is that if the inner and outer orbits are comparable in size, the system may become dynamically unstable, leading to a star being ejected from the system.
+http://www.thehindu.com/sci-tech/new-planet-with-triplestar-system-found/article84
+29229.ece
+
+5 Consider the following about the areas under the Fifth Schedule of the Constitution.
+1.  The president is empowered to declare an area to be a scheduled area.
+2.  The executive power of a state extends to the scheduled areas therein.
+3.  The governor is empowered to direct that any particular act of Parliament or the state legislature does not apply to a scheduled area.
+4.  The Constitution requires the president to appoint a commission to report on the administration of the scheduled areas.
+5.  The Union Government has no responsibility for the administration of these areas.
+Select the correct answer using the codes below.
+a)  3 and 4 only
+b)  1, 2, 3 and 4 only
+c)  1, 2 and 5 only
+d)  1, 2, 3, 4 and 5
+Answer: B
+ Statement 5: 'The scheduled areas are treated differently from the other areas in the country because they are inhabited by 'aboriginals' who are socially and economically rather backward, and special efforts need to be made to improve their condition.
+Therefore, the whole of the normal administrative machinery operating in a state is not extended to the scheduled areas and the Central government has somewhat greater responsibility for these areas.
+Statement 1: He can also increase or decrease its area, alter its boundary lines, rescind such designation or make fresh orders for such redesignation on an area in consultation with the governor of the state concerned.
+Statement 2: Also, the governor has a special responsibility regarding such areas. He has to submit a report to the president regarding the administration of such areas, annually or whenever so required by the president.
+Statement 3: He can declare that such laws do not apply to a scheduled area or apply with specified modifications and exceptions. He can also make regulations for the peace and good government of a scheduled area after consulting the tribes advisory council.
+Statement 4: The Constitution requires the president to appoint a commission to report on the administration of the scheduled areas and the welfare of the scheduled tribes in the states.
+He can appoint such a commission at any time but compulsorily after ten years of
+the commencement of the Constitution. Hence, a commission was appointed in 1960 and later in 2002.
+
+6 Which of the following statements about the Pradhan Mantri Jeevan Jyoti Bima Yojana is
+CORRECT?
+a)
+b)
+c) D.
+It is available to people in the age group of 18 to 70 years. A savings bank account is must for opting to the scheme. It provides cover against accidents and disability.
+A minimum pension will be paid to subscribers who live beyond the coverage
+age of the scheme.
+Answer: B
+The Pradhan Mantri Jeevan Jyoti BimaYojana (PMJJBY) is a one year life insurance scheme, renewable from year to year, offering coverage for death due to any reason and is available to people in the age group of 18 to 50 years (life cover upto age 55) having a savings bank account who give their consent to join and
+enable auto-debit.
+It is Pradhan Mantri Suraksha Bima Yojana that covers accidental insurance. So, (c)
+is wrong.
+Provision for pension is in Atal pension Yojana. So, (d) is also incorrect.
+
+7 Consider the following statements.
+1.  Assertion (a): The tribal areas in the four states of Assam, Meghalaya, Tripura and
+Mizoram fall outside the executive authority of the state concerned.
+2.  Reason (R): They have been constituted as autonomous districts under the Sixth
+Schedule of the Constitution of India.
+In the context of the above, which of these is correct?
+a)  A is correct, and R is an appropriate explanation of A.
+b)  A is correct, but R is not an appropriate explanation of A.
+c)  A is incorrect, but R is correct.
+d)  A is correct, but R is incorrect.
+Answer: C
+The governor is empowered to organise and re-organise the autonomous districts. Thus, he can increase or decrease their areas or change their names or
+define their boundaries and so on.
+If there are different tribes in an autonomous district, the governor can divide the district into several autonomous regions.
+The district and regional councils administer the areas under their jurisdiction. They can make laws on certain specified matters like land, forests, canal water, shifting cultivation, village administration, inheritance of property, marriage and divorce, social customs and so on. But all such laws require the assent of the governor.
+The acts of Parliament or the state legislature do not apply to autonomous districts and autonomous regions or apply with specified modifications and exceptions.
+
+8 How is GDP deflator different from the Consumer Price Index (CPI)?
+1.  GDP deflator takes into account all goods and services unlike CPI which takes only representative goods.
+2.  GDP deflator does not include prices of imported goods unlike CPI.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: C
+CPI (and analogously WPI) may differ from GDP deflator because
+The goods purchased by consumers do not represent all the goods which are produced in a country. GDP deflator takes into account all such goods and services.
+CPI includes prices of goods consumed by the representative consumer, hence it includes prices of imported goods. GDP deflator does not include prices of imported goods.
+The weights are constant in CPI - but they differ according to production level of each good in GDP deflator.
+
+9 How can arbitrage in foreign currencies be discouraged?
+a)  By levying a high transaction cost in purchase and selling of currencies
+b)  By floating all currencies without intervention by a Central monetary authority
+c)  Maintaining a large forex reserve
+d)  Discouraging foreign investment in the host country
+Answer: A
+ Arbitrage is the simultaneous buying and selling of securities, currency, or commodities in different markets or in derivative forms in order to take advantage of differing prices for the same asset.
+Suppose $1= Rs. 50, $1 = 2 Euros and 1 Euro = Rs. 10.
+You can buy 2 Euros by spending just Rs. 20 and exchange it for a Dollar which is actually valued at Rs. 50, thus making a profit of Rs. 30.
+If the difference in the rates were more than those transaction costs, profits could be made through arbitrage. But, if suppose transaction cost was Rs. 30 per transaction, arbitrage would be discouraged as there is no profit.
+
+10 Which of the following powers can be wielded by the Election Commission of India?
+1.  The Commission can suppress the results of opinion polls if it deems such an action fit for the cause of democracy
+2.  The Commission can advise for disqualification of members after the elections if it thinks they have violated certain guidelines.
+3.  The Commission can suspend candidates who fail to submit their election expense accounts timely.
+Select the correct answer using the codes below
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1 and 3 only
+d)  1, 2 and 3
+Answer: D
+In case, a candidate is found guilty of corrupt practices during the elections, the Supreme Court and High Courts consult the Commission.
+It can also cancel the polls in event of rigging, booth capture etc. Also, the main functions of the ECI are as follows:
+The Election Commission of India is considered the custodian of free and fair elections.
+It issues the Model Code of Conduct in every election for political parties and candidates so that the dignity of democracy is maintained.
+It regulates political parties and registers them for being eligible to con
+It publishes the allowed limits of campaign expenditure per candidate to all the political parties, and also monitors the same.
+The political parties must submit their annual reports to the ECI for getting tax benefit on contributions.
+It ensures that all the political parties regularly submit their audited financial reports.
+You may refer to this link (source) for further information http://www.elections.in/election-commission/
+
+11 Which of the following statements about the Securities Appellate Tribunal (SAT) is
+INCORRECT?
+a)  It is a statutory body.
+b)  Retired judges of Supreme Court or High Courts are barred from its membership.
+c)  SAT is not bound by procedure laid down by Code of Civil Procedure.
+d)  Its presiding officer and members are appointed by the Central government.
+Answer: B
+ SAT comprises one Presiding Officer who is a sitting/retired Judge of the Supreme Court or a sitting/retired Chief Justice of a High Court; or a sitting or
+retired Judge of a High Court who has completed not less than seven years of service as a Judge in a High Court.
+It also contains two members who are persons of ability, integrity and standing and have shown capacity in dealing with problems relating to securities market and have qualification and experience of corporate law, securities law, finance, economics or accountancy.
+
+12 What are designated as Union Territories (UTs) presently were
+1.  Constituted as 'scheduled districts' during British rule
+2.  Declared as 'special category' provinces as per the Government of India Act, 1935.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: A
+ Statement 1: During the British Rule, certain areas were constituted as 'scheduled districts' in 1874. Later, they came to be known as 'chief commissioners provinces'.
+Statement 2: After independence, they were placed in the category of Part 'C' and Part 'D' states. In 1956, they were constituted as the 'union territories' by the 7th Constitutional Amendment Act (1956) and the States Reorganisation Act (1956).
+ Gradually, some of these union territories have been elevated to statehood. Thus, Himachal Pradesh, Manipur, Tripura, Mizoram, Arunachal Pradesh and Goa, which are states today were formerly union territories.
+On the other hand, the territories that were acquired from the Portuguese (Goa, Daman and Diu, and Dadra and Nagar Haveli) and the French (Puducherry) were constituted as the union territories.
+
+13 Consider the following statements.
+1.  External financial assistance received by India can be monitored by this department.
+2.  The department is responsible for preparation and presentation of Union Budget to the Parliament.
+3.  The department also deals with policies and programmes relating to designs/security features of bank notes and coins.
+The above refer to which of the following departments in the Union Government?
+a)  Department of Financial Services
+b)  Department of Revenue
+c)  Department of Economic Affairs
+d)  Department of Budget
+Answer: C
+The Department of Economic Affairs (DEa) inter alia monitors current economic trends and advises the Government on all matters having bearing on internal and external aspects of economic management including, prices, credit, fiscal and monetary policy and investment regulations.
+All the external, financial and technical assistance received by India, except through specialized international organizations like FAO, ILO, UNIDO and except under international bilateral specific agreement in the field of science and technology, culture and education are also monitored by this department.
+
+14 From north towards south, which one of the following is the correct sequence of the given rivers in India?
+a) Zaskar-Satluj-Shyok-Spiti
+b) Shyok-Zaskar-Spiti-Satluj
+c) Zaskar-Shyok-Satluj-Spiti
+d)  Shyok-Spiti-Zaskar-Satluj
+Answer: B
+You can see Zaskar and Satluj river in the map below.
+Shyok river is in J&K, and Spiti is in Himachal Pradesh. So, the clear answer has to be (d).
+
+15 The President places UPSC's annual report before the Parliament, along with a memorandum explaining the cases where the advice of the Commission was not accepted and the reasons for such non-acceptance. All such cases of non-acceptance must be approved by the
+a)  Concerned Union Ministry
+b)  Cabinet Secretary
+c)  Appointments Committee of the Union cabinet
+d)  Union Department of Personnel and Training
+Answer: C
+An individual ministry or department has no power to reject the advice of the UPSC.
+So, options (a) and (d) cannot be correct.
+All such cases of non-acceptance must be approved by the Appointments Committee of the Union cabinet, despite UPSC being only an advisory body under the Constitution of India.
+
+16 The Surya Siddhanta composed in the early 5th-6th century AD was an influential work dealing with
+a)  Concept of Sine angle
+b)  Role of Sun's energy in the evolution of life on earth
+c)  Declaration of Sun as the supreme soul of the Universe
+d)  Formation of solar system
+Answer: A
+ Some of the early and very significant developments of trigonometry were in India.
+Influential works from the 4th-5th century, known as the Siddhantas (of which there were five, the most important of which is the Surya Siddhanta) first defined the sine as the modern relationship between half an angle and half a chord, while also defining the cosine, versine, and inverse sine.
+Soon afterwards, another Indian mathematician and astronomer, Aryabhata
+(476-550 AD), collected and expanded upon the developments of the Siddhantas in an important work called the Aryabhatiya.
+
+17 The Finance Commission is required to make recommendations to the president of India on which of the following matters?
+1.  The distribution of the net proceeds of taxes to be shared between the Centre and the states
+2.  Allocation of proceeds between the states
+3.  The principles that should govern the grants-in-aid to the states by the Centre from the Public Accounts of India
+Select the correct answer using the codes below
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1 and 3 only
+d)  1, 2 and 3
+Answer: A
+In Statement 3, it should be Consolidated Fund of India, and not
+Public accounts of India (PCI).
+PCI is operated by executive action.
+Other recommendation giving areas of the commission are:
+The measures needed to augment the consolidated fund of a state to supplement the resources of the panchayats and the municipalities in the state on the basis of the recommendations made by the state finance commission Any other matter referred to it by the president in the interests of sound finance.
+The commission submits its report to the president. He lays it before both the
+Houses of Parliament along with an explanatory memorandum as to the action taken on its recommendations.
+
+18 Which among the following is the most stable ecosystem?
+a) Forest
+b) Desert
+c)  Ocean
+d)  Mountains
+Answer: C
+There can be a variety of reasons for it:
+Ocean is a self-sustaining ecosystem and covers nearly 2/3rd of earth's area. It is the oldest ecosystem.
+It is least affected by natural calamities.
+It is a highly diverse (from phytoplankton to sea grass to whales) and productive ecosystem and contains earliest evolutionary life forms. The evolutionary history has also been more stable than in terrestrial environments.
+
+19 Animals that have had their DNA manipulated to possess and express a foreign extra gene are known as transgenic animals. What are the benefits of transgenic animals?
+1.  They can allow us to study how specific genes affect growth and disease in animals.
+2.  They can be used 
+3.  Transgenic animals can produce useful medicines that are otherwise expensive to manufacture
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1 and 3 only
+d)  1, 2 and 3
+Answer: D
+Statement 1: They allow the study of how genes are regulated, and how they affect the normal functions of the body and its development, e.g., study of complex factors involved in growth such as insulin-like growth factor.
+Statement 2: Transgenic mice are being used to 
+biological products, but such products are often expensive to make.
+Transgenic animals that produce useful biological products can be created by the introduction of the portion of DNA (or genes) which codes for a particular product such as human protein used to treat emphysema.
+
+20 Which of the following is/are statutory bodies?
+1.  National Commission for Minorities
+2.  National Commission for Scheduled Castes (SCs)
+3.  National Commission for Protection of Child Rights
+4.  National Commission for Backward Classes
+5.  National Human Rights Commission
+Select the correct answer using the codes below.
+a)  1, 3, 4 and 5 only
+b)  2, 3 and 5 only
+c)  1, 2, 3 and 4 only
+d)  4 and 5 only
+Answer: A
+ The National Commission for Scheduled Castes (SCs) is a constitutional body in the sense that it is directly established by Article 338 of the Constitution'.
+On the other hand, the other national commissions like the National Commission for Women (1992), the National Commission for Minorities (1993), the National Commission for Backward Classes (1993), the National Human Rights Commission (1993) and the National Commission for Protection of Child Rights (2007) are statutory bodies in the sense that they are established by acts of the Parliament.
+
+21 The institution '3P India' will
+1.  Give safety accreditation to all strategic PPP projects
+2.  Finance all government owned PPP projects from Infrastructure Debt Fund (IDF) Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: D
+ An institution '3P India' is proposed to be set up to provide support to mainstreaming PPPs for a more directed effort to scale up private investments in infrastructure and for developing a broad and diversified portfolio of PPP projects not only at the Central and the State Governments' level but also at the level of local self governments.
+
+3P India is envisaged to support the public sector in programmatic level activities, viz., policy implementation and regulatory support, as also provide advice and handholding services for delivery support at the project level.
+So, clearly both statements 1 and 2 are wrong.
+
+22 Which of the following is/are the functions of the National Commission for Scheduled
+Castes (SCs)?
+1.  Inquiring into specific complaints with respect to the deprivation of rights and safeguards of the SC
+2.  Governing the Autonomous tribal councils in Fifth Schedule districts
+3.  Monitoring and directing the High Courts to grant relief in cases pertaining to SCs
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  1 only
+c)  2 and 3 only
+d)  1 and 3 only
+Answer: B
+Statement 1: The Commission, while investigating any matter or inquiring into any complaint, has all the powers of a civil court trying a suit.
+Statement 2: It is an advisory body to the Government. It does not govern any tribal or autonomous councils.
+Statement 3: It cannot direct the courts. It can only recommend punitive measures in cases pertaining to the SCs after conducting due inquiry.
+The Central government and the state governments are required to consult the
+Commission on all major policy matters affecting the SCs.
+
+23 According to the World Wildlife Fund (WWF) and the Global Tiger Forum (GTF), the global tiger population has increased by 22 per cent after a century of constant decline. Tiger population is highest in which of the following countries?
+a)  Thailand
+b)  India
+c)  Russia
+d)  Bangladesh
+Answer: B
+Tiger population in different countries: India (2226), Russia (433), Indonesia (371), Malaysia (250), Nepal (198), Thailand (189), Bangladesh (106) and Bhutan (103).
+Besides, tiger population is also found in countries like China, Myanmar and Laos
+PDR.
+The increase in the population can be attributed to multiple factors including increase in tiger populations in India, Russia, Nepal and Bhutan, improved surveys and enhanced protection and conservation efforts.
+Further, the collective support of government of different countries, local communities and law enforcement agencies to WWF in its goal of zero tolerance for tiger poaching across Asia also has led to increase in tiger population.
+
+24 Which of the following countries is/are NOT members of G-7?
+1.  Russia
+2.  China
+3.  Australia
+4.  Japan
+5.  Italy
+Select the correct answer using the codes below.
+a)  1, 2 and 3 only
+b)  2, 3 and 4 only
+c)  1 and 5 only
+d)  1 and 2 only
+Answer: A
+It is a group of seven major advanced economies as reported by the
+International Monetary Fund (IMF).
+Collectively they represent more than 64% of the net global wealth; very high
+Human Development Index and 46% of the global GDP.
+G7 countries include Canada, France, Germany, Italy, Japan, UK and US.
+Russia was expelled from the group G8 following its annexation of Crimea.
+Hiroshima Declaration (2016) reaffirms commitment of G-7 countries' to seek a safer world for all and create the conditions for a world without nuclear weapons to promote international stability
+
+25 A Monetary Policy Framework Agreement between the Government of India and the
+Reserve Bank of India (RBI) has been signed in February 2015. The agreement
+1.  Makes growth with employment the primary objective of monetary policy
+2.  Provides for flexible inflation targeting by the RBI Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: B
+The objective of monetary policy framework is to primarily maintain price stability, while keeping in mind the objective of growth.
+As per the agreement, RBI would set the policy interest rates and would aim to bring inflation below 6 per cent by January 2016 and within 4 per cent with a band of (+/-)
+2 per cent for 2016-17 and all subsequent years (flexible inflation targeting).
+The RBI would have to give an explanation in the form of a report to the Central Government, if it failed to reach the specified inflation targets. Further, RBI is mandated to publish a Monetary Policy Report every six months, explaining the sources of inflation and the forecasts of inflation for the coming period of six to eighteen months.
+
+26 Saudi Arabia and Egypt have decided to build bridge connecting each other over the
+Red Sea to boost trade and commerce. It is postulated that the joint bridge planned over the
+Red Sea will be at the entrance of the
+a)  Gulf of Aqaba
+b)  Persian Gulf
+c)  Gulf of Oman
+d)  Gulf of Aden
+Answer: A
+ You can eliminate for the right option easily if you know the map of
+Middle East. It is a map based question.
+Persian Gulf can't be the answer as it is between Saudi and Iran.
+Gulf of Oman can't be the answer as Oman lies in the South-eastern direction of
+Saudi.
+Gulf of Aden is near Yemen, Ethiopia and Somalia. So, this leaves only option (a)
+as the right answer.
+See the map below.
+If you can't see the image, check
+http://www.worldatlas.com/webimage/countrys/me.htm
+The project has been in the pipeline for several years to connect the two countries from Africa and Asia continents.
+http://www.aljazeera.com/news/2016/04/saudi-arabia-egypt-announce-bridg e-red-sea-160409032158790.html
+
+27 The Union Ministry of Human Resource Development (HRD) has launched the
+International Standard Book Number (ISBN) portal. It seeks to
+a)  Strictly regulate the process of book publication in India
+b)  Digitize the process of allotment of ISBN
+c)  Stop the use of e-books in promoting extremist propaganda
+d)  Make e-books available to the disabled in variety of formats
+Answer: B
+The ISBN portal seeks to facilitate publishers and authors to register for allotment ISBN online.
+It aims to automate completely the process of seeking application, their examination and allotment of ISBNs.
+It also includes ISBN generation request from the National Agency to the
+International Agency at UK.
+It will help to move away from traditional process of registration and allotment of ISBN.
+The ISBN is a 13-digit unique International Publisher's Identifier number, which is meant for identifying monograph publications. The ISBN Nos. are allotted free of cost.
+It is displayed in barcode format to provide access to bibliographic data bases used by the book industry and libraries to provide information.
+In India, Raja Ram Mohan Roy National Agency for ISBN is responsible for
+ISBN registration and is affiliated to UK based International Agency.
+
+28 Which of the following statements about the National Planning Committee (NPC) of
+1938 is CORRECT?
+a)  The Congress led Governments in provinces never joined the NPC.
+b)  It was appointed by Subash Chandra Bose.
+c)  It rejected the path of path of indigenous industrial expansion.
+d)  Report prepared by the committee was deliberated by the British government right after the Cripps Mission.
+Answer: B
+1938 was the year that witnessed the first attempt to develop a national plan for India when National Planning Committee was set up.
+This committee was set up by the then Congress President Subhash Chandra Bose and chaired by Jawaharlal Nehru.
+However the reports of the committee could not be prepared and only for the first time in 1948 -49 some papers came out
+The Congress Governments removed impediments in the path of indigenous industrial expansion and, in fact, actively attempted to promote several modern industrial ventures such as automobile manufacture. So, (a) and (c) cannot be correct.
+
+29 Consider the following about the International Space Station.
+1.  It is a habitable artificial satellite.
+2.  It can be seen with naked eyes from Earth.
+3.  It is situated at geosynchronous orbit around the earth.
+4.  It is owned by the United Nations Space Programme (UNSP) supported by NASA.
+Select the correct answer using the codes below.
+a)  1 and 3 only
+b)  1, 2 and 4 only
+c)  1 and 2 only
+d)  3 and 4 only
+Answer: C
+Statement 1: ISS is the ninth space station to be inhabited by crews, following the Soviet and later Russian Salyut, Almaz, and Mir stations as well as Skylab from the US. The station has been continuously occupied for 15 years.
+Statement 2 and 3: The ISS maintains an orbit with an altitude of between 330 and
+435 km, which is a low orbit, and due to its large size can be seen with naked eyes from earth very often. Geosynchornous orbits are as high as 36,000 Km.
+Statement 4: The ISS programme is a joint project among five participating space agencies: NASA, Roscosmos, JAXA, ESA, and CSA. The ownership and use of the space station is established by intergovernmental treaties and agreements.
+Source: http://www.financialexpress.com/article/lifestyle/science/spacex-launches-i nflatable-space-habitat-to-iss/234730/
+
+30 Sacred groves found in Khasi and Jaintia hills in Meghalaya are an example of
+a)  In situ conservation
+b)  Ex situ conservation
+c)  Exotic conservation
+d)  Artificial regeneration
+Answer: A
+When we conserve and protect the whole ecosystem, its biodiversity at all levels is protected. This approach is called in situ (on site) conservation.
+In India, ecologically unique and biodiversity-rich regions are legally protected as biosphere reserves, national parks and sanctuaries.
+In many cultures, tracts of forest were set aside, and all the trees and wildlife within were venerated and given total protection.
+Such sacred groves are found in Khasi and Jaintia Hills in Meghalaya, Aravalli Hills of Rajasthan, Western Ghat regions of Karnataka and Maharashtra and the Sarguja, Chanda and Bastar areas of Madhya Pradesh. In Meghalaya, the sacred groves are the last refuges for a large number of threatened plants and animals.
+
+31 After assuming office under the Act of 1935 in six provinces, which of the following reforms could NOT have been brought by the Congress?
+1.  Reducing police powers in provinces
+2.  Reduction of salary of Ministers in provinces
+3.  Repeal of emergency powers acquired by provincial governments
+4.  Removal of restrictions on the press
+Select the correct answer using the codes below.
+a)  1 only
+b)  2 and 4 only
+c)  1 and 3 only
+d)  All these reforms were brought by Congress.
+Answer: D
+ Statement 1: In the Congress provinces, police powers were curbed and the reporting of public speeches and the shadowing of political workers by CID (Central Investigation Department) agents stopped.
+Statement 2: The Congress Ministers set an example in plain living. They reduced their own salaries drastically from Rs. 2000 to Rs. 500 per month. They were easily accessible to the common people.
+Statement 3: All emergency powers acquired by the provincial governments during
+1932, through Public Safety Acts and the like, were repealed; bans on illegal political organizations such as the Hindustan Seva Dal and Youth Leagues and on political books and journals were lifted.
+Statement 4: All restrictions on the press were removed. Securities taken from newspapers and presses were refunded and pending prosecutions were withdrawn. The blacklisting of newspapers for purposes of government advertising was given up.
+
+32 Researchers have recently developed the world's smallest nanoscale diode. How is this development significant?
+1.  It will lead to the development of superconducting material that can also generate current on its own.
+2.  It will help in the development of electrical components times that are much smaller than current components.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: B
+Diodes are electronic devices that that allow current to move through it in one direction with far greater ease but not another.
+They are responsible for moving current around a lot of common electronics, and are printed by the millions onto modern-day silicon chips.
+Development of nano-scale diodes may help in the design and construction of nano- scale electronic elements that are at least 1,000 times smaller than current components.
+
+33 Which of the following pollutants irritate the nose and throat and their high
+concentration causes headache, chest pain, dryness of the throat and difficulty in breathing?
+1.  Carbon dioxide
+2.  Nitric Oxide
+3.  Ozone
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 and 3 only
+c)  3 only
+d)  1, 2 and 3
+Answer: B
+ The common components of photochemical smog are ozone, nitric oxide, acrolein, formaldehyde and peroxyacetyl nitrate (PAN).
+Photochemical smog causes serious health problems.
+Both ozone and PAN act as powerful eye irritants. Ozone and nitric oxide irritate the nose and throat and their high concentration causes headache, chest pain, dryness of the throat, cough and difficulty in breathing.
+Photochemical smog leads to cracking of rubber and extensive damage to plant life. It also causes corrosion of metals, stones, building materials, rubber etc.
+
+34 Consider the following about the National Capital Territory (NCT) of Delhi.
+1.  All the members of the Legislative assembly are chosen by direct election
+2.  Laws of assembly on municipal matters prevail over those made by the Parliament
+3.  Chief Minister of the NCT of Delhi is appointed by the Lieutenant Governor.
+4.  The size of council of Ministers is decided by the Lieutenant Governor through an order issued by the Union Ministry of Home Affairs.
+Select the correct answer using the codes below.
+a)  1 only
+b)  1, 3 and 4 only
+c)  1 and 2 only
+d)  2 and 3 only
+Answer: A
+ Statement 1: The strength of the assembly is fixed at 70 members, directly elected by the people. The elections are conducted by the election commission of India.
+Statement 2: The assembly can make laws on all the matters of the State List and the Concurrent List except the three matters of the State List, that is, public order, police and land. But, the laws of Parliament prevail over those made by the Assembly.
+Statement 3: The chief minister is appointed by the President (not by the lt. governor). The other ministers are appointed by the president on the advice of the chief minister.
+Statement 4: The strength of the council of ministers is fixed at ten per cent of the total strength of the assembly, that is, seven—one chief minister and six other ministers.
+
+35 "King Abdulaziz Sash" was recently in news. Why?
+a)  Our PM was conferred with this award which is Saudi Arabia's highest civilian honour
+b)  Ordering troops to open fire near the Gaza strip
+c)  Initiating a dialogue process for peace and reconciliation in Yemen
+d)  The largest oil container ship has been awarded by this name in India in the honour of Saudi Arabian monarch
+Answer: A
+ The award has been named after Abdulaziz Al Saud, the founder of the modern Saudi state.
+The award is bestowed upon citizens of Saudi Arabia and foreigners for meritorious service to the Saudi Kingdom.
+King himself makes awards to foreigners.
+World leaders who have received the honour include US President Barack
+Obama, Russian President Vladimir Putin, Japanese Prime Minister Shinzo Abe, British Prime Minister David Cameron and Egyptian President Abdel Fattah el-Sisi.
+http://indianexpress.com/article/india/india-news-india/modi-saudi-arabia-king-abdu laziz-sash-civilian-honour/
+
+36 Ethanol as a bio-fuel can be obtained from
+1.  Sugarcane
+2.  Corn
+3.  Potato
+4.  Cotton
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  1, 3 and 4 only
+c)  2 and 4 only
+d)  1, 2, 3 and 4
+Answer: D
+ Bio-ethanol is usually obtained from the conversion of carbon-based feedstock.
+Agricultural feedstocks are considered renewable because they get energy from the
+sun using photosynthesis, provided that all minerals required for growth (such as nitrogen and phosphorus) are returned to the land.
+Ethanol can be produced from a variety of feedstocks such as sugar cane, bagasse, miscanthus, sugar beet, sorghum, grain, switchgrass, barley, hemp, kenaf, potatoes, sweet potatoes, cassava, sunflower, fruit, molasses, corn, stover, grain, wheat, straw, cotton, other biomass, as well as many types of cellulose waste and harvesting, whichever has the best well-to-wheel assessment.
+
+37 Genetic Engineering Approval Committee has been established under which of the following ministries?
+a)  Department of Biotechnology (DBT), Ministry of Science and Technology
+b)  Ministry of Environment, Forest and Climate Change
+c)  Department of Scientific and Industrial Research (DSIR), Ministry of Science and Technology
+d)  None of the above
+Answer: B
+ Genetic Engineering Appraisal Committee (GEAC) established under
+MoEFCC is the apex body to accord notified under Rules 1989.
+It is also for approval of activities involving large scale use of hazardous microorganisms and recombinants in research and industrial production from the environmental angle.
+The GEAC is also responsible for approval of proposals relating to release of genetically engineered organisms and products into the environment including experimental field trials.
+
+38 Which of the following departments do NOT come under the Union Ministry of
+Finance?
+1.  Department of Expenditure
+2.  Department of Fiscal Policy
+3.  Department of Trade finance
+4.  Department of Disinvestment
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 and 3 only
+c)  3 and 4 only
+d)  1, 2 and 4 only
+Answer: B
+ The Ministry of Finance is concerned with all economic and financial matters affecting the country as a whole including mobilization of resources for development and other purposes.
+It regulates expenditure of the Government including transfer of resources to the states.
+This ministry comprises five departments, namely, (i) Economic Affairs, (ii) Expenditure, (iii) Revenue, (iv) Disinvestment; and (v) Financial Services.
+
+39 Consider the following statements.
+1.  An administrator of a union territory is an agent of the President and not head of state like a governor.
+2.  The President can appoint the governor of a state as the administrator of an adjoining union territory.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: C
+ Statement 1: In case of a state of India, the Governor acts as the head of the state despite being an unelected representative. In a UT, although the Lt. Governor is appointed in the same way as a Governor is appointed in a state, he neither has as much discretion as the Governor of a state has, nor is he the head of
+the state.
+Statement 2: In that capacity, the governor is to act independently of his council of ministers, i.e. he does not act on the aid and advice of the CoM. However, his position with respect to the UT is similar as that of a Lt. Governor or administrator.
+
+40 The Securities Laws (Amendment) Act, 2014 provided for
+1.  Deregulating commodity markets from the control of SEBI
+2.  Establishment of Special Court by the Central Government for speedy trial of offences punishable under the SEBI Act
+3.  Search and seizure powers to SEBI
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 and 3 only
+c)  3 only
+d)  1, 2 and 3 only
+Answer: B
+ The Securities Laws (Amendment) Act, 2014, inter-alia, has amended Securities and Exchange Board of India 'SEBI' Act, 1992 to provide that search and seizures can be conducted by SEBI after obtaining the approval from the Magistrate or Judge of such designated court in Mumbai.
+Further, the Securities Laws (Amendment) Act, 2014 inter-alia provides for establishment or designation of Special Court by the Central Government for the purpose of speedy trial of offences punishable under the SEBI Act, 1992; Securities Contracts (Regulation) Act, [SCRA], 1957 and the Depositories Act, 1996.
+
+41 'Insider trading' has been often in news and is illegal in most nations. Why is it considered illegal?
+1.  The ones trading have access to valuable non-public information about a corporation.
+2.  It is equivalent to speculation.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: A
+ Statement 1: When insiders, e.g. key employees or executives who have access to the strategic information about the company, use the same for trading in the company's stocks or securities, it is called insider trading and is highly discouraged by the Securities and Exchange Board of India to promote fair trading
+in the market for the benefit of the common investor.
+However, in certain cases if the information has been made public, in a way that all concerned investors have access to it, that will not be a case of illegal insider trading.
+Statement 2: Speculation is the practice of engaging in risky financial transactions in an attempt to profit from fluctuations in the market value of a tradable good. It is not illegal. Also, insider trading can be more than speculation and can even be a genuine investment.
+For e.g. an employee knows (confidentially) that his company's plans of acquiring another company will raise its stock price, and hence he invests in the stocks to gain from the rise in price.
+
+42 The Civil Disobedience movement was withdrawn
+a)  Right before the 1937 provincial elections
+b)  After the Poona Pact
+c)  Before the beginning of the Second World War
+d)  By Gandhiji in 1934
+Answer: D
+ Gandhiji assured Nehru and the leftists that the withdrawal of the civil disobedience was dictated by the reality of the political situation. But this did not mean following a policy of drift or bowing down before political opportunists or
+compromising with imperialism.
+Only civil disobedience had been discontinued, the war continued. The new policy, he said, 'is founded upon one central idea - that of consolidating the power of the people with a view to peaceful action.'
+
+43 The Chief Electoral Officer (CEO) supervises the election work in a State. He is appointed by the
+a)  Election Commission of India in consultation with the State Government
+b)  Governor of the State concerned in consultation with the Election
+Commission of India
+c)  Chief Secretary of the State concerned in consultation with the Chief Election
+Commissioner
+d)  State Election Commission after consulting Election Commission of India
+Answer: A
+ The Election Commission of India nominates or designates an Officer of the Government of the State/Union Territory as the Chief Electoral Officer in consultation with that State Government/Union Territory Administration.
+As per the Representation of the People Act 1950 and the Representation of the People Act, 1951, the Chief Electoral Officer of a State/ Union Territory is authorised to supervise the election work in the State/Union Territory subject to the overall superintendence, direction and control of the Election Commission.
+The Election Commission of India also nominates or designates an Officer of the State Government as the District Election Officer in consultation with the State Government.
+You can see the link http://eci.nic.in/eci_main1/election-machinery.aspx
+
+44 Consider the following about the properties of Neem tree.
+1.  All parts of neem are used for preparing different medicines
+2.  Neem oil is used for preparing cosmetics.
+3.  Neem products are useful for pest control as they are not poisonous to animals and many insects.
+4.  Neem products can have sedative properties.
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  3 and 4 only
+c)  1, 2 and 3 only
+d)  1, 2, 3 and 4
+Answer: D
+Products made from neem have been used in India for over two millennia for their medicinal properties. They are said to be antifungal, antidiabetic, antibacterial, antiviral, contraceptive and sedative.
+Neem products are also used in selectively controlling pests in plants. Neem is considered a part of Ayurvedic medicine.
+Statement 1: It is useful mainly for skin disease.
+Statement 2: Neem oil is used for preparing cosmetics (soap and shampoo, as well as lotions and others), and is useful for skin care such as acne treatment. Neem oil has been used effectively as a mosquito repellent.
+Statement 3: Neem is useful for damaging over 500 types of insects, mites, ticks, and nematodes, by changing the way they grow and act.
+Neem does not normally kill pests right away, rather it slows their growth and drives them away. As neem products are cheap and not poisonous to animals and friendly insects, they are good for pest control
+
+45 A commodity futures contract is an agreement to buy or sell a particular commodity at a future date. What are the benefits to Indian citizens from the existence of futures market in agricultural commodities?
+1.  Farmers benefit from the price signals emitted by the futures markets.
+2.  Retail investors can park their savings in such contracts as the prices are highly stable and reap profits akin to a long-term investment.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: A
+ Statement 1: The futures markets lead to reduction in the amplitude of seasonal price variation and help the farmers realize a better price at the time of harvest.
+This also helps the farmer in planning his cultivation in advance as well as to determine the kind of crop which he would prefer to raise, by taking advantage of the advance information of the future price trends, and probable supply and demand of various commodities.
+Statement 2: Trading commodity futures and options is a volatile, complex and risky venture that is rarely suitable for individual investors or "retail customers". Other reasons are:
+Most participants in the futures markets are commercial or institutional commodities producers or consumers
+Most participants are "hedgers" who trade futures to maximize the value of their assets, and to reduce the risk of financial losses from price changes Other participants are "speculators" who attempt to profit from price changes in futures contracts.
+
+46 NASA's Kepler spacecraft has recently reported to enter into emergency mode (EM) far away from Earth and later recovered. Kepler was launched by NASA to
+a)  Explore gravitational waves in deep space
+b)  Search for Sun like stars in nearby solar systems
+c)  Study formation and explosion of dwarf stars
+d)  Discover Earth-size planets orbiting other stars
+Answer: D
+ Kepler is designed to survey a portion of our region of the Milky Way to discover Earth-size rocky exoplanets in or near habitable zones and estimate how
+many of the billions of stars in the Milky Way have such planets.
+Since its launch, the mission has been incredibly successful and has led to finding of more than 1,000 alien planets of which half are exoplanets to be ever discovered.
+In 2013 an alternative mission for Kepler was proposed, a search for near-Earth asteroids (NEAs) and potentially hazardous objects (PHOs).
+http://www.thehindu.com/todays-paper/tp-national/kepler-probe-out-of-danger/articl e8468234.ece
+
+47 The merger of Forward Markets Commission (FMC) with SEBI was accomplished through
+a)  Parliamentary legislation
+b)  Executive order
+c)  Order of SEBI
+d)  A joint resolution of SEBI and FMC
+Answer: A
+ The (FMC) and (SEBI) have been merged through the Finance Act
+2015-16.
+The Forward Contracts Regulation Act (FCRa) stands repealed, and the regulation of the commodity derivatives market shifts to Sebi under the Securities Contracts Regulation Act (SCRa), 1956.
+Why is Sebi seen to be better equipped to monitor commodities trading?
+The FMC only regulated the exchanges, and had no direct control over brokers.
+Also, Sebi has a far superior surveillance, risk-monitoring and enforcement mechanism that market participants say will give more confidence to investors, and may help businesses grow.
+Among other powers, Sebi now also has the power to access call data records.
+
+48 Infrastructure Debt Funds (IDF) is an innovative attempt for addressing the issue of sourcing long term debt for infrastructure projects. Who among the following are eligible
+to invest in IDF?
+1.  Institutional investors such as insurance and pension funds
+2.  Off-shore high net worth individuals (HNIs)
+3.  Foreign Institutional Investors (FIIs)
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1 and 3 only
+d)  1, 2 and 3
+Answer: D
+ Potential investors under IDFs may include off-shore institutional investors, off-shore high net worth individuals and other institutional investors (insurance funds, pension funds, sovereign wealth funds, etc.).
+IDFs can be set up either as a trust or as a NBFC.
+The income of Infrastructure Debt Funds has been exempted from income tax. So far, three IDF-NBFCs and three IDF -MFs have been operationalized.
+
+49 What is the importance of Tashkent in the Indian freedom struggle?
+a)  The Communist Party of India was founded in Tashkent.
+b)  The Indian National Army was supervised from Tashkent
+c)  Third round table conference was held in Tashkent.
+d)  Tashkent agreement was signed between Pandit Nehru and Lord Irwin here
+Answer: A
+ Attracted by the Soviet Union and its revolutionary commitment, a large number of Indian revolutionaries and exiles abroad made their way there.
+The most well-known and the tallest of them was M.N. Roy, who along with Lenin, helped evolve the Communist International's policy towards the colonies.
+Seven such Indians, headed by Roy, met at Tashkent in 1920 and set up a
+Communist Party of India.
+Independently of this effort a number of left-wing and communist groups and organizations had begun to come into existence in India after 1920.
+
+50 The Union Information and Broadcasting (I&B) Ministry has recently constituted a three-member Committee headed by the former Chief Election Commissioner (CEC) B B Tandon to
+a)  Frame rules and guidelines to stop paid news during elections
+b)  Set an upper limit for election expenditures in remote rural areas
+c)  See that guidelines set for government advertisements by the Supreme Court are followed
+d)  Decide on the suitability of candidates with criminal charges filing
+nomination papers
+Answer: C
+ In 2015, Supreme Court in its order had issued Guidelines on Regulating Government Advertisements based on recommendations of Prof NR Madhava Menon Committee.
+In its order, SC had barred publication of photos of leaders in government advertisements except those of the President, Prime Minister and the Chief Justice of India.
+SC had also directed the Union Government to constitute a three-member committee to regulate the issue of public advertisements.
+In 2016 SC modified its earlier 2015 order and allowed photographs of Chief
+Ministers, Governors and ministers to be carried in public advertisements.
+http://www.thehindubusinessline.com/news/govt-ads-ministry-forms-3memberpanel
+-to-monitor-content-regulation/article8462295.ece
+
+51 Consider the following about the Foreign Investment Promotion Board (FIPB).
+1.  It is housed in the Department of Economic Affairs.
+2.  No Minister is a member of the board.
+3.  It gives final approval to all FDI proposals not under the automatic route.
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1 and 3 only
+d)  1, 2 and 3
+Answer: A
+Statement 1: The FIPB was transferred to the Department of
+Economic Affairs; Ministry of Finance in terms of the Presidential Order in 2003. Statement 2: The permanent members of the Board are the following:
+Secretary to the Government of India, DEA, Ministry of Finance - Chairman Secretary to the Government of India, Department of Industrial Policy and Promotion (DIPP).
+Secretary to the Government of India, Department of Commerce (DoC). Secretary to the Government of India (Economic Relations), Ministry of External Affairs (MEa).
+Secretary to the Government of India, Ministry of Overseas Indian Affairs
+(MOIa)
+Secretary, Department of Revenue (DoR), Ministry of Finance (co-opted permanently).
+Secretary, Ministry of Small and Medium & Micro Enterprises (co-opted permanently).
+Statement 3: The Minister of Finance who is in-charge of FIPB considers the recommendations of FIPB on proposals with total foreign equity inflow of and below Rs. 3000 crore.
+The recommendations of FIPB on proposals with total foreign equity inflow of more than Rs. 3000 crore would be placed for consideration of Cabinet Committee on Economic Affairs (CCEa).
+
+52 The council of ministers headed by the chief minister aid and advise the Lieutenant governor in the exercise of his functions except in so far as he is required to act in his
+discretion. In the case of difference of opinion between the Lieutenant governor and his ministers
+a)  The advice of the Council of Ministers prevails if the same advice is tendered again after reconsideration.
+b)  The Chief Minister is to refer the matter to the Ministry of Home Affairs and act accordingly.
+c)  The Lieutenant governor is to refer the matter to the president for decision and act accordingly.
+d)  The view of the Lieutenant governor prevails over that of the Council of
+Ministers.
+Answer: C
+ It is notable that the same provision is not given for the Governor of a state because of three reasons:
+He is the Head of the state unlike the Lt. Governor.
+A state is not directly under the control of the Union Government unlike UTs. The constitution is clear over the powers of the Governor where he is supposed to exercise discretion.
+
+53 The Open Market Sale Scheme of Ministry of Food and Civil Supplies helps achieve which of the following objective(s)?
+1.  Keeping food inflation under check
+2.  Controlling prices of food grains during off season
+3.  Increasing supply of food grains in deficit areas
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1 and 3 only
+d)  1, 2 and 3
+Answer: D
+ Due to an open ended procurement policy of food grains providing price support to every farmer, who wants to sell his produce to the Government at MSP,
+usually Government agencies end up in procuring more food grains.
+This has led to accumulation of excess stock under central pool as against the required buffer norms. As excess stock involve carrying cost which adds to the burden of food subsidy on the Government, it is necessary that they are liquidated from time to time either through sale in the open domestic market or through exports.
+Liquidation of excess stocks under Open Market Sale Scheme-Domestic (OMSS-D) also helps in keeping food inflation under check (due to supply-emand mismatch) and controlling prices of food grains during off season, especially in the deficit areas.
+
+54 The SAARC Food Bank has been set up to supplement national efforts to provide food security to the people of the SAARC region during emergencies and food shortages. The country with the largest share of food grains is
+a)  Bangladesh
+b)  India
+c)  Pakistan
+d)  Sri Lanka
+Answer: B
+ SAARC Food Bank has a reserve of food grains maintained by each member country consisting of either wheat or rice, or a combination of both as assessed share of the country.
+Presently India's assessed share of food grains is 3,06,400 lakh tonnes out of a total quantity of 4,86,000 lakh tonnes allocated for SAARC Food Bank.
+
+55 Consider the following about the situation of employment in India.
+1.  More than 50 per cent of the workforce is engaged in the informal sector even after excluding the agricultural sector.
+2.  There is no informal employment in the formal sector.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: A
+ Statement 1: Roughly 85 per cent of the workforce is engaged in the informal sector; even after excluding the agricultural sector, the share of the workforce in the informal sector remains at 70 per cent.
+Statement 2: Workers that are hired on a contract or temporary basis in the formal sector constitute informal workforce. It is not absent from the formal sector and is usually resorted to due to the rigidity of labour laws (e.g. stringent provisions for hiring and firing labour).
+
+56 Multidimensional Poverty Index (MPI) does NOT include which of the following indicators in its calculation?
+a)  Child school attendance
+b)  Access to Electricity
+c)  Access to safe drinking water
+d)  Wages received per day
+Answer: D
+ The index uses the same three dimensions as the Human Development Index: health, education, and standard of living. These are measured using ten indicators.
+Each dimension and each indicator within a dimension is equally weighted.
+Singh
+
+57 Consider the following about Socio-Economic and Caste Census (SECC) conducted in
+India
+1.  It is conducted both in rural as well as urban India.
+2.  The exercise is fully funded by the respective state governments.
+3.  Data published by SECC will have to be scrutinized by the Gram Sabha.
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1 and 3 only
+d)  1, 2 and 3
+Answer: C
+ Statement 1 and 2: The SECC 2011 is being conducted simultaneously for rural and urban areas by the respective states, with technical and financial support from the GoI.
+Statement 3: Before finalising the outcomes, the household data, except caste data, will be placed in the public domain for scrutiny and go through a two-stage appeal procedure in the 'claims and objections' stage.
+In rural areas, the Gram Sabha will also mandatorily scrutinise the data in a specially convened meeting.
+Singh
+
+58 A night vision apparatus works on the basis of
+a)  Sensing micro-waves emitted by the object
+b)  Sensing the heat patterns or infra-red waves emitted by the object
+c)  Measuring the reflection of radio waves from the object
+d)  All of the above
+Answer: B
+ With the proper night-vision equipment, you can see a person standing over 200 yards (183 m) away on a moonless, cloudy night.
+Night vision can work in two very different ways, depending on the technology used.
+Image enhancement - This works by collecting the tiny amounts of light, including the lower portion of the infrared light spectrum, that are present but may be imperceptible to our eyes, and amplifying it to the point that we can easily observe the image.
+Thermal imaging - This technology operates by capturing the upper portion of the infrared light spectrum, which is emitted as heat by objects instead of simply reflected as light. Hotter objects, such as warm bodies, emit more of this light than cooler objects like trees or buildings.
+
+59 Which of the following is included in the list of charged expenditure?
+1.  Emoluments and allowances of the President and Vice-President
+2.  Salaries of Speaker and the Deputy Speaker of the Lok Sabha
+3.  Administrative expenses of the Supreme Court
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1 and 3 only
+d)  1, 2 and 3
+Answer: B
+ Salary and allowances of only President is included, not that of the
+Vice-President. So, 1 is incorrect. Other important items included are:
+The salaries, allowances and pensions payable to or in respect of Judges of the Supreme Court,
+The pensions payable to or in respect of Judges of the High Court The salary, allowances and pension payable to or in respect of the Comptroller and Auditor General of India;
+Any sums required to satisfy any judgment, decree or award of any court or arbitral tribunal;
+
+60 Consider the following statements with reference to the Election Commission of India
+1.  The appointment of the chief election commissioner and other election commissioners is made by the Union Minister of Parliamentary Affairs.
+2.  The conditions of service and tenure of office of the election commissioners and the regional commissioners are determined by the Chief Election Commissioner.
+3.  In case of difference of opinion amongst the Chief Election Commissioner (CEC)
+and other election commissioners, the view of the CEC prevails.
+4.  Any election commissioner or a regional commissioner cannot be removed from office except on the recommendation of the CEC.
+Select the correct answer using the codes below.
+a)  1 and 4 only
+b)  2 and 3 only
+c)  4 only
+d)  3 and 4 only
+Answer: C
+ Statement 1: They are appointed by the President
+Statement 2: The condition of service is also determined by the President of India. The service conditions of the chief election commissioner cannot be varied to his disadvantage after his appointment.
+Statement 3: The CEC and the two other election commissioners have equal powers and receive equal salary, allowances and other perquisites.
+In case of difference of opinion amongst the Chief Election Commissioner and/or two other election commissioners, the matter is decided by the Commission by majority.
+Statement 4: The chief election commissioner is provided with the security of tenure. He cannot be removed from his office except in same manner and on the same grounds as a judge of the Supreme Court.
+Others can be removed only when s/he recommends.
+
+61 Consider the following statements.Assertion (a): Depreciation of rupee may raise net exports and increase aggregate demand in the country.Reason (R): A depreciation of the rupee will raise the cost of buying foreign goods and make domestic goods less costly.In the context of the above, which of these is correct?
+a)  A is correct, and R is an appropriate explanation of A.
+b)  A is correct, but R is not an appropriate explanation of A.
+c)  A is correct, but R is incorrect.
+d)  Both A and R are incorrect.
+Answer: A
+ Since demand for domestic exports will increase in international market, it will raise producer's income in the country and thus domestic aggregate demand.
+Conversely, a currency appreciation would reduce net exports and, therefore, decrease aggregate demand.
+However, we must note that international trade patterns take time to respond to changes in exchange rates.
+A considerable period of time may elapse before any improvement in net exports is apparent.
+
+62 Which of the following is correct with reference to the religious views of Akbar?
+1.  He believed in a self-conceived eclectic form of divine worship focused on light and
+the sun instead of orthodox religious views.
+2.  He believed that any discussion on religious matters is futile as religion belongs exclusively to the personal sphere.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: A
+Akbar's quest for religious knowledge led to interfaith debates in the ibadat khana at Fatehpur Sikri between learned Muslims, Hindus, Jainas, Parsis and Christians. So, 2 is wrong.
+Akbar's religious views matured as he queried scholars of different religions and sects and gathered knowledge about their doctrines.
+Increasingly, he moved away from the orthodox Islamic ways of understanding religions towards a self-conceived eclectic form of divine worship focused on light and the sun.
+Akbar's religious policy encouraged a broad religious outlook. It is said that Akbar would sit for hours together on a huge flat stone and think of the mysteries of God and religion.
+
+63 Odisha Government has launched Adarsh Vidyalaya (AV) project to provide modern schools facilities on the lines of Kendriya Vidyalayas in the underdeveloped rural areas of the state. Consider the following about it.
+1.  Schools under AV project can provide free education upto secondary level to students.
+2.  In these schools, Hindi will be the first language and Odia will be the second language as medium of instruction.
+3.  At least one AV will be set up in every village of the state.
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  1 only
+c)  2 and 3 only
+d)  1, 2 and 3
+Answer: B
+ Statement 1: Schools under AV project will provide free education to students the classes from VI to XII along with free uniforms and other study materials.
+Statement 2: English will be the first language and Odia will be the second language as medium of instruction.
+Statement 3: Under this project, one Adarsh Vidyalaya will be set up in each of the
+314 revenue blocks of the state.
+http://www.thehindu.com/news/national/other-states/naveen-launches-adarsh-vidyal aya-project/article8438969.ece
+
+64 Along with the Beti Bachao, Beti Padhao scheme, the government also launched the "Sukanya Samriddhi Account" programme. Under the Sukanya Samriddhi Account programme
+1.  A parent can open an account in the name of the girl child right after the completion of her secondary education.
+2.  The account can be opened both in public as well as private sector banks.
+3.  The government will contribute a certain sum annually to the account to which additional contributions can be made by parents.
+Select the correct answer using the codes below.
+a)  1 only
+b)  2 and 3 only
+c)  2 only
+d)  1 and 3 only
+Answer: C
+ The scheme aims to ensure a bright future for the girl children by facilitating their education and marriage expenses.
+Under the scheme, a parent or legal guardian can open an account in the name of the girl child until she attains the age of ten years. So, 1 is wrong.
+The minimum deposit that needs to be made by the guardian every year is Rs
+1,000, which will earn a handsome interest rate compounded annually. So, 3 is also wrong.
+The account will be valid for 21 years from the date of opening, after which it will mature and the money will be paid to the girl child in whose name the account had been opened.
+If the account is not closed after maturity, the balance amount will continue to earn interest as specified for the scheme from time to time. The account will also automatically close if the girl child gets married before the completion of the tenure of 21 years.
+http://pib.nic.in/newsite/efeatures.aspx
+
+65 The "HUNGaMA" report relates to
+a)  Corruption cases related to corporate lobbying
+b)  High profile defence procurement mismanagement
+c)  Malnutrition and Hunger
+d)  Status of primary and secondary education in India
+Answer: C
+The report was released in 2012 by the PM. You can read the details here
+http://pib.nic.in/newsite/erelease.aspx?relid=79457
+Some important observations of the survey were:
+A reduction in the prevalence of child malnutrition is observed:
+Child malnutrition is widespread across states and districts and starts early in life:
+Birth weight is an important risk-factor for child malnutrition: Household socio-economic status has a significant effect on children's nutrition status
+Girls' nutrition advantage over boys fades away with time:
+Singh
+
+66 The Eastern Ghats and Western Ghats meet at
+a)  Anaimalai Hills
+b)  Cardamom Hills
+c)  Nilgiri Hills
+d)  Shevoroy Hills
+Answer: C
+ The western Ghats run along the west coast from south of the Tapti river valley to Kanyakumari; Deccan trap constitutes the northern portion of the Ghats; Southern part is composed of Archean gneisses, Schists and Charnockites.
+The Eastern Ghats consist of irregular hill ranges stretches from northern Orissa to the Kerala and Tamil Nadu across coastal Andhra.
+The meeting point of the western and Eastern Ghats in the Nilgiri Hills has the highest point at Doda Betta Peak.
+
+67 The Agaria community of Gujarat are
+a)  Salt pan workers of the Rann of Kutch
+b)  Goldsmiths who settled from the North-east during British rule
+c)  Indigenous tribes who have been displaced to Pakistan
+d)  The wood pickers of Pavagadh hill who will now be adopted by the
+UNESCO heritage programme
+Answer: A
+ Throughout their lives, members of the Agariya community work tirelessly in the fields of the Rann of Kutch, where they "grow" salt, taking care of almost 75 per cent of the country's demand.
+As per an article published in The Hindu, "But fulfilling India's salt needs comes at a price, as the salt pan workers face problems such as abnormally thin legs which become so stiff that even after death, they do not burn in the funeral pyre.
+But despite working hard in harsh climatic conditions with day temperatures rising to 40 degrees and nights witnessing 5 degree Celsius temperature, the Agariyas earn a meagre Rs 60 per ton.
+One of the poorest communities of India, Agariyas get their skin burnt due to continuous exposure to highly saturated salt and their children rarely go to school."
+
+68 The constitution has sought to safeguard and ensure the independence and impartiality of the Election Commission of India. However, which of the following has NOT been prescribed/specified by the Constitution?
+1.  Qualifications of the members of the Election Commission
+2.  Term of the members of the Election Commission
+3.  Functions of the Election Commission
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 only
+c)  1 and 3 only
+d)  1, 2 and 3
+Answer: A
+ The Constitution has not prescribed the qualifications (legal, educational, administrative or judicial) of the members of the Election Commission.
+Also, the Constitution has not debarred the retiring election commissioners from any further appointment by the government.
+
+69 Which of the following CANNOT be associated with Dalhousie?
+1.  Decentralization of the British administrative system
+2.  Indian Railways and Telegraph
+3.  Widow Remarriage Act
+4.  Doctrine of Lapse
+Select the correct answer using the codes below.
+a)  1, 3 and 4 only
+b)  1 only
+c)  2, 3 and 4 only
+d)  1 and 3 only
+Answer: B
+Statement 1: Dalhousie's chief aim was the consolidation of British rule in India. So he adopted the principle of centralization.
+For the newly acquired territories he devised the 'Non-Regulation System" under which commissioners were appointed to deal with the administrative problems.
+They were made responsible to the Governor-General in the Council. He handed over all other powers relating to justice, police, and land revenue to the District Magistrates.
+Statement 2: He was the father of Indian Railways. In 1852 Dalhousie introduced the Electric Telegraph System in India.
+Statement 3: Dalhousie passed the Religious Disability Act in 1850 which enabled the Hindu convert to inherit his ancestral property. Moreover, he also passed the Widow Remarriage Act in 1855 which legalized the marriage of Hindu widows.
+
+70 Consider the following about the Union Public Service Commission (UPSC).
+1.  The Constitution has not specified the strength of the Commission and has left it to the discretion of the President.
+2.  No educational qualifications are prescribed for the Commission's membership.
+3.  The members of UPSC can be removed only on the grounds and in the manner of removal of Supreme Court judges.
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1 and 3 only
+d)  1, 2 and 3
+Answer: A
+ Statement 1: The UPSC consists of a chairman and other members
+appointed by the president of India.
+The Constitution, without specifying the strength of the Commission has left the matter to the discretion of the president, who determines its composition. Usually, the Commission consists of nine to eleven members including the chairman.
+Statement 2: No qualifications are prescribed for the Commission's membership except that one-half of the members of the Commission should be such persons who have held office for at least ten years either under the Government of India or under the government of a state.
+The Constitution also authorises the president to determine the conditions of service of the chairman and other members of the Commission.
+Statement 3: The President can remove the Chairman and members of UPSC on grounds of insolvency etc. On the ground of misbehaviour, he can remove them only based on an inquiry by the SC.
+
+71 Earth's orbital velocity around the Sun varies with
+a)  Shape of its orbit
+b)  It remains constant throughout the orbit.
+c)  Earth's distance from the Sun
+d)  Both (a) and (c)
+Answer: D
+ As the earth moves close to the Sun, its orbital velocity increases, and decreases as it goes farther from the Sun.
+Based on Kepler's three laws of motion (9th standard physics), you will know that in an elliptical orbit, a body will trace equal orbital area in equal intervals of time. So, depending on the shape of the orbit, the velocity of earth will vary.
+
+72 The distribution of natural resources on earth is affected by which of the following physical factors?
+1.  Terrain
+2.  Altitude
+3.  Climate
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1 and 3 only
+d)  1, 2 and 3
+Answer: D
+Low latitudes (latitudes close to the equator) receive more of the sun's energy and much precipitation, while higher latitudes (latitudes closer to the poles) receive less of the sun's energy and too little precipitation.
+The temperate deciduous forest biome provides a more moderate climate, along with fertile soil, timber, and abundant wildlife.
+The plains offer flat landscapes and fertile soil for growing crops, while steep mountains and dry deserts are more difficult areas.
+Hence, all the statements will be correct.
+
+73 Consider the following statements.
+1.  Although CITES is legally binding on the parties it does not take the place of national laws.
+2.  CITES includes only those wild animals species threatened with extinction.
+3.  The Conference of the Parties (CoP) is the supreme decision-making body of the
+Convention.
+4.  CITES in funded entirely by the World Wildlife Fund (WWF).
+Select the correct answer using the codes below.
+a)  2, 3 and 4 only
+b)  2 and 4 only
+c)  1 and 3 only
+d)  1, 3 and 4 only
+Answer: C
+Statement 1: CITES is an international agreement to which States (countries) adhere voluntarily. States that have agreed to be bound by the Convention ('joined' CITES) are known as Parties.
+Although CITES is legally binding on the Parties - in other words they have to implement the Convention - it does not take the place of national laws. Rather it provides a framework to be respected by each Party, which has to adopt its own domestic legislation to ensure that CITES is implemented at the national level.
+Statement 2: Appendix I includes species threatened with extinction. Trade in specimens of these species is permitted only in exceptional circumstances.
+Appendix II includes species not necessarily threatened with extinction, but in which trade must be controlled in order to avoid utilization incompatible with their survival.
+Statement 4: It is financed from the CITES Trust Fund. This Trust Fund is replenished from contributions from the Parties to the Convention based on the United Nations scale of assessment, adjusted to take account of the fact that not all members of the United Nations are Parties to the Convention.
+
+74 Consider the following statements about Brahmaputra river.
+1.  The Brahmaputra rises in Tibet east of Mansarowar lake.
+2.  Its source is very close to that of the Indus and Satluj.
+3.  It is slightly longer than the Indus.
+4.  Most of its course lies outside India.
+5.  It takes a U-turn into India on reaching Namcha Barwa.
+Select the correct answer using the codes below.
+a)  1, 2, 3 and 4 only
+b)  2, 3 and 5 only
+c)  1, 4 and 5 only
+d)  1, 2, 3, 4 and 5
+Answer: D
+ It flows eastwards parallel to the Himalayas. On reaching the Namcha Barwa (7757 m), it takes a 'U' turn and enters India in Arunachal Pradesh through a gorge.
+Here, it is called the Dihang and it is joined by the Dibang, the Lohit, the Kenula and many other tributaries to form the Brahmaputra in Assam.
+In Tibet the river carries a smaller volume of water and less silt as it is a cold and a dry area.
+In India it passes through a region of high rainfall. Here the river carries a large volume of water and considerable amount of silt.
+The Brahmaputra has a braided channel in its entire length in Assam and forms many riverine islands.
+
+75 Why most of the world's deserts are located in the western margins of continents in the subtropics?
+1.  Due to effect of cold currents
+2.  Due to dry off shore Trade Winds
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: C
+ Statement 1: The presence of cold ocean currents along the western shores of continents (in the subtropics) leads to the development of high pressure over the water surface. This high pressure leads to subsidence of air hinder cloud formation.
+Statement 2: The trade winds blow in the North Easterly direction in the northern hemisphere while they blow in the South Easterly direction in the southern hemisphere. As such they blow over land and very dry thus no possibility of causing precipitation.
+
+76 There is evidence for the development of which of the following in ancient Indian medical science?
+1.  Plastic surgery
+2.  Transfer of embryo
+3.  Organ transplant
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1, 2 and 3
+d)  None of the above
+Answer: C
+ Please go through these three sources.
+http://www.vigyanprasar.gov.in/dream/jan2000/article2.htm http://www.apsi.org.in/History/HISTORY%20OF%20INDIAN%20PLASTIC%20S URGERY.html https://en.wikipedia.org/wiki/Sushruta_Samhita#Surgery
+The first detailed description of plastic surgical procedures is found in the clinical text on Indian surgery, the 'Sushruta Samhita' (600 B.C.).
+Atharva Veda, the root of Ayurveda , the classical text of Indian medical knowledge includes two seminal texts, Charaka Samhita on medicinal aspects and Sushruta
+Samhita which incorporates details of surgical tools and operative techniques.
+
+77 Thunderstorms can be caused by
+1.  Intense convection on moist hot days
+2.  Cumulonimbus cloud producing thunder and lightning
+3.  Presence of polar fronts
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1 and 3 only
+d)  1, 2 and 3 only
+Answer: A
+  Thunderstorms are caused by intense convection on moist hot days. A thunderstorm is a well-grown cumulonimbus cloud producing thunder and lightening.
+When the clouds extend to heights where sub-zero temperature prevails, hails are formed and they come down as hailstorm. If there is insufficient moisture, a thunderstorm can generate duststorms.
+A thunderstorm is characterised by intense updraft of rising warm air, which causes the clouds to grow bigger and rise to greater height. This causes precipitation. Later, downdraft brings down to earth the cool air and the rain.
+Tornadoes: From severe thunderstorms sometimes spiralling wind descends like a trunk of an elephant with great force, with very low pressure at the centre, causing massive destruction on its way. Such a phenomenon is called a tornado. Tornadoes generally occur in middle latitudes. The tornado over the sea is called water sprouts.
+
+78 Which of the following were some of features of the Mansabdari system introduced by
+Akbar?
+1.  The mansabdars got their salaries from the emperor and paid themselves the salaries to their troops.
+2.  Caste system prevailed in the mansabdari system.
+3.  The property of a mansabdar was confiscated after his death which made them spend lavishly during their lifetime.
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1 and 3 only
+d)  1, 2 and 3
+Answer: D
+ These proved to be some of the most important demerits of the
+Mansabdari system.
+Statement 1: This made the troops more loyal to the mansabdars than to the king. Statement 2: Discouraged unity among castes and promoted factionalism within the
+system.
+Statement 3: Dishonest mansabdars and officials used to ally together during inspection, borrowed horses from one another and showed their full quota.
+Since the property of a mansabdar was confiscated after his death, he used to spend it lavishly during his lifetime. This made the nobles luxurious and it led to their moral degradation which had an adverse effect on their efficiency.
+
+79 Other than water vapour, the largest concentration of GHGs in the atmosphere is
+a)  Methane
+b)  Ozone
+c)  Carbon dioxide
+d)  Chlorofluorocarbons
+Answer: C
+ Refer to the image or the link
+(https://en.wikipedia.org/wiki/Greenhouse_gas#Impacts_on_the_overall_greenhous
+e_effect)
+ More important than the concentration is the warming potential of a
+GHG.
+The contribution of each gas to the greenhouse effect is affected by the characteristics of that gas, its abundance, and any indirect effects it may cause.
+For example, the direct radiative effect of a mass of methane is about 72 times stronger than the same mass of carbon dioxide over a 20-year time frame but it is present in much smaller concentrations so that its total direct radiative effect is smaller, in part due to its shorter atmospheric lifetime.
+On the other hand, in addition to its direct radiative impact, methane has a large, indirect radiative effect because it contributes to ozone formation.
+
+80 The Finance Commission consists of a chairman and four other members to be appointed by the president. Who among the following is/are eligible to become a member of the Finance Commission?
+1.  A judge of high court
+2.  A person who has special knowledge of economics
+3.  An eminent citizen who has worked as a social activist
+4.  An academician who specializes in federalism and related issues
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 and 4 only
+c)  1 only
+d)  2, 3 and 4 only
+Answer: A
+ The Constitution authorises the Parliament to determine the qualifications of members of the commission and the manner in which they should be selected.
+Accordingly, the Parliament has specified the qualifications of the chairm an and members of the commission.
+The chairman should be a person having experience in public affairs and the four other members should be selected from amongst the following:
+A judge of high court or one qualified to be appointed as one.
+A person who has specialised knowledge of finance and accounts of the government.
+A person who has wide experience in financial matters and in administration.
+A person who has special knowledge of economics.
+
+81 'Hot Spots' within the earth help produce Geothermal Energy. What are these 'Hot
+Spots'?
+a)  Areas of intense pressure inside the mantle
+b)  Region in crust where hot molten rocks are trapped
+c)  Regions of high volcanism on earth's surface
+d)  Areas of intense magnetic activity within the upper mantle
+Answer: B
+ Due to geological changes, molten rocks formed in the deeper hot regions of earth's crust are pushed upward and trapped in certain regions called 'hot spots'.
+When underground water comes in contact with the hot spot, steam is generated. Sometimes hot water from that region finds outlets at the surface. Such outlets are known as hot springs.
+The steam trapped in rocks is routed through a pipe to a turbine and used to generate electricity. The cost of production would not be much, but there are very few commercially viable sites where such energy can be exploited.
+There are number of power plants based on geothermal energy operational in New
+Zealand and United States of America.
+
+82 Who was the first person to give rules to compute with zero?
+a)  Aryabhatta
+b)  Brahmagupta
+c)  Pingala
+d)  Bhaskara
+Answer: B
+  The rules governing the use of zero appeared for the first time in the Brahmasputha Siddhanta (7th century).
+This work considers not only zero, but negative numbers, and the algebraic rules for the elementary operations of arithmetic with such numbers.
+In some instances, his rules differ from the modern standard, specifically the definition of the value of zero divided by zero as zero.
+Brahmagupta established the basic mathematical rules for dealing with zero (1 + 0 =
+1; 1 - 0 = 1; and 1 x 0 = 0), although his understanding of division by zero was incomplete (he thought that 1
+
+83 Recommendations made by which of the following bodies is NOT binding on the
+Government of India?
+1.  Finance Commission of India
+2.  Central Vigilance Commission
+3.  NITI Aayog
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1 and 3 only
+d)  1, 2 and 3
+Answer: D
+ Out of these three, only the Finance Commission is a constitutional body.
+It is up to the Union government to implement its recommendations on granting money to the states.
+It is also notable that most bodies setup by the Government of India or the
+Parliament cannot give binding recommendations.
+
+84 The World Bank has recently unveiled an ambitious Climate Change Action Plan (CCP) to accelerate efforts to tackle climate change over the next five years by 2020. Which of the following is/are part of the CCP?
+1.  World Bank will fund all upcoming initiatives under UNFCCC.
+2.  World Bank will quadruple funding to make transport systems more resilient to climate change.
+3.  World Bank will focus on expanding universal access to early- warning systems.
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1 and 3 only
+d)  1, 2 and 3
+Answer: B
+ Some of the important highlights of the plan are:
+Help in developing countries add 30 GWs of renewable energy.
+World Bank to focus on expanding universal access to early-warning systems in the case of disasters to 100 million people by the year 2020.
+World Bank will develop climate-smart agriculture investment plans for at least 40 nations.
+Designing sustainable forest strategies for 50 countries and promote climate- informed fisheries management by 2020.
+World Bank to quadruple funding over next 5 years to make transport
+systems more resilient to climate change.
+It will also invest at least US 1 billion dollars to promote energy efficiency and resilient building by 2020.
+Source: http://www.thehindu.com/business/world-bank-ramps-up-help-for-poor-to-a dapt-to-climate-change/article8451657.ece
+
+85 Fungi are known to form symbiotic associations with plants known as Mycorrhizae. What is/are the benefit(s) of such association for the plant or fungi?
+1.  Resistance to root-borne pathogens
+2.  Tolerance to salinity and drought
+3.  Increase in phosphorus intake from soil
+4.  Increase in plant growth and Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  1, 3 and 4 only
+c)  3 and 4 only
+d)  1, 2, 3 and 4
+Answer: D
+ Statement 1 and 4: Mycorrhizae form a network of filaments that associate with plant roots and draw nutrients from the soil that the root system would not be able to access otherwise. This fungus-plant alliance stimulates plant growth and accelerates root development.
+Statement 2 and 3: It also makes the plant less susceptible to soil-borne pathogens and to other environmental stresses such as drought and salinity.
+In return the plant provides carbohydrates and other nutrients to the fungi. Moreover, these fungi play a major role in soil aggregation process and stimulate
+microbial activity.
+Other benefits are:
+Increase plant establishment and survival at seeding or transplanting
+Increase yields and crop quality
+Enhance flowering and fruiting
+Optimize fertilizers use, especially phosphorus
+
+86 How are the recommendations of Finance Commission implemented?
+a)  An order of the President
+b)  A legislation of the Parliament
+c)  A joint resolution of the Centre and States
+d)  They need not be implemented and take effect immediately on the publication of the recommendations by the commission.
+Answer: A
+The recommendations of the Finance Commission are implemented as under:-
+Those to be implemented by an order of the President:
+The recommendations relating to distribution of Union Taxes and Duties and
+Grants-in-aid fall in this category.
+Those to be implemented by executive orders:
+The recommendations in respect of sharing of Profit Petroleum, Debt Relief, Mode of Central Assistance, etc. are implemented by executive orders.
+
+87 The Act of 1935 was unanimously rejected by the Congress. Why?
+1.  It did not provide for convening of a Constituent Assembly for India.
+2.  There was no provision for universal adult franchise.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: C
+ The Act provided for the establishment of an All-India Federation to be based on the union of the British Indian provinces and Princely States.
+The representatives of the States to the federal legislature were to be appointed directly by the Princes who were to be used to check and counter the nationalists.
+The franchise was limited to about one-sixth of the adults.
+The Governors, appointed by the British Government, retained special powers. They could veto legislative and administrative measures
+
+88 Which of the following commodities are traded at commodity exchanges in India?
+1.  Edible oilseeds
+2.  Gold and Silver
+3.  Spices
+4.  Natural gas
+5.  Wheat
+Select the correct answer using the codes below.
+a)  2 and 5 only
+b)  2, 3 and 4 only
+c)  1 and 5 only
+d)  1, 2, 3, 4 and 5
+Answer: D
+Currently around six national organize forward trading in commodities such as Multi Commodity Exchange of India Ltd.
+The commodities traded at these exchanges comprise: (a) edible oilseeds complexes like mustard seed, soy oil etc.; (b) food grains - wheat, gram, bajra, maize etc.; (c) metals - gold, silver, copper, zinc, etc.; (d) spices - turmeric, pepper, jeera etc.; (e) fibres - cotton, raw jute, etc.; and (f) others - gur, rubber, natural gas, crude oil, etc.
+
+89 Phytoplankton supporting large standing crop (biomass) of zooplankton generally shows an inverted biomass pyramid in a pond ecosystem. Why?
+1.  Phytoplankton cells are relatively short-lived as compared to zooplanktons.
+2.  Productivity of zooplankton is greater than that of phytoplankton.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: A
+ Phytoplankton (or single-celled algae) typically maintain a similar biomass as the small animals (called zooplankton) that feed upon these microscopic plants.
+However, the phytoplankton cells are relatively short-lived, and their biomass is regenerated quickly because of the high productivity of these microorganisms. So, 1 is correct.
+In contrast, the herbivorous zooplankton are longer lived, and they are much less productive than the phytoplankton. So, 2 is wrong.
+Consequently, the productivity of the phytoplankton is much larger than that of the zooplankton, even though at any particular time their biomasses may be similar.
+In other cases of inverted pyramids, the weight of producers can be much smaller than that of consumers.
+You may read this for better understanding https://en.wikipedia.org/wiki/Ecological_pyramid
+
+90 The Union Government has approved country's first Metrino Pod project which is a personal rapid transit (PRT) network in Haryana. Consider the following about it.
+1.  It will be developed based on Public Private Partnership (PPP) model.
+2.  The National Highway Authority of India (NHAI) will implement the project.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: D
+Statement 1: It will be completely private project and as for financing, the entire investment will be made by the private company that sets up the PRT.
+Statement 2: The National Highway Authority of India (NHAI) has submitted the feasibility report for this project. The private company implementing project will recover its investment in 25 years through tickets. The fare of Metrino Pod taxi would be similar to that of Metro.
+A PRT network is made up of small automated vehicles (dubbed as pod) running at close intervals on a guideway with docking stations for passengers to get on and get off.
+The pod can accommodate up to five people. The average speed of the pods is
+60kmph Passengers have an option to hire an entire pod that will take a passenger straight to the destination, skipping the scheduled stops.
+Source: http://indiatoday.intoday.in/education/story/pod-taxis-in-india/1/638549.htm l
+
+91 Why the Karachi session (1931) of the Indian National Congress (INC) holds importance in our freedom struggle?
+1.  The Gandhi-Irwin pact was endorsed in this session.
+2.  The 'Karachi Resolution' on Fundamental Rights and the National Economic
+Programme was passed in this session. Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: C
+Statement 1: In the Karachi session, congress passed a resolution to
+dissociate itself from and disapprove the political violence in any shape. INC also reiterated the goal of Poorna Swaraj here.
+Statement 2: Some important aspects of these resolutions were: Basic civil rights of freedom of speech, Freedom of Press, Freedom of assembly, Freedom of
+association, Equality before law Elections on the basis of Universal Adult Franchise
+Free and compulsory primary education, Substantial reduction in rent and taxes etc.
+
+92 Why was the Communal Award of 1932 severely opposed by the leaders of the national freedom struggle?
+a)  The Award allotted to each minority a number of seats in the legislatures to be elected on the basis of a separate electorate.
+b)  The Award declared the Depressed Classes to be a minority community.
+c)  The Award removed reservations for persons with disability in government jobs.
+d)  Both (a) and (b)
+Answer: D
+ The British policy of 'Divide and Rule' found another expression in the announcement of the Communal Award in 1932.
+The Award allotted to each minority a number of seats in the legislatures to be elected on the basis of a separate electorate that is Muslims would be elected only by Muslims and Sikhs only by Sikhs, and so on.
+Muslims, Sikhs and Christians had already been treated as minorities. The Award declared the Depressed Classes (Scheduled Castes of today) also to be a minority community entitled to separate electorate and thus separated them from the rest of the Hindus.
+The Congress was opposed to a separate electorate for Muslims, Sikhs and
+'Christians as it encouraged the communal notion that they formed separate groups or communities having interests different from the general body of Indians.
+
+93 The Public Private Partnership Approval Committee (PPPAC) consists of
+1.  Union Minister of Finance
+2.  Union Minister for Transport and Highways
+3.  Secretary, Department of Economic Affairs
+4.  Secretary, Department of Legal Affairs
+Select the correct answer using the codes below.
+a)  1, 2 and 3 only
+b)  3 and 4 only
+c)  1, 2 and 4 only
+d)  1, 2, 3 and 4
+Answer: B
+It has been set up by the Cabinet Committee on Economic Affairs and comprises of the following:
+Secretary, Department of Economic Affairs (in the Chair) Secretary, Planning Commission
+Secretary, Department of Expenditure; Secretary, Department of Legal Affairs; and
+Secretary of the Department sponsoring a project
+http://www.pppinindia.com/approval-committees.php
+
+94 Consider the following about legislation in the Union Territories (UTs).
+1.  The UT legislature cannot make laws on matter relating to the Concurrent List.
+2.  The Parliament cannot make laws in the State List pertaining to those UTs having their own legislatures.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: D
+Statement 1: The Parliament can make laws on any subject of the
+three lists (including the State List) for the union territories.
+This power of Parliament also extends to Puducherry and Delhi, which have their own local legislatures.
+This means that, the legislative power of Parliament for the union territories on subjects of the State List remain unaffected even after establishing a local legislature for them.
+Statement 2: But, the legislative assembly of Puducherry can also make laws on any subject of the State List and the Concurrent List.
+Similarly, the legislative assembly of Delhi can make laws on any subject of the
+State List (except public order, police and land) and the Concurrent List.
+
+95 The term "Global Depository Receipt" that is often in news is related to
+a)  Ownership of shares of a foreign company
+b)  Sovereign bonds
+c)  Inter-governmental Emergency Reserves
+d)  Fund from which conditional financial assistance is granted by the World
+Bank
+Answer: A
+GDRs represent ownership of an underlying number of shares of a
+foreign company and are commonly used to invest in companies from developing or emerging markets by investors in developed markets.
+Prices of global depositary receipt are based on the values of related shares. GDRs are listed and traded in the stock exchange
+GDRs enable a company, the issuer, to access investors in capital markets outside of its home country.
+Several international banks issue GDRs, such as JPMorgan Chase, Citigroup, Deutsche Bank.
+
+96 In 1934, why did Gandhiji resign from Congress party membership?
+a)  Difference of opinion on suitable candidate for Presidency of the Indian
+National Congress (INC)
+b)  He wanted to quit active political life.
+c)  To pursue his own vision of an independent India by doing constructive work
+d)  Excessive interference of the British in the administration of INC
+Answer: C
+ Gandhiji was convinced that he was out of tune with powerful trends in the Congress.
+He felt that a large section of the intelligentsia favoured parliamentary politics with which he was in fundamental disagreement.
+Another section of the intelligentsia felt estranged from the Congress because of his emphasis on the spinning wheel as 'the second lung of the nation,' on Harijan work based on a moral and religious approach, and on other items of the constructive programme.
+Similarly, the socialist group, whose leader was Jawaharlal, was growing in influence and importance but he had fundamental differences with it. Yet the Socialists felt constrained by the weight of his personality.
+He said, "for me to dominate the Congress in spite of these fundamental differences is almost a species of violence which I must refrain from."
+Hence, in October 1934, he announced his resignation from the Congress.
+
+97 As per the extant policy, FDI up to 100 per cent is allowed in most of the sectors/activities. However, FDI is NOT allowed in which of the following sectors?
+1.  Manufacturing of cigarettes
+2.  Chit fund business
+3.  Real estate business
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1 and 3 only
+d)  1, 2 and 3
+Answer: D
+  The following sectors are prohibited for FDI: (i) lottery business; (ii) gambling and betting; (iii) business of chit fund; (iv) nidhi company; (v) trading in transferable development rights (TDRs); (vi) real estate business or construction of farmhouses; (vii) manufacturing of cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes; and (viii) activity/sector not opened to private sector investment e.g: (I) atomic energy and (II) railway operations.
+
+98 The famous Chinese pilgrim Fahien could NOT have visited which of the following historical places?
+1.  Gandhara
+2.  Kapilavastu
+3.  Kasi
+4.  Pataliputra
+Select the correct answer using the codes below.
+a)  1 and 3 only
+b)  2 and 4 only
+c)  3 only
+d)  None of the options (a), (b) or (c) is correct.
+Answer: D
+ The famous Chinese pilgrim, Fahien visited India during the reign of
+Chandragupta II.
+He came to India by the land route through Khotan, Kashgar, Gandhara and Punjab. He visited Peshawar, Mathura, Kanauj, Sravasti, Kapilavastu, Kusinagara, Pataliputra, Kasi and Bodh Gaya among other places.
+He returned by the sea route, visiting on the way Ceylon and Java. The main purpose of his visit was to see the land of the Buddha and to collect Buddhist manuscripts from India.
+He stayed in Pataliputra for three years studying Sanskrit and copying Buddhist texts.
+Fahien provides valuable information on the religious, social and economic condition of the Gupta empire.
+
+99 The Congress ministries in British provinces could not attempt an overhaul of the agrarian structure by completely eliminating the zamindari system. Why?
+1.  According to the constitutional structure of the 1935 Act, the provincial Ministries did not have enough powers to do so.
+2.  Many landlords from large areas of the country were active participants in the national movement.
+Which of the above is/are can be correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: C
+Statement 1: The Congress Ministries could also not touch the existing administrative structure, whose sanctity was guarded by the Viceroy's and Governor's powers.
+Statement 2: In large parts of the country, the smaller landlords were active participants in the national movement. This was recognized by most of the leaders of the time. Since Congress represented nearly all classes of society, it was difficult for it to implement such a radical reform.
+Finally, the agrarian structure of various parts of India had developed over the centuries and was extremely complex and complicated.. There was not even enough information about its various components - land rights, for instance. The problem of debt and money lending was also integrated with peasant production and livelihood in too complex a manner to be tackled by an easy one-shot solution.
+
+100 The historic detection of gravitational waves will open up new frontier for understanding of universe. Consider the following statements about Gravitational waves (G-waves).
+1.  G- Waves can pass through any intervening matter without being scattered significantly.
+2.  They can be observed in the merger of two black holes.
+3.  All movements of matter in space create G-waves.
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 and 3 only
+c)  3 only
+d)  2 only
+Answer: A
+ Before going through the justification, please go through the entire article at PIB Features of 19th February 2016. It explains everything about G-waves.
+http://pib.nic.in/newsite/efeatures.aspx
+Statement 1: While light from distant stars may be blocked out by interstellar dust, gravitational waves will pass through essentially unimpeded. This feature allows G- Waves to carry information about astronomical phenomena never before observed by humans. With this detection we will be able to turn the Universe into our own laboratory.
+Statement 2 and 3: Not all movements create Gravitational waves.
+A spinning disk will not radiate. This can be regarded as a consequence of the principle of conservation of angular momentum.
+An isolated non-spinning solid object moving at a constant velocity will not radiate. This can be regarded as a consequence of the principle of conservation of linear momentum.
+But, two objects orbiting each other in a planar orbit such as a planet orbiting the Sun or a binary star system or the merging of two black holes will radiate Gravitational waves!
+http://pihttp://pib.nic.in/newsite/efeatures.aspxb.nic.in/newsite/efeatures.aspx

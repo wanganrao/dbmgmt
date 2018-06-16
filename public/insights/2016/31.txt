@@ -1,0 +1,1505 @@
+
+
+1 The albedo of an object will determine its visual brightness when viewed with reflected light. Consider the following statements related to it.
+1.  Assertion (a): Mercury has higher Albedo than Earth.
+2.  Reason (R): Mercury is closer to the Sun as compared to earth.
+In the context of the above, which of these is correct?
+a)  A is correct, and R is an appropriate explanation of A.
+b)  A is correct, but R is not an appropriate explanation of A
+c)  A is correct, but R is incorrect
+d)  A is incorrect, but R is correct
+Answer: D
+ The planets are viewed by reflected sunlight and their brightness depends upon the amount of light received from the sun and their albedo.
+Mercury receives the maximum amount of sunlight, but its albedo is only 0.1 so it is not as bright as it would be with a higher albedo.
+Albedo of the Earth is 0.39 (Kaufmann) and this affects the equilibrium temperature of the Earth. So, clearly A is incorrect. The greenhouse effect, by trapping infrared radiation, can lower the albedo of the earth and cause global warming.
+Venus has the highest Albedo, of around 0.8, amongst all planets.
+
+2 It prefers areas with agricultural lands, short bushes, scattered trees in scrub forests and grassy plains. It hardly occurs in dense forests. Major populations occur in the Terai lowlands in the foothills of the Himalayas (northern India), Central and North-western India. It has been declared as vermin in Bihar. The species referred to here is?
+a)  Large Rock Rat
+b)  Giant squirrel
+c)  Nilgai
+d)  Wild Ass
+Answer: C
+Large Rock Rat is a critically endangered species.Giant squirrel is an endangered species. Both can't be declared vermins, as this status allows the
+extermination of animals (after government permission).So, (a) and (b) are clearly wrong
+The nilgai is indigenous to the Indian subcontinent and only one of the four Indian antilopes that is still abundant. It is a "least concer" category species as per IUCN.
+Bihar was given permission by the Centre to kill Nilgais and wild pigs as they destroyed standing crops.
+For more than a decade, it has been legal for farmers in Madhya Pradesh to kill a nilgai by seeking permission from district authorities by citing continual damage to their standing crops.
+http://indianexpress.com/article/india/india-news-india/to-save-crops-and-kill-nilgai- madhya-pradesh-renames-it-to-rojad-in-rulebooks/
+
+3 Which of the following increases the credibility and strength of the International monetary system?
+1.  Freely convertible global currencies
+2.  A mechanism to deal with Balance of payments (BoP) crisis
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: C
+ Statement 1: Foreign economic agents will accept a national currency only if they are convinced that the currency will maintain a stable purchasing power.
+Without this confidence, a currency will not be used as an international medium of exchange and unit of account since there is no international authority with the power to force the use of a particular currency in international transactions.
+Governments have tried to gain confidence of potential users by announcing that the national currency will be freely convertible at a fixed price into another asset, over whose value the issuing authority has no control. Hence, 1
+is correct.
+Statement 2: The international monetary system has been set up to handle some of the above issues and ensure stability in international transactions.
+If there was no agent like IMF to settle BoP crisis of nations, global trade and transaction would have received a setback in times of major crisis.
+Even normally, the confidence levels in the global transactions would have been low. Hence, 2 is correct.
+
+4 NAMA-11 (Nama-11) group of countries is often mentioned in the news in context of?
+a)  Missile Technology Control Regime
+b)  International Energy Agency
+c)  World Economic Forum
+d)  World Trade Organization
+Answer: D
+ It is a group of eleven developing countries working toward strengthening Non-agricultural market access (NAMa) in WTO.
+The group has two main objectives:
+supporting flexibilities for developing countries
+balance between NAMA and other areas under negotiation.
+Member countries of NAMA-11 are Argentina, Bolivarian Republic of Venezuela, Brazil, Egypt, India, Indonesia, Namibia, Philippines, South Africa and Tunisia.
+The Non-Agricultural Market Access (NAMa) negotiations of the World Trade Organization are based on the Doha Declaration of 2001 that calls for a reduction or elimination in tariffs, particularly on exportable goods of interest to developing countries.
+The WTO considers the NAMA negotiations important because NAMA products account for almost 90% of the world's merchandise exports.
+
+5 With reference to the order of evolution of living organisms, which one of the following is correct?
+1.  Frogs evolved before Dolphins and whales.
+2.  Salmander evolved after Kangaroos
+3.  Bats evolved before pigeons
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  1 only
+c)  2 and 3 only
+d)  1 and 3 only
+Answer: A
+ This is how broadly life evolved on earth.
+About 500 million years ago, plants and fungi colonised the land and were soon followed by arthropods and other animals.
+Amphibians first appeared around 364 million years ago, followed by early amniotes and birds around 155 million years ago (both from "reptile"-like lineages), mammals around 129 million years ago, homininae around 10 million years ago and modern humans around 250,000 years ago.
+So, one thing is very clear is that the order of evolution (increasing) is:
+Plants and fungi < Arthopods and other animals < Amphibians (frog, salamander) < Amniotes (crocodile) and birds (pigeon) < Mammals (e.g. whales, bat, dolphin) < Humans
+Based on this order, the correct answer is A.
+ However, despite the evolution of these large animals, smaller organisms similar to the types that evolved early in this process continue to be highly
+successful and dominate the Earth, with the majority of both biomass and species being prokaryotes.
+
+6 The Government of India Act of 1935 provided for the establishment of an All India Federation to be based on a Union of the provinces of British India and the Princely States. But, the federation never came into being because
+a)  Required number of princely states did not join it
+b)  The GoI Act 1935 was later annulled
+c)  Gandhiji and other national leaders were opposed to it
+d)  Second World War broke out soon after
+Answer: A
+ The proposed all India federation included 11 provinces of British India, 6 Chief Commissioners Provinces and those princely states who might accede to the federation.
+The term on which a state joined the Federation were to be laid down in the
+Instrument of Accession.
+Joining the federation was compulsory for the British Provinces and chief commissioner's provinces.
+For princely states, the accession to the Federation was voluntary. The federation could not be established until:
+A number of states, the rulers whereof were entitled to choose not less than half of the 104 seats of the council of state, and the aggregate population whereof amounted to be at least one half of the total population of all the Indian stales had acceded to the federation.
+Princely states never joined, and thus the federation never came into being. So, (a) is correct.
+The Government of India Act 1935 derived material from four key
+sources viz. Report of the Simon Commission, discussions at the Third Round Table
+Conference, the White Paper of 1933 and the reports of the Joint select committees
+This act ended the system of dyarchy introduced by GOI Act 1919 in provinces and introduced it in the centre.
+
+7 Consider the following about the history of rocket technology in India.
+1.  Assertion (a): Rockets were used in warfare in India even before they were used in
+Europe.
+2.  Reason (R): Europe supplied saltpetre to India especially to Gujarat since the 15th
+Century.
+In the context of the above, which of these is correct?
+a)  A is correct, and R is an appropriate explanation of A.
+b)  A is correct, but R is not an appropriate explanation of A
+c)  A is correct, but R is incorrect
+d)  Both A and R are incorrect
+Answer: C
+ In A History of Greek Fire and Gunpowder, James Riddick
+Partington describes the gunpowder warfare of 16th and 17th century Mughal India, and writes that "Indian war rockets were formidable weapons before such rockets were used in Europe. They had bamboo rods, a rocket-body lashed to the rod, and iron points. So, clearly A is correct.
+The first iron-cased rockets were developed in the late 18th century in the Kingdom of Mysore, adopted and improved as the Congreve rocket and used in the Napoleonic Wars.
+Gujar?t supplied Europe saltpeter for use in gunpowder warfare during the
+17th century. Bengal and M?lwa participated in saltpeter production. The Dutch, French, Portuguese, and English used Chhapra as a center of saltpeter refining. So, clearly R is incorrect.
+ The following traces the history of gunpowder and war rocket technology in India.
+Gunpowder and gunpowder weapons were transmitted to India through the Mongol invasions of India.
+The Mongols were defeated by Alauddin Khilji of the Delhi Sultanate, and some of the Mongol soldiers remained in northern India after their conversion to Islam.
+It was written in the Tarikh-i Firishta (1606-1607) that the envoy of the Mongol ruler Hulagu Khan was presented with a pyrotechnics display upon his arrival in Delhi in 1258 CE.
+As a part of an embassy to India by Timurid leader Shah Rukh (1405-1447),
+'Abd al-Razzaq mentioned naphtha-throwers mounted on elephants and a variety of pyrotechnics put on display.
+Firearms known as top-o-tufak also existed in the Vijayanagara Empire by as early as 1366 CE.
+From then on the employment of gunpowder warfare in the region was
+prevalent, with events such as the siege of Belgaum in 1473 CE by the Sultan
+Muhammad Shah Bahmani
+The use of mines and counter-mines with explosive charges of gunpowder is mentioned for the times of Akbar and Jahangir.
+By the 16th century, Indians were manufacturing a diverse variety of firearms; large guns in particular, became visible in Tanjore, Dacca, Bijapur and Murshidabad.
+
+8 Consider the following about Anekantavada.
+1.  It is a core theory and philosophy of Buddhism
+2.  It says that the World is immaterial, infinite but mortal
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: D
+It refers to the principles of pluralism and multiplicity of viewpoints, or vantage points, the notion that reality is perceived differently from diverse points of view, and that no single point of view is the complete truth, yet taken together they comprise the complete truth.
+It is one of the most important and fundamental doctrines of Jainism. Jains contrast all attempts to proclaim the sole monopoly on truth with
+andhagajany?yah, which can be illustrated through the parable of the "blind men and
+an elephant".
+
+9 The often used term "fourth estate" of a democracy refers to the
+a)  Inter-governmental organizations
+b)  Political parties
+c)  Local Bodies
+d)  Press and Media
+Answer: D
+ Journalism has long been regarded as an important force in government, so vital to the functioning of a democracy that it has been portrayed as an integral component of democracy itself. In 1841, Thomas Carlyle wrote, "Burke said there were Three Estates in Parliament; but, in the Reporters' Gallery yonder, there sat a Fourth Estate more important far than they all".
+Democracy requires informed citizens. No governing body can be expected to operate well without knowledge of the issues on which it is to rule, and rule
+by the people entails that the people should be informed.
+In a representative democracy, the role of the press is twofold: it both informs citizens and sets up a feedback loop between the government and voters.
+The press makes the actions of the government known to the public, and voters who disapprove of current trends in policy can take corrective action in the next election.
+Without the press, the feedback loop is broken and the government is no longer accountable to the people. The press is therefore of the utmost importance in a representative democracy.
+
+10 Ethylene, as a plant growth regulator, primarily plays which of the following roles?
+a)  Breaking dormancy and inducing ripening in fruits
+b)  Protecting seeds from insects and pests
+c)  Increasing the hardness of the fruit after separation from the tree
+d)  Transporting air and other vital gases from atmosphere to the plant cells
+Answer: A
+ Ethylene is formed naturally in plants in amounts sufficient to bring about regulatory effects. Role of ethylene is in:
+Breaking dormancy Induce ripening of fruits Induce abscission of leaves
+Inhibit elongation and lateral bud growth
+ Ripening is the process by which fruits attain their desirable flavour,
+quality, colour, palatable nature and other textural properties.
+Ripening is associated with change in composition i.e. conversion of starch to sugar
+On the basis of ripening behavior, fruits are classified as climacteric and non- climacteric fruits.
+Climacteric: Climacteric fruits are defined as fruits that enter 'climacteric phase' after harvest i.e. they continue to ripen. During the ripening process the fruits emit ethylene along with increased rate of respiration.
+Ripe fruits are soft and delicate and generally cannot withstand rigours of transport and repeated handling. These fruits are harvested hard and green, but fully mature and are ripened near consumption areas. Small dose of ethylene is used to induce ripening process under controlled conditions of temperature and humidity.
+
+11 Consider the following about Home Rule League movement in India.
+1.  Two Home Rule Leagues were established, one by Tilak at Poona and the other by
+Annie Besant at Madras.
+2.  The league was highly antagonistic towards Indian National Congress (INC) and its policies.
+3.  The August Declaration by Montague in 1917 led to the end of the Home Rule
+Movement
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 only
+c)  1 and 3 only
+d)  2 and 3 only
+Answer: C
+ Statement 1: While Tilak's Movement concentrated on Maharashtra, Annie Besant's Movement covered the rest of the country starting with Madras.
+The aim of the Movement was to get self-government for India within the British
+Empire. It believed freedom was the natural right of all nations
+Statement 2: The leaders of the Home Movement thought that India's resources were
+not being used for her needs.
+The two Leagues cooperated with each other as well with the Congress and the
+Muslim League in putting their demand for home rule.
+Statement 3: The Home Rule Movement had brought a new life in the national movement. There was a revival of Swadeshi. Women joined in larger numbers.
+In August 1917, Montague, the Secretary of State in England, made a declaration in the Parliament of England on British Government's policy towards future political reforms in India.
+He promised the gradual development of self-governing institutions in India. This August Declaration led to the end of the Home Rule Movement.
+
+12 Which of the following statements is INCORRECT about Lok Adalats?
+a)  They are informal courts setup by the panchayat community
+b)  Cases at pre-litigation stage or pending in a court of law can be settled by the
+Lok Adalat.
+c)  The award made by the Lok Adalats is deemed to be the decree of a civil court.
+d)  All of the above
+Answer: A
+  It is a forum where the disputes/cases pending in the court of law or at pre-litigation stage are settled/compromised amicably. So, (b) is correct.
+The Lok Adalat has been given statutory status under the Legal Services Authorities
+Act, 1987. So, (a) is incorrect.
+Under the said Act, the award made by the Lok Adalats is deemed to be the decree of a civil court and is final and binding on all parties and no appeal lies before any court against its award.
+Nature of cases to be referred to lok adalat
+Any case pending before any court
+Any dispute which has not been brought before any court and is likely to be filed before the court
+
+13 The first telegraph line in India was laid between
+a)  Calcutta and Diamond Harbour
+b)  Bombay and Kandla
+c)  Ivory Coast and Lonawala
+d)  Gandhinagar and Ahmadabad
+Answer: A
+Lord Dalhousie paved the way for the Imperial Telegraph Department in
+1850.
+A year later, British India's first telegraph line and office was opened in October
+1851,between Calcutta and Diamond Harbour along the busy shipping route on the
+Hooghly.
+By March 1854, there were 800 miles of telegraph lines between Calcutta and Agra and this was further connected to Bombay and Madras.
+Overseas telegraph communication was made possible in 1865 by running cables along the seabed.
+
+14 Consider the following statements.
+1.  The largest inland saline wetland is Chilka Lake located in Odisha.
+2.  The largest lagoon of India is Vembanad lake located in Kerala.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: D
+ Statement 1: The largest inland saline wetland is Sambhar Lake located in Rajasthan.
+It is geographically a separate land locked river basin and a major source of
+Rajasthan's salt production.
+Statement 2: Chilka is a freshwater lagoon, and India's largest. Vembanad lake is
+Kerala's largest lake.
+The Nehru Trophy Boat Race is conducted in a portion of the Vembanad lake. It is also a Ramsar site and a popular tourist destination.
+
+15 Consider the following statements.
+1.  Assertion (a): India has no privately managed seaports.
+2.  Reason (R): The Indian government does not allow private investment in seaports for strategic reasons.
+In the context of the above, which of these is correct?
+a)  A is correct, and R is an appropriate explanation of A
+b)  A is correct, but R is not an appropriate explanation of A
+c)  A is correct, but R is incorrect
+d)  Both A and R are incorrect
+Answer: D
+ Thirteen ports have been notified as major ports, all of which are government owned. Ennore port is the only corporatised major port in which the Centre holds a stake of about 68 per cent, remaining 32 per cent is held by the Chennai Port Trust
+Ennore Port, officially renamed Kamarajar Port Limited, is located on the
+Coromandel Coast and the first port in India which is a public company.
+The port has been able to attract an investment of 26,000 million by private entrepreneurs on various terminals and harbour craft.
+
+16 Consider the following about the Large Underground Xenon dark-matter experiment
+(LUX).
+1.  It aims to capture dark matter
+2.  It is situated a mile deep within earth
+3.  It is operated at night to reduce the background noise of cosmic rays.
+Select the correct answer using the codes below.
+a)  1 and 3 only
+b)  3 only
+c)  1 only
+d)  2 and 3 only
+Answer: B
+ Statement 1: It aims to directly detect (not capture) weakly interacting massive particle (WIMP) dark matter interactions with ordinary matter on Earth.
+Despite the wealth of (gravitational) evidence supporting the existence of non- baryonic dark matter in the Universe, dark matter particles in our galaxy have never been directly detected in an experiment
+Statement 2: It rests a mile deep (1.6 km) underground in a former South Dakota gold mine that is now called the Sanford Underground Research Facility.
+Statement 3: Suspended in a huge tank of purified water, a titanium tank holds frigid liquid xenon.
+The xenon's job is to light up, with a jolt of electrical charge and a faint flash of light caught by surrounding sensors, when a dark-matter particle collides with one of its atoms  and the gallons of water and mile of rock's job is to stop anything else from getting in and disturbing it.
+It is operated underground to reduce the background noise signal caused by
+high-energy cosmic rays at the Earth's surface.
+http://www.space.com/33497-dark-matter-search-comes-up-empty-lux-detector.html
+
+17 Consider the following with reference to Ancient India.
+1.  The ancient town of Takshasila was located between Indus and Jhelum.
+2.  The Pala rulers of Eastern India were patrons of Buddhism
+3.  Kushanas ruled India after Greeks
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1 only
+d)  1, 2 and 3
+Answer: D
+ Statement 1: You can find it herehttp://tinyurl.com/z6ed2m8
+Statement 2: They were followers of the Mahayana and Tantric schools of Buddhism. The Pala legacy is still reflected in Tibetan Buddhism. The Buddhist scholars from the Pala empire travelled from Bengal to other regions to propagate Buddhism
+Statement 3: The Indo-Greeks disappeared as a political entity around 10 AD
+following the invasions of the Indo-Scythians, although pockets of Greek populations probably remained for several centuries longer under the subsequent rule of the Indo-Parthians and Kushans.
+
+18 Consider the following matches of places of Archaeological Monuments with the states they are found in.
+1.  Sisupalgarh : Odisha
+2.  Bishnupur : West Bengal
+3.  Goalpara : Rajasthan
+4.  Piprahwa : Uttar Pradesh
+Select the correct answer using the codes below.
+a)  1, 2 and 4 only
+b)  1 and 3 only
+c)  2 only
+d)  1, 2, 3 and 4
+Answer: A
+ Statement 1: Sisupalgarh are a ruined fortification in Khurda District in Odisha, India. It is one of the largest and best preserved early historic fortifications in India.
+Statement 2: Bishnupur located in West Bengal is famous for its terracotta temples
+Bishnupuriya Raslilla and the balucheri sarees.
+Statement 3: Goalpara is located on the bank of the river Brahmaputra. Goalpara
+Kingdom was being ruled by Koch Rajbongshi Kings.
+Statement 4: Piprahwa is a village near Birdpur in Siddharthnagar district of Uttar Pradesh. Kalanamak, a scented and spicy variety of rice is grown in this area. Piprahwa is best known for its archaeological site
+
+19 "Spirulina", a cyanobacteria, is being popularized as a rich source of some nutrients. It is rich in
+a)  Folic Acid
+b)  Proteins
+c)  Carbohydrates
+d)  Fats
+Answer: B
+Spirulina is a type of blue-green algae that is rich in protein, vitamins, minerals, carotenoids, and antioxidants that can help protect cells from damage.
+It contains nutrients, including B complex vitamins, beta-carotene, vitamin E, manganese, zinc, copper, iron, selenium, and gamma linolenic acid (an essential fatty acid).
+For every 100g of Spirulina consumed, it contains 57g protein. It also detoxes Heavy Metals (especially Arsenic).
+It also lowers blood pressure and reduces cholesterol.
+
+20 Rabindranath Tagore renounced his knighthood in response to
+a)  Jallianwalla Bagh incident
+b)  Cruelty on Indian National Congress (INC) leaders during the Simon
+Commission pro
+c)  Council Entry movement of Swarajists
+d)  Partition of Bengal
+Answer: A
+Rabindranath was conferred Knighthood in 1915, the date of birth of 5th George in recognition of the name he has established in India and Europe and of his genius as a poet.
+Rabindranath Tagore discarded this Title of Knighthood for the inhuman act of British Government in Jallianwalabag in 1919. Gopal Krishna Gokhale refused to accept the same title on political reason.
+The text of Tagore can be found here http://timesofindia.indiatimes.com/india/Tagore-renounced-his-Knighthood-in-prote
+st-for-Jalianwalla-Bagh-mass-killing/articleshow/7967616.cms
+He was shocked at the extreme Brutality shown by the Britishers in the massacre.
+
+21 Consider the following statements about High Courts in India.
+1.  Assertion (a): The State governments have established a High Court in every State and Union territory (UT) of India.
+2.  Reason (R): The Constitution of India empowers only the State governments to create High Courts.
+In the context of the above, which of these is correct?
+a)  A is correct, and R is an appropriate explanation of A
+b)  A is correct, but R is not an appropriate explanation of A
+c)  A is correct, but R is incorrect
+d)  Both A and R are incorrect
+Answer: D
+The Centre recently in 2013 constituted three new High Courts in the northeast  Meghalaya, Manipur and Tripura. So, clearly R is wrong.
+But, every state does not have a high court. So, A is also wrong.
+You can find here the list of High courts and the act/order that established them. https://en.wikipedia.org/wiki/List_of_High_Courts_of_India#High_Courts
+
+22 Consider the following statements.
+1.  Assertion (a): Balance of Payments (BoP) is a better indicator of a nation's external economic transactions than the 'trade balance'.
+2.  Reason (R): BoP takes both capital and current accounts into consideration which includes trade balance as a component.
+In the context of the above, which of these is correct?
+a)  A is correct, and R is an appropriate explanation of A
+b)  A is correct, but R is not an appropriate explanation of A
+c)  A is correct, but R is incorrect
+d)  Both A and R are incorrect.
+Answer: A
+BoP encompasses all transactions between a country's residents and its non-residents involving goods, services and income; financial claims on and liabilities to the rest of the world; and transfers such as gifts.
+The balance of payments classifies these transactions in two accounts - the current account and the capital account.
+The current account includes transactions in goods, services, investment income and current transfers, while the capital account mainly includes transactions in financial instruments.
+
+23 The Direct to Home Service (DTH) television broadcast that you access at your home uses which of the following satellites?
+a)  Polar Satellites
+b)  Geostationary Satellite
+c)  Low Earth Orbit Satellite
+d)  Sun-synchronous satellites
+Answer: B
+ Satellite television is a system of delivering television programming using signals relayed from communication satellites which orbit around the earth at
+35,786 KM above the equator in geostationary orbits.
+Tata-Sky - a digital cable service provider is associated with DTH television broadcasting services from INSAT-4A.
+Geostationary satellites in orbits circle the Earth at the same rate as the
+Earth spins.
+The Earth actually takes 23 hours, 56 minutes, and 4.09 seconds to make one full revolution.
+So based on Kepler's Laws of Planetary Motion, this would put the satellite at approximately 35,790 km above the Earth.
+The satellites are located near the equator since at this latitude, there is a
+constant force of gravity from all directions. At other latitudes, the bulge at the centre of the Earth would pull on the satellite.
+Geosynchronous orbits allow the satellite to observe almost a full hemisphere of the Earth.
+These satellites are used to study large scale phenomenon such as hurricanes, or cyclones. These orbits are also used for communication satellites.
+The disadvantage of this type of orbit is that since these satellites are very far away, they have poor resolution. The other disadvantage is that these satellites have trouble monitoring activities near the poles.
+You can see this link to understand the difference between major orbit types https://marine.rutgers.edu/cool/education/class/paul/orbits2.html
+
+24 Knowledge of Samudragupta's military exploits comes from the
+a)  Allahabad Pillar of Ashoka which includes a eulogy extolling the deeds and virtues of the Gupta emperor.
+b)  Sangam literature that mentions the exploits of royal kingdoms of Northern
+India
+c)  Understanding of encrypted carvings at temples and sculptures constructed after every major military expedition of Samudragupta
+d)  Samudravaqta composed by the Chieftians and historians of the royal court
+during his reign
+Answer: A
+Ashoka pillars are series of pillars or columns which are spread all over the northern Indian sub- continent region. These pillars signify the Mauryan Empire.
+However, from various pillars constructed, currently only few of them exist. Allahabad or popularly known as Prayag Raj has one of the famous Ashoka Pillars.
+While it is one of the few extant pillars that carry his edicts, it is particularly notable for containing later inscriptions attributed to the Gupta emperor, Samudragupta (4th century CE).
+Also engraved on the stone are inscriptions by the Mughal emperor, Jahangir, from the 17th century
+Going by the inscription, Samudragupta exerted direct or indirect control over
+much of the Indian subcontinent stretching from kingdoms in Nepal and the Punjab in the north all the way to the Pallava kingdom at Kanchipuram in the south-east.
+
+25 Consider the following statements.
+1.  Rajasthan is the largest and Goa is smallest sized state of India
+2.  Uttar Pradesh has the largest population followed by Maharashtra
+3.  Leh is the largest sized district of India
+4.  The Union Territory (UT) with the highest literacy is Lakshadweep
+Select the correct answer using the codes below.
+a)  1, 2 and 4 only
+b)  2, 3 and 4 only
+c)  1 and 3 only
+d)  1, 2, 3 and 4
+Answer: A
+Statement 1: Rajasthan is followed by Madhya Pradesh and Maharashtra. Madhya Pradesh is larger than Maharashtra by a narrow margin of 532 sq km. Andhra Pradesh (undiv.) is at 4th and Uttar Pradesh is at 5th place.
+Statement
+2:https://en.wikipedia.org/wiki/List_of_states_and_union_territories_of_India_by_p opulation
+Statement 3: 5 largest districts are : kachchh (gujarat - 45652), Leh (Jammu & kashmir - 45110), Jaisalmer (Rajasthan - 39313), Bikaner (Rajasthan - 28466), Barmar (Rajasthan - 28393).
+Statement 4: Among the union territories size, Andaman and Nicobar Islands (8,249) ranks first whereas Lakshadweep with area of 60 square km occupies the lowest rank. 5 union territories have area less than 1,000 sq km.
+But, for literacy rates visithttps://en.wikipedia.org/wiki/Indian_union_territories_ranking_by_literacy_rate
+
+26 Simpson index, Shannon-Wiener index and Alpha diversity are related to the calculation of
+a)  Poverty alleviation in selected socio-economic groups
+b)  Banking competitiveness and portfolio of an economy
+c)  Biodiversity
+d)  Occurrence of floods and drought
+Answer: C
+Biodiversity is usually plotted as taxonomic richness of a geographic area, with some reference to a temporal scale. Ways to measure biodiversity:
+Species richness - the least sophisticated of the indices available-the total number of different organisms present. It does not take into account the proportion and distribution of each species within the local aquatic community.
+Simpson index and Shannon-Wiener
+indexhttp://ww2.mdsg.umd.edu/interactive_lessons/biofilm/diverse.htm
+There are three other indices which are used by ecologists:
+Alpha diversity refers to diversity within a particular area, community or ecosystem, and is measured by counting the number of taxa within the ecosystem (usually species)
+Beta diversity is species diversity between ecosystems; this involves comparing the number of taxa that are unique to each of the ecosystems. Gamma diversity is a measurement of the overall diversity for different ecosystems within a region.
+
+27 Consider the following statements.
+1.  A High Court judge is appointed by the Governor of the State concerned who also administers oath to the judge
+2.  A person who has acted as a High Court Judge cannot plead before any authority in
+India after retirement.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: D
+ Statement 1: President appoints a High Court judge in consultation with the Governor and Chief Justice of the High Court.
+Every person appointed to be a Judge of a High Court shall, before he enters upon his office, make and subscribe before the Governor of the State, or some person appointed in that behalf by him an oath or affirmation according to the form set out for the purpose in the Third Schedule.
+Statement 2: As per the constitution, "No person who, after commencement of this Constitution, has held office as a permanent judge of High Court shall plead or act in any court or before any authority except the Supreme Court and the other High Courts."
+So, 2 is incorrect as he can plead before other courts except the one where he held charge.
+Source: http://archive.indianexpress.com/news/petition-against-former-judges-practi sing-in-hc/961243/
+
+28 The thickness of the troposphere varies around the planet. The troposphere is thicker at the equator than at the poles. Which of the following factors contribute to it?
+1.  Higher solar insolation and strong convection currents in troposphere over the
+Equator
+2.  Rotation of the earth
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: C
+ The troposphere is thicker over the equator than the poles because the equator is warmer. The convection currents of air expand the thickness of the
+troposphere (atmosphere) at poles.
+Thus the simple reason is thermal expansion of the atmosphere at the equator and thermal contraction near the poles.
+Also, the rotation of the earth causes centrifugal force which is strongest near the equator and pushes the atmosphere to greater heights.
+ The thickness of the troposphere also varies with season. The troposphere is thicker in the summer and thinner in the winter all around the planet. At the poles in winter, the atmosphere is uniformly very cold and the troposphere cannot be distinguished from other layers.
+
+29 Consider the following statements about Swami Vivekanada.
+1.  He preached Vedantic philosophy but himself never took the vow of Sanyasa
+2.  He condemned the caste system and unnecessary emphasis on rituals and ceremonies
+3.  He participated at the Parliament of Religions held in Chicago (USa).
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  3 only
+c)  2 and 3 only
+d)  1, 2 and 3
+Answer: C
+ Statement 1: He became the most famous disciple of Shri
+Ramkrishna Paramahamsa and took the vow of Sanyasa. So, 1 is incorrect.
+Statement 2: Condeming the caste system, Vivekananda preached the message of strength and self-reliance. He asked the people to improve the lives of the poor and depressed classes. He believed that service to mankind is service to God.
+Statement 3: Swami Vivekananda participated at the Parliament of Religions held in Chicago (USa) in September 1893 and raised the prestige of India and Hinduism very high.
+He founded the Ramkrishna Mission at Belur in Howrah in 1897. It is a social
+service and charitable society. The objectives of this Mission are providing humanitarian relief and social work through the establishment of schools, colleges, hospitals and orphanages.
+
+30 What is the purpose behind awarding "India Handloom" tags by the government?
+a)  To create a brand for promoting traditional hand woven heritage of India
+b)  To allow only certain category of India handicrafts to be exported abroad
+c)  To protect selected tribal handloom mills in remote areas of the country
+d)  To reduce dependence on powerlooms in view of the employment generation
+potential of handlooms
+Answer: A
+ The "India Handloom" Brand (IHB) was launched by the Prime Minister of India on the occasion of first handloom day in August 2015 to endorse the quality of the products in terms of raw material, processing, weaving and other parameters besides social and environmental compliances for earning the trust of the customers.
+The "India Handloom" brand would be given only to high quality defect free authentic handloom products for catering to the needs of those consumers who are looking for niche handmade products. The "India Handloom" Brand is aimed at generating a special market space and increased earnings to the weavers.
+http://www.indiahandloombrand.gov.in/pages/know-your-products
+
+31 Which of the following national parks derives its name from the abundance of Semul
+(red silk cotton trees) that bloom abundantly here?
+a)  Simlipal National Park
+b)  Kaziranga National Park
+c)  Mullaperiyar National Park
+d)  Neora Valley National Park
+Answer: A
+ Simlipal National Park is also a tiger reserve situated in the Mayurbhanj district of Odisha.
+It is part of the Similipal-Kuldiha-Hadgarh Elephant Reserve popularly known as Mayurbhanj Elephant Reserve, which includes three protected areas  Similipal Tiger Reserve, Hadgarh Wildlife Sanctuary and Kuldiha Wildlife Sanctuary.
+Simlipal National Park derives its name from the abundance of semul (red silk cotton trees) that bloom abundantly here.
+Silk cotton tree is a type of native cotton tree with large red flowers. These are full of cotton-like fibrous stuff. It is for the fiber that villagers gather the semul fruit and extract the cotton substance called "kopak". This substance is used for filling economically priced pillows, quilts, sofas etc. The fruit is cooked and eaten and also pickled.
+The tree is also used for wooden work.
+Besides Simlipal is famous for gaurs (Indian bison), chausingha as well as an orchidarium. It has some beautiful waterfalls like Joranda and Barehipani. Simlipal is home to royal Bengal tigers and wild elephants.
+
+32 Why was Simon Commission (1927) opposed in India?
+a)  It was setup to review constitutional safeguards in India
+b)  There was no timeline setup for the implementation of recommendations of the Commission.
+c)  British unnecessarily dragged India in the First World War
+d)  There was no Indian member in the Commission.
+Answer: D
+ A standard question
+The Act of 1919 included a provision for its review after a lapse of ten years.
+However, the review commission was appointed by the British Government two years earlier of its schedule in 1927.
+It came to be known as Simon Commission after the name of its chairman, Sir John Simon. All its seven members were Englishmen.
+As there was no Indian member in it, the Commission faced a lot of criticism
+even before its landing in India. Almost all the political parties including the
+Congress decided to oppose the Commission.
+On 3 February 1928 when the Commission reached Bombay, a general hartal was observed all over the country.
+Everywhere it was greeted with black flags and the cries of 'Simon go back'. At Lahore, the students took out a large anti-Simon Commission demonstration on 30 October 1928 under the leadership of Lala Lajpat Rai.
+In this demonstration, Lala Lajpat Rai was seriously injured in the police lathi charge and he passed away after one month.
+
+33 The Deen dayal Antoydaya Yojana focuses on
+1.  Promotion of self-employment for poor through setting up individual micro- enterprises
+2.  Enabling urban poor form Self-Help Groups for meeting financial and social needs
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: C
+ It is an overarching scheme for uplift of urban and rural poor through enhancement of livelihood opportunities through skill development and other
+means.
+NRLM (Aajevika mission) was renamed as DAY. Under the urban component of DAY, focus will be on:
+Imparting skills for each urban poor;
+Promotion of self-employment through setting up individual micro- enterprises and group enterprises with interest subsidy for individual projects Training urban poor to meet the huge demand from urban citizens by imparting market oriented skills through City Livelihood Centres.
+Enabling urban poor form Self-Help Groups for meeting financial and social needs
+Development of vendor markets besides promotion of skills of vendors; and
+Construction of permanent shelters for urban homeless and provision of other
+essential services.
+http://aajeevika.gov.in/content/welcome-deen-dayal-antyodaya-yojana-nrlm
+
+34 Which of the following characterizes "Horse latitudes"?
+a)  High pressure zone characterized by calm winds and little precipitation
+b)  Cold frigid environment resulting in cold ocean waves and currents
+c)  An area at equator that is the meeting point of trade winds from north and south
+d)  Low pressure zone receiving high precipitation
+Answer: A
+ The horse latitudes are located at about 30 degrees north and south of the equator.
+It is common in this region of the subtropics for winds to diverge and either flow toward the poles (known as the prevailing westerlies) or toward the equator (known as the trade winds).
+These diverging winds are the result of an area of high pressure, which is characterized by calm winds, sunny skies and little or no precipitation. According to legend, the term comes from ships sailing to the New World that would often become stalled for days or even weeks when they encountered areas of high pressure and calm winds.
+Many of these ships carried horses to the Americas as part of their cargo. Unable to sail and resupply due to lack of wind, crews often ran out of drinking water. To conserve scarce water, sailors on these ships would sometimes throw the horses they were transporting overboard. Thus, the phrase 'horse latitudes' was born.
+
+35 Consider the following matches of monastery with states they are located in.
+1.  Dhankar Monastery : Assam
+2.  Rumtek Monastery : Sikkim
+3.  Tabo Monastery : Himachal Pradesh
+4.  Kye Monastery : Arunachal Pradesh
+Select the correct answer using the codes below.
+a)  1 and 4 only
+b)  2 and 3 only
+c)  1, 2 and 4 only
+d)  3 and 4 only
+Answer: B
+ Statement 1: Dhankar Gompa is located in the district of Lahaul and Spiti in India at an elevation of nearly 3,900 metres between the towns of Kaza and Tabo.
+The complex is built on a 1000-foot (300-metre) high spur overlooking the confluence of the Spiti and Pin Rivers - one of the world's most spectacular settings for a gompa.
+Statement 2: Rumtek Monastery, also called the Dharmachakra Centre, is located in Sikkim near Gangtok. It is a focal point for the sectarian tensions within the Karma Kagyu school of Tibetan Buddhism that characterize the Karmapa controversy.
+Statement 3: Tabo is located in Spiti Valley, Himachal Pradesh. It was founded in
+996 CE in the Tibetan year of the Fire Ape.
+Tabo is noted for being the oldest continuously operating Buddhist enclave in both
+India and the Himalayas.
+Statement 4: Kye Gompa is a Tibetan Buddhist monastery located on top of a hill at an altitude of about 4,000 metres above sea level, close to the Spiti River, in the Spiti Valley of Himachal Pradesh
+
+36 Dugong, a herbivorous mammal, which is depleting fast in number in India is found in
+1.  Gulf of Mannar
+2.  Gulf of Kutch
+3.  Andaman and Nicobar Islands
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1 only
+d)  1, 2 and 3
+Answer: D
+ A highly isolated breeding population exists in the Marine National Park, Gulf of Kutch, the only population remaining in western India.
+A population exists in the Gulf of Mannar Marine National Park and the Palk Strait between India and Sri Lanka, but it is seriously depleted.
+Once distributed throughout the coastal belt in Sri Lanka, the dugong number declined in last two decades due to heavy hunting by the fishermen.
+There are just 250 dugongs in the Indian seas, according to a study by
+Zoological Survey of India in 2013.
+Conservation in other places like Australia has seen their population crossing
+85,000.
+In the Gulf of Mannar, the dugong population ranged between 77 and 158, as per the survey. In Andamans, there could be 41 to 81 dugongs, and in the Gulf of Kutch, some 10 to 15, as per the ZSI director.
+http://timesofindia.indiatimes.com/home/environment/flora-fauna/Dugongs-on-brin k-of-extinction-poaching-continues-in-India/articleshow/48037397.cms
+
+37 Majhgawan located in Panna is famous for
+a)  Diamond Mines
+b)  Uranium mines
+c)  Gold mines
+d)  Silver mines
+Answer: A
+ India was the only source of diamonds in the world for over 3000 years till diamond deposits were located in Brazil and South Africa
+Madhya Pradesh has a proved and probable diamond reserve of about
+10,45,000 carats. Panna has a estimated total reserve of about 976 thousand carats.
+Today, NMDC is the only organised producer of diamond in India from
+Majhgawan mine at Panna.
+Another important mining location in MP is Balaghat district.
+Balaghat district of Madhya Pradesh is famous for its Manganese ore mines and Copper mines.
+The district is very rich in forest wealth. About 52% of the area is covered with forest.
+About 80% of the Manganese production of the country comes from Balaghat. The recent discovery of Copper deposit at Malajkhand is regarded as the largest in the country.
+
+38 Consider the following about World Conservation Monitoring Centre (WCMC).
+1.  It is an agency of the United Nations Environment Programme (UNEP).
+2.  It is responsible for assessment of biodiversity and contributes to IUCN Red List.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: C
+ Statement 1: The World Conservation Monitoring Centre was previously an independent organization jointly managed by IUCN, UNEP and WWF established in 1988, and prior to that the Centre was a part of the IUCN Secretariat.
+UNEP-WCMC has been part of UNEP since 2000 as its executive agency. Statement 2: It manages the World Database of Protected Areas in collaboration
+with the IUCN World Commission on Protected Areas.
+It also supports international conventions such as the Convention on Biological Diversity (CBD) and CITES, capacity building and management of both aspatial and spatial data on species and habitats of conservation concern.
+UNEP-WCMC has a mandate to facilitate the delivery of the global
+indicators under the CBD's 2010 Biodiversity Target on the rate of loss of
+biological diversity, and works alongside the CITES Secretariat producing a range of reports and databases.
+
+39 Which of the following factors does NOT cause disguised unemployment in India?
+a)  Low skill base of labour
+b)  Large population amidst high rates of unemployment
+c)  Poor on-field production management
+d)  Government intervention in the economy
+Answer: D
+  In India, this is more common in agriculture and low productivity sectors like small households establishments. Most industrial units in India face the issue of disguised unemployment.
+Option (a): If the labour has a low skill base, he cannot contribute much to production and addition of further labour has little or no impact on the total production.
+Option (b): Large population, low level of capital utilization and technology aggravate this situation amidst already high unemployment.
+Option (c): Finally, due to poor management of workers, some sites remain overemployed causing poor labour productivity.
+Government intervention will exist in one or the other form in an economy and instead brings down the level of unemployment, generates more jobs and cuts down unhealthy labour practices. So, (d) clearly is the answer.
+
+40 Shimla is cooler than Amritsar even though they are located on the same latitude. This is because
+a)  Amritsar is influenced by warm westerly winds in winter
+b)  Shimla is at a greater altitude than Amritsar
+c)  Shimla is located at a different longitude.
+d)  Amritsar is closer to the Sea than Shimla
+Answer: B
+ Temperatures drop the further an area is from the equator due to the curvature of the earth
+Also, locations at a higher altitude have colder temperatures. Temperature usually decreases by 1°C for every 100 metres in altitude.
+Shimla is a hill station with an average altitude of 2,206 metres (7,238 ft) above mean sea level, which is much greater than Amritsar, hence the lack of warmth.
+Option (c) is incorrect as longitude doesn't affect climate as long as other factors do not change.
+
+41 The Gulf Cooperation Council (GCC) is a/an
+a)  Intergovernmental political and economic union of Arab states
+b)  Trade cartel that regulates oil prices in international markets
+c)  Informal grouping of all West Asian nations for promoting cultural contact
+d)  Community of immigrant labour working in Gulf countries aimed at improving work conditions in the Middle-east
+Answer: A
+ : It consists of all Arab states of the Persian Gulf, except for Iraq.
+Its member states are Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the
+United Arab Emirates.
+All current member states are monarchies.
+A 2011 proposal to transform the GCC into a "Gulf Union" with tighter economic, political and military coordination has been advanced by Saudi Arabia, a move meant to counterbalance the Iranian influence in the region. Objections have been raised against the proposal by other countries.
+A common market was launched on 1 January 2008 with plans to realise a fully integrated single market. A nominal GCC single currency is also used to some extent.
+GCC is a major trade partner of India.
+
+42 These regions are hot and receive heavy rainfall throughout the year. As there is no particular dry season, the trees do not shed their leaves altogether. This description matches
+a)  Temperate Decidous forests
+b)  Tropical Evergreen Forests
+c)  Mediterranean Vegetation
+d)  Monsoon forests
+Answer: B
+ Forests found near the Equator (10° North to 10° South) in Amazon & Zaire Basin and Southeast Asia are major evergreen forests
+The thick canopies of the closely spaced trees do not allow the sunlight to penetrate inside the forest even in the day time. Thus, grass is not found in these forests.
+Maximum varieties of trees are found. Trees are tall with large trunks. Hardwood trees like rosewood, teak, sal, ebony, and mahogany are the common trees found here.
+Here the population found is very less. Due to dense forests commercial exploitation of these forests has not be possible, making them economically backward.
+
+43 Which of the following is/are member(s) of the East Asia Summit?
+1.  India
+2.  Bangladesh
+3.  Sri Lanka
+4.  China
+5.  USA
+Select the correct answer using the codes below.
+a)  3, 4 and 5 only
+b)  2, 3 and 4 only
+c)  1, 4 and 5 only
+d)  1, 2 and 3 only
+Answer: C
+ The way options have been set should lead you directly to the answer.
+It is common knowledge that USA and China both are members of the East Asia summit, and Sri Lanka is not a member. So, the only correct option can be (c).
+ Established in 2005, EAS allows the principal players in the Asia-Pacific region to discuss issues of common interest and concern in an open and transparent manner at the highest level.
+The membership of EAS consists of ten ASEAN Member States (i.e. Brunei Darussalam, Cambodia, Indonesia, Lao PDR, Malaysia, Myanmar, Singapore, Thailand, the Philippines and Vietnam), Australia, China, India, Japan, New Zealand, Republic of Korea, Russian Federation and the USA.
+EAS is an initiative of ASEAN and is based on the premise of the centrality of
+ASEAN.
+
+44 Polavaram Project is a multi-purpose irrigation project which has been accorded national project status by the central government. How will the project be helpful?
+a)  It will replace all canals in Southern India by a single channel for improved water delivery to fields
+b)  It will stop floods in Northern India.
+c)  It will lead to transfer of water from surplus Godavari basin to the water deficit Krishna basin.
+d)  It will reduce wastage of riverine lands now under Delta.
+Answer: C
+ This dam across the Godavari River is under construction located in
+West Godavari District and East Godavari District in Andhra Pradesh state and its reservoir spreads in parts of Chhattisgarh and Orissa States also.
+It is for development of Irrigation, Hydropower and drinking water facilities to East Godavari, Vishakhapatnam, West Godavari and Krishna districts of Andhra Pradesh.
+The project is being delayed as it is likely to displace over 1.88 lakh people across 222 villages.
+The project implements Godavari-Krishna link under Interlinking of rivers project. The project envisages transfer of 80TMC of surplus Godavari water to river Krishna which will be shared between AP, Karnataka and Maharashtra in proportion of 45 TMC by AP and 35 TMC by Karnataka and Maharashtra as per the decision of the GWDT award.
+
+45 Palmyra temple, Syria, was recently in news due to
+a)  Its ancient remains were dug out by an expert team from India
+b)  Being at the Centre of West Bank dispute
+c)  Damage suffered to important sites by extremist groups
+d)  UNESCO awarding it status of a World Heritage Site in 2016
+Answer: C
+ Archaeological finds of Palmyra date back to the Neolithic period, and the city was first documented in the early second millennium BC. So, (a) is
+incorrect.
+It was already a World Heritage site (UNESCO). So, (d) is incorrect.
+In 2015, Palmyra came under the control of the Islamic State of Iraq and the Levant (ISIL), which later destroyed a number of the site's buildings. The city was retaken by the Syrian Army.
+Palmyra is an ancient Semitic city in present-day Homs Governorate, Syria. Palmyra features Roman colonnades and an impressive necropolis.
+Much of Palmyra is well-preserved - the uniqueness of the city, an oasis on the Silk Road, stems from the fact that so much remains intact from Roman times, including the remains of public buildings, temples and administrative centres.
+Palmyra changed hands on a number of occasions between different empires before becoming a subject of the Roman Empire in the first century AD.
+
+46 The suitable areas for aerobic rice cultivation are those where
+a)  Rainfall is high enough to submerge the entire crop
+b)  Soil does not has any nutrients
+c)  Hard salt pans have formed in the soil pores
+d)  Rainfall is insufficient to sustain rice production
+Answer: D
+Aerobic rice cultivation is growing rice plant as irrigated crop like cultivating maize and wheat in aerobic condition, where oxygen is plenty in soil.
+Throughout the growing season, aerobic rice field is kept under unsaturated condition and field is irrigated by surface or sprinkler system to keep soil wet. Therefore, water productivity is reported to be higher in aerobic rice.
+In aerobic rice cultivation, rice is cultivated as direct sown in nonpuddle aerobic soil under supplementary irrigation and fertiliser with suitable high yielding rice varieties.
+ The suitable areas for aerobic rice cultivation includes irrigated lowlands, where rainfall is insufficient to sustain rice production, delta regions where there is delay in water release from reservoir, irrigated system of rice
+cultivation, where pumping from deep bore well has become so expensive and
+favourable upland system has access to supplementary irrigation.
+Accordingly, Tamil Nadu, Jharkhand, Chhattisgarh, parts of Bihar, Odisha, Karnataka, and eastern Uttar Pradesh are the projected area where there is uneven distribution and frequent occurrence of soil moisture limitation. Aerobic rice cultivation needs suitable rice varieties having the characteristics of both upland and high yielding lowland varieties to get good yield under the new unconventional system of cultivation.
+This system also involves mechanised way of sowing with no puddling, transplanting and no need of frequent irrigation, which reduce labour usage more than 50%, compared to irrigated rice.
+
+47 The President of India can proclaim National Emergency under which of the following conditions?
+a)  Report of rampant corruption in States
+b)  Armed invasion by another nation in India
+c)  Loss of lives due to a natural calamity
+d)  Failure to form a government at the Centre
+Answer: B
+ National emergency can be declared under A352 on the basis of external aggression or armed rebellion in the whole of India or a part of its territory. Such an emergency was declared in India in 1962 (Indo-China war), 1971 (Indo-Pakistan war), and 1975 (declared by Indira Gandhi).
+The President can declare such an emergency only on the basis of a written request by the Council of Ministers headed by the Prime Minister. Such a proclamation must be laid before both houses of Parliament, and the state of emergency expires after one month unless approved within that time by both houses sitting and voting separately.
+It is not declared in case of epidemics, natural calamities or failure to form government at the Centre which makes all options other than (b) wrong.
+
+48 A type of food poisoning called botulism is caused by a bacterium due to a toxin
+produced by it. This toxin is extensively used in
+a)  Reducing pain during surgery
+b)  Improving the milk yield of cattle
+c)  In treating mouth cancer
+d)  In removing facial wrinkles
+Answer: D
+ Botulism is a rare but potentially life-threatening bacterial illness.
+Botox is a drug made from a neurotoxin produced by the bacterium Clostridium botulinum called botulinum toxin. It is used medically to treat certain muscular conditions and cosmetically remove wrinkles by temporarily paralyzing muscles.
+Clostridium Botulinum bacteria grows on food and produces toxins that, when ingested, cause paralysis. Botulism poisoning is extremely rare, but so dangerous that each case is considered a public health emergency.
+c) botulinum is a soil bacterium. The spores can survive in most environments and are very hard to kill.
+They can survive the temperature of boiling water at sea level, thus many foods are canned with a pressurized boil that achieves even higher temperatures, sufficient to kill the spores.
+
+49 Consider the following statements about fundamental forces of nature.
+1.  Gravitational force is the strongest of all forces due to its large range.
+2.  Electromagnetic force is the weakest force due to its extremely short range of influence.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: D
+ Statement 1:Gravitation is by far the weakest of the four interactions.The weakness of gravity can easily be demonstrated by suspending a
+pin using a simple magnet (such as a refrigerator magnet).The magnet is able to hold the pin against the gravitational pull of the entire Earth
+Statement 2: Electromagnetism is the force that acts between electrically charged particles. This phenomenon includes the electrostatic force acting between charged particles at rest, and the combined effect of electric and magnetic forces acting between charged particles moving relative to each other.
+Electromagnetism is infinite-ranged like gravity, but vastly stronger, and therefore describes a number of macroscopic phenomena of everyday experience such as friction, rainbows, lightning, and all human-made devices using electric current, such as television, lasers, and computers.
+This table is useful to remember information.
+
+50 Dhanush developed by Defence Research and Development Organisation (DRDO) is a
+a)  Surface-to-surface missile and a naval variant of India's indigenously- developed Prithvi missile
+b)  Nuclear submarine recently contracted to Russia
+c)  Amphibian aircraft handed over by Japan to India as a replacement for
+Airavat
+d)  Anti-war ship located in the Southern Indian Ocean to stop piracy
+Answer: A
+ Dhanush is a variant of the surface-to-surface/ship-to-ship Prithvi III
+missile, which has been developed for the Indian Navy
+It is capable of carrying both conventional as well as nuclear warheads with pay-load capacity of 500 kg-1000 kg and can strike targets in the range of
+350 km.
+The Missile was 
+The Dhanush missile can be used as an anti-ship weapon as well as for destroying land targets depending on the range.
+The missile gives the Indian Navy the capability to strike enemy targets with
+great precision.
+
+51 The Centre has decided to develop the Doyang Lake in Nagaland as an eco-tourism spot for bird-watchers. The lake is famous as a roosting site for
+a)  Great Indian Bustard
+b)  Amur falcons
+c)  Common Myna
+d)  White Florican
+Answer: B
+ The Centre will develop the Doyang lake in Nagaland - famous for the world's longest travelling raptors Amur falcons - as an eco-tourism spot.
+Amur falcons come to Doyang every year in millions. They come to roost here during their flight from Mongolia to South Africa, making this beautiful area in India's northeast a bird-watchers' paradise.
+The lake area had come to limelight when two of three falcons, tagged with satellite device in 2013 to understand their migratory behaviour, had returned to the lake twice after taking rounds from Mongolia to South Africa via Nagaland.
+These two falcons - named Naga and Pangti - have once again returned to the lake in Nagaland this year.
+As per the Union MoEFCC minister, "The world has recognized Pangti village in Nagaland as the world's Amur Falcon capital, as more than one million birds can be seen in just 30 minutes."
+Until recently, Naga tribesmen used to hunt thousands of Amur falcons for meat. But last year, after a vigorous campaign by wildlife activists, they pledged to protect the bird and since then, not a single bird has been hunted in the area.
+
+52 Marginal Cost of funds based Lending Rate (MCLR), as announced recently by the
+RBI, has replaced the
+a)  Repo rate and CRR system
+b)  Statutory Liquidity Ratio (SLR) system
+c)  Base rate system
+d)  Basel system
+Answer: C
+The Reserve Bank of India has brought a new methodology of setting lending rate by commercial banks under the name Marginal Cost of Funds based
+Lending Rate (MCLR). It has modified the existing base rate system from April
+
+2016 onwards.
+As per the new guidelines by the RBI, banks have to prepare Marginal Cost of Funds based Lending Rate (MCLR) which will be the internal benchmark lending rates. Based upon this MCLR, interest rate for different types of customers should be fixed in accordance with their riskiness. The base rate will be now determined on the basis of the MCLR calculation.
+The MCLR should be revised monthly by considering some new factors including the repo rate and other borrowing rates. Specifically the repo rate and other borrowing rates that were not explicitly considered under the base rate system.s
+The change was brought as: Commercial banks are significantly depending upon the RBI's LAF repo to get short term funds. But they are reluctant to change their individual lending rates and deposit rates with periodic changes in repo rate.
+http://www.livemint.com/Money/Xizd6EP6QOnFTl7jtxbQSO/10-things-to-know-a bout-the-new-loan-rate.html
+
+53 Given below are species with some of the regions they are dominantly found in. (Species) (Region)
+1.  Shrew and Tapir A. Himalayan range
+2.  Indian bison
+b) Thar Deserts
+3.  Indian Gazelle
+c) Western Ghats
+The correct match for the above is?
+a)  1-A, 2-C, 3-B
+b)  1-B, 2-A, 3-C
+c)  1-B, 2-C, 3-A
+d)  1-A, 2-B, 3-C
+Answer: A
+The great Himalayan range hosts wild sheep and goats, markhor, ibex, shrew and tapir. The panda and the snow leopard are found in the upper reaches of the mountains.
+The Western Ghats and their outflanking hills in southern India constitute one of the most extensive extant strongholds of gaur (Indian Bison), in particular in the Wayanad  Nagarhole  Mudumalai  Bandipur complex. s
+Chinkara live in arid plains and hills, deserts, dry scrub and light forests. In 2001, the Indian chinkara population was estimated at 100,000 with 80,000 living in the Thar Desert.
+
+54 Auction of 'spectrum' has been frequently in news. In this context, Spectrum is related with?
+a)  Frequency range for wireless communication
+b)  Amount of data consumed on internet network
+c)  The total value of power assigned to corporations free of cost
+d)  Devices that make use of nuclear forces
+Answer: A
+ We take the example of Radio waves.
+They are a form of electromagnetic radiation which, like visible light or infrared, make up a portion of the entire spectrum. They cannot be perceived by human eyes or ears, and they are not harmful in the environment.
+The term radio spectrum typically refers to the full frequency range from 3 kHz to 300 GHz that may be used for wireless communication.
+In India, the Department of Telecommunications (DoT) conducts auctions of licenses for electromagnetic spectrum. India was among the early adopters of spectrum auctions beginning auctions in 1991.
+The government is planning a mega-spectrum auction likely in September in which a record quantity of airwaves, including those in the coveted 700 Mhz band, will be up for the sale.
+http://economictimes.indiatimes.com/news/company/corporate-trends/telenor-says- wont-participate-in-spectrum-sale-signals-india-exit/articleshow/53280180.cms
+
+55 Bisphenol-A (BPa) is a chemical used in an important industry that also adversely affects aquatic organisms. How are humans exposed to it?
+a)  Nuclear radiation
+b)  Consuming packaged food
+c)  Touching surgical instruments
+d)  Through textile mill workers
+Answer: B
+ Bisphenol A (BPa) is a chemical produced in large quantities for use primarily in the production of polycarbonate plastics and epoxy resins.
+The primary source of exposure to BPA for most people is through the diet. While air, dust, and water are other possible sources of exposure, BPA in food and beverages accounts for the majority of daily human exposure. Bisphenol A can leach into food from the protective internal epoxy resin coatings of canned foods and from consumer products such as polycarbonate tableware, food storage containers, water bottles, and baby bottles.s
+The degree to which BPA leaches from polycarbonate bottles into liquid may depend more on the temperature of the liquid or bottle, than the age of the container. BPA can also be found in breast milk.
+Evidence of endocrine-related effects in fish, aquatic invertebrates, amphibians, and reptiles has been reported at environmentally relevant exposure levels lower than those required for acute toxicity.
+
+56 Consider the following about food safety logos used in India.
+1.  Green mark logo is found on the label of pre-packaged vegetarian food product.
+2.  "India Organic" logo certifies that the food product is organically grown.
+3.  ISI mark logo should be available on the packaged drinking water.
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  3 only
+c)  2 only
+d)  1, 2 and 3 only
+Answer: D
+ India has a comprehensive system of product certifications governed by laws.
+ISI mark : For industrial product. Certifies that a product conforms to a set of standards laid by the Bureau of Indian Standards.
+FPO mark : A mandatory mark for all processed fruit products in India.
+Certifies that the product was manufactured in a hygienic 'food-safe' environment.s
+Others can be seen in the image below.
+
+57 The north-east monsoon, commonly known as winter monsoon blows from
+a)  Sea to land
+b)  Plains to mountains
+c)  Entirely from Upper air circulation
+d)  Land to Sea
+Answer: D
+The climate of India may be broadly described as tropical monsoon type.
+It is affected by two seasonal winds - the northeast monsoon and the southwest monsoon.
+The north-east monsoon, commonly known as winter monsoon blows from
+land to sea, whereas south-west monsoon, known as summer monsoon blows from sea to land after crossing the Indian Ocean, the Arabian Sea, and the Bay of Bengal.
+The south-west monsoon brings most of the rainfall during a year in the country.
+
+58 Tropic of Capricorn and Equator, both, pass through which of the following countries?
+a)  Brazil
+b)  Algeria
+c)  Egypt
+d)  Mexico
+Answer: A
+ Tropic Of Capricorn passes through following major countries : Chile , Argentina , Paraguay , Brazil , Botswana , Madagascar and Australia.
+The equator passes through 13 countries: Ecuador, Colombia, Brazil, Sao Tome & Principe, Gabon, Republic of the Congo, Democratic Republic of the Congo, Uganda, Kenya, Somalia, Maldives, Indonesia and Kiribati.
+Brazil is common to both lists.
+
+59 The 'free-rider' problem in Economics is associated with
+1.  Public goods
+2.  All private goods
+3.  Foreign Investment
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  3 only
+c)  2 and 3 only
+d)  1 only
+Answer: D
+The 'free-rider' problem means the Consumers will not voluntarily pay
+for what they can get for free and for which there is no exclusive title to the property being enjoyed.
+For e.g. if we consider a public park or measures to reduce air pollution, the benefits will be available to all irrespective of them paying for it or not.
+The consumption of such products by several individuals is not 'rivalrous' in the sense that a person can enjoy the benefits without reducing their availability to others, which results in this free-rider problem.
+In case of private goods anyone who does not pay for the good can be excluded from enjoying its benefits.
+If you do not buy a ticket, you are excluded from watching a film at a local theatre. However, in case of public goods, there is no feasible way of excluding anyone from enjoying the benefits of the good (they are non-excludable). Since non-paying users usually cannot be excluded, it becomes difficult or impossible to collect fees for the public good.
+So, clearly 1 is correct and 2 is incorrect. Statement 3 is irrelevant in this context.
+
+60 Consider the following statements.
+1.  Excise duty is a direct tax applied only on exports of selected commodities.
+2.  Securities Transaction Tax is an indirect tax levied on the maintenance of industrial and police forces by private companies.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: D
+ Statement 1: An excise or excise tax is an inland (not on imports, exports) tax on the sale, or production for sale, of specific goods or a tax on a good produced for sale, or sold, within a country or licenses for specific activities.
+Statement 2: Securities Transaction Tax (STT) is a tax payable in India on the value of securities (excluding commodities and currency) transacted through a recognized
+stock exchange. The tax is not applicable on off-market transactions or on commodity or currency transactions.
+Some other taxes that generally people do not know about are:
+Fringe Benefit Tax (FBT) is fundamentally a tax that an employer has to pay in lieu of the benefits that are given to his/her employees. It was an attempt to comprehensively levy tax on those benefits, which evaded the taxman.
+The list of benefits encompassed a wide range of privileges, services, facilities or amenities which were directly or indirectly given by an employer to current or former employees, be it something simple like telephone reimbursements, free or concessional tickets or even ..
+The Interest Tax Act, 1974 was an Act that imposes a special tax on interest accrued in specified cases. The Act applied to the whole of India, including all the States and Union Territories with no exceptions. The Act is no longer applicable with regards to chargeable interest accruing after 31 March 2000.
+
+61 Consider the following statements.
+1.  The constitution establishes Consolidated Fund of the Union as well as Consolidated
+Fund of the States.
+2.  There is no mention of Public Accounts of India and Contingency Fund in the constitution as they are established by legislation.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: A
+Statement 1: Article 266 provides for a Consolidated Fund of India in which the net proceeds of certain taxes and duties to States, all revenues received by the Government of India, all loans raised by that Government by the issue of
+treasury bills etc. would come.
+It also provides for a Consolidated Fund of the States. So, 1 is correct.
+Statement 2: The same A266 provides that "All other public moneys received by or
+on behalf of the Government of India or the Government of a State shall be credited to the public account of India or the public account of the State, as the case may be." So, clearly 2 is wrong.
+Article 267 says that "Parliament may by law establish a Contingency Fund to be entitled "the Contingency Fund of India" into which shall be paid from time to time such sums as may be determined by such law, and the said Fund shall be placed at the disposal of the President to enable advances to be made by him out of such Fund for the purposes of meeting unforeseen expenditure pending authorisation of such expenditure by Parliament by law under article 115 or article 116.
+
+62 Mosses that grow in tundra regions are
+a)  A combination of algae and fungi similar to lichens
+b)  Green plants that can manufacture their own food
+c)  A remote species of Fungi
+d)  An insectivorous plant that feeds on bio-control agents
+Answer: B
+ Algae, lichens, and mosses grow profusely on trunks, limbs, and twigs of many trees and shrubs.
+Algae are the simplest of green plants.s
+Lichens have two componentsa fungus and an alga living in association with one another to give the appearance of a single plant.
+Mosses are small green flowerless plants that typically grow in dense green clumps or mats, often in damp or shady locations.
+They are somewhat similar to algae except they have a complex structure that resembles stems and leaves.
+Because they contain chlorophyll, mosses can manufacture their own food. Mosses grow on soils, on tree trunks and branches, on rocks, and in water. Liverworts are closely related to the mosses and grow under similar conditions.
+
+63 Fishes migrate on a regular basis, on time scales ranging from daily to annual. Consider
+the following about it.
+1.  Fish usually migrate because of diet or reproductive needs.
+2.  Fishes never migrate between fresh water and salt water bodies due to their bodily limitations.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: A
+Statement 1: For e.g. Forage fish often make great migrations between their spawning, feeding and nursery grounds.
+Schools of a particular stock usually travel in a triangle between these grounds.
+One stock of herrings have their spawning ground in southern Norway, their feeding ground in Iceland, and their nursery ground in northern Norway. Construction of dams, reservoirs etc often affect the migratory routes of fishes and hence their populations.
+Statement 2: In some cases osmotic pressure limits fihs migration (concept covered in an earlier 
+Potamodromous fish migrate within fresh water only (Greek: Potamos is river and dromos is 'a running')
+Oceanodromous fish migrate within salt water only (Greek: 'Oceanos' is ocean)
+Diadromous fish travel between salt and fresh water (Greek: 'Dia' is between) Anadromous fish live in the ocean mostly, and breed in fresh water (Greek:
+'Ana' is up; The noun is "anadromy")
+Catadromous fish live in fresh water, and breed in the ocean (Greek: 'Cata' is down)
+Amphidromous fish move between fresh and salt water during their life cycle, but not to breed (Greek: 'Amphi' is both)
+
+64 Sarkaria Commission was concerned with
+a)  Electoral Reforms
+b)  Financial Sector Reforms
+c)  Centre-State relations
+d)  Centre-State relations
+Answer: C
+ Sarkaria Commission was set up in June 1983 by the central government of India.
+The Sarkaria Commission's charter was to examine the relationship and balance of power between state and central governments in the country and suggest changes within the framework of Constitution of India.
+The Commission made some significant recommendations with respect to the office of the Governor, Centre-state relations like A356 (President's rule) etc.
+Some of the recommendations can be seen here https://en.wikipedia.org/wiki/Sarkaria_Commission
+
+65 Pattachitra style of painting is
+a)  One of the oldest and most popular art forms of Odisha
+b)  Done on a canvas largely depicting mythological themes
+c)  Done using natural raw material like from the Kaitha tree
+d)  All of the above
+Answer: D
+ The name Pattachitra has evolved from the Sanskrit words patta, meaning canvas, and chitra, meaning picture.
+Pattachitra is thus a painting done on canvas, and is manifested by rich colourful application, creative motifs and designs, and portrayal of simple themes, mostly mythological in depiction.
+Some of the popular themes represented through this art form are Thia
+Badhia - depiction of the temple of Jagannath; Krishna Lila - enactment of
+Jagannath as Lord Krishna displaying his powers as a child; Dasabatara Patti
+- the ten incarnations of Lord Vishnu etc.
+Making the patta is the first thing that comes in the agenda, and the painters, also called chitrakars, go about their work in preparing a tamarind paste, which is made by soaking tamarind seeds in water for three days.
+Preparing the paints is perhaps the most important part of the creation of Pattachitra, engaging the craftsmanship of the chitrakars in using naturally available raw materials to bring about indigenous paints. The gum of the kaitha tree is the chief ingredient, and is used as a base for making different pigments.
+
+66 Consider the following statements about health indicators.
+1.  The infant mortality rate (IMR) takes into account the number of deaths of infants under one year old.
+2.  The Maternal mortality rate (MMR) is the total annual number of female deaths due to child marriage.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: A
+Statement 1: IMR is calculated per 1,000 live births. A neonatal death is defined as a death during the first 28 days of life.
+Statement 2: MMR is calculated per 100,000 live births from any cause related to or aggravated by pregnancy or its management.
+Both indicators show the status of women and child health in India.
+Refer to this article for India's status and achievements with regards to IMR and
+MMR.
+http://pib.nic.in/newsite/PrintRelease.aspx?relid=123669
+
+67 Micronutrients are required for normal growth, development and yield of crops. Which of the following is NOT a micronutrient for plants?
+a)  Zinc
+b)  Iron
+c)  Manganese
+d)  Rubidium
+Answer: D
+ There are 7 essential plant nutrient elements defined as micronutrients [boron (B), zinc (Zn), manganese (Mn), iron (Fe), copper (Cu), molybdenum (Mo), chlorine (Cl)]. They constitute in total less than 1% of the dry weight of most plants.
+Each nutrient is needed to a particular level for each crop. If any deficiency or toxicity arises in soil, phonological symptoms will be exhibited by the crops accordingly.
+For example, cotton needs Zn for the normal pollen production.
+Fe deficiency will cause chlorosis of younger leaves. Nitrogen, phosphorus and potassium deficiency symptoms will be first exhibited in the older leaves. Boron application to groundnut reduced the occurrence of ill filled pods and enhances the yield. Boron application to the coconut reduce the barren nut production.
+Pulses need molybdenum for better nodulation.
+Manganese application to gingelly increases its oil content an seed yield. Copper deficiency in citrus causes die-back disease.
+Besides the application of needed dose of N,P and K fertilizers, Zn application increased the yields in rice, maize, soybean and groundnut. s
+
+68 With reference to the United Nations, consider the following statements.
+1.  The UN Economic and Social Council (ECOSOC) is elected by the UN General
+Assembly.
+2.  Seats on the ECOSOC are based on geographical representation.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: C
+ It is one of the six principal organs of the United Nations, responsible for coordinating the economic, social and related work of 14 UN specialized agencies, their functional commissions and five regional commissions.
+Statement 1: The Council has 54 member states out of the 193 UN member states, which are elected by the United Nations General Assembly for overlapping three- year terms
+Statement 2: Seats on the Council are based on geographical representation with 18 allocated to African states, 13 to Asian states, 8 to East European states, 13 to Latin American and Caribbean states and 13 to West European and other states.
+The president is elected for a one-year term and chosen from the small or mid-sized powers represented on the ECOSOC.
+
+69 Consider the following statements.
+1.  Lok Sabha is not automatically dissolved after the end of its term and continues until new house is not constituted after elections.
+2.  The Speaker of Lok Sabha continues in office even after the dissolution of the
+House and until 'immediately before the first meeting of the House'. Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: B
+ Statement 1: Unless sooner dissolved or there is an extension of the term, there is an automatic dissolution of the Lok Sabha by efflux of time, at the end of the period of five years, even if no formal order of dissolution is issued by the
+President.
+Statement 2: But, the above does not apply to Speaker, and she continues in office until the new house is constituted and its first meeting started.
+
+70 Greenhouse Technology helps to
+a)  Grow plants under controlled climatic conditions leading to higher yield
+b)  Trap all greenhouse gases into a chamber to reduce global warming
+c)  Induce cloud seedling and rainfall
+d)  Capture and sequester electromagnetic waves to control climatic conditions outside
+Answer: A
+ About 95% of plants, either food crops or cash crops are grown in open field.
+But, in some of the temperate regions where the climatic conditions are extremely adverse and no crops can be grown.
+Greenhouse Technology is the technique of providing favourable environment condition to the plants. It is rather used to protect the plants from the adverse climatic conditions such as wind, cold, precipitation, excessive radiation, extreme temperature, insects and diseases.
+It is also of vital importance to create an ideal micro climate around the plants.
+Greenhouses are framed or inflated structures covered with transparent or translucent material large enough to grow crops under partial or fully controlled environmental conditions to get optimum growth and productivity.
+
+71 Which of the following animals are primates?
+a)  Crocodile and Tortoise
+b)  Rabbits and Hares
+c)  Lemurs and Lorises
+d)  Horses and Zebras
+Answer: C
+ Primate is any mammal of the group that includes the lemurs, lorises, tarsiers, monkeys, apes, and humans.
+The order Primates, with its 300 or more species, is the third most diverse order of mammals, after rodents (Rodentia) and bats (Chiroptera). Although there are some notable variations between some primate groups,
+they share several anatomic and functional characteristics reflective of their common ancestry.
+When compared with body weight, the primate brain is larger than that of other terrestrial mammals, and it has a fissure unique to primates (the Calcarine sulcus) that separates the first and second visual areas on each side of the brain.
+Whereas all other mammals have claws or hooves on their digits, only primates have flat nails.
+Some primates do have claws, but even among these there is a flat nail on the big toe (hallux).
+In all primates except humans, the hallux diverges from the other toes and together with them forms a pincer capable of grasping objects such as branches.
+With the exception of humans, who inhabit every continent except for Antarctica, most primates live in tropical or subtropical regions of the Americas, Africa and Asia.
+
+72 The organization "Codex India" is related to
+a)  Stealth Military operations
+b)  Food standards in India
+c)  Developing banking norms
+d)  Regulation of stock markets
+Answer: B
+The Codex Alimentarius Commission (CAC) was created FAO and the
+WHO to essentially develop food standards and guidelines on related practices.
+The main purpose of this Programme is to protect the health of consumers, ensure fair practices in the food trade, and promote coordination of all food standards work
+undertaken by international governmental and non-governmental organizations.
+"Codex India" the National Codex Contact Point (NCCP) for India, is located at Food Safety and Standards Authority of India (Ministry of Health and Family Welfare.
+It coordinates and promotes Codex activities in India in association with the National Codex Committee and facilitates India's input to the work of Codex through an established consultation process.
+
+73 The annual range of surface temperature is much greater in the North Atlantic and North
+Pacific oceans than in the southern oceans. This is due to
+a)  High cloud formation in the northern oceans
+b)  Equatorial counter-currents
+c)  Stratospheric circulation
+d)  Prevailing winds from land
+Answer: D
+ The high ranges in the northern oceans are associated with the character of the prevailing winds.
+In these parts of the oceans, cold winds blow from the continents toward the oceans and greatly reduce the winter temperatures.
+So, annual variations of up to 10°C are found sometimes in these oceans due to low winter temperatures and high summer temperatures.
+In the Atlantic Ocean, the zone of maximum range of annual temperature of over 8°C occurs around 40° N.
+From this zone, the range falls of steadily towards north and south. A minimum annual range of less than 1°C is found at 5°N and a smaller maximum range is observed in the South Atlantic Ocean at 30°S.
+In the North Pacific Ocean, the maximum annual range is higher, registering a value of about 10 °C at 400 N.
+In the case of the South Pacific Ocean, the largest annual range of about 6°C
+is found between latitudes 30° and 40 degree S.
+The greater amount of land in the northern hemisphere is clearly an important factor in these variations.
+
+74 Biodiversity is not distributed evenly on Earth. It is richest in
+a)  Arid areas
+b)  Polar regions
+c)  Tropics
+d)  Mediterranean Region
+Answer: C
+ Flora and fauna diversity depends on climate, altitude, soils and the presence of other species.
+The tropics are more biologically diverse than other climatic zones is an accepted fact.
+Reasons for this are greater solar insolation, more precipitation, conditions that are no extreme and conducive to growth of life, lack of extreme changes as in polar regions (ice ages) etc.
+As one approaches Polar Regions one generally finds fewer species.
+
+75 Consider the following statements.
+1.  Two important rivers of India originate from here.
+2.  One of these rivers flows towards north and merges with another important river flowing towards Bay of Bengal.
+3.  The other river flows towards Arabian Sea.
+The above refers to which hill?
+a)  Amarkantak
+b)  Nallamalla Hills
+c)  Maikal Hills
+d)  Rudraprayag Hills
+Answer: A
+River Narmada emerges from Amarkantak Hill of Maikal Range, and
+flows westwards towards the Arabian sea.
+Son river is largest of southern tributaries of Ganga that originates near Amarkantak in Madhya Pradesh near the source of Narmada River. Damodar originates in Chandwa on the Chota Nagpur Plateau.
+The Tapi River originates in the Betul district.
+
+76 The Indian Independence League and the Indian National Army (INa) were formed during
+a)  Civil Disobedience movement
+b)  Course of Second World War
+c)  Non-cooperation movement
+d)  Swadeshi movement
+Answer: B
+Background: In the Southeast Asia, Japan was making rapid progress in the War and had already captured Singapore. A large number of Indian soldiers,
+were captured as prisoners of war. Also, Japan and other South Asian countries were refuge for several Indians.
+Formation: These Indians under the leadership of Rashbehari Bose decided to form some kind of organisation to protect their interests and continue their struggle against the British rule.
+The Indiana held a conference at Tokyo in Mardi and decided to form the
+Indian Independence league.
+It was decided that the League would raise an Indian national army. Also, the
+Indians decided to hold another conference at Bangkok in June. It invited Subhash Chandra Bose to lead the movement.s
+The Indian prisoners of war, captured by the Japanese in Singapore were placed under an Indian army captain, Mohan Singh. He formed the first Indian National Army.
+
+77 Even if adequate measures are taken to kill the larvae and adult mosquitoes, which of
+the following diseases may remain uninfluenced?
+1.  Kalazar
+2.  Filaria
+3.  Japanese encephalitis
+4.  Chikungunya
+Select the correct answer using the codes below.
+a)  2 and 3 only
+b)  4 only
+c)  1 only
+d)  1, 2 and 4 only
+Answer: C
+Chikungunya is a viral disease transmitted to humans by infected mosquitoes. It causes fever and severe joint pain. So, (b) and (d) will not be correct.
+Japanese encephalitis is a viral disease that infects animals and humans. It is transmitted by mosquitoes and in humans causes inflammation of the membranes around the brain. So, (a) also can't be the answer.
+Filariasis (or philariasis) is a parasitic disease caused by an infection with roundworms of the Filarioidea type. These are spread by blood-feeding black flies and mosquitoes. So, (a) and (d) also can't be the answer.
+Kala-azar is a chronic and potentially fatal parasitic disease of the viscera (the internal organs, particularly the liver, spleen, bone marrow and lymph nodes) due to infection by the parasite called Leishmania donovani. So, (c) is the only answer.
+
+78 Which of the following sites from India was/were recently added to UNESCO World
+Heritage list?
+1.  Chandigarh's Capitol Complex
+2.  Khangchendzonga National Park
+3.  Nalanda Mahavihara
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1 and 3 only
+d)  1, 2 and 3
+Answer: D
+Statement 1: Chandigarh's famed Capitol Complex designed by Swiss- French architecture Le Corbusier was added in the list in the Transnational category.
+The site was added in the list as part of the UNESCO's recognition of Le
+Corbusier's architectural works in different parts of the world.
+The Capitol Complex includes the Punjab and Haryana High Court, Punjab and Haryana Secretariat and Punjab and Haryana Assembly.
+Statement 2: KNP was added in the 'mixed' heritage site category of the list i.e. it exhibits qualities of both natural and cultural significance. With this, it becomes the first 'mixed' heritage site from India to make it to the list. KNP covers 25% of Sikkim and is home to a significant number of endemic, rare and threatened plant and animal species including large number of bird and mammal species.
+Statement 3: We have already covered information about Nalanda University in past few 
+
+79 Which of the following places on earth is known for largest annual temperature range?
+a)  Verkhoyansk in Russia
+b)  Chennai in TamilNadu
+c)  Shanghai in China
+d)  Bharuch in Gujarat
+Answer: A
+ The question was very simple if only you knew that Chennai, Shanghai and Bharuch all are highly influenced by coastal winds and experience moderate temperature ranges throughout the year.
+Moreover, a place in Russia is likely to experience extreme continentality leading to high variation in temperatures.
+The only correct answer can be (a).
+The grea
+
+80 Consider the following statements.
+1.  India officially follows and publishes annual reports on Gross National Happiness
+(GNH) index.
+2.  Madhya Pradesh is the first state in India to have a 'Happiness Department'.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: B
+Statement 1: India follows basic GDP, GNP indicator approach to economic growth and development, alongwith a stress on social indicators via measurable targets such as under SHGs.
+Statement 2: The department in MP government will work as knowledge resource centre on the subject of happiness on the lines of Bhutan.
+The Happiness Department will work under a working committee headed by a chairman.
+The committee will evaluate the state's gross happiness.
+The department will prepare guidelines for coordination between different departments like women and child development, health, and sports for propagating happiness in the state.
+Source: http://www.business-standard.com/article/economy-policy/mp-cabinet-clear s-country-s-first-happiness-department-116071500485_1.html
+
+81 Consider the following statements.
+1.  "Topslip" is located in the north-east corner of the Manas National Park.
+2.  The Orang National Park containing Rhinoceros population is located on the north
+bank of the Brahmaputra River.
+3.  Dibru-Saikhowa National Park is the largest salix swamp forest in northeast India.
+4.  Nameri National Park is located in the foothills of the Eastern Himalayas.
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  3 and 4 only
+c)  2, 3 and 4 only
+d)  1 and 3 only
+Answer: C
+All these national parks have been asked by UPSC in one form or the other, hence the coverage.
+Statement 1: Indira Gandhi Wildlife Sanctuary (formerly called Anamalai Wildlife Sanctuary), widely known as Top Slip is located at some distance from Pollachi town. "Topslip" (Annamalai hills) located in the northeast corner of the park is derived from the local 19th century practice of sliding timber logs down the hills from here.
+The Park and the Sanctuary is under consideration by UNESCO as part of The
+Western Ghats World Heritage site.
+Statement 2: The Orang National Park is on the north bank of the Brahmaputra River in the Darrang and Sonitpur districts of Assam. The park has a rich flora and fauna, including great Indian one-horned rhinoceros, pigmy hog, elephants, wild buffalo and tigers. It is the only stronghold of rhinoceros on the north bank of the Brahmaputra
+Statement 3: Dibru-Saikhowa National Park is a national wildlife park in Tinsukia, Assam. It mainly consists of moist mixed semi-evergreen forests, moist mixed deciduous forests, canebrakes and grasslands. It is the largest salix swamp forest (see image below) in northeast India.
+Statement 4: Nameri National Park is in the foothills of the Eastern Himalayas in the Sonitpur District of Assam. It hosts large elephant population. It is also an ideal habitat for a host of other animals including the tiger, leopard, sambar, dhole (the Asiatic wild dog), pygmy hog, muntjac, gaur, wild boar, sloth bear, Himalayan
+black bear, capped langur and Indian giant squirrel.
+
+82 Which of the following regarding the procedure of motion of no-confidence in Council of Ministers is INCORRECT?
+a)  It needs to state the reasons for its adoption in the Lok Sabha.
+b)  The motion will not be admitted if less than 50 MPs of Lok Sabha support it.
+c)  If the Speaker grants leave to the motion, a decision on it need not be taken
+immediately.
+d)  None of the above
+Answer: A
+A motion expressing want of confidence in the Council of Ministers may be made subject to the following restrictions, namely:-
+Leave to make the motion shall be asked for by the member when called by the Speaker;
+The member asking for leave shall, give to the Secretary-General a written notice of the motion which he proposes to move.
+The motion does not need to state the reasons for its adoption in the Lok
+Sabha. So, (a) is incorrect.
+If the Speaker is of opinion that the motion is in order, he shall read the motion to the House and shall request those members who are in favour of leave being granted to rise in their places.
+If not less than fifty members rise accordingly, the Speaker shall declare that leave is granted and that the motion will be taken up on such day, not being more than ten days from the date on which the leave is asked for as he may appoint.
+If less than fifty members rise, the Speaker shall inform the member that he has not the leave of the House.
+
+83 Which of the following is/are the applications of Geotextiles?
+1.  It can improve soil strength and help in erosion control.
+2.  It has good tensile strength which allows it to be used in water structures.
+3.  It is highly biodegradable and thus used to increase humus content of the soil.
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1 and 3 only
+d)  1, 2 and 3
+Answer: A
+ It is a permeable geosynthetic comprised solely of textiles. Geotextiles are used with foundation, soil, rock, earth, or any other geotechnical
+engineering-related material as an integral part of human-made project, structure, or system.
+Statement 1 and 2: These are used in reinforcement of embankments or in constructional work.
+The fabrics in geo textiles are permeable fabrics and are used with soils having ability to separate, filter, protect or drain.
+The application areas include civil engineering, earth and road construction, dam engineering, soil sealing and in drainage systems. The fabric used in it must have good strength, durability, low moisture absorption and thickness.
+Statement 3: They are indeed textiles in the traditional sense, but consist of synthetic fibers rather than natural ones such as cotton, wool, or silk. Thus biodegradation is not a problem.
+These synthetic fibers are made into a flexible, porous fabric by standard weaving machinery or are matted together in a random, or nonwoven, manner. Some are also knit.
+They are porous to water flow across their manufactured plane and also within their plane, but to a widely varying degree.
+For more information, see the THE BASIC FUNCTION OF GEOTEXTILE
+underhttp://www.engr.utk.edu/mse/Textiles/Geotextiles.htm
+
+84 The purpose of genetically modifying Bt-cotton by inserting Bacillus thuringiensis bacterium was to make cotton
+a)  Drought-resistant
+b)  High-yielding
+c)  Pest-resistant
+d)  Long-duration crops
+Answer: C
+Bt cotton is a genetically modified organism (GMO) cotton variety, which produces an insecticide to bollworm.
+Bacillus thuringiensis (Bt) is a soil bacterium that produces insecticidal toxins. Genes from Bt can be inserted into crop plants to make them capable of producing
+an insecticidal toxin and therefore resistant to certain pests. It was inserted into Bt-cotton as well as Bt-Brinjal.
+
+85 'Privy purse' given to the princely states in post-independent India was
+a)  An award of recognition to those royal households who laid their lives in the freedom struggle
+b)  A grant given by the Government of India to the erstwhile Princes of India, which was later abolished
+c)  Protection given by the princely states to the new formed government at the
+Centre
+d)  A group of erstwhile provinces which contributed to the Central treasury
+Answer: B
+ Privy Purse in India was a payment that was made to the royal families of the former princely states of India.
+The Privy Purse was created as part of the agreements made by them to merge with Union of India in the year 1947.
+Later in 1949 the various Indian Princes merged their princely states whereby the individual independent rulers lost their ruling rights.
+Until the Constitutional Amendment of 1971 was passed the Privy Purse in
+India was sustained to the royal families.
+Through this amendment, which was implemented after an extensive legal conflict, the privileges and allowances, provided by the Central Government of India to the Indian princes, ceased to exist.
+
+86 The Ozone Cell housed in the Ministry of Environment, Forest and Climate Change
+(MoEF&CC)
+a)  Promotes awareness about ozone depletion
+b)  Engages in the implementation of the Montreal protocol
+c)  Researches as a scientific body on ozone and its depletion in the atmosphere
+d)  None of the above
+Answer: B
+Government of India has entrusted the work relating to the ozone layer protection and implementation of the Montreal Protocol on Substances the Ozone Layer to the Ministry of Environment, Forest and Climate Change (MoEF&CC).
+The Ministry has set up an Ozone Cell as a National Ozone Unit (NOU) to render necessary services for effective and timely implementation of the Montreal Protocol and its ODS phase-out program in India.
+Currently, the Ozone Cell is engaged in phase-out of production and consumption of next category of chemicals, Hydrochlorofluorocarbons (HCFCs) with an accelerated phase-out schedule as per the Montreal Protocol.
+
+87 Industry generating the maximum employment of labour in India is
+a)  Steel industry
+b)  Fertilizers industry
+c)  Cotton and Textile industry
+d)  Cement industry
+Answer: C
+ The textile industry in India traditionally, after agriculture, is the only industry that has generated huge employment for both skilled and unskilled labor in textiles.
+The textile industry continues to be the second largest employment generating sector in India. It offers direct employment to over 35 million in the country.
+In 2013-14, most of the jobs, 88% of the total, were generated by textiles and
+IT-BPO sectors.
+In fact, 62% of total jobs created in the textiles sector was contributed by the exporting units.
+Also, the Small Sector Industries (SSI) Sector in India creates largest employment opportunities for the Indian populace, next only to Agriculture.
+
+88 Reserve deposit ratio (rdr) is the proportion of the total deposits that is kept by the commercial banks as reserves. Why keeping reserves is costly for banks?
+1.  RBI charges them a fee on the total amount of reserve deposits.
+2.  They could lend these reserves for return earning investments.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: B
+Statement 1: No fee is charged by RBI, neither RBI gives a return on some of the vault cash kept by banks with RBI, for e.g. CRR earns no interest.
+RBI requires commercial banks to keep reserves in order to ensure that banks have a safe cushion of assets to draw on when account holders want to be paid.
+Statement 2: If there was reserve requirement, this money could have been invested elsewhere by the banks.
+For e.g. the Cash Reserve Ratio kept with RBI can yield handsome returns if invested in the security markets.
+
+89 Declaration of establishing National Parks can be made by
+a)  Both Central and State governments
+b)  Central government only
+c)  State and local governments only
+d)  Local governments only
+Answer: A
+ As per the Wildlife Act, Whenever the State Government finds an area ecologically important it can be constituted as a national park.
+The Act also gives this power to Central governments to declare both wildlife sanctuaries and national parks.
+But, no alteration of the boundaries of a National Park shall be made except on a resolution passed by the Legislature of the State.
+The act also has provisions for protection of the reserves, improvement and better management of wildlife, management of activities etc.
+
+90 Consider the following matches of Centre of Handicrafts with the state they are found in.
+1.  Mon : Arunachal Pradesh
+2.  Nalbari : Assam
+3.  Pasighat : Meghalaya
+4.  Tura : Nagaland
+Select the correct answer using the codes below.
+a)  1 and 4 only
+b)  2 only
+c)  2 and 3 only
+d)  1, 3 and 4 only
+Answer: B
+ Statement 1: Mon is a town and a town area committee in Mon district in Nagaland. This district is also known for Headhunting as it was practised in historic times.
+Statement 2: Nalbari is a small town in Nalbari district of Assam.
+Statement 3: Pasighat is the headquarters of East Siang district in Arunachal
+Pradesh. Pasighat is Arunachal's oldest town.
+Pasighat has been selected as one of the hundred Indian cities to be developed as a smart city under PM Narendra Modi's flagship Smart Cities Mission.
+Statement 4: Tura is a hilly town and a municipality in West Garo Hills district in
+Meghalaya. Tura is a cultural and administrative centre of the Garo tribes.
+
+91 Juba in South Sudan was recently in news because of
+a)  Discovery of large quantity of gas hydrates in its limestone shells
+b)  Evacuation of Indian citizens due to ongoing crisis in the region
+c)  Economic boom like conditions in Sudan and neighbouring nations
+d)  Prime Minister's visit announcing a major investment package for the region
+Answer: B
+The South Sudanese Civil War is a conflict in South Sudan between forces of the government and opposition forces.
+The fighting, between those who supported President Salva Kiir, a member of the Dinka tribe, and recently ousted Vice President Riek Machar, a Nuer, has sparked a major humanitarian crisis.
+The violence has rapidly escalated since it began and has spread to other parts of the country, leaving more than 1.35 million people displaced and a staggering 4.9 million people in need of humanitarian assistance (OCHa).
+A peace agreement known as the "Compromise Peace Agreement" was signed in Ethiopia under threat of United Nations sanctions for both sides in August 2015.
+Violence erupted again in July 2016 after an attack outside of where President Salva Kiir and Riek Machar, the Vice President and leader of SPLM-IO, were meeting in Juba.
+President Salva Kiir and first Vice-President Riek Machar ordered a ceasefire after days of intense violence.
+Indian Air Force evacuated Indian citizens from the country under Operation
+Sankat Mochan.
+Source: http://www.nytimes.com/2016/07/23/world/africa/south-sudan-kiir-machar- peace-civil-war.html
+
+92 The "Distribution function" is an important part of public finance. This function is carried out by the Government using?
+a)  Taxation and Public expenditure
+b)  Distributing only freebies to poor and underprivileged
+c)  Tight control of the Central Bank
+d)  Easing caste mobility
+Answer: A
+ In a mixed economy, apart from the private sector, there is the government which plays a very important role.
+Through its tax and expenditure policy, the government attempts to bring about a distribution of income that is considered 'fair' by society.
+The government affects the personal disposable income of households by making transfer payments and collecting taxes and, therefore, can alter the income distribution. This is the distribution function.
+
+93  The term "Prisoner's Dilemma" is associated with
+a)  Pharmaceutical production and patent rights
+b)  Intelligence wings of the Government operating overseas
+c)  A case under the Game Theory
+d)  Hostage situation in aircraft hijacks only
+Answer: C
+The prisoners' dilemma is the best-known game of strategy in social science. It helps us understand what governs the balance between cooperation and competition in business, in politics, and in social settings.
+In the traditional version of the game, the police have arrested two suspects and are interrogating them in separate rooms. Each can either confess, thereby implicating the other, or keep silent.
+No matter what the other suspect does, each can improve his own position by confessing. If the other confesses, then one had better do the same to avoid the especially harsh sentence that awaits a recalcitrant holdout.
+If the other keeps silent, then one can obtain the favorable treatment accorded a state's witness by confessing. Thus, confession is the dominant strategy (see game theory) for each. But when both confess, the outcome is worse for both than when both keep silent.
+The prisoners' dilemma has applications to economics and business, for e.g. two firms deciding on their pricing strategy, or two nations engaged in arms race.
+
+94 Chir, pine, deodar, spruce and silver fir are most likely to occur in
+a)  Tropical Rainforests of Kerala
+b)  Shrub forests of Western India
+c)  Deciduous forests of Central India
+d)  Temperate vegetation of Western Himalayas
+Answer: D
+ The Western Himalayan region extends from Kashmir to Kumaon. Its temperate zone is rich in forests of chir, pine, other conifers and broad-leaved
+temperate trees.
+\
+Higher up, forests of deodar, blue pine, spruce and silver fir occur.
+The alpine zone extends from the upper limit of the temperate zone of about
+4,750 metres or even higher.
+The characteristic trees of this zone are high-level silver fir, silver birch and junipers.
+The eastern Himalayan region extends from Sikkim eastwards and embraces
+Darjeeling, Kurseong and the adjacent tract.
+The temperate zone has forests of oaks, laurels, maples, rhododendrons, alder and birch. Many conifers, junipers and dwarf willows also occur here.
+
+95 Consider the following statements.
+1.  Assam shares a border with Bhutan and Bangladesh.
+2.  West Bengal shares a border with Bhutan and Nepal.
+3.  Mizoram shares a border with Bangladesh and Myanmar.
+4.  Nagaland shares border with China.
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  1 and 4 only
+c)  1, 2 and 3 only
+d)  2 and 4 only
+Answer: C
+ The map below. You should go through the map of North-east India and South-east Asia even more carefully. A lot of questions are being asked from
+this area in UPSC.
+
+96 Consider the following statements.
+1.  The Advocate General of a State in India is appointed by the President of India on the recommendation of the Governor of the concerned State.
+2.  High Courts have not been granted any power under the constitution and derive all their authority from Civil and Criminal Procedure Codes.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: D
+Statement 1: The Office of the Advocate General is a constitutional office created under Article 165 of the Constitution of India. The Governor of the State appoints a person who is qualified to be appointed as a judge of the High Court as Advocate General of the State.
+Statement 2: The High court derive their writ jurisdiction, judicial review powers, original jurisdiction etc from the constitution.
+
+97 Consider the following statements. Assertion (a): A longer column of flute produces lower notes and a shorter column produces higher notes.Reason (R): The length of a flute column determines the frequency of the sound waves produced by it.In the context of the above, which of these is correct?
+a)  A is correct, and R is an appropriate explanation of A.
+b)  A is correct, but R is not an appropriate explanation of A.
+c)  A is correct, but R is incorrect.
+d)  Both A and R are incorrect.
+Answer: A
+Sound is made up of vibrations or waves. These waves have a speed or frequency that they vibrate at. The pitch of the note changes depending on the frequency of these vibrations. The higher the frequency of the wave, the higher the pitch of the note will sound.
+In a flute, as the pressure waves move back and forth inside the column of the flute, they disturb the air at both open ends of the flute.
+The distance between both open ends determines the length of the air column. Flutists change the length of the air column by opening or closing keys. The first open end of the flute, the embouchure hole, is always in the same position, but second open end of the flute is determined by the last closed
+hole.
+So, the length of the column determines the frequency of the waves. A longer
+column produces waves with lower frequencies. A shorter column produces waves with higher frequencies. In other words, a longer column produces lower notes and a shorter column produces higher notes.
+
+98 The Nehru Report favoured
+1.  Dominion Status for India
+2.  Partition of India
+3.  A completely Centralized government in India
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  1 only
+c)  2 and 3 only
+d)  1 and 3 only
+Answer: B
+ A meeting of various Indian parties, called as an "All Parties Conference" in 1928 appointed a Committee to consider and determine the principles of the Constitution for India. It was headed by Motilal Nehru.
+The Report favoured:
+Dominion Status as the next immediate step Full responsible government at the centre. Autonomy to the provinces.
+Clear cut division of power between the centre and the provinces. A bicameral legislature at the centre.
+There will be no separate electorate.
+The draft report also defined the citizenship and fundamental rights.
+However, the leader of the Muslim League, Mohammad Ali Jinnah regarded it as detrimental to the interests of the Muslims.
+Jinnah convened an All India Conference of the Muslims where he drew up a list of
+Fourteen Points as Muslim League demand.
+
+99 Which of the following was NOT a provision under the Government of India Act of
+1858?
+a)  Indian administration came under the direct control of the Crown.
+b)  The Secretary of State was to be a member of the British cabinet.
+c)  The Governor General of India was also made the Viceroy of India.
+d)  The government accepted the right of princely states as independent political units.
+Answer: D
+Following are the main provisions of the Act:
+East India Company's rule came to an end and the Indian administration came under the direct control of the Crown.
+In England, the Court of Directors and Board of Control were abolished. In their place came the Secretary of State for India and India Council were established.
+The Secretary of State would be a member of the British cabinet. Sir Charles Wood was made the first Secretary of State for India. India Council consisting of 15 members would assist him.
+The Governor General of India was also made the Viceroy of India. The first
+Viceroy of India was Lord Canning.
+All the previous treaties were accepted and honoured by the Act
+
+100 A value of 1 for Gini Coefficient in a country implies that
+a)  There is perfectly income equality in the population.
+b)  One person owns all the income in the country.
+c)  Income is equally distributed between the rich and the poor.
+d)  There is no poverty in the economy.
+Answer: B
+  The Gini coefficient is often used to measure income inequality. Here, 0 corresponds to perfect income equality (i.e. everyone has the same income) and 1 corresponds to perfect income inequality (i.e. one person has all
+the income, while everyone else has zero income).
+The Gini coefficient can also be used to measure wealth inequality. This use requires that no one has a negative net wealth.
+The Gini coefficient is defined as a ratio of the areas on the Lorenz curve diagram. If the area between the line of perfect equality and Lorenz curve is A, and the area under the Lorenz curve is B, then the Gini coefficient is A/(A+B).

@@ -1,0 +1,191 @@
+1. Consider the following rivers
+1. Krishna
+2. Kaveri
+3. Godavari
+4. Penganga
+The correct sequence of these rivers when arranged from south to north is
+1. 2, 1,3 and 4
+2. 1,2,3 and 4
+3. 1, 3, 4 and 2
+4. 3, 2, 1 and 4
+Answer: 1
+Explanation: Check the Map of drainage system in Atlas
+
+2. Assertion (A): The frequency of floods in North Indian plains has increased in recent times.
+Reason (R): There has been reduction in the depth of river valleys due to deposition of silt.
+1. Both A and R are true and R is the correct explanation of A
+2. Both A and R are true but R is not the correct explanation of A
+3. A is true but R is false
+4. A is false but R is true
+Answer: 1
+The second statement is true as deposition reduces the depth and in rainy season the river outflows leading to flood.
+
+3. Given are the Indian Rivers and corresponding National Parks
+1. Lohit      Orang National Park
+2. Chambal     Rajaji National Park
+3. Narmada     Kanha National Park
+Select the correct match
+1. Only 2
+2. 1 and 3
+3. Only 3
+4. 1, 2 and 3
+Answer: 3
+Explanation:Rajaji National Parkspread across Dehradun, Haridwar and Pauri districts of Uttarakhand.  Kanha National Park located in the upper reaches of Narmada and The Orang National Park, located on the north bank of the Brahmaputra River in the Darrangand Sonitpur districts of Assam.
+
+4. Which of the following Rivers does not pass throughTropic of Cancer?
+1. Sabarmati
+2. Mahi
+3. Damodar
+4. Luni
+Answer: 4
+The River Luni: In Rajasthan
+
+5. Amongst the following the river that passes through most number of countries? 
+1. Zambezi
+2. River Severn
+3. Danube
+4. Missisippi
+Answer:  3
+Explanation- The Danube River touches or passes through ten countries, more than any other river. The Danube begins in Germany and encounters Austria, Slovakia, Hungary, Croatia, Serbia, Romania, Bulgaria, Moldova, and Ukraine. It eventually flows into the Black Sea.
+
+6. Consider the following statements
+1. The West flowing rivers contains very less amounts of Silt and due to its fast speed it cannot make delta.
+2. Rivers arriving into a sea with high tidal range will not form delta because the changes in the tidal area will wash away the sediments brought by the river.
+3. Western rivers flows in the fault region created by the mountains Vindhya and Satpura which are rocky and devoid of any alluvial material. Hence no Delta formation
+Select the correct statement/s
+1. Only 1
+2. 1 and 2
+3. 1, 2 and 3
+4. Only 2
+Answer: 3
+Self Explanatory
+
+7. Imagine you are travelling from New Delhi towards North. If you go vertically upwards towards Jammu and Kashmir, select the correct sequence in which you will cross these rivers
+1. Ravi-Beas-Ravi-Satluj-Jhelum
+2. Satluj-Beas-Ravi-Chenab-Indus
+3. Satluj-Beas-Ravi-Chenab-Jhelum
+4. Ravi-Beas-Ravi-Satluj-Indus
+Answer:  2
+Explanation: If one travels vertically upward, he/she will not cross Jhelum as it flows NorthWest of J&K.  Other rivers will come in the sequence as mentioned in option 2.
+
+8. Suppose you are travelling along the Eastern Ghat on Eastern Coast of India from Northern to Southern region, the sequence in which you will cross these rivers
+1. Krishna-Godavari-Mahanadi-Kaveri
+2. Mahanadi-Krishna -Godavari-Kaveri
+3. Krishna-Godavari-Mahanadi-Kaveri
+4. Mahanadi-Godavari-Krishna-Kaveri
+Answer: 4
+Explanation: Check the Map of India
+
+9. Consider the statements w.r.t Ganges Drainage System and Peninsular Drainage System
+1. Peninsular rivers bear the exception of flowing through Rift valleys,like Narmada, while Ganges Rivers have no such feature.
+2. All Peninsular rivers are characterized by fixed course, absence of meanders and non-perennial flow of water while Ganges rivers are perennial, having meanders and have non-fixed courses.
+Select the correct statement/s
+1. Only 1
+2. Only 2
+3. Both
+4. None
+Answer: 4
+Explanation: Damodar River, a river Ganges River System occupies the eastern margins of the Chotanagpur Plateau where it flows through a rift valley. So, first statement is wrong.  Peninsular rivers are characterized by fixed course, absence of meanders and non-perennial flow of water. The Narmada and Tapi which flow through the rift valley are, however, exceptions. Hence none of the statements are correct.
+
+10. Consider the following Dams
+1. Barna Dam    Chambal River 
+2. Pawna Dam    Maval River
+3. Maithoon Dam   Barakar River
+4. Gandhi Sagar Dam   Chambal River
+Select the correct options
+1. 1, 2 and 3
+2. 3 and 4
+3. 1, 2, 3 and 4
+4. 1, 3 and 4
+Answer: 2
+Explanation:
+Barna Dam: Barna River in MP
+Pawna Dam: Maval River in Maharashtra
+Maithoon Dam: Barakar River in Jharkhand
+Gandhi Sagar Dam: Chambal River in MP
+
+11. Recently US Food Administration has banned Trans Fats. Consider the following statements w.r.t it-
+1. Unsaturated and Saturated Fatty Acids having double bond (in trans position) that are produced artificially.
+2. Trans fats enhances the risk of coronary heart disease by decreasing the level of Low Density Lipoprotein (LDL) and increasing the level of High Density Lipoprotein (HDL)
+Select the correct code
+1. Only 1
+2. Only 2
+3. Both
+4. None
+Answer:  4
+Explanation- Trans fats are Partially Hydrogenated Oils (PHOs). These fats are unsaturated hydrocarbons. Unsaturated hydrocarbons have double or triple bonds. The name trans signifies the arrangements of double bond in trans position.  Since Trans Fats are having double bond, they cannot be saturated fatty acids. Hence first statement is wrong.  LDL is a Bad Cholesterol and Trans Fats raises its level leading to coronary heart disease.
+Therefore 2nd statement is also wrong.
+
+12. Recent report by NASA presents a horrible picture of Ground Water Depletion and Indian region appears to be severely affected. Consider the statements w.r.t Ground Water
+1. The concentration of living organism like bacteria and viruses are high in ground water.
+2. The motion of ground water is constant and always run downward due to effect of gravity.
+Select the correct code
+1. Only 1
+2. Only 2
+3. Both
+4. None
+Answer:  4
+Explanation- Ground water is microbiologically very pure. The motion is constant but along with downward run due to gravity, ground water can also move upward due to pressure difference (flow from higher pressure area to lower pressure areas)
+
+13. Which of the following are forms of Martial Arts in India?
+1. Pari Khanda
+2. Kalarippayattu
+3. Silambam
+Select the correct code
+1. Only 1
+2. 1 and 2
+3. 1, 2 and 3
+4. Only 2
+Answer:  3
+Explanation- Kalarippayattu is a famous Indian martial art from land of attraction Kerala and one of the oldest fighting systems in existence. It is practiced in most of the part of south India. Silambam is a weapon-based Indian martial art from Tamil Nadu. Every state has its own style of martial arts. A wide variety of weapons are used in silamban, some of which are not found anywhere else in the world. Silambam art also used animal movements of snake, tiger, eagle forms and foot work patterns is play a key role here as well. Another part of Silambam is Kuttu varisai, it is the unarmed kind of martial art.  Pari-khanda is a style of sword and shield fighting from Bihar. This art is created by the rajputs. Pari-khanda steps and techniques are also used in Chau dance.
+
+14. It is an ancient form of puppetry that tells stories of the Santhal way of life and migration. It is? 
+1. Chadar Badar
+2. Suta Kandhei
+3. Baunsa Rani
+4. Sanchar
+Answer:  1
+Recently government is promoting the dying art forms of ancient and medieval India. Do prepare a list of them more specifically which are in news.
+
+15. Amongst the following, Migratory Birds coming to India in summer season are
+1. Eurasian Golden Oriole
+2. Wood Sandpiper
+3. Cuckoos
+4. Greater Flamingo
+Select the correct code
+1. 1, 2 and 3
+2. 2 and 3
+3. 1 and 3
+4. 1, 2, 3 and 4
+Answer: 3
+Explanation: Many articles can be found in newspapers regarding migratory birds coming to
+India.  They are indicators of climate change
+Migratory Birds Coming to India in Winter Season
+# Siberian Cranes
+# Greater Flamingo
+# Ruff
+# Black winged Stilt
+# Common Teal
+# Common Greenshank
+# Northern Pintail
+# Yellow Wagtail
+# White Wagtail
+# Northern Shoveler
+# Rosy Pelican
+# Gadwall
+# Wood Sandpiper
+# Spotted Sandpiper
+# Eurasian Wigeon
+# Black tailed Godwit
+# Spotted Redshank
+# Starling
+# Bluethroat
+# Long billed Pipit
+Migratory Birds Coming to India in Summer Season
+# Asian Koel
+# Black crowned Night Heron
+# Eurasian Golden Oriole
+# Comb Duck
+# Blue-cheeked Bee Eater
+# Blue-tailed Bee-Eater
+# Cuckoos

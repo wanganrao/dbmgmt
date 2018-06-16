@@ -1,0 +1,106 @@
+1. Which of the following should be your first choice for the treatment of 'Hyperacidity'?
+1. Antacids
+2. Antihistamines
+3. Histamines
+4. Analgesics
+Answer:  2
+Histamines produce hyperacidity. So, antihistamines should be used. NCERT
+
+2. If you visit a water treatment plant in your area, you will witness the processes followed in water purification. Select the correct order in which water purification works-
+1. Flocculation
+2. Coagulation
+3. Sedimentation
+4. Disinfection
+Correct order-
+1. 1-2-3-4
+2. 2-1-3-4
+3. 2-3-4-1
+4. 1-3-4-2
+Answer:  2
+Coagulation-Flocculation-Sedimentation-Disinfection- Read the basics here
+https://en.wikipedia.org/wiki/Water_purification#Coagulation_and_flocculation
+
+3. Our food contains number of additives like sweeteners, antioxidants, flavours, fat emulsifiers and preservatives. Which of the following also add nutritive value to our food?
+1. Antioxidants
+2. Preservatives
+3. Sweeteners
+4. Fat emulsifiers
+Select the correct code-
+1. 1, 3, and 4
+2. 1, 2, 3 and 4
+3. 2, 3, and 4
+4. None
+Answer:  4
+Explanation- They do not have nutritive values.
+
+4. Artificial sweeteners like Aspartame or Saccharines are 100 times sweeter than Sugar despite it is recommended for a Diabetic person, why?
+1. Artificial sweeteners have less effect on insulin secretion
+2. Artificial sweeteners do not add to calorie intake
+3. Artificial sweeteners easily digested and excreted while sugar is energy rich and affect digestive system
+Select the correct code-
+1. Only 1
+2. 2 and 3
+3. Only 2
+4. All
+Answer:  3
+Explanation- Diabetic people need to control their calorie intake and hence artificial sweeteners like Aspartame or Saccharine is vital for them. 
+
+5. Consider the following statements regarding Vitamins
+1. If you are eating eggs regularly, the concentration of Vitamin B-2 and Vitamin D is increasing.
+2. Intake of excess green leafy vegetables will enhance the concentration of Vitamin C, K and B-1
+Select the correct code
+1. Only 1
+2. Only 2
+3. Both
+4. None
+Answer:  3
+Explanation- Direct, NCERT, prepare about it from the table given in NCERT's
+
+6. Which feature of some species of blue-green algae helps to promote then as biofertilizers? 
+1. They induce the roots of the crop plants to absorb the soil nitrates in larger quantities
+2. They have the mechanism to convert atmospheric nitrogen into a form that crop plants can absorb readily.
+3. They convert atmospheric methane into ammonia which the crop plants can absorb readily
+4. They induce the crop plants to produce enzymes which help convert atmospheric nitrogen to nitrates.
+Answer:  2
+Cyanobacteria, also known as blue-green algae are a phylum of bacteria that obtain their energy through photosynthesis. They are significant component of the marine nitrogen cycle and an important primary producer in many areas of the ocean. During crop growth cycle, the blue-green algae grow, multiply, fix atmospheric nitrogen and make it available to the crop by way of excretion and autolysis. 
+
+7. Excessive release of the pollutant carbon monoxide (CO) into the sir may produce a condition in which oxygen supply in the human body decreases. Why?
+1. The inhaled CO has much higher affinity for haemoglobin as compared to oxygen
+2. The inhaled CO may be converted into CO2 that causes poisoning
+3. The inhaled CO destroys the chemical structure of haemoglobin
+4. The inhaled CO primarily affects the neurological and respiratory system in the brain.
+Answer:  1
+Explanation- Haemoglobin contains long polymer like structure where metal carbonyls are bonded in cage like structure. The metals in the carbonyls are iron and cobalt. Carbon monoxide has the physical property to replace these metals from metal carbonyls. If CO enters our body the first thing they will do is to replace Fe or Co and form bond with carbonyls. This is serious as Carbon-monoxide is poisonous. Oxygen cannot replace the metals in haemoglobin but carbon monoxide can easily do so.
+
+8. Ice is less dense than water is a well know fact. What if it would have been denser than water?
+1. Lakes and oceans would freeze from the bottom up, almost certainly preventing the kind of chemistry that makes life possible.
+2. Increasing pressure would raise the freezing point of water. The deep oceans would be permanently frozen.
+3. A very large part of the planets Oxygen is produced by plankton in the ocean and this could be severely disrupted.
+Select the correct code-
+1. 1 and 2
+2. 2 and 3
+3. 1, 2 and 3
+4. Only 2
+Answer:  3
+Explanation- All of the above is correct. When the density of ice will be more (hypothetical) above changes are obvious. With more dense ice, it will not float above the water and bottom up freezing will happen. With more pressure deep down the ocean and further increase due to depth, will make deep oceans to freeze forever. The dense ice will not allow diffusion to take place and hence availability of oxygen will be less, as it is a gas and need gaseous media to diffuse. Hence, plankton's life will be at threat.
+
+9. What are the components of Photochemical Smog?
+1. Nitric oxide, Ozone and PAN (peroxyacetyl nitrate)
+2. Nitric oxide, Ozone, aldehyde and PAN (peroxyacetyl nitrate)
+3. Nitric oxide, Ozone, aldehyde, acrolein and PAN (peroxyacetyl nitrate)
+4. Nitric oxide, Ozone, formaldehyde, acrolein and PAN (peroxyacetyl nitrate)
+Answer:  4
+Explanation- Direct Question-NCERT class 11th
+
+10. Which among the following can be used as bleaching agents?
+1. Mix of liquefied carbon dioxide and a detergent
+2. Chloroethene
+3. Hydrogen peroxide
+4. Sodium hypochlorite
+Select the correct code-
+1. 1, 2, 3 and 4
+2. 2, 3 and 4
+3. 1, 3 and 4
+4. 3 and 4
+Answer:  1
+Explanation- All of them can be used. But now adays chloroethene is not used because of contamination of chloro compounds. Sodium hypochlorite is the most common bleaching agent. 

@@ -1,0 +1,822 @@
+GS(Prelims)TEST ID-1563
+
+
+Q 1.A
+
+
+Tax buoyancy is the measure for how tax revenues vary with changes in GDP. Hence  1st statement is correct.
+A buoyancy of one would imply that an extra percent of GDP would increase tax revenue by one percent, thus leaving the tax to GDP ra  o unchanged. Tax buoyancy exceeding one, however would increase tax revenue by more than GDP and poten  ally lead to reduc  on in the deﬁcit ra  o. Hence 2nd statement is incorrect.
+Tax evasion and tax collec  on lags are administra  ve factors which reduces Tax buoyancy,
+Hence 3rd statement is incorrect.
+A uniform taxa  on system such as GST will be more buoyant than Value added tax (VAT).
+Hence 4th statement is incorrect and op  on (a) is the correct answer.
+
+Q 2.C
+
+
+The Sarasva   River  is one of the main Rigvedic rivers men  oned in the Rig Veda and later Vedic and post-Vedic texts. It plays an important role in Hinduism, since Vedic Sanskrit and the ﬁrst part of the Rig Veda are regarded to have originated when the Vedic people lived on its banks, 10,000 years ago. The goddess Sarasva    was originally a personiﬁca  on of this river, but later developed an independent iden  ty. Hence, 1st statement is correct.
+The Nadistu hymn in the Rigveda men  ons the Sarasva    between the Yamuna in the east and the Sutlej in the west.
+Satellite images in possession of the ISRO and ONGC have conﬁrmed that the major course of a river ran through the present day Ghaggar River. Hence, 3rd statement is correct.
+
+Q 3.B
+
+
+SUMMER  -  When the Sun is directly over the Tropic of Cancer and the North Temperate
+Zone experiences summer.
+WINTER     -    When the Sun is at the Tropic of Capricorn and the North Temperate Zone experiences winter.
+SPRING    -   When the Sun is directly overhead the Equator.
+AUTUMN  -    When the Sun returns to the Equator, the North Temperate Zone experiences autumn.
+Hence op  on (b) is the correct answer.
+
+Q 4.B
+
+
+Fiscal consolida  on is a policy intended to reduce deﬁcits and the accumula  on of debt, according  to  the  Organisa  on  for  Economic  Co-opera  on  and  Development.  The  term typically refers to a government economic policy.
+In Indian context, It is be  er to achieve ﬁscal consolida  on partly through a higher tax-GDP ra  o than  merely  through  reduc  on in the expenditure  to GDP  ra  o,  in view of  large unmet development needs.
+A  er reaching a peak of 11.9 per cent in 2007-08, the tax-GDP ra  o had declined to 9.6 per cent in 2009-10 and was placed at 9.9 per cent in 2011-12. Therefore, raising the tax-GDP ra  o to above the 11 per cent level is cri  cal for sustaining the process of ﬁscal consolida  on in the long run. Of course, it is much be  er to achieve a higher tax-GDP ra  o by broadening the  base  which  is  taxed  rather  than  increasing  marginal  tax  rates  signiﬁcantly--higher and higher tax rates impinge more and more on incen  ves to undertake taxable ac  vity, while encouraging tax evasion.
+ï»¿Hence, only 2nd statement is correct.
+
+Q 5.D
+
+
+Lok  Adalat  is  a  forum  where  the  disputes/cases  pending  in  the  court  of  law  or  at pre-li  ga  on stage are se  led/compromised amicably.
+The Lok Adalat has been given statutory status under the Legal Services Authori  es Act,
+1987.
+Under the said Act, the award made by the Lok Adalats is deemed to be the decree of a civil court and is ﬁnal and binding on all par  es and no appeal lies before any court against its award.
+Lok  Adalat  has  the  jurisdicon  to  se  le,  by  way  of  eﬀec  ng  compromise  between  the par  es,  any  ma  er  which  may  be  pending  before  any  court,  as  well  as  ma  ers  at pre-li  ga  ve stage i.e. disputes which have not yet been formally ins  tuted in any Court of Law. Such ma  ers may be civil or criminal in nature, but any ma  er rela  ng to an oﬀence not compoundable under any law cannot be decided by the Lok Adalat even if the par  es involved  therein  agree  to  se  le  the  same.  Lok  adalats  can  take  cognizance  of  ma  ers involving not only those persons who are en  tled to avail free legal services but of all other persons also, be they women, men, or children and even ins  tuons. The Lok Adalat is presided over by a sing or re  red judicial oﬃcer or other person of respect and legal knowledge as the chairman, with two other members, usually a lawyer and a social worker.
+Related info
+The Criminal Procedure Code discusses three kinds of  oﬀences as follows: Bailable and non-bailable oﬀences; Bailable oﬀences are those in which the accused has the right to get bail. Non-bailable oﬀences, on the other hand, are those in which the decision to grant bail or not rests with the court. Bailable oﬀences are less serious in nature than non-bailable ones.
+Cognizable and non-cognizable oﬀences: Cognizable oﬀences are those in which the police oﬃcer can arrest an oﬀender without a warrant. In non-cognizable oﬀences, the police oﬃcer  cannot  arrest  without  a  warrant.  Cognizable  oﬀences  are  more  serious  than non-cognizable ones.
+Compoundable and non-compoundable oﬀences: Compoundable oﬀences are those which can be compromised by the par  es to the dispute. The permission of the court is not necessary. When an oﬀence is compounded, the party, who has been aggrieved by the oﬀence, is compensated for his grievance. Suppose your car accidentally hits a person on the road and he is injured. Though you may be guilty of rash and negligent driving, you can se  le the ma  er by paying some money to the vic  m.
+Note that only the aggrieved party or the vic  m may compound an oﬀence. Not even the public prosecutor has the power to compound an oﬀence.
+
+Q 6.B
+
+
+The Na  onal Rural Drinking  Water Programme (NRDWP) is a ﬂagship programme of the Government  and  a  component  of  the  Bharat  Nirmanwith   the  objecve  of  ensuring provision of safe and adequate drinking water supply through handpumps, piped water supply etc. to all rural areas, households and persons.
+This  programme  was  launched  a  er  merging  the  three  erstwhile  programmes  on     : Accelerated  Rural  Water  Supply  Programme-ARWSP  Swajaldhara  Na  onal  Rural  Water Quality Monitoring & Surveillance.
+
+NRDWP has the following goals/objec ves:
+
+To ensure provision of safe and adequate drinking water supply to all uncovered,par  ally
+covered and quality aﬀected habita  ons in the rural areas of thecountry.
+To ensure that all schools and anganwadis have access to safe drinking water. Hence, 1st
+statement is correct.
+To enable GPs/ VWSCs to plan, manage, operate and maintain local water sources and water supply.
+To  provide  enabling  support  and  environment  for  PRIsand  local  communi  es  for  this purpose
+Toenable  rural  communi  es  to  monitor  and  keep  surveillance  on  their  drinking  water sources and water supply .
+To ini  ate  correc  ve ac  on to have  contaminant-  free water.  Hence,  2nd  statement  is correct.
+To promote par  cipatory integrated water resources management with a view toensure drinking water security - water availability, supply and consump  on to be measured.
+To provide access to informa  on through online repor  ng system with informa  onin public domain to bring in transparency and informed decision making;
+Ensuring household level drinking water security through water budge  ng andprepara   on of village water security plans. Hence, 3rd statement is correct.
+To consciously move away from high cost treatment technologies for tacklingarsenic and
+ﬂuoride contamina on to development of alterna ve sources inrespect of arsenic and alternate sources/dilu on of aquifers through rainwaterharves ng for tackling ﬂuoride contamina  on.
+To ensure equity - high priority in coverage/ investment habita  ons with high SCs/ STs and minority popula  on. Hence, 4th statement is correct.
+Encourage  handing  over  of  management  of  rural  drinking  water  schemes  (RWS)to  the
+Panchaya   Raj Ins  tu  ons.
+Hence, only 5th statement is incorrect. Rest all the statements are correct.
+
+Q 7.B
+
+
+The Trade Union Act is administered by concerned state government.
+
+Q 8.D
+
+
+Eligibility:  Available to people in the age group of 18 to 50 and having a bank account. People who join the scheme before comple  ng 50 years can, however, con  nue to have the risk of life cover up to the age of 55 years subject to payment of premium.
+Premium:  Rs.330 per annum. It will be auto-debited in one instalment.
+Payment Mode:  The payment of premium will be directly auto-debited by the bank from the subscribers account.
+Risk Coverage: Rs.2 Lakh in case of death for any reason.
+Terms of Risk Coverage: A person has to opt for the scheme every year.  He can also prefer to give a long-term op  on of con  nuing, in which case his account will be auto-debited every year by the bank.
+Who  will   implement   this  Scheme?:  The  scheme  will  be  oﬀered  by  Life  Insurance Corpora  on and all other life insurers who are willing to join the scheme and   e-up with banks for this purpose.
+Government  Contribuon:  (i)   Various  other  Ministries  can  co-contribute  premium  for various categories of their beneﬁciaries out of their budget or out of Public Welfare Fund created in this budget out of unclaimed money.  This will be decided separately during the year. (ii) Common Publicity Expenditure will be borne by Government.
+Ununsep  um is a superheavy ar  ﬁcial chemical element with temporary symbol Uus and atomic number 117. The element, also known as eka-asta  ne or simply element 117, is the second-heaviest of all the elements(Its isotope Ununoc  um    is considered heaviest ). Its discovery was ﬁrst announced in 2010â€”synthesis was claimed in Dubna, Russia, by a joint Russian-American collabora  on, thus making it the most recently discovered element. Recently its discovery was conﬁrmed. It was part of this conﬁrma  on team not discoverer team.
+It was created by combining calcium and berkelium.
+Elements heavier than uranium (with 92 protons) are not usually found in nature, but they can be forced into existence in laboratories.
+Element 117â€™s existence gives scien  sts hope, however, that they are ge   ng closer to discovering a rumored â€œisland of stabilityâ€ where nuclei with so-called magic numbers of protons and neutrons become long-lived.
+Elements beyond atomic number 104 are called superheavy elements, but so far all have been found to have short half-lives, which is their rate of decay.
+Super-heavy elements, may refer to elements beyond atomic number 100, but also may refer to all transuranium elements. The transac  nide elements begin with rutherfordium (atomic number 104).
+But so far all Super-heavy elements have been found to have short half-lives.
+
+
+Q 10.B
+A social media giant Facebook   ed up with Anil Ambaniâ€™s Reliance Communica  ons to bring  to  India  a  service  that  cri  cs  globally  believe  presents  a  huge  challenge  to  Net neutrality  Facebookâ€™s oﬀering, internet.org, unlike in the Airtel example, is free. The stated inten  on of the social media network is to make available Internet to those who donâ€™t have it.
+The catch then is in how internet.org has been implemented. In every country where it has been  launched  â€”  India  is  the  sixth  â€”  internet.org  oﬀers  a  preselected  bouquet  of websites free to subscribers of Facebookâ€™s telecom partner, under a prac  ce dubbed zero-ra  ng.
+
+Q 11.B
+Jains  are  already  enjoying  minority  status  in  some  status  like  Rajasthan,  MP  ,  UP  and
+Cha   sgarh. by this decision they will get a status of na  onal minority.
+Jains will be the 6th community to get this status a  er muslims, chris  ans, Parsis, buddhists and sikhs
+
+Q 12.D
+It is not an outcome of India-Sri Lanka Accord.
+The  19th   Amendment  was  adopted  by  the   Sri   Lankan   Parliament   for   curbing   the presiden  al powers, rather than switching over to the Parliamentary from of government.
+
+Q 13.B It aims:
+To  promote  deployment  of  grid-interac  ve  renewable  power  genera  on  projects  in  all men  oned sectors.
+Increase the contribu  on of Renewable Energy in the total energy mix of the country to 6 per cent by 2022, with about 10 per cent contribu  on to total electricity mix, in line with IEPR projec  ons. ï»¿Hence, only 3rd statement is incorrect. Rest all are correct.
+h  ps://visionias.in/admin/index.php/admin/print_test_pt/1563/2
+
+Making available necessary ﬁscal and ﬁnancial incen  ves to domes  c renewable energy industry, developers and users.
+
+Q 14.D
+The GI may be consideredas a collec  ve sui generis right as its use is normally reserved for those producers who respect  that is deﬁned by a community of producers belonging to that speciﬁed geographical area, and approved by a competent authority. Hence, 1st statement is correct.
+Controller General of Patents, Designs & Trade Marks (CGPDTM) shall be the Registrar for
+GIs- under the Ministry of Commerce and Industry. Hence, 2nd statement is incorrect.
+The Products of foreign origin have also been given GI registra  on in India like Pisco, liquor belonging to Peru, Scotch Whisky of UK, etc. Hence, 3rd statement is incorrect.
+
+Q 15.C
+
+According to the economic survey:
+
+The SLR requirement in India have been high tradi  onally and there is need to decrease the
+SLR
+It also list Priority sector lending requirement as one of the reason for repression but does not suggest decrease in PSL. Instead it suggests reforms in the PSL. Hence, only 2nd statement is in correct, rest all are correct.
+Survey recommends the last two steps as a measure to India for future shocks and repression.
+So answer is C
+
+Q 16.D
+India has 22 oﬃcially recognised languages.
+Ar  cle 343 provides that the oﬃcial language of Republic of india is Hindi with English as an addi  onal  language  for  oﬃcial  work  and  the  States  can  legislate   their  own  oﬃcial languages, other than Hindi.
+The Cons  tu  on (Ar  cle 348(1)(a) ) provides that all proceedings of Supreme Court of India and the High Courts , shall be in English. However, the Parliament has the power to alter this by law, but has not done so.
+Hence, all the statements are correct.
+
+
+
+Q 17.D
+
+Name of the scheme:
+
+Prime Ministerâ€™s Employment Genera  on Programme (PMEGP).
+
+About the Scheme:
+
+The Government of India, have merged Rural Employment Genera  on Programme ( REGP) with Prime Minister Rozgar Yojana (PMRY) and introduced a new scheme called Prime Minister Employment Genera  on Programme (PMEGP) w.e.f.01.04.2008 (As such PMRY scheme is closed).
+
+Objec  ve:
+
+i) To generate employment opportunies in rural as well as urban areas of the country through se   ng up of new self-employment ventures / projects / micro enterprises.
+h  ps://visionias.in/admin/index.php/admin/print_test_pt/1563/2
+
+
+ii) To bring together widely dispersed tradi  onal ar  sans /rural and urban unemployed youth and give them self-employment opportuni  es to the extent possible, at their place.
+
+Purpose of Loan:
+
+For  se   ng  up  of  eligible  viable  ac  vi  es  under  Prime  Minister  Employment  Genera  on
+Programme (PMEGP) scheme.
+
+Nature of program:
+
+Credit-linked subsidy programme.
+
+Eligibility Condi  on of Beneﬁciaries:
+
+(i) Any individual, above 18 years of age.
+
+(ii) There will be no income ceiling for assistance for se   ng up projects under PMEGP.
+
+(iii) For se   ng up of project cos  ng above Rs.10 lakh in the manufacturing sector and above Rs.5lakh in the business /service sector, the beneﬁciaries should possess at least VIII standard pass educa  onal qualiﬁca  on . (Max 25/10 see below)
+
+(iv) Assistance under the Schemes is available only for new projects sanc  oned speciﬁcally under the PMEGP.
+
+(v) Self Help Groups (including those belonging to BPL provided that they have not availed beneﬁts under any other Scheme) are also eligible for assistance under PMEGP.
+
+(vi) Ins  tu  ons registered under Socie  es Registra  on Act,1860; (vii) Producon Co-opera  ve Sociees, and
+(viii) Charitable Trusts.
+
+(ix) Exis  ng  Units  (under PMRY, REGP or any  other  scheme of  Government  of  India  or  State Government)  and  the  units  that  have  already  availed  Government  Subsidy  under  any  other scheme of Government of India or State Government are not eligible.
+
+Quantumand Nature of Financial Assistance:
+
+The details of Beneﬁciaries contribu  on and rate of subsidy are as under :
+
+Categories of
+Beneﬁciary
+Rate of
+beneﬁciaries under contribu  on Subsidy (of
+PMEGP
+
+
+Area (loca  on of project/unit)
+project cost project cost)
+Urban Rural
+General Category    10%              15%   25%
+Special (including
+SC/ST/OBC
+/Minori  es/             5%
+Women,
+Ex-servicemen,
+25%
+
+
+
+35%
+Physically, NER, handicapped, Hill and Border areas etc.
+
+Maximum cost of project:
+
+(i) The maximum cost of the project/unit admissible under manufacturing sectors is Rs. 25 lakh. (ii) The maximum cost of the project/unit admissible under business / service sector is Rs.10 lakh. Nodal Agency:
+Khadi    and    Village    Industries    Commission    (KVIC)    will    be    the    single    Na  onal    level nodalimplementa  on agency for PMEGP.
+
+At  the  State  level,  the  Scheme  will  be  implemented  through  State  KVIC  Directorates,  State
+Khadiand Village Industries Boards (KVIBs) and District Industries Centers (DICs) and banks.
+
+Implemen  ng Agencies:
+
+Many banks and ﬁnancial ins  tuons.
+
+(In News: SBI wins Na  onal Award for implementa  on of PMEGP (5 April 2013))
+
+
+
+Q 18.C
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+as â€˜Othersâ€™ on ballot forms in 2009.
+Q 19.D
+Not recognising â€˜Third genderâ€™ violates ar  cle 14, 15, 16 19 and 21 of the  Indian  cons  tuon.  These  ar  cles use either the term â€œpersonâ€ or â€œci zenâ€ or â€œsexâ€. All these expressions,  are â€œgender neutralâ€ , they refer to human-beings. Ar  cle 17 is not being violated as it pertains only to untouchability
+The ﬁrst step in this regard was taken by elec  on commission by giving the op  on
+Supreme  court has directed government to recognise transgenders as a minority group which are eligible for welfare programmes, health care and employment.
+Germany was the ﬁrst country to recognise transgenders in 2013 by giving an op  on of â€˜indeterminateâ€™ on birth cer  ﬁcates.
+
+Q 20.C
+Bri  sh billionaire Richard Branson, founder of Virgin Galac  c, has been the front-runner in the ﬂedgling race to give large numbers of paying civilians a suborbital ride that would let them experience weightlessness and see the Earth from the edge of space.
+Deﬁni  on of "suborbital". We consider a suborbital ﬂight to be any ﬂight outside the Earth atmosphere with a maximum ﬂight speed below the orbital velocity. If a rocket does not
+achieve orbital velocity, it falls back to Earth and re-enters the atmosphere within a few minutes a  er engine shutdown. ï»¿Hence,  only  2nd statement  is incorrect.  Rest  all  are correct.
+
+Q 21.D
+Maharatna  stands  for  the highest  delega  on  of powers among all. Due to its stringent condi  ons, it has least number of PSUs. While Miniratna has largest number of PSU.
+Criteria  for  selec  on  is  annual proﬁts  of  last  three  years, average  annual  turnover  and average annual net worth.
+
+Q 22.C
+In terms of share in total, electricity and services dominate for both public and private sectors , while manufacturing forms the major component of stalled projects in the private sector.
+It is clear that private projects are held up overwhelmingly due to market condi  ons and non-regulatory factors whereas the government projects are stalled due to lack of required clearances.
+So statement 1 and 3 correct and op  on C is answer.
+
+Q 23.D
+Elephant is India’s na  onal heritage animal.
+Na  onal calendar is based on Gregorian and saka era. Na  onal tree of India is banyan tree.
+
+Q 24.D
+
+All the statements are correct.
+
+The economic survey talks about a move from carbon incen  ves in the form of subsidies to carbon taxes to de-incen  vise the use of fossil fuels. Here deregula  ons and reduc  on in subsidies is one and the same.
+Excise duty is viewed as implicit carbon tax and cess on coal is conceived as precursor to carbon tax.
+
+Q 25.B
+Na  onal Investment & Infrastructure Fund (NIIF) was announced in Union Budget 2015-16. This  is  to  be  set  up  as  a  Trust  and it would raise debt to invest in the equity of infrastructure ﬁnance companies. Hence 1st Statement is incorrect.
+Government  permi   ed  tax-free  infra  bonds  for  rail,  road  and  irriga  on  projects   for widening the scope for investments. The cost of borrowed capital for implemen  ng the infra projects  will come  down  due to tax-free infrastructure bonds.  Hence  2nd  statement  is correct and op  on (b) is the correct answer.
+
+Q 26.C
+Youth hostel promotes youth travel by construc  ng cheap accommoda  on at various places.
+
+Q 27.D
+Ulexite    (NaCaB5O6(OH)6â€¢5(H2O))    (hydrated    sodium    calcium    borate    hydroxide), some  mes known as TV rock, is a naturally occurring ﬁber-op  c material and is composed of thousands of ﬁbrous fragments, which transmit light.
+The ﬁbers of Ulexite act as op  cal ﬁbers, transmi   ng light along their lengths by internal
+reﬂecon. Hence 1st and 2nd statements are correct. Uses of Ulexite
+Agriculture ﬁeld: Because of it's  proper  es, Ulexite gets great results on agriculture as a good component for making diﬀerent micronutrients and fer  lizers. Ulexite can oﬀer it's goodness both products for microfoliar applica  ons and fer  lizers to soil applica  ons. Hence
+3rd statement is also correct.
+Fries: Calcined Ulexite is also used to make fries not only to ceramic industry but also for ﬁberglass industry.
+Boric acid and borax produc  on: Ulexite is also a necessary element to make other products related to borates family.
+
+Q 28.D
+
+Eligible persons for ge   ng free legal aid include:
+
+1. Women and Children
+2. Members of SC/ST
+3. Industrial workmen
+4. Vic  ms of mass disaster
+5. Persons in custody
+6. Persons whose annual income does not exceed Rs 50000.
+7. Disabled Persons
+8. Vic  ms of Traﬃcking in Human Beings.
+
+Q 29.C
+The Pandit Deendayal Upadhyay Shramev Jayate Karyakram includes ﬁve schemes:
+A dedicated Shram Suvidha Portal: That would allot Labour Iden  ﬁca  on Number (LIN) to nearly 6 lakhs units and allow them to ﬁle online compliance for 16 out of 44 labour laws
+An all-new Random Inspec  on Scheme: U  lizing technology to eliminate human discre  on in selec  on of units for Inspec  on, and uploading of Inspec  on Reports within 72 hours of inspec  on mandatory.
+Universal  Account Number:  Enables 4.17 crore employees to have their Provident Fund account portable, hassle-free and universally accessible.
+Appren ce Protsahan Yojana: Will support manufacturing units mainly and other establishments by reimbursing 50% of the s  pend paid to appren  ces during ﬁrst two years of their training.
+Revamped Rashtriya Swasthya Bima Yojana: Introducing a Smart Card for the workers in the unorganized sector seeded with details of two more social security schemes.
+Hence op  on (c) is the correct answer.
+
+Q 30.D
+All the statements are correct.
+
+Q 31.A
+The Reserve Bank of India (RBI) has recently said that medium enterprises, social infrastructure and renewable energy would form part of priority sector in addi  on to the exis  ng categories.
+Foreign  banks,  with  20  branches  and  above,  already  have  priority  sector  targets  and sub-targets are under the scheme. Whereas, the foreign banks with less than 20 branches are not subject to the scheme as of now. ï»¿Hence, 2nd statement is incorrect.
+Q 32.D
+The Earth's internal heat source provides the energy for our dynamic planet, supplying it with the driving force for plate-tectonic mo  on, and for on-going catastrophic events such as earthquakes and volcanic erup  ons. This internal heat energy was much greater in the early stages  of  the  Earth  than  it  is  today,  having  accumulated  rapidly  by  heat  conversion associated with three separate processes, all of which were most intense during the ﬁrst few hundred thousand years of the Earth's history: (1) extraterrestrial impacts, (2) gravita  onal contrac  on   of   the   Earth's   interior,   and   (3)   the   radioac  ve   decay   of   unstable
+isotopes. ï»¿Hence all the statements are correct.
+
+Most scien  sts believe that our solar system evolved from the accre  on of solid par  cles derived from a large nebular cloud - the so-called Nebular Hypothesis. Under this scenario, proto-planet Earth would have grown over   me from a barrage of extraterrestrial impacts, increasing its mass with each bombardment. As the proto-planet grew in size its increased gravita  onal ﬁeld would have a  racted even more objects its surface. The composi  on of these colliding  bodies  would have included metal-rich fragments (i.e.., iron  meteorites), rocky fragments (i.e., stony meteorites), and icy fragments (i.e., comets). Although accre  on was much more prevalent in the early stages of the Earth's history, these extraterrestrial collisions are s  ll occurring today, exempliﬁed by shoo  ng stars and ﬁreballs in the night sky, and by the occasional impact of larger bodies on the Earth's surface. Such par  cles travel at great veloci  es, typically ~30,000--50,000 km/hr, similar to that of the Earth as it rotates around the Sun. The very large amount of kine  c energy inherent in these moving bodies is instantly converted to heat energy upon impact, thus providing a component to the Earth's
+internal heat source
+
+
+Q 33.C
+Census of India or Registrar general of India divides workers into two types: main workers and marginal workers. These two are further divided into four categories and two sec  ons (urban and rural).
+
+Q 34.C
+â€œNai Manzilâ€  scheme announced in the budget will be an integrated educa  on and livelihood  scheme  to  enable  minority  youth  who  do  not  have  a  formal  school-leaving cerﬁcate to obtain one and ﬁnd be  er employment. The scheme will help bridge the gap in educa  on and skills of those passing out of madrasas. Hence 1st and 2nd statements  are correct.
+Roshni is the scheme for skill development for rural youth from the most cri  cal le    wing extremism aﬀected districts in the country. Hence statement 3 is incorrect.
+â€œNai Roshniâ€ is the scheme for leadership development of minority women with the objec  ve to empower and ins  ll conﬁdence in women, by providing knowledge, tools and techniques to interact with Government systems, banks, and intermediaries at all levels so that they are emboldened to move out of the conﬁnes of home and assume leadership roles. Hence statement 4 is incorrect.
+Indiaâ€™s Largest News Agency, Press Trust of India (PTI) is non-proﬁt sharing coopera  ve owned by the countryâ€™s newspapers with a mandate to provide eﬃcient and unbiased news to all subscribes. Hence , 1st statement is incorrect.
+Press Council is a statutory quasi-judicial authority mandated by the Parliament to preserve the freedom of the press and maintain and improve the standards of newspapers and the news agencies in India. It is an autonomous body with equal quasi-judicial authority over the authori  es and the press persons.
+The Press  Informa  on  Bureau,  commonly abbreviated as PIB, is a nodal agency of the Government  of  India.  Based  in  Na  onal  Media  Centre,  New  Delhi.  It  disseminates informa  on  to  the  print,  electronic  and  new  media  on  government  plans,  policies, programme ini  a  ves and achievements. The PIB is also the Government's nodal agency to facilitate private media.Hence, 2nd statement is correct.
+The  NAM  News  Network  (NNN)  is  the  transforma  on  of  the  now-defunct  NANAP   or
+Non-Aligned News Agencies Pool. The resurrec on was with the concurrence and endorsement of the Sixth Conference of Ministers of Informa  on of Non-Aligned Countries (COMINAC VI) hosted by Malaysia in November 2005.As a revitalised en  ty the NNN makes the most of the Internet and ICT applica  ons for speedy and aﬀordable communica  ons among its members.The NNN sees itself as an alterna  ve source of informa  on rather than being in compe    on with other major news services. Essen  ally it would serve as a conduit for  NAM  member  countries  to  tell  their  story  and  use  it  as  a  yet  another  tool  of communica  on for them.Hence, 3rd statement is correct.
+
+Q 36.D
+NHM Launched in 2005-06.
+This mission coves  all  states except  the North Eastern  and Himalayan States which are covered under the Hor  culture Mission for North East and Himalayan States.
+All   crops   except   coconut   and   medicinal   plants   are   covered   under   NHM.   Coconut Development  Board  is  implemen  ng  schemes  for  the  development  of  coconut  in  the country.  Similarly,  the  Na  onal  Medicinal  Plants  Board  is  implemen  ng  the  Scheme  on Na  onal Mission on Medicinal Plants.
+
+Q 37.D
+Both the statements are correct.
+Parliamentary secretary is a member of the legislature. His main func  on is to assist a minister in discharging his Parliamentary func  ons.
+He is administered oath by the Prime Minister or the Chief Minister as the case may be.
+
+(Note Parliamentary secretary is diﬀerent from secretary general of legislature) The Issue
+Many states in the Indian Union have ins  tuted the post of Parliamentary Secretary.   A Parliament  Secretary  o  en  holds  the  rank  of  Minister  of  State  and  has  the  same en  tlements and is assigned to a government department.  Manipur, HP, Mizoram, Assam, Rajasthan, Punjab, Goa are some of the states where MLAs have been appointed Parliament Secretaries by the Government.
+PILs  ﬁled  in  various  High  Courts  on  the  ma  er  have  argued  that  the  appointment  of
+Parliament Secretaries is ultra vires the 91st Amendment.
+Recently Delhi chief minister Arvind Kejriwalâ€™s decision to appoint 21 MLAs as â€˜parliamentary secretaries (PS)â€™ to assist his six ministers has drawn sharp cri  cism from the Congress and BJP which called it a waste of public money and a way to oblige his
+h  ps://visionias.in/admin/index.php/admin/print_test_pt/1563/2
+
+men.The State Government, on the other hand, had recently said that the Parliamentary Secretaries would not receive any remunera on or perks of any kind. They could use government  transport  for  oﬃcial  purpose  and  u  lise  space  in  the  Minister's  oﬃce  to facilitate their work.
+
+Background
+
+Appointments and Func ons of Parliamentary Secretary
+
+In the United Kingdom, a Minister who is a member Of one House, cannot go to the other House of Parliament. Therefore, a member of the House other than the one to which a Minister belongs, is appointed as Parliamentary Secretary to help his Minister and depuse for the Minister in that House. The Parliamentary Secretary has a status below that of a Cabinet Minister and a Minister of State. He is a paid servant and as he is not a Minister, who must  be  careful  not  to  speak  or  to  conduct  himself  as  if  he  was  a  member  of  the Government.
+In India, the ins  tuon Of the oﬃce Of Parliamentary Secretary has no statutory origin nor does it derive authority from the Cons  tuon of India. The oﬃce Of the Parliamentary Secretary in India was ﬁrst created in 1951, purely for the purpose of assis  ng the Minister in parliamentary work. Unlike the Ministers,' the oath to the Parliamentary Secretaries is administered by the Prime Minister and not by the President.
+
+
+The appointment of a Parliamentary Secretary is en  rely at the discre  on of the Prime Minister, who decides when and who should be appointed as a Parliamentary Secretary. The func  ons of a Parliamentary Secretary are as under:
+
+i. He will assist the Minister in his oﬃcial work.
+ii. He will represent the Department/ Ministry in the House to which he belongs. iii. He will perform such func  ons as may be assigned to him by the Minister.
+
+Q 38.D
+
+Arbitra  on
+
+Arbitra  on is a process in which a neutral third party or par  es render a decision based on the merits of the case. In the Indian context the scope of the rules for the arbitra  on process are set out  broadly  by  the  provisions  of  the  Arbitra  on  and  Concilia  on  Act  1998  and  in  the  areas uncovered by the Statute the par  es are free to design an arbitra  on process appropriate and relevant to their disputes.
+
+Media  on
+
+The process of media  on aims to facilitate the development of a consensual  soluon  by  the dispu  ng par  es. The media  on process is overseen by a non-par  san third party - the Mediator. The authority of the mediator vests on the consent of the par  es that he should facilitate their nego  a  ons.
+
+Concilia  on
+
+This  is  a  process  by  which  resoluon  of  disputes  is  achieved  by  compromise  or  voluntary agreement. In contrast to arbitra  on, the conciliator does not render a binding award.
+Q 39.C
+FAO is an agency of the United Na  ons that leads interna  onal eﬀorts to defeat hunger. It serves both developed  and developing countries.
+FAO  helps developing countries and countries in transi on to modernize and improve agriculture, forestry and ﬁsheries prac  ces, ensuring good nutri  on and food security for all. Its Headquarter is located in Rome, Italy.
+The World Intellectual  Property  Organiza  on (WIPO)  is a specialized agency   of the UN created in 1967 to encourage crea  ve ac  vity, to promote the protec  on of intellectual property  throughout the world. Its headquarter is located in Geneva, Switzerland.
+The Interna  onal Atomic Energy Agency (IAEA) is an interna  onal organiza  on that seeks to promote the peaceful use of nuclear energy, and to inhibit its use for any military purpose, including nuclear weapons. The IAEA was established as an autonomous organiza  on on 29
+July  1957.  Though  established  independently  of  the  United  Na  ons  through  its  own interna  onal treaty, the IAEA Statute, the IAEA reports to both the United Na  ons General Assembly and Security Council.
+
+Q 40.A
+
+All are correct.
+
+To improve India`s low Ease of Doing Business, the important measures that have been undertaken are liberaliza  on of licensing and deregula  on of a large number of defence products.
+Under the project a Government to Business (G2B) portal is being set up to serve as a one-stop shop for delivery of services to the investors and address the needs of the business and industry from incep  on through the en  re life cycle of the business. The process of applying for industrial licence has been made online.
+A process for online submission of applica  ons for environment, coastal regula  on zone (CRZ), and forest clearances has been started. Thus, streamlining environmental and forest clearances.
+A  Shram  Suvidha  portal  has  been  launched  for  online  registra  on  of  units,  ﬁling  of self-cerﬁed, simpliﬁed, single online return by units, introducon of a transparent labour inspec  on scheme.
+
+Q 41.B Q 42.B
+Spike is an Israeli fourth genera  on man-portable ﬁre-and-forget an  -tank guided missile and an  -personnel missile with a tandem-charged HEAT warhead, developed and designed by the Israeli company Rafael Advanced Defense Systems and in service with a number of na  ons.
+As well as engaging and destroying targets within the line-of-sight of the launcher ("ﬁre- and-forget"), some variants of the missile are capable of making a top-a  ack proﬁle through a "ﬁre, observe and update" guidance method;[2] the operator tracking the target, or switching to another target, op  cally through the trailing ﬁber-op  c wire while the missile is climbing to al  tude a  er launch. This is similar to the lo  ed trajectory ﬂight proﬁle of the US FGM-148 Javelin.
+
+Q 43.C
+Thermal   power   sector   cons  tutes   for   the   largest   power   genera  on   sector   among all. ï»¿Hence only 1st statement is incorrect. Rest two statements are correct.
+NTPC is na  onal thermal power corpora  on
+NHPC is na  onal hydroelectric power corpora  on NEEPCO is north-eastern electric power corpora  on PGCIL is the power grid corpora  on of India
+
+Q 44.C
+
+Rahtriya Krishi Bima Yojana intends to provide insurance cover and ﬁnancial support to the farmers in the event of failure of crops as a result of natural calami  es like natural ﬁre, lightening, storms, cyclone, ﬂood, draught, pests and diseases.
+
+The salient features of the Scheme are :
+
+It is available to all the farmers irrespec  ve of their size of holding.
+The scheme will be compulsory for loanee farmers and op  onal farmers.
+No restric  on on total sum insured and it can be of the value of the threshold yield of the crop with an op  on to cover upto 150% of average yield of the crop for extra premium.
+All the crops will be covered and in addi  on three cash crops like sugarcane, potato and co  on are brought under the purview of the scheme. Hence, only 3rd statement is incorrect. Rest all are correct.
+Remaining  crops  including  hor  cultural  and  commercial  crops  will  be  placed  under  the scheme within the next three years.
+In case the premium rates worked out on the basis of actuarial data are less than the prescribed premium rates, the lower rate will be applicable.
+In case of the commercial and hor  cultural crops actuarial rates will be charged.
+Transion to the actuarial regime will be achieved in ﬁve years so as to make it sustainable. For small and marginal farmers, a subsidy of 50% on the premium.
+Premium subsidy to be phased out over a period of ﬁve years. Scheme will be operated on the basis of Area Approach.
+All farmers of a deﬁned area aﬀected by a calamity will be en  tled to payment of insurance according to the indemnity rates prescribed for the area.
+In case of localised calami  es like hailstorm, landslides, cyclone, ﬂood etc., individual claims will be entertained.
+Number of crop cu   ng experiments will be increased suitably in order to arrive at a realis  c assessment of threshold yield level in a par  cular area.
+Though ini  ally General Insurance Corpora  on of India will implement the Scheme, in due course of   me an exclusive organisa  on will be set up to administer this Scheme.
+
+Q 45.C
+According  to  the  Interna  onal  Astronomical  Union,  which  sets  deﬁni  ons  for  planetary science, a dwarf planet is a celes  al body that: i) orbits the sun ii) has enough mass to assume a nearly round shape iii) has not cleared the neighborhood around its orbit iv) is not a satellite (moon). Hence, only 2nd statement is incorrect. Rest all are correct.
+The main dis  nc  on between a dwarf planet and a planet is that planets have cleared the path around the sun while dwarf planets tend to orbit in zones of similar objects that can cross their path around the sun, such as the asteroid and Kupier Belts. Dwarf planets also are generally smaller than the planet Mercury.
+The ﬁrst ﬁve recognized dwarf planets are Ceres, Pluto, Eris, Makemake and Haumea.
+Scien  sts believe there may be dozens or even more than 100 dwarf planets awai  ng discovery.
+h  ps://visionias.in/admin/index.php/admin/print_test_pt/1563/2
+
+Ayurveda Doshas are the basis of health and disease in Ayurvedic Medicine. There are three Doshas or humors - Vata, Pi  a and Kapha. Doshas are in turn dependent upon and represent the working of Five Primary Elements - earth, water, ﬁre, air and ether.
+
+Q 47.D
+All of the above statements are correct. Even all sub-ordinate courts are under high court, state government prepares rules for them a  er consulta  on with high courts.
+
+Q 48.B
+Indiaâ€™s  services  sector  has  a  high  share  in  income   and  rela  vely  low  share  in employment.
+The share of services sector is high in income as compared to its share in employment.
+The share community, social and personal services was highest    ll 2004. Since then trade, hotels and restaurants have highest share in employment.
+So only statement 2 is correct. Rest all statements are incorrect.
+
+
+
+Q 49.D
+
+
+
+
+
+Q 50.B
+
+India has the 2nd percentage of Muslim popula  on in the world a  er Indonesia . 13% live in
+Indonesia and 11% live in India.
+
+3 countries India, Mauri  us and Nepal together have 97% of the Hindu popula  on of the world. One interes  ng fact is that Nepal's 81.3% popula  on is Hindu while India's 80.5% popula  on is Hindu.
+
+India has the largest share of all members of â€˜other religionsâ€™ of the world (47%) including
+Sikhs and Jains. Hence, only 3rd statement is incorrect. DISTRIBUTION OF POPULATION BY RELIGION
+Religion            Number            %
+All religious
+communi  es   1,028,610,328 100.0
+Hindus             827,578,868    80.5
+Muslims           138,188,240    13.4
+Chris  ans        24,080,016      2.3
+Sikhs                 19,215,730      1.9
+Buddhists        7,955,207         0.8
+Jains                 4,225,053         0.4
+Others              6,639,626         0.6
+Religion not
+stated               727,588            0.1
+Source : Religion, Census of India
+2001
+Q 51.D
+All the above op  ons are included under the concept of sustainable development.
+The term sustainable development originated in the 1970s and was ﬁrst promoted in the interna  onal environmental and development communi  es with the publica  on of World Conserva  on Strategy (1980). It was popularised by the Brundtland Report, also known as Our Common Future (1987) and further elaborated in Caring for the Earth (1991).
+The Brundtland  Report  highlighted  three  fundamental components  to sustainable  development:
+environmental protec  on, economic growth and social equity.
+Nowadays, the most widely used deﬁni  on of sustainable development is the one put forth by Our Common Future, which states that Sustainable development is development that meets the needs of the present without compromising the ability of future genera  ons to meet their own needs.
+
+Q 52.C
+It is celebrated on the day each year which commemorates return of M.Gandhi from S. Africa to India on 9th  Jan. 1915. It is celebrated to mark contribu  on of overseas Indian communityâ€™s contribu  on to development India.
+A dedicated ministry of overseas Indian aﬀairs is established for managing all aﬀairs of
+overseas Indian community
+
+
+Q 53.C
+Department of border management is under ministry of home aﬀairs
+
+Q 54.B
+Bharatnatyam-originated  in  Tamil  Nadu,  name  possibly  derived  from  Bharat.  In  Natya Shastra,  Bharatanatyam  is  described  as  ekaharya  in  which  one  dancer  depicts  many roles. Siva as Nataraja, the Lord of Dance is depicted in various dance forms. Bharatnatyam leans heavily on the abhinaya or mime aspect of dance â€“ the nritya, where the dancer expresses the sahitya through movement and mime (gestures and facial expression). Bharatanatyam is usually accompanied by the classical music. It is prac  ced by both male and female dancers.
+Kathakali-  Evolved from many social and religious theatrical forms of Kerala.  This dance form  is  a  blend  of  dance,  music  and  ac  ng  and  drama  zes  stories,  which  are  mostly adapted from the Indian epics. Kathakali is considered to be a combina  on of ﬁve elements of ﬁne art: Expressions (Natyam, the component with emphasis on facial expressions) Dance (Nritham, the component of dance with emphasis on rhythm and movement of hands, legs and body) Enactment (Nrithyam, the element of drama with emphasis on â€œmudrasâ€, which are hand gestures) Song/vocal accompaniment (Geetha) Instrument accompaniment (Vadyam).
+Mohiniya  am- It is a classical dance form from Kerala.It is considered a very graceful form of dance meant to be performed as solo recitals by women.There are approximately 40 basic movements, known as atavukal. The vocal music of Mohiniya  am involves varia  ons in rhythmic structure known as chollu.
+Hence, correct op  on is (b) only
+
+Q 55.D
+Indian  coast  guardâ€™s  mission  is  the  protec  on  of  India's  mari  me  interests  and enforcement of mari  me law, with jurisdic  on over the territorial waters of India, including its con  guous zone and exclusive economic zone.
+Q 56.B
+In 1950, Dutch astronomer Jan Oort proposed that certain comets come from a vast, extremely distant, spherical shell of icy bodies surrounding  the solar  system.  This  giant swarm of objects is now named the Oort Cloud, occupying space at a distance between
+5,000 and 100,000 astronomical units. (One astronomical unit, or AU, is the mean distance of Earth from the sun: about 150 million km or 93 million miles.) The outer extent of the Oort Cloud is believed to be in the region of space where the sun's gravita  onal inﬂuence is weaker than the inﬂuence of nearby stars.
+The Oort Cloud probably contains 0.1 to 2 trillion icy bodies in solar orbit. Occasionally, giant molecular clouds, stars passing nearby, or   dal interac  ons with the Milky Way's disc disturb the orbits of some of these bodies in the outer region of the Oort Cloud, causing the object to fall into the inner solar system as a so-called long-period comet. These comets have very large, eccentric orbits and take thousands of years to circle the sun. In recorded history, they are observed in the inner solar system only once.
+
+
+
+
+
+Q 57.A
+Asian brown cloud, a large atmospheric brown cloud that occurs annually from about November through May over eastern China and southern Asia. Hence  op  on  (a)  is  the correct answer.
+Atmospheric brown clouds, which appear as a dark haze on the horizon, are formed from a cocktail  of  warming  and  cooling  aerosols  (such  as  soot  and  dust)  in  the  atmosphere produced in the combus  on of fossil fuels and biomass across the region.
+It has been linked to decreases in summer monsoon rainfall in India since 1930, the southward  shi     of  the  summer  monsoon  in  eastern  China,  declines  in  agricultural produc  on,  and  increases  in  respiratory  and  cardiovascular  problems  in  the  people inhabi  ng the region. (Source Encyclopedia britannica)
+
+Q 58.B
+
+
+In  1973,  the  Debra  Commission  created  Primi  ve  Tribal  Groups  (PTGs)  as  a  separate
+category, who are less developed among the tribal groups. In 2006, the Government of India renamed the PTGs as Par  cularly Vulnerable Tribal Groups (PVTGs)
+Among scheduled tribes there are certain tribal communi  es who have declining or stagnant popula  on, low level of literacy, pre-agricultural level of technology and are economically backward. 75 such groups in 17 States and 1 Union Territory have been iden  ﬁed and categorized as Primi ve Tribal Groups (PTGs). Only 1 UT is there Andaman & Nicobar, lakshadweep is not included.
+
+Q 59.D
+The  six languages which are included in the list of Classical Languages are : Tamil  (since
+2004) Sanskrit  (since 2005) Telugu (since 2008) Kannada  (Since 2008) Malayalam  (since
+2013) Odiya (since 2014) .
+The Government of India currently follows the following criteria to determine the eligibility of language to be considered for classiﬁca  on as “classical language”:
+High an  quity of its early texts/ recorded history over a period of 1500-2000 years.
+A body of ancient literature/ texts, which is considered a valuable heritage by genera  ons of speakers.
+The literary tradi  on be original and not borrowed from another speech community.
+The  classical  language  and  literature  being  dis  nct  from  modern,  there  may  also  be  a
+discon  nuity between the classical language and its later forms or its oﬀshoots.
+
+
+Q 60.A
+India has set a target for inﬂa  on in a landmark change in its monetary policy.
+The objec  ve of the Monetary Policy Framework Agreement is to primarily maintain price stability  (containing  inﬂa  on) while keeping in mind the objec  ve of growth. Hence  1st statement is correct.
+India’s monetary policy framework will be operated by the central bank.
+Under ‘Monetary Policy Framework Agreement’ RBI will look to contain consumer price inﬂa  on within 6% by January 2016 and within 4% with a band of 2 percentage points for all subsequent years.
+Under its framework if the central bank misses the inﬂa  on target, it will send a report to the government ci  ng reasons and remedial ac  ons.
+The central bank will also need to give an es  mated    me-period within which it expects to return to the target level.
+
+Q 61.C
+
+Its HQ is in Amsterdam, Netherland.
+
+The original Rainbow Warrior was sunk by French secret service agents in 1985.
+
+The present Rainbow Warrior, which was launched i n 1989, is equipped with the latest
+electronic naviga  on, sailing and communica  on equipment.
+
+
+Q 62.C
+Churches and Convents of Goa, Rani-ki-Vav at Patan, Gujarat and Group of Monuments at Hampi are listed under Cultural World Heritage Sites, whereas Western Ghats is listed under Natural World Heritage Sites.
+Cellular Jail, Andaman Islands is submi  ed on Tenta  ve List. Hence op  on (c) is the correct answer.
+
+Q 63.C
+Paramparagat Krishi Vikas Yojana aims to promote organic farming and to develop poten  al markets for organic products. It will maximize the u  liza  on of natural resources through eco-friendly cul  va  on.
+Under this scheme Groups of farmers would be mo  vated to take up organic farming under. Fi  y or more farmers will form a cluster having 50 acre land to take up the organic farming under the scheme.
+There will be no liability on the farmers for expenditure on cer  ﬁca  on.
+Every farmer will be provided Rs. 20,000 per acre in three years for seed to harves  ng of crops and to transport produce to the market.
+Organic farming will be promoted by using tradi  onal resources and the organic products will be linked with the market. It will increase domes  c produc  on and cerﬁca  on of organic produce by involving farmers.
+It has not replaced Rashtriya Krishi Vikas Yojana. Hence, only 2nd statement is incorrect. Rest all are correct.
+
+Q 64.B
+H1N1 ﬂu is also known as swine ﬂu. It's called swine ﬂu because in the past, the people who caught it had direct contact with pigs. That changed several years ago, when a new virus
+emerged  that  spread  among  people  who  hadn't  been  near  pigs.  ï»¿Hence,   only  1st statement is incorrect. Rest all the correct.
+Some of the same an  viral drugs that are used to treat seasonal ﬂu also work against H1N1 swine ﬂu. Oseltamivir (Tamiﬂu) and zanamivir (Relenza) seem to work best, although some kinds of swine ﬂu are resistant to Tamiﬂu.
+
+Q 65.D Q 66.D
+Atal Pension Yojana (APY) was announced in Budget Speech of 2015-16.
+The APY will be focused on all ci  zens in the unorganised  sector, who join the Na  onal Pension System (NPS) administered by the Pension Fund Regulatory and Development Authority (PFRDA) and who are not members of any statutory social security scheme.
+It is Government of India Scheme, which is administered by the Pension Fund Regulatory and Development Authority.
+The minimum age of joining APY is 18 years and maximum age is 40 years.
+All  Points  of  Presence  (Service  Providers)  and  Aggregators  under  Swavalamban  Scheme would enroll subscribers through architecture of Na  onal Pension System.
+Hence all the statements are correct and op  on (d) is the correct answer.
+
+Q 67.A
+
+
+
+
+Q 68.C
+Black Hole is not Dark Ma  er. Black Holes are gravity lenses which bends light. ï»¿Hence,
+3rd statement is incorrect.
+Normal Ma  er is made up of par  cles called baryons. ï»¿Hence, 4th statement is incorrect. In astronomy and cosmology, dark ma  er is a type of ma  er hypothesized to account for a large part of the total mass in the universe.
+Dark ma  er cannot be seen directly with telescopes; evidently it neither emits nor absorbs light or other electromagne  c radia  on at any signiﬁcant level.
+Its existence and proper  es are inferred  from its gravita  onal eﬀects on visible ma  er, radia  on, and the large-scale structure of the universe.
+Dark ma  er is es  mated to cons  tute 84% of the ma  er in the universe and 23% of the total energy density (with almost all the rest being dark energy).
+It is called dark ma  er because it does not interact with light. Dark ma  er interacts with ordinary ma  er through gravity and binds galaxies together like invisible glue.
+While  dark  ma  er  pulls  ma  er  together,  dark  energy  pushes  the  universe  apart  at ever-increasing speeds. In terms of the total mass-energy content of the universe, dark energy dominates. Even less is known about dark energy than dark ma  er.
+NASA has teamed up with the European Space Agency to probe the existence of dark ma  er. Euclid is ESAâ€™s mission, a space telescope designed to inves gate the cosmological mysteries of dark ma  er and dark energy will launch in 2020.
+
+Q 69.D
+The scope of the Essen  al Commodi  es Act (EC Act) is much broader than the APMC Act.
+It empowers the central and state governments concurrently to control produc  on, supply and distribu   on of certain commodi  es, including pricing, stock-holding and the period for which the stocks can be kept and to impose du  es.
+The APMC Act on the other hand, controls only the ﬁrst sale of the agricultural produce. Apart from food-stuﬀs which are covered under the APMC Act, the commodi  es covered under the EC Act generally are: drugs, fer  lisers, and tex  les and coal.
+
+Q 70.B
+Infrastructure Investment Trusts (InvITs) are used as instruments for pooling of investment for infrastructure projects like Real Estate Investment Trusts (REITS), which have been successfully used as instruments for pooling of investment in several countries.
+These structures would reduce the pressure on the banking system while also making available fresh equity. Both the instruments would a  ract long-term ﬁnance from foreign and domes  c sources including the NRIs. Hence 1st, 2nd and 3rd statements are correct.
+Any person who wishes to carry on the ac  vi  es of InvITs would have to obtain appropriate registra  on from SEBI. Hence 4th statement is incorrect. Hence (b) is the correct answer
+
+Q 71.D
+Genome  sequencing  is  ﬁguring  out  the  order  of  DNA  nucleo  des,  or  bases,  in  a genome—the order of As, Cs, Gs, and Ts that make up an organism's DNA. The human genome is made up of over 3 billion of these gene  c le  ers.
+genes account for less than 25 percent of the DNA in the genome, and so knowing the en  re genome sequence will help scien  sts study the parts of the genome outside the genes. This includes the regulatory regions that control how genes are turned on an oﬀ, as well as long stretches  of  "nonsense"  or  "junk" DNA—so called  because we don't  yet  know  what,  if anything, it does.
+
+Q 72.D
+All statements are correct.
+RBI manages all components of public debt of central as well as state government.
+
+Q 73.D
+
+
+
+
+
+Q 74.D
+The Budget documents presented to Parliament comprise, besides the Finance Minister's
+Budget Speech, of the following:
+A. Annual Financial Statement (AFS) B. Demand for Grants (DG)
+C. Appropria  on Bill
+D. Finance Bill
+E. Memorandum Explaining the Provisions in the Finance Bill, 2015
+F. Macro-economic framework for the relevant ﬁnancial year
+G. Fiscal Policy Strategy Statement for the ﬁnancial year
+H. Medium Term Fiscal Policy Statement
+I. Expenditure Budget Volume -1
+J. Expenditure Budget Volume -2
+K. Receipts Budget
+
+Q 75.D
+For the examina  on, a detail piece of ar  cle is given.
+The report of the Fourteenth Finance Commission (FFC) was tabled in Parliament yesterday. The government has accepted its far-reaching, indeed radical, recommenda  ons that have the poten  al to redeﬁne Indian federalism in a long overdue and desirable manner. This piece describes the key recommenda  ons and highlights some of their major implica  ons. It is based on upda  ng assump  ons in the FFC report, which is the only source of data used in the numbers presented below. The discussion below, especially the es  mates, should be seen as illustra  ve at best.
+Ver  cal and horizontal devolu  on
+The FFC has increased the amount that the Centre has to transfer to the states from the divisible pool of taxes by 10 percentage points, from 32 per cent to 42 per cent. Its radical nature is indicated by the comparison with the previous two Finance Commissions (FCs) that increased the share going to the states by 1 and 1.5 percentage points, respec  vely. So, the FFC recommenda  ons represent a ten and six-and-a-half fold increase, respec  vely rela  ve to  the  previous  two  FCs.  Had  the  new  share  been  implemented  in  2014-15  (Budget es  mates), the Centre’s ﬁscal resources would have shrunk by about 1.20 lakh crore (0.9 per cent of gross domes  c product or GDP). If the comparison were to be in terms of overall (tax plus non-plan grants) devolu  on, the increase would be roughly comparable to that in tax devolu  on.
+In addi  on, the FFC has signiﬁcantly changed the sharing of resources between the states — what  is  called  horizontal  devolu  on.  The  FFC  has  proposed  a  new  formula  for  the distribu  on  of  the  divisible  tax  pool  among  the  states.  There  are  changes  both  in  the variables included/excluded as well as the weights assigned to them. Rela ve to the Thirteenth  Finance  Commission,  the  FFC  has  incorporated  two  new  variables:  2011 popula  on and forest cover; and excluded the ﬁscal discipline variable.Several other types of transfers  have  been  proposed,  including  grants  to  rural  and  urban  local  bodies,  a performance grant, and grants for disaster relief and reducing the revenue deﬁcit of eleven states. These transfers total approximately 5.3 lakh crore for the period 2015-20.
+Uniformly large addi  on to states’ resources
+The impact of FFC transfers to the states needs to be assessed in two ways: gross and “net” FFC  transfers  will  clearly  add  to  the  resources  of  all  the  states  in  absolute  terms  and substan  ally. They will also increase resources when scaled by states’ popula  on, net state domes  c product, or own tax revenues, with the la  er conno  ng the addi  on to ﬁscal spending power.
+Implemen  ng the FFC recommenda  ons alone would undermine the centre’s ﬁscal posi  on substan  ally. The philosophy of the FFC report is that there should be some corresponding reduc  on in the central assistance to states (CAS, the so-called plan transfers). Thus, greater ﬁscal autonomy to the states would be achieved both on the revenue side (on account of states now having more resources and more un  ed resources) and on the expenditure side because  of  reduced  CAS  transfers.  The  exact  mechanism  for  implementa  on  will  be discussed in the months ahead but the legally backed schemes as well as ﬂagship schemes that meet core objec  ves, such as rural livelihoods and poverty allevia  on, will be, and need to be, preserved.
+The net impact on the states will depend not just on the transfers eﬀected via the FFC, but
+also the consequen  al altera  on of CAS. Under some simple assump  ons about how the la  er will be distributed, we ﬁnd that all states will end up be  er oﬀ than before, although there will be some varia  on amongst the states.
+Increase in progressivity of overall transfers
+The  FFC  transfers  have  a  more  favourable impact on  the states  that  are  rela  vely  less developed, which is an indica  on that they are progressive, that is, states with lower per capita  net  state  domes  c  product  (NSDP)  are  likely  to  receive  on  average  much  larger transfers per capita . The correla  on between per capita NSDP and FFC transfers per capita is
+-0.72 based on some broad assump  ons about FFC transfers. This indicates that the FFC recommenda  ons do go in  the direc  on  of  equalising the income and ﬁscal dispari  es between the major states.
+In contrast, CAS transfers are only mildly progressive: the correla  on coeﬃcient with state per capita GDP (over the last three years) is -0.29. This is a consequence of plan transfers moving  away  from  being  formula-based  (Gadgil-Mukherjee  formula)  to  being  more discre  onary in the last few years. Greater central discre  on evidently reduced progressivity. A corollary is that implemen  ng the FFC recommenda  ons would help address inter-state resource inequality: progressive tax transfers would increase, while discre  onary and less progressive plan transfers would decline.
+Weakening ﬁscal discipline?
+Will FFC transfers lead to less ﬁscal discipline? There are two reasons to be op  mis  c. First, in the last few years the overall deﬁcit of the states has been about half of that of the Centre: in 2014-15 (Budget es  mates) for example, the combined ﬁscal deﬁcit of the states was es  mated at 2.4 per cent of GDP compared to 4.1 per cent for the Centre. So, on average, states, if anything, are more disciplined than the Centre.
+Based on analysing recent state ﬁnances, we ﬁnd that addi  onal transfers toward the states as a result of the FFC will improve the overall ﬁscal deﬁcit of the combined central and state governments by about 0.3-0.4 per cent of GDP. Moreover, nearly all the state governments have enacted ﬁscal responsibility legisla  ons (FRLs), which requires them to observe high standards of ﬁscal discipline such as keeping the deﬁcit low.
+Further, as part of the new Centre-state ﬁscal rela  ons, for example, under the NITI Aayog, mechanisms  for  peer  assessments  and  mutual  accountability  could  be  created,  and incen  ves  could  be  provided  for  maintaining  ﬁscal  discipline.  This  is  becoming  rou  ne prac  ce in many federal structures where sovereignty is shared between the members. The FFC  recommenda  ons  and  the  consequences  they  entail  oﬀer  an  opportune    me  for ins  tung such mechanisms.
+Conclusions
+With the caveats noted earlier, the main conclusions are that the FFC has made far-reaching changes  in  tax  devolu  on  that  will  move  the  country  toward  greater  ﬁscal  federalism, conferring more ﬁscal autonomy on the states. This will be enhanced by the FFC-induced impera  ve of having to reduce the scale of other central transfers to the states. In other words, states will now have greater autonomy both on the revenue and expenditure fronts. This,  of  course,  is  in  addi  on  to  the  beneﬁts  that  will  accrue  from  addressing  all  the governance and incen  ve problems that have arisen from programmes being dictated and managed   by   the   distant   central   government   rather   than   by   the   proximate   state governments.
+To  be  sure,  there  will  be  transi  onal  challenges,  notably  how  the  Centre  will  meet  its mul  ple objecves given the shrunken ﬁscal envelope. But there will be oﬀse   ng beneﬁts: moving from CAS to FFC transfers will increase the overall progressivity of resource transfers to the states. Another is that overall public ﬁnances might actually improve by more than suggested by looking at the central government ﬁnances alone.
+In sum, it is clear that the far-reaching recommenda  ons of the FFC, along with the crea  on
+of  the  NITI  Aayog,  will  radically  alter  Centre-state  ﬁscal  rela  ons,  and  further  the government’s vision of coopera  ve and compe    ve federalism.
+The  necessary,  indeed  vital,  encompassing  of  ci  es  and  other  local  bodies  within  the embrace of this new federalism is the next policy challenge, a change that we would like to see.
+
+Q 76.D
+Gene  cally  modiﬁed  plants  are  those  that  undergo  altera  ons  in  their  gene  c  set  up. Through recombinant DNA technology, the features of food crops can be altered in the desirable ways.
+
+Q 77.B
+Soil Health Card (Centrally Sponsored Scheme) for Integrated Plant Nutrient Management to improve soil fer  lity and produc  vity on a sustainable basis. 3rd statement is correct.
+It aims to provide every farmer a Soil Health Card in a Mission mode. The card will carry crop wise  recommenda  ons of  nutrients/fer  lizers required  for farms, making it  possible  for farmers to improve produc  vity by using appropriate inputs.
+Hence 1st statement is correct.
+Every soil health card will be renewed a  er every three years.  Hence  2nd statement  is incorrect.
+Central Government provides assistance to State Governments for se   ng up Soil Tes  ng Laboratories  for  issuing  Soil  Health  Cards to  farmers.  State  Governments  have  adopted innova  ve prac  ces like involvement of agricultural students, NGOs and private sector in soil tes  ng, determining average soil health of villages, etc., to issue Soil Health Cards. Hence 4th statement is correct. So op  on (b) is the correct answer.
+
+Q 78.B
+Environmental  Impact  Assessment  (EIA)  is  an  important  management  tool  for  ensuring op  mal use of natural resources for sustainable development.
+To  facilitate  collec  on  of  environmental  data  and  prepara  on  of  management  plans, guidelines   have   been   evolved   and   circulated   to   the   concerned   Central   and   State Government Departments.
+EIA has now been made mandatory under the Environmental (Protec  on Act, 1986) for 29 categories of developmental ac  vi  es involving investments of Rs. 50 crores and above. ï»¿Hence, 3rd statement is incorrect.
+
+Q 79.D
+The Orion Mul  -Purpose Crew Vehicle (MPCV) is a spacecra   intended to carry astronauts to  des  na  ons  at  or  beyond  low  Earth  orbit  (LEO).  Currently  under  development  by NASA for launch on the Space Launch System.Orion is currently intended to facilitate human explora  on of asteroids and of Mars, as well as to provide a means of delivering or retrieving crew or supplies from the ISS if needed.
+MESSENGER (an acronym of MErcury Surface, Space ENvironment, GEochemistry, and Ranging,  and  a  reference  to  Mercury  being  the  messenger  of  the  gods)  is  a  robo  c NASA spacecra    orbi  ng the planet Mercury to study its chemical composi  on, geology, and magnec ﬁeld.
+New Horizons   is a NASA space probe or spacecra  , launched to study the dwarf planet Pluto, its moons  and one or two other Kuiper Belt objects(KBOs) , depending on which are in posi  on to be explored. On January 15, 2015, then New Horizons  spacecra    began its approach phase to Pluto, which will result in the ﬁrst ﬂyby of the dwarf planet on July 14,
+2015.
+Hence, op  on d is the correct answer.
+
+Q 80.D Q 81.C
+Stage 1 inputs: natural uranium
+Stage 2 inputs: plutonium
+Stage 3 inputs: thorium and uranium -233
+
+Q 82.B
+OLED were in news as in Budget 2015-16 Basic customs duty was reduced from 10 % to nil to reduce the cost of raw materials.
+OLED  panels  are  made  from  organic  (carbon  based)  materials   that  emit  light  when electricity is applied through them.
+Since OLEDs do not  require  a backlight  and ﬁlters (unlike LCD displays), they are more eﬃcient, simpler to make, and much thinner.
+OLEDs have a great picture quality - brilliant colors, fast response rate and a wide viewing angle.
+Hence 1st and 2nd statements are correct; 3rd statement is incorrect and op  on (b) is the correct answer.
+
+Q 83.B
+Central Adop  on Resource Authority (CARA) is an autonomous body under the Ministry of
+Women & Child Development, Government of India. Hence, 1st statement is incorrect.
+CARA  primarily  deals  with  adop  on  of  orphan,  abandoned  and  surrendered  children through its associated /recognised adop  on agencies. It func  ons as the nodal body for adop  on of Indian children and is mandated to monitor and regulate in-country and inter- country adop  ons. Hence, 2nd statement is correct.
+CARA is designated as the Central Authority to deal with inter-country adop ons in accordance with the provisions of the Hague Conven  on on Inter-country Adop  on, 1993, ra  ﬁed by Government of India in 2003.
+â€œInter-country  Adop  onâ€  means  adop  on  of  a  child  or  children  by persons  having status of Non-Resident  Indians  (NRIs) or Overseas Ci  zens of India (OCIs) or Persons of Indian Origins (PIOs) or Foreign Na  onals. Hence, 3rd statement is incorrect.
+Changes  will  be  made  in  the  CARA  (will  be  made  a  statutory  body,  etc.)  through  the proposed Juvenile Jus  ce Bill, 2014 whenever it will get passed by both the houses of the Parliament.
+Currently The Hindu Adop  on and Maintenance Act of 1956 governs adop  on by India ci  zens who are Hindus, Sikhs, Jains or Buddhists and does not permit adop  on of more than one child of the same sex. Adop  on by Indian ci  zens who are Muslims, Chris  ans, Parsis, Jews, Indian NRIs and foreign ci  zens are governed by the Guardian and Wards Act of
+1890 under which the adop  ve parent is only the guardian of the child   ll its majority at 18 years of age.
+
+Q 84.D
+Ar  cles 341 and 342 of the Cons  tuon deﬁnes to who would be SC and ST with respect to any state or UT. The Government has to prepare the list of OBCs.
+Ar  cle 341 (1): The President may with respect to any State or Union Territory and where it is a State, a  er consulta  on with the Governor thereof, by public no  ﬁca  on specify the castes, races or tribes or parts of or groups within castes, races or tribes which shall for the purposes of this Cons  tu  on be deemed to be Scheduled Castes in rela  on to that State or Union Territory as the case may be.
+Ar  cle 341 (2): Parliament may by law include in or exclude from the list of Scheduled Castes speciﬁed in a no  ﬁca  on issued under clause (1), any caste, race or tribe or part of or group within any caste, race or tribe, but save as aforesaid a no  ﬁca  on issued under the said clause shall not be varied by any subsequent no  ﬁca  on
+Ar  cle 342 has similar provisions for ST.
+In the Cons  tu  on (Scheduled Castes) Order, 1950 (as amended from   me to   me), it has been men  oned that no person professing a religion diﬀerent from Hindu or Sikh religion can be deemed to be a member of Scheduled Castes. By later orders, persons converted into Buddhism (known as neo-Buddhists) are also members of the Scheduled Castes. There is, however, no religious bar for being treated as Scheduled Tribes
+
+Q 85.B
+The Arc  c is warming faster than the rest of the world. Recent research indicate that the Arc  c is warming about twice as fast as the rest of the world. ï»¿Hence, only 1st statement is incorrect.
+Why? Shiny ice and snow reﬂect a high propor  on of the sun's energy into space. As the Arc  c loses snow and ice, bare rock and water absorb more and more of the sunâ€™s energy, making it ever warmer. This is called the albedo eﬀect.
+Carbon and methane has been locked in the permafrost and beneath the cold arc  c waters (in subsea permafrost) for millions of years. As the temperatures warm, these greenhouse gases are increasingly released into the atmosphere and cause further warming.
+
+Q 86.C
+KCC was introduced for short and medium term loan in 1998. ï»¿Hence, only 1st statement incorrect. Rest all are correct.
+
+Q 87.C
+Project arrow is aimed to revitalize core opera  ons using new technology. Meghadoot is so  ware used in post department.
+Panchaya   Sanchar Seva Kendras are opened in villages with no post oﬃces.
+
+Q 88.D
+A dance style is classical to the extent that it incorporates Natya Shastra techniques.
+There are eight classical dances recognized by both Sangeet Natak Academy and ministry of Culture as Classical Dances viz. Bharatnatyam  (Tamil Nadu), Kathakali  (Kerela), Kuchipudi (Andhra Pradesh), Kathak (North India), Manipuri (Manipur), Odissi (Odisha)  and Sa  riya (Assam).
+
+Q 89.C
+The PAs are cons  tuted and governed under the provisions of the Wild Life (Protec  on) Act,
+1972.
+There are 4 categories of the Protected Areas viz, Na  onal Parks, Sanctuaries, Conserva  on
+Reserves and Community Reserves.
+Ecosensi  ve Zones are areas around na  onal parks and sanctuaries which are not part of
+Protected Areas.
+Statement 2 is correct others incorrect so op  on C
+
+Q 90.A
+It was composed by Bankimchandra Cha  erjee and has an equal status as the Na  onal Anthem. Both Na  onal anthom Jangan Man and Na  onal song Vandematram were adopted on  24 January 1950.
+Rajendra Prasad, who was presiding the Cons  tuent Assembly on 24 January 1950, made the following statement which was also adopted as the ﬁnal decision on the issue: â€œ...The composion  consis  ng  of  words  and  music  known  as  Jana  Gana  Mana  is  the  Na  onal Anthem of India, subject to such altera  ons as the Government may authorise as occasion arises, and the song Vande Mataram, which has played a historic part in the struggle for Indian freedom, shall be honoured equally with Jana Gana Mana and shall have equal status with it. (Applause) I hope this will sa  sfy members.â€
+It was translated into English by Aurobindo Ghosh.
+The ﬁrst poli  cal occasion that it was sung was in 1896 session of INC not in 1911. The Na  onal Anthem was sung ﬁrst   me in 1911. ï»¿Hence, only 3rd statement incorrect. Rest all are correct.
+
+
+Q 91.C
+One   such   venerable   personality   is   Sant   Gadge   Baba   (1876-1956).   This   peripate  c mendicant-saint  from  Maharashtra,  one  of  the  greatest  modern-day  social  reformers  in India,  worked  for,  and  among,  the  poorest  of  the  poor.  (In  2010,  the  Maharashtra government launched a campaign for clean villages called the Sant Gadge Baba Gram Swachhata Abhiyan.) For 50 long years, from the   me he le    his home and family in 1905 un  l his death, he wandered from village to village, from town to town, with a broom in hand, his only other worldly possession being a small earthen pot he used to beg for food. ï»¿Hence, 1st statement incorrect. Rest all are correct.
+Baba, an illiterate scholar who studied in the â€œUniversity of Lifeâ€, was a preacher par excellence. He sang bhajans composed by Bhak   saints, Sant Tukaram being his favourite. Cleanliness is godliness, he would retort when some people ridiculed him for mixing bhajans with broom-work. The ﬁrst thing he did a  er entering a village was to sweep the streets, especially the streets of â€œuntouchablesâ€™ quartersâ€, singing songs interspersed with his signature slogan, â€œGopala! Gopala! Devakinandan Gopala!â€ (Gopal is another name of Lord Krishna, son of Devaki.) People would join him and very soon the village would wear a clean look. Therea  er, usually a  er a common, contributory meal that people of all castes and communi  es ate together, he would gather the villagers for an interac  ve kirtan session of two-three hours at night.
+
+Q 92.A
+Self- Employment and Talent U  lisa  on (SETU) mechanism is announced in Union Budget
+2015-16.
+It will be a Techno-Financial, Incuba  on and Facilita  on Programme to support all aspects of start up  businesses, and other  self-employment ac  vi  es,  par  cularly  in technology- driven areas. An amount of Rs.1000 crore is being set up ini  ally in NITI Aayog for SETU. Hence op  on (a) is the correct answer.
+
+Q 93.B
+Sound volume is measure in decible - and is a dimensionless, logarithmic scale and not exponen  al scale.
+The loudest sound human can hear is 160dB. A  er this eardrum gets punctured.
+The loudest sound of 180dB ever recorded was in a volcanic erup  on in Krakatoa, Indonesia
+1883.
+The NGT adjudicates on ma  ers for following acts:
+
+Water Pollu  on Act 1974. Forest Conserva  on Act 1980
+Air Polluon Act 1981
+Environment Act 1986
+Public Liability Insurance Act 1991
+Biological Diversity act 2002
+
+Q 95.A
+Sales tax is indirect tax collected by state government.
+Corporate tax is direct tax collected by central government only. Service tax is indirect tax collected by central government.
+
+Q 96.C
+Integra  on is generally considered to be a process that evolves through a series of phases. Each of these phases or stages is described as:
+Preferen  al Trade Agreement is area whose component countries enjoy trade preferences with each other in the area without necessarily covering the main items of trade between the signatory countries.
+Free Trade Areas under this trade is conducted duty-free within the group of countries in the preference area, but each member is free to set its own customs tariﬀs on imports from non-member countries.
+Customs  Union:  All members of  a free trade area impose the same customs tariﬀs on imports from non-member countries.
+Common Market: Stage following the customs union, in which factors (labour and capital)
+move around freely and common rules have been adopted for their regula  on.
+Monetary Union: Use of a single currency or a reference currency based on a “basket” of the respec  ve na  onal currencies, with a common Central Bank and monetary policy. A monetary union is a stage following the establishment of a common market.
+Poli  cal Union: Union of countries that share common environmental, social, labour and cultural policies; suprana  onal ins  tu  ons are provided for to regulate and “administer” the process of integra  on, foreign policy, etc.
+(Reference:   The   world   of   work  in   the  context   of   economic   integra  on  and  trade liberaliza  on; Working Paper No. 45 by Daniel Mar  nez.)
+
+Q 97.B
+Highlights  of  the  Pradhan  Mantri  Suraksha  Bima  Yojana  (Pmsby  â€“  Scheme  1  -  for
+Accidental Death Insurance)
+Eligibility: Available to people in age group 18 to 70 years with bank account. ï»¿ Premium:  Rs.12 per annum.
+Payment Mode: The premium will be directly auto-debited by the bank from the subscribers account. This is the only mode available.
+Risk Coverage:  For accidental death and full disability - Rs.2 Lakh and for par  al disability â€“ Rs.1 Lakh.
+Eligibility:  Any  person  having  a  bank  account  and  Aadhaar  number  linked  to  the  bank account can give a simple form to the bank every year before 1st of June in order to join the scheme.  Name of nominee to be given in the form.
+Terms of Risk Coverage: A person has to opt for the scheme every year. He can also prefer to
+give a long-term op  on of con  nuing in which case his account will be auto-debited every year by the bank.
+Who will implement this Scheme?: The scheme will be oﬀered by all Public Sector General Insurance Companies and all other insurers who are willing to join the scheme and   e-up with banks for this purpose.
+Government Contribu on: (i) Various Ministries can co-contribute premium for various categories of their beneﬁciaries from their budget or from Public Welfare Fund created in this budget from unclaimed money. This will be decided separately during the year. (ii) Common Publicity Expenditure will be borne by the Government.
+
+Q 98.D
+Saansad Adarsh Gram Yojana (SAANJHI) was launched in October , 2014 and at the na  onal level it is being  implemented by Ministry of Rural Development. Hence, 1st statement is incorrect.
+The Saansad Adarsh Gram Yojana, would  have three dis  nct features â€“ it would be (a) demand  driven  (b) inspired  by society  (c) based  on peopleâ€™s  par  cipa  on. The MP would  be  free  to  iden  fy  a  suitable  Gram  Panchayat  for  being  developed  as  Adarsh Gram, other than his/her own village or that of his/her spouse. Hence, 2nd statement is incorrect.
+It aims at ins  lling certain values, such as peopleâ€™s par  cipa  on, Antyodaya, gender equality,   dignity   of   women,   social   jus  ce,  spirit   of   community   service,  cleanliness, eco-friendliness, maintaining ecological balance, peace and harmony, mutual coopera  on, self-reliance, local self-government, transparency and accountability in public life, etc. in the villages and their people so that they get transformed into models for others.
+A Gram Panchayat would be the basic unit and not the Gram Sabha. Hence, 3rd statement is incorrect.
+Primarily, the goal is to develop three Adarsh Grams by March 2019, of which one would be achieved by 2016. Therea  er, ﬁve such Adarsh Grams (one per year) will be selected and developed by 2024.
+The MP will iden  fy one Gram Panchayat to be taken up immediately, and two others to be taken up a li  le later.
+Lok Sabha MP has to choose a Gram Panchayat from within his/her cons  tuency and Rajya Sabha MP a Gram Panchayat from the rural area of a district of his/her choice in the State from which he/she is elected. Nominated MPs may choose a Gram Panchayat from the rural area of any district in the country.
+In the case of urban cons  tuencies, (where there are no Gram Panchayats),  the MP will iden  fy a Gram Panchayat from a nearby rural cons  tuency.
+
+Q 99.D
+The direc  ves require that all universies follow a Choice Based Credit System (CBCS) from
+2015 onwards. The aim is to provide choice to students within an ins  tu  on as well as “seamless  mobility  across  ins  tuons”  in  India  and  abroad  by  adop  ng  a  “cafeteria approach”. These guidelines are apparently supposed to apply to all undergraduate and postgraduate level degree, diploma and cerﬁcate programmes being run by Central, State and deemed universies in India. Once again: such sweeping change, so li  le thought.
+
+Q 100.D
+The NBFCs as a whole account for 12.7 per cent of the assets of the total ﬁnancial system. With the growing importance assigned to ﬁnancial inclusion, NBFCs are being regarded as important ﬁnancial intermediaries par  cularly for the small scale and retail sectors.
+NBFC do not accept demand deposit but mobile resources via term deposits, term money borrowings, cer  ﬁcates of deposit (CD), commercial paper (CP), and inter-corporate loans, There are two broad  categories of NBFCs based on whether they accept public deposits, viz.
+deposit-taking NBFCs (NBFCs-D) and non-deposit-taking NBFCs (NBFCs-ND). The
+The total number of NBFCs registered with the RBI witnessed a con  nuous decline mainly due to cancella  on of cer  ﬁcates of registra  on and their exit from deposit-taking ac  vi  es.

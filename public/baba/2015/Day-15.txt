@@ -1,0 +1,259 @@
+1. Heat waves was in news recently which killed more than 2,500 people in the year 2015 till June.
+Consider the following statements regarding heat waves
+1) Heat wave's adverse impact occurred mainly in Northern and Eastern region of India.
+2) Severe heat waves come under National Calamity just like cold waves.
+3) IMD recommended to declare a region as severeheat waves affected region if temperature reached beyond 45 degree Celsius.
+4) It is a natural calamity found in tropical regions and not in temperate regions.
+Choose the correct statement/s from the code
+1. 1, 3 only
+2. 2, 3, 4 only
+3. 1, 2, 3 only
+4. All the above
+Answer: 1
+Heatwaves impacted mainly in northern states like Uttar Pradesh, Bihar and Eastern states like Odisha, Andhra Pradesh, Telangana.  Central government has declared cold waves, tsunamis etc as National Calamity but not heat waves.  Thus recently after the heat waves took toll of many lives country wide, there was a demand from experts as well as many states for heat waves to be declared as National Calamity.  Heat waves are the phenomenon found not only in tropical regions but also in temperate regions.  Example: UK experienced the severe heat waves in 2013.
+
+2. During monsoon season the ITCZ (inter tropical convergence zone) shifts almost upto 25 degree North latitude over the Indian subcontinent while it rarely crosses 15 degree North latitude in other regions. This is because
+1. Vast landmass of Eurasia located to the North of the Equator.
+2. Intense low pressure over the Northwestern region of Indian subcontinent and over the vast, high altitude Tibetan plateau pulls ITCZ Northwards.
+3. Shifting of Westerly jet streams to the North of Tibetan plateauat the end of the month of May.
+Choose the correct code from the following
+1. 1, 2 only.
+2. 2, 3 only.
+3. 1, 3 only.
+4. All of the above.
+Answer: 4
+Inter tropical convergence zone is termed as a thermal equator and is the zone where the Northeast and Southeast trade winds meet. This ITCZ shifts Northwards upto 25 degree North latitude during the months of June-July. This is facilitated by all the above points mentioned.  Westerly jet streams: These shifts southward during winters because of the southern shift of entire pressure belts by some 10 degree latitudes which is in turn because of Southern shift of Sun towards Tropic of Capricorn during winters. These jet streams because of vast Tibetan plateau,get bifurcated into 2 parts, with one part traversing south of Himalyan mountains and the other to the north of Tibetan plateau. With the advent of summers and gradual shift of Sun towards Tropic of Cancer, the part of the jet streams to the South of Himalayas gets weakened. At the end of the month of May the Westerly jet streams completely shifts to the North of Himalayas and thus becomes stronger over the Central China and also Japan. This Northern shift facilitates the Northward shift of ITCZ.
+
+3. The frequency of the cyclones is lower in Arabian sea when compared to Bay of Bengal. This is because
+1. Arabian sea surface temperature is higher compared to that of Bay of Bengal.
+2. Bay of Bengal receives the remnants of the typhoons originated in Northwestern Pacific ocean.
+3. Arabian sea receives the remnants of cyclones from Bay of Bengal.
+Choose the correct code from the following
+1. 1, 2 only.
+2. 1, 3 only.
+3. 2, 3 only.
+4. All the above. 
+Answer: 3
+Bay of Bengal being a closed and a smaller water body, it has higher surface temperature compared to Arabian sea.  North Western region of Pacific ocean has the highest proportion of global tropical cyclones. These cyclones which originate in the Pacific ocean start moving towards south western direction and finally reach Bay of Bengal. But by the time they reach, they almost lose their energy and only remnants of cyclones reach Bay of Bengal. Similarly the cyclones originated in Bay of Bengal reach Arabian sea but only remnants of cyclones after shedding their energy while traversing over the peninsular landmass.
+
+4. Consider the following statements regarding tropical cyclones which is one of the important determining factor for the success of Indian monsoons. 
+1. These are termed as the heat engines, which derive their energy from the condensation of water vapor into water droplets/drops.
+2. More than 50% of the energy derived is utilized to sustain the wind movement around the central eye.
+3. A mature cyclone releases energy equivalent to that of 100 hydrogen bombs. 
+Which of the following statements are NOT true
+1. 1, 2only.
+2. 1, 3only.
+3. 2 only.
+4. None of the above.
+Answer: 3
+The energy is derived from the condensation of water vapor into water droplets and of this only meager 3% is utilized for sustaining the wind movemnents.
+
+5. Snow line is a line above which no vegetation grows on high altitude mountains because of permanent snow cover. This snow line is lower for Eastern Himalayas compared to that of Western Himalayas. What are the reasons?
+Consider the following statements
+1. Eastern Himalayas are near to the Equator.
+2. Western Himalayas are more continental in their location thus has lesser maritime influence.
+3. Southwest monsoon winds have the moderating effect on the Western Himalayas.
+Choose the correct code
+1. 1,2 only.
+2. 1, 3 only.
+3. 2, 3 only.
+4. All the above.
+Answer: 4
+Statement 1 and 2 are self explanatory.
+Bay of Bengal branch of the Southwest monsoon winds cause copious rainfall in the eastern Himalayas while monsoon winds hardly reach Western Himalayas and thus causing no rainfall. This higher rainfall leads to decrease in the height of snow line in the Eastern Himalayas.
+
+6. Coal bed methane is released during coal mining and is generally recommended to extract it rather than letting it evaporate into the atmosphere when untapped because
+1. CBM if is not extracted can cause fire hazards while mining deep areas.
+2. CBM if allowed to escape into atmosphere, will get converted into carbon monoxide which is a potent green house gas.
+Which of the statements is/are the correct reason/s? 
+1. 1 only.
+2. 2 only.
+3. Neither 1 nor 2.
+4. Both 1 and 2.
+Answer: 2
+CBM doesn't cause any as such fire hazards if left un extracted.  CBM once extracted and used as a source of energy it will be less harmful to environment because the burning of CBM releases majorly carbon dioxide. But if it is not extracted it will escape into atmosphere and get converted into carbon monoxide which is more potent green house gas than carbon dioxide.
+
+7. Consider the following statements regarding the production and reserves of copper in India.
+1. Rajasthan has the largest reserves of copper and is also the highest producer of copper in India.
+2. India is self sufficient in copper production and also at times it has also exportedcopper to countries like Japan, South Korea etc.
+3. Production of copper is a tedious job especially in India as the copper ore found in India as it is of the lower grade compared to International grade of the ore.
+Which are the correct statements? 
+1. 1 only.
+2. 1, 3 only.
+3. 2, 3 only.
+4. 3 only. 
+Answer: 4
+Explanation:
+Rajasthan although has the highest reserves, it is not the highest producer. Madhya Pradesh is the highest producer currently.  The production of copper in India always falls short of demand and thus we export copper from countries like US, Japan, Canada etc.  Third statement is true because in India the metal content in the ore is quite low compared to international average. The metal content is less than 1% in India while the international average stands at 2.5%.
+
+8. Consider the following statements regarding biogas which is a very important source of energy in rural areas.
+1. Biogas has a higher thermal efficiency compared to charcoal, cow dung, kerosene.
+2. Not only biogas serves as a source of energy in the form of fuel but also can be used as manure for farm crops.
+3. It is slightly less environment friendly as it releases green house gases when burnt as a fuel.
+Choose the incorrect code from the following
+1. 1, 2 only.
+2. 2, 3 only.
+3. 3 only.
+4. None of the above.
+Answer: 3
+Biogas typically refers to a mixture of different gases produced by the breakdown of organic matter in the absence of oxygen. Biogas can be produced from raw materials such as agricultural waste, manure, municipal waste, plant material, sewage, green waste orfood waste. High levels of methane are produced when such wastes is stored under anaerobic conditions. During storage and when manure has been applied to the land, nitrous oxide is also produced as a byproduct of the denitrification process. Nitrous oxide (N2O) is 320 times more aggressive than carbon dioxide and methane 21 times more than carbon dioxide. Thus biogas production negates all these harmful gases and thus it is a environment friendly gas. 
+
+9. Consider the following statements which describe the properties of a particular metal
+1. It as a valuable metal of which the major ore is Wolfram.
+2. It is self hardening which it imparts to the steel when alloyed with the steel.
+3. Steel when alloyed with this metal, is used in manufacturing of ammunitions, armour plates, heavy guns etc.
+4. Its alloys are heat resistant, corrosion resistant and hardfacing.
+Choose the correct metal from the options
+1. Tungsten.
+2. Chromium.
+3. Copper.
+4. Titanium.
+Answer: 1
+
+10. Consider the following statements regarding the atomic minerals.
+1. Uranium occurs both in the earth's crust as well as sea water.
+2. India has one of the richest reserves of thorium in the world.
+3. US has the highest reserves of uranium in the world.
+Which of the above statements are correct ?
+1. 1 only.
+2. 1, 2 only.
+3. 2, 3 only.
+4. All the above.
+Answer: 2
+Australia has the highest reserves of uranium and not the US.India Year Book and Current Affairs
+
+11. To bring prosperity and tranquility in north-eastern region of India what actions or plans you think is/are good from given below
+       1. Shift from voluminous crops to high value horticulture crops.
+       2. More strict laws to counter insurgency.
+       3.  Policy to give boost to bamboo based handicraft industries. 
+       4. Laying down of rail tracks to increase connectivity among north-eastern cities.  
+Select the correct code
+1. 1, 2, 3 only
+2. 1, 3 only
+3. All of the above
+4. None
+Answer: 2
+North-east region has rough terrain so possibility of laying down tracks wouldn't be nice idea to execute.  It has been established by facts in history that peace was brought by negotiation rather strict laws. Strict laws have yielded an atmosphere of animosity.
+
+12. What are the important commercial crops produced in Malabar region from given below:
+      1. Coffee and tea
+      2. Tobacco
+      3. Betelnut
+      4. Rubber
+      5. Cashewnut
+Select the correct code
+1. 1, 2, 3 only
+2. 1, 3. 5 only
+3. All of the above
+4. 1, 3, 4, 5 only
+Answer: 4
+India year book page no. 6 Tobacco is mainly produced in Guntur and Prakasham district of Andhra Pradesh and Kheda district of Gujrat.
+
+13. According to world biogeographic classification. India represents which two major realms
+        1. Palearctic and Indo-Malayan
+        2. Palearctic and Neo-arctic
+        3. Neo-arctic and Indo-Malayan
+Select the correct code
+1. Only 1
+2. 1 and 2
+3. Only 3
+4. None
+Answer: 1
+India year book page no. 6
+
+14. Consider the statements below:
+1. Central tribal belt is dominated by Proto-Australoid racial strain.
+2. Hills of southern India is inhabited by tribal of Negritoes racial strain.
+3. Negritoes racial strain is confined to islands of Andaman and Nicobar only.
+Select the correct code
+1. 1, 2 only
+2. 1, 3 only
+3. 3 only
+4. None
+Answer: 1
+Read about puliyans, uralis living in southern hills . They are of negritoes racial strain
+
+15. National symbols hold a revered position among Indians. It is/was maintained and protected by
+   1. Non-statutory instructions
+   2. Statutes
+   3. Constitutional references
+Select the correct code
+1. 1, 2 only
+2. 2, 3 only
+3. 3 only
+4. All of the above
+Answer:4
+Fundamental duties say about paying respect to national symbols. There are various legislation pieces like the flag code of India 2002 which were legislated to seek compliance to standards from citizens.  India year book chapter no. 2
+
+16. "Give It Up" campaign will have positive impact on
+1. Health of rural India.
+2. Environment.
+3. Revenue of Local bodies.
+4. Comforts of rural women. 
+Select the correct code
+1. 1 only
+2. 1, 3 only
+3. 1, 2, 4 only
+4. All of the above
+Answer: 3
+
+17. Major initiatives envisaged to make 'Digital India" campaign a success include
+1. Communication infrastructure and services
+2. Products like digital lockers, e-sign and e-hospital/ORS etc.
+3. Portals and apps
+4. Opening of research institutions
+5. Important Policies initiatives. 
+Select the correct code
+1. 1, 2. 3only
+2. 1, 2. 3. 5 only
+3. 3 only
+4. All of the above
+Answer: 4
+
+19. Socio-demographic changes at source that are result of rural to urban migration in India.
+  1. Low sex-ratio.
+  2. Population pyramid will shrink at its base in years to come.
+  3. Feminization of workforce.
+Select the correct code
+1.  1, 2 only
+2.   2, 3 only
+3.   3only
+4. All of the above
+Answer: 2
+Rural to urban migration mainly constitutes of male so sex ratio goes down. Even migration brings down fertility rate so in future population pyramid will shrink.
+
+22. Consider the statements regarding mitochondrial Donation Technique:
+1. It involves addition of healthy mitochondria from donor women to an egg from other women with defective mitochondria.
+2. This technique prevents new born babies from heart failure and blindness only.
+3. There are two different procedures used in mitochondrial donation technique -(a) Maternal Spindle Transfer (b) Pronuclear Transfer technique
+Select the correct code
+1. 1 only
+2. 1, 2 only
+3. 1, 3 only
+4. All of the above
+Answer: 3
+It prevents new born babies from brain damage, muscle wasting, heart failure and blindness due to defective mitochondria. 
+http://www.independent.co.uk/life-style/health-and-families/health-news/threeparent-babies-what-ismitochondrial-donation-and-what-are-the-techniques-involved-10021567.html
+
+24. Consider the statements
+1. Cryogenic engine provides more thrust with each kg of propellant it uses.
+2. Cryogenic engine uses liquid oxygen and liquid hydrogen at very low temperature
+3. Engine need low mass flow rate of both oxidizer and fuel to avoid explosion in combustion chamber. 
+Select the correct code
+1. 2 only
+2. 1, 2 only
+3. 2, 3 only
+4. All of the above
+Answer: 2
+Engine need high mass flow rate of both oxidizer and fuel to generate a sufficient thrust. Independent regulators are there to check thrust control.
+
+25. Consider the following statements with reference to hot and cold water
+1. Cold water freezes faster than hot water
+2. This phenomenon or effect is know as Mpemba Effect.
+Select the correct code
+1. Only 1
+2. Only 2
+3. Both
+4. None
+Answer:  4
+http//www.iflscience.com/chemistry/hot-water-freezes-faster-cold-and-now-we-know

@@ -1,0 +1,196 @@
+1. Consider the following statements.
+1. An extremely low aggregate demand.
+2. Comparatively lower inflation.
+3. Production houses go for forced labour cut in order to reduce production cost.
+Which of the following stage of Business cycle best represents the above characteristics?
+1. Recession
+2. Recovery
+3. Depression
+4. Boom
+Answer: (3)
+Explanation:
+The major traits of depression could be as given below:
+(a) An extremely low aggregate demand in the economy causes activities to decelerate;
+(b) The inflation being comparatively lower;
+(c) The employment avenues start shrinking forcing unemployment rate to grow fast;
+(d) To keep the business going, production houses go for forced labour-cuts or retrenchment
+(to cut down the production cost and be competitive in the market) etc. 
+Recession Vs Depression:
+Recession is somewhat similar to the phase of 'depression' - we may call it a mild form of
+depression - fatal for economies as this may lead to depression if not handled with care and in time.
+When a downturn in the GDP lasts for at least six months of time, it is termed as recession.  When the GDP drops by more than 10 percent, it results in depression.
+
+2. Which of the following government actions can be used as remedy for the "recession" phase of the business cycle?
+1. Cut in the direct and indirect taxes.
+2. Slashing interest rate and liberalizing the lending procedures.
+3. Upward revision of salaries and wages.
+Select the correct code from below.
+1. 1 and 2 only
+2. 1 and 3 only
+3. 2 and 3 only
+4. 1, 2 and 3
+Answer: (4)
+Explanation:
+What may a government do to rescue the economy from the phase of recession? The usual remedies are given below:
+(i) Direct and indirect taxes should be cut down, so that the consumers have higher disposable incomes (income after paying direct tax i.e. income tax) on the one hand and the goods should become cheaper on the other hand thus there is hope that the demand might pick up.
+(ii) The burden of direct tax, specially the income tax, divdend tax, interest tax are slashed to enhance the disposable income (i.e income after direct tax payment)-
+(iii) Salaries and wages should be revised by the government to encourage general spending by the consumers (as the Government of India implemented the recommendations of the fifth pay commission without much deliberation in 1996-97).
+(iv) Indirect taxes such as custom duty, excise duty (cenvat), sales tax, etc. should be cut down so that produced goods reach the market at cheaper prices.
+(v) The government usually goes on to follow a cheap money supply policy by slashing down the interest rates across the board and the lending procedure is also liberalised.
+(vi) Tax breaks are announced for new investments in the productive areas. etc.
+
+3. Consider the following statements with regards to inflation indexed bonds (IIBs). 
+1. IIBs will provide inflation protection to principal only.
+2. Existing tax provisions will be applicable on interest payment and capital gains on IIBs.
+3. Foreign institutional investors (FIIs) are not allowed to invest in IIBs.
+Which of the above statements are NOT correct?
+1. 2 and 3 only
+2. 1 and 2 only
+3. 1 and 3 only
+4. All of the above
+Answer: (3)
+Explanation:
+Inflation Indexed Bonds (IIBs) were issued in the name of Capital Indexed Bonds (CIBs) during 1997. The CIBs issued in 1997 provided inflation protection only to principal and not to interest payment. IIBs will provide inflation protection to both principal and interest payments.  Tax provisions will be applicable on interest payment and capital gains on IIBs. There will be no special tax treatment for these bonds.  IIBs would be Government securities (G-Sec) and the different classes of investors eligible to invest in G-Secs would also be eligible to invest in IIBs. FIIs would be eligible to invest in the IIBs but subject to the overall cap for their investment in G-Secs (currently USD 25 billion).  For more details:
+https://rbi.org.in/scripts/FAQView.aspx?Id=91
+
+4. Which of the following step/s may result in inflation?
+1. Increase in the repo rate.
+2. Increase in the indirect taxation rate.
+3. Proper maintenance of buffer stock of major agricultural products.
+4. Decrease in the crude oil production. 
+Select the correct code from below.
+1. 2, 3 and 4 only.
+2. 4 only.
+3. 2 and 4 only.
+4. 1 and 3 only. 
+Answer: (3)
+Explanation:
+Inflation is a sustained rise in overall price levels.
+Repo rate is the rate at which the RBI lends money to commercial banks. In the event of inflation, central banks increase repo rate as this acts as a disincentive for banks to borrow from the central bank. This ultimately reduces the money supply in the economy and thus helps in arresting inflation.
+Introduction of increased taxes is one of the fiscal policies to control inflation. But sometimes this may result in cost-push inflation, as increased indirect tax rate increases cost of production.
+Maintenance of buffer stock of major agricultural products could be used in supply management which maintains price stability.
+Decrease in crude oil production increases crude oil price, which in turn increases cost of production.
+
+5. Consider the following statements regarding Producer Price Index (PPI).
+1. PPI gives an idea of consumer prices in the future.
+2. In PPI only basic prices and taxes are used while trade margins and transport cost are excluded.
+Which of the above statement/s is/are correct?
+1. 1 only
+2. 2 only
+3. Both 1 and 2
+4. Neither 1 nor 2
+Answer: (1)
+Explanation:
+The PPI measures price changes from the perspective of the producer while the cosumer price index (CPI) measures it from the consumers' perspective. As the producers sell at higher prices to their wholesellers, so retailers and the price increase is translated into the higher consumer prices-thus the PPI is useful in having an idea of the consumer prices in the future.  In PPI, only basic prices are used while taxes, trade margins and transport costs are excluded.  This index is considered a better measure of inflation as price changes at primary and intermediate stages can be tracked before it gets built into the finished goods stage.  The proposal of switching over to the PPI (from the WPI) came up from the Government by mid-2003. A working Group was set up in mid-2003-04 under the chairmanship of Prof. Abhijit Sen, Member, Planning Commission to fulfill the twin tasks of:
+I. Revising the current series of the WPI (i.e. base 1993-94) and
+II. Recommending a producer price index (PPI) for India which could replace the WPI.
+
+6. Inflation has multidimensional effects on the economy. Which of the following is/are correct regarding the effects of inflation?
+1. Lenders suffers and borrowers benefit out of inflation.
+2. In the short run, investment in the economy is boosted.
+3. Burden of tax payer is increased as they are forced to pay increased taxes.
+Select the correct code from below. 
+1. 1 only
+2. 1 and 3 only
+3. 2 and 3 only
+4. All the above
+Answer: (4)
+Explanation:
+There are multi-dimensional effects of inflation on an economy both at the micro and macro levels. It redistributes income; distorts relative prices; destabilises employment, tax, saving and investment policies and finally it may bring in recession and depression in an economy. 
+I. On Creditors and Debtors Inflation redistributes wealth from creditors to debtors i.e. lenders suffer and borrowers benefit out of inflation. The opposite effect takes place when inflation falls (i.e. deflation). 
+II. on Investment Investment in the economy is boosted by the inflation (in the short-run) because of two reasons:
+a. Higher inflation indicates higher demand and suggests enterpreneurs to expand their production level, and
+b. Higher the inflation, lower the cost of loan
+III. on Tax Tax-payers suffer while paying their direct and indirect taxes. As indirect taxes are imposed ad valorem (on value), increased prices of goods make tax-payers to pay increased indirect taxes.  Similarly, due to inflation, direct tax (income tax, interest tax, etc.) burden of the tax-payers also increases as tax-payer's gross income moves to the upward slabs of official tax brackets (but the real value of money does not increase due to inflation; in fact, it falls).
+
+7. Consider the following statements regarding "core inflation".
+1. Core inflation is an indicator of long-term trend in the inflation.
+2. While calculating core inflation transitory price changes are excluded.
+Which of the above statement/s is/are correct?
+1. 1 only
+2. 2 only
+3. Both 1 and 2
+4. Neither 1 nor 2
+Answer: (3)
+Explanation:
+Core inflation is the non food manufacturing inflation. Core inflation shows price rise in all goods and services excluding energy and food articles.  In India, it was first time used in the financial year 2000-01. This was criticized by experts on account of excluding food articles and energy out of the inflation and feeling satisfied on the inflation front. Basically, in the western economies, food and energy are not the problems for the masses, while in India these two segments play the most vital role for them.  For more details:
+https://en.wikipedia.org/wiki/Core_inflation
+
+8. WPI and CPI are two important indices for measuring inflation. But there are substantial differences between the two. Which of the following statements is/are true bout the difference between CPI and WPI?
+1. WPI measures inflation at wholesale market, while CPI measure at retail level.
+2. WPI is more or less same throughout the country but CPI vary across the region.
+Select the correct code from below.
+1. 1 only
+2. 2 only
+3. Both 1 and 2
+4. Neither 1 nor 2
+Answer: (3)
+WPI measures inflation at wholesale market, while CPI measure at retail level. Besides, the way two indices are calculated differs, both in terms of weightage assigned to products as well as the kind of items included in the baskets of products.  Wholesale prices are more or less same throughout the country but Consumer prices vary across the regions(rural and urban) and also across the cities according to the consumer preference for certain products, supplies and purchasing power.
+
+9. "Inflationary gap" refers to
+1. Difference between CPI and WPI inflation.
+2. The excess of total government spending above the national income.
+3. The shortfall in total spending of the government.
+4. None of the above.
+Answer: (2)
+Explanation:
+ The excess of total government spending above the national income (i.e. fiscal deficit) is known as the inflationary gap. This is intended to increase the production level which ultimately pushes the prices up due to extra-creation of money during the process. 
+The shortfall in total spending of the government (i.e. fiscal surplus) over the national income creates deflationary gap in the economy. This is a situation of producing more than the demand and the economy usually heads for a general slowdown in the level of demand. This is
+also known as the output gap.
+
+14. Consider the following
+1. The territorial sea is regarded as the sovereign territory of the state, although foreign ships (both military and civilian) are allowed innocent passage.
+2. The difference between the territorial sea and the exclusive economic zone is that the first confers full sovereignty over the waters, whereas the second is merely a "sovereign right" which refers to the coastal state's rights below the surface of the sea.
+3. The EEZ is 188 nautical miles from Territorial waters and includes contiguous zone.  Select the correct code
+1. 1 and 2
+2. 2 and 3
+3. Only 1
+4. 1, 2 and 3
+Answer:  4
+From Base line
+Territorial waters- 12 Nautical Miles
+Contiguous zone- 24 Nautical Miles
+EEZ- 200 Nautical Miles
+From Territorial Waters- EEZ will be 188 Nautical Miles an includes Contiguous Zones ?
+Territorial waters are also called Territorial sea.
+https://en.wikipedia.org/wiki/Exclusive_economic_zone#Definition
+
+15. Consider the following
+1. Preservation and protection of Maritime Environment
+2. Collection of Scientific Data
+3. Protection and assistance to fishermen at sea
+Which of the above includes the functions of Indian Coast Guard? 
+1. 1 and 3
+2. 1 and 2
+3. 1, 2 and 3
+4. Only 3
+Answer:  3
+Functions of Coast Guard as per Coast Guard Act 1978
+(1) Safety and protection of artificial islands and offshore terminals installations and devices in Maritime Zones.
+(2) Protection and assistance to fishermen at sea while in distress.
+(3) Preservation and protection of marine environment.
+(4) Prevention and control of marine pollution. 
+(5) Assistance to customs and other authorities in anti-smuggling operations.
+(6) Enforcing of enactments being in force in the maritime zones.
+(7) Other matters, including measures for the safety of life and property at sea and collection of scientific data.
+
+17. Consider the following about 'Guru Poornima'
+1. It is an Indian festival celebrated by Hindus, Jains and Buddhists
+2. The first full moon after Summer Solstice is known as Guru Poornima.
+3. Lord Shiva, the first yoga practitioner (Adi Yogi) is said to have begun imparting the knowledge of yoga to the rest of mankind on this day and became the first guru (Adi Guru). 
+Select the correct codes
+1. 1 and 2
+2. 2 and 3
+3. 1 and 3
+4. 1, 2 and 3
+Answer:  4
+https://en.wikipedia.org/wiki/International_Yoga_Day
+https://en.wikipedia.org/wiki/Guru_Purnima
+
+18. The terms 'Pushkaram' and 'Amrapali' are related with
+1. Bharatnatyam
+2. Kuchipuddi
+3. Kathakali
+4. Odissi
+Answer:  2
+http://www.thehindu.com/features/friday-review/dance/tales-throughballets/article7379291.ece

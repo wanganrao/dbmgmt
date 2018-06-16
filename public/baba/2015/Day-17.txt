@@ -1,0 +1,163 @@
+1. Consider the following statements
+"A spaceship is out in interstellar space, far from all other objects and with all its rockets turned off". It can be said that-
+1. There is no net external force on it
+2. The acceleration of the spacecraft is zero
+Select the correct statements
+1. Only 1
+2. Only 2
+3. Both
+4. None
+Answer:  3
+Explanation- Physics, class 11th- Chapter 5. First law of Motion
+
+2. Consider the statements regarding acceleration due to gravity on earth
+1. For an object above earth's surface at a height of x, the acceleration due to gravity increases depending on the mass of the object
+2. For the same object below earth's surface at the same height, the acceleration due to gravity also increases.
+3. The acceleration due to gravity is maximum at the earth's surface and decreasing whether you go up or down.
+Select the correct code
+1. 1 and 2
+2. 1, 2 and 3
+3. Only 1
+4. Only 3
+Answer:  4
+The remarkable thing about acceleration due to earth's gravity is that its maximum on its surface decreasing whether you go up or down.  NCERT-11 th Physics-chapter 8
+
+3. For a satellite or a circularly orbiting object in space, its energy will be reflected as
+1. Total energy will always be positive
+2. Its kinetic energy will be positive
+3. Its potential will be negative
+Select the correct code
+1. 1 and 2
+2. 2 and 3
+3. 1 and 3
+4. 1, 2 and 3
+Answer:  2
+A satellite is always at a finite distance from Earth hence its total energy cannot be zero or positive. Potential energy will be negative and kinetic energy will be positive.
+
+4. Consider the following statement regarding Bt Cotton
+1. It is produced by Bacillus thuringiensis that produces bacteria that kill certain insects.
+2. Bt toxin protein exist as active protoxins but once an insect ingest the inactive toxin, it is converted into an active form of toxin.
+Select the wrong statement/s
+1. Only 1
+2. Only 2
+3. Both
+4. None
+Answer:  3
+Explanation- It produces protein not bacteria. And it exist as inactive protoxins not active.
+
+5. A person suffering from HIV will have to go for following tests?
+1. PCR (Polymerase Chain Reaction)
+2. Antibody Screening Tests
+3. ELISA
+Select the correct code
+1. 1 and 3
+2. 2 and 3
+3. 1, 2 and 3
+4. Only 1
+Answer:  3
+All the tests are carried out for HIV
+
+6. 'Neutrinos are one of the fundamental particles which make up the universe'. Refer to following statements about it
+1. They are electrically neutral elementary particles
+2. They are not affected by any kind of force and are neutral in nature
+3. The most important source of its generation is radioactive decay
+Select the correct code
+1. Only 1
+2. 1 and 3
+3. 2 and 3
+4. All
+Answer:  1
+They are not affected by electromagnetic forces but are affected by weak forces like gravity.  The most important source of its generation is sun.  Neutrinos do not carry any electric charge, which means that they are not affected by the electromagnetic force that acts on charged particles, and are leptons, so they are not affected by the strong force that acts on particles inside atomic nuclei. Neutrinos are therefore affected only by the weak subatomic force and by gravity.
+
+8. A sinkhole is a depression or hole in the ground caused by some form of collapse of the surface layer was in news recently. Consider the statements that lead to its formation
+1. Diverting surface water from a large area and concentrating it in a single point
+2. Artificially creating ponds of surface water and drilling new water wells
+3. No recharge of the water table in the absence of good rains
+4. They generally develop in karst regions,
+Select the correct code
+1. 1,2 and 3
+2. 2,3 and 4
+3. 1,2 and 4
+4. 1,2,3 and 4
+Answer:  4
+
+9. In Vitro Fertilization is the process of fertilization by manually combining an egg and sperm in a laboratory dish, and then transferring the embryo to the uterus. It can be used in which of the following cases
+1. Male factor infertility including decreased sperm count or sperm motility
+2. Women with ovulation disorders, premature ovarian failure, uterine fibroids
+3. Individuals with a genetic disorder
+4. Designer babies as in the case of Three Parent Babies
+Select the correct code
+1. 1, 3 and 4
+2. 2, 3 and 4
+3. 1, 2, 3 and 4
+4. 1, 2 and 4
+Answer:  3
+http://americanpregnancy.org/infertility/in-vitro-fertilization/
+
+11. Non-Plan expenditure will show downward trend if
+1. Decline in oil prices in international market
+2. Introduction of direct benefit transfer into the bank accounts of domestic LPG consumers
+3. By increasing domestic defence capacity
+4. Better implementation of MNERGA.
+ Select the correct code:
+1. 1 and 2 Only
+2. 2 and 3 Only
+3. 1, 2 and 3Only
+4. All of the above
+Answer: 3
+MNERGA comes under plan expenditure head. Statements 1st and 2nd are related to subsidies while 3rd statement is related to defence expenditure. 
+
+14. The tax expenditure or tax forgone indicates the revenue forgone. What could be said about it-
+1. It hurts country's economy as whole.
+2. It generally leads to increase in fiscal deficit.
+3. It has been increasing year by year in recent time.
+Select the incorrect code:
+                 1. 1 Only
+                 2. 2 Only
+                 3. 1 and 2 Only
+                 4. 1and 3 Only
+Answer: 1
+The tax expenditure does have positive externalities so hurting country's economy as whole holds no truth. Some may raise question that its sector specific as given in economic survey but sectors do have forward and backward linkages so there is no point of hurting the economy.
+
+15. Collection rate (related to custom revenue collection) will increase if
+1. Total imports will increase
+2. Total exports will increase
+3. Reduction in duties on petroleum, oil and lubricants (POL) if we assume imports is increasing in India.
+ Select the correct code:
+                 1. 1 Only
+                 2. 2 Only
+                 3. All of the above
+                 4. None
+Answer: 4
+Collection rate= Custom revenue collection/imports. Total import will increase still
+collection rate decreases. It happens if duties over items have decreased, sometimes,
+certain items are kept under duty free imports so custom revenue can decease even if there
+has been an increase in imports. Collection rate is computed as the ratio of total customs
+revenue collection to the value of imports in the fiscal year. Import increases or decreases it
+has no effect on collection rate till custom revenue is not known to us. It is a ratio so nothing
+can be said till we know about the custom duty as well for 1 statement. Reduction in POL
+will reduce collection rate as we are assuming imports are increasing in India and it's a fact .
+
+18. Choose from given below that would help government in much desired Fiscal consolidation:
+1. Declining trend of oil prices in international market.
+2. Tax buoyancy
+3. Tax expenditure as its in current scenario.
+4. Increase in collection rate (related to custom revenue collection) by 10% with taking decrease in imports by 10% from previous year together.
+Select the correct code:
+1. 1 and 2 Only
+2. 1, 2 and 4 Only
+3. 1, 2 and 3 Only
+4. All of the above.
+ Answer: 1
+Explanation: Decline in oil prices in international market would help in lowering the fuel
+subsidy bill so it will help in fiscal consolidation. Similarly tax buoyancy will swell the
+revenue receipt of government.
+Tax expenditure as we have already read about that it leads to revenue forgone. Statement
+4 has been deliberately put to make you take cognizance of facts in spirit rather see them in
+abstract way. Try to derived essence in relation to given concept. UPSC might not ask in this
+manner that it could ask with different mathematical terminology as it had done in past.
+Suppose in 2013, custom duty revenue was 10 units and import was 100 units so collection
+rate came out to be 10/100=0.10, if it increased in 2014 by 10 % then collection rate comes
+out to 0.11 and imports shrank by 10% so import become 90 units. So now if one wants to
+calculate custom revenue then it would be given by 0.11*90=9.9 units so revenue will
+decrease from 10 units previous year. 

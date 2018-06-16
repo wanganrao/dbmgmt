@@ -1,0 +1,189 @@
+1. Consider the following statements
+1. It is world's most problematic aquatic weed
+2. It is also called Terror of Bengal
+Above statements fits for? 
+1. Eichhornia
+2. Azolla
+3. Wolffia
+4. Trapa
+Answer:  1
+You may have seen the beautiful mauve-colored flowers found on very appealingly-shaped floating plants in water bodies. These plants which were introduced into India for their lovely flowers have caused havoc by their excessive growth by causing blocks in our waterways. They grow faster than our ability to remove them. These are plants of water hyacinth (Eichhornia crassipes), the world's most problematic aquatic weed, also called 'Terror of Bengal'. They grow abundantly in eutrophic water bodies, and lead to an imbalance in the ecosystem dynamics of the water body. 
+NCERT- class 12 th bio- environmental issues- chapter 16
+
+2. Consider the following statements
+1. The Biological Oxygen Demand (BOD) is the measure of organic matter present in the water.
+2. Greater the BOD, lesser is the polluting potential.
+3. Microbes in sewage treatment plants increases the BOD of the effluent
+Which of the above are NOT correct? 
+1. 1 and 2
+2. 2 and 3
+3. Only 3
+4. Only 2
+Answer:  2
+Greater the BOD more is the polluting potential. Actually, in secondary treatment or biological treatment of sewage water in plant, the primary effluent is passed into large aeration tanks where it is constantly agitated mechanically and air is pumped into it. This allows vigorous growth of useful aerobic microbes into flocs (masses of bacteria associated with fungal filaments to form mesh like structures). While growing, these microbes consume the major part of the organic matter in the effluent. This significantly reduces the BOD (biochemical oxygen demand) of the effluent. BOD refers to the amount of the oxygen that would be consumed if all the organic matter in one litre of water were oxidised by bacteria.  The sewage water is treated till the BOD is reduced.
+
+3. Match the following list of bioactive substances and their roles:
+Bioactive Substance                                                                Role
+1. Statin                                                                i.  Removal of oil stains
+2. Cyclosporin A                                                   ii. Removal of clots from blood vessels
+3. Streptokinase                                                   iii. Lowering of blood cholesterol
+4. Lipase                                                               iv. Immuno-suppressive agent
+Choose the correct match:
+1. 1-iii, 2-iv, 3-ii, 4-i
+2. 1-ii, 2-iv, 3-iii, 4-i
+3. 1-i, 2-ii, 3-iii, 4-iv
+4. 1-iv, 2-iii, 3-ii, 4-i
+Answer:  1
+Chapter 10, Bio-12 th
+
+4. Consider the following
+1. Azotobacter
+2. Pseudomonas
+3. Nostoc
+4. Anabaena
+5. Thiobacillus
+Which of the above is NOT a nitrogen fixing organism? 
+1. 2 and 5
+2. 1, 2, and 5
+3. 2, 4 and 5
+4. 1, 3, 4 and 5
+Answer:  1
+2 and 5 are denitrifying bacteria and rest are nitrogen fixing organism NCERT- BIO, class 12 th , chapter 10
+
+5. Methanogens are common in Wetlands and are responsible for marsh gas. Consider the following w.r.t it
+1. They are also found in ruminants of animals but not in human
+2. They play significant role in aerobic wastewater treatment
+3. They produce oxygen, carbon dioxide, hydrogen sulphide and methane
+Choose the correct options
+1. 1, 2 and 3
+2. 1 and 2
+3. 2 and 3
+4. None
+Answer:  4
+They are common in wetlands, where they are responsible for marsh gas, and in the digestive tracts of animals such as ruminants and humans, where they are responsible for the methane content of belching in ruminants and flatulence in humans.  Moreover, the methanogenic archaea populations play an indispensable role in anaerobic wastewater treatments.  They are anaerobic organisms and cannot function under aerobic conditions NCERT- BIO-12 th , Chapter 10
+
+6. Match the items in Column 'A' and Column 'B' and choose correct answer.
+     Column A                                                           Column B
+1. Lady bird                                                   (i)  Methano bacterium
+2. Mycorrhiza                                               (ii) Trichoderma
+3. Biological control                                     (iii) Aphids
+4. Biogas                                                      (iv) Glomus
+The correct answer is:
+1. 1-ii, 2- iv, 3- iii, 4- i
+2. 1-iii, 2- iv, 3- ii, 4- i
+3. 1-iv, 2- i, 3- ii, 4- iii
+4. 1-iii, 2- ii, 3- i, 4- iv
+Answer:  2
+Lady bird and Butterflies are used to get rid of Aphids. Fungi are also known to form symbiotic associations with plants (mycorrhiza). Many members of the genus Glomus form mycorrhiza. A biological control being developed for use in the treatment of plant disease is the fungus Trichoderma. Trichoderma species are free-living fungi that are very common in the root ecosystems. They are effective biocontrol agents of several plant pathogens.  Methanobacterium is related to Biogas
+
+6. Use of certain chemicals and radiation to change the base sequence of genes of crop plant is termed as
+1. Mutation breeding
+2. Transgenic mechanism
+3. Recombinant DNA technology
+4. Gene Therapy
+Answer:  1
+NCERT-Bio-12 th , chapter 9
+
+7. If your COW is producing average MILK as compared to the cow of other breed, the best method to increase its efficiency would be? 
+1. In-breeding
+2. Out-breeding
+3. Out-crossing
+4. None
+Answer:  3
+This is the practice of mating of animals within the same breed, but having no common ancestors on either side of their pedigree up to 4-6 generations. The offspring of such a mating is known as an out-cross. It is the best breeding method for animals that are below average in productivity in milk production, growth rate in beef cattle, etc. 
+NCERT-Bio-12 th , chapter 9
+
+8. Which one of the following is not a fungal disease? 
+1. Rust of wheat
+2. Smut of Bajra
+3. Black rot of crucifers
+4. Red rot of sugarcane
+Answer:  3
+Black rot is caused by a bacteria, Xanthomonas campestris pv. campestris, that can infect most crucifer crops at any growth stage. This disease is difficult for growers to manage and is considered the most serious disease of crucifer crops worldwide
+
+9. Consider the statements
+1. Dinitrogen and dioxygen are main constituents of air but do not react at normal temperature
+2. Nitrous oxide does not contribute to Green House Gases but excess of nitrogen dioxide can retard the rate of photosynthesis.
+Select the WRONG statement/s
+1. Only 1
+2. Only 2
+3. Both
+4. None
+Answer:  2
+They contribute to GHGs
+
+10.  Match the following
+Column 1                                                                          Column 2
+1. Oxides of Sulphur                                                  i. Global Warming
+2. Nitrogen dioxide                                                   ii. Damage to Kidney
+3. Carbon Dioxide                                                    iii. Blue Baby Syndrome
+4. Nitrate in drinking water                                     iv. Respiratory diseases
+5. Lead                                                                      v. Red haze in traffic
+Select the correct code
+1. 1-iv, 2-v, 3-i, 4-iii, 5-ii
+2. 1-v, 2-iv, 3-i, 4-ii, 5-iii
+3. 1-v, 2-ii, 3-i, 4-iv, 5-iii
+4. 1-iii, 2-iv, 3-i, 4-v, 5-ii
+Answer:  1
+
+11. Which of the following departments come under Ministry of Finance?
+1. Disinvestment
+2. Revenue
+3. Expenditure
+4. Consumer Affairs
+5. Commerce
+Select the correct code
+1. 1, 2, 3 and 5
+2. 2, 3, 4 and 5
+3. 1, 2 and 3
+4. 3, 4 and 5
+Answer:  3
+
+12. Consider the following statements
+1. Phillips curve is direct relation of unemployment and inflation.
+2. It explains deflation and hyperinflation much better than stagflation
+Which of the above is/are NOT correct? 
+1. Only 1
+2. Only 2
+3. Both
+4. None
+Answer:  3
+Inverse relation between unemployment and inflation- Phillips curve Stagflation is the combination of high unemployment and economic stagnation with inflation.
+
+13. Consider the following statements
+1. The highest population of Scheduled Tribes in India lives in Andhra Pradesh
+2. There are more Scheduled Tribe's in India than Scheduled Caste's
+Select the correct statement/s
+1. Only 1
+2. Only 2
+3. Both
+4. None
+Answer:  4
+Highest population of ST's- MP More SC's than ST's
+
+14. Heinz Award is given in the field of
+1. Art
+2. Environment
+3. Public Policy
+4. Mathematics
+5. Technology
+Select the correct code
+1. 1, 2, 3, 4 and 5
+2. 2, 3, 4 and 5
+3. 1, 2, 3 and 5
+4. 1, 2, 4 and 5
+Answer:  3
+It is awarded in - Arts and Humanities; Environment; Human Condition; Public Policy; and Technology, the Economy and Employment.
+
+15. Consider the statements
+1. West Bank is more close to Mediterranean Sea while Gaza Strip is far
+2. Gaza strip is more close to Mediterranean Sea than Dead sea
+3. West Bank is close to Dead Sea than Mediterranean Sea
+4. Gaza Strip is close to Dead Sea than Mediterranean Sea
+Identify the correct statement/s
+1. 1 and 4
+2. 2 and 3
+3. 1 and 3
+4. 2, 3 and 4
+Answer:  2
+GAZA Strip is adjacent to Mediterranean Sea and West Bank is close to Dead Sea

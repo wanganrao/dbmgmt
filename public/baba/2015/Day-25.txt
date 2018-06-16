@@ -1,0 +1,157 @@
+1. The President appoints the Pro tem Speaker to preside over the first sitting of the Lok Sabha after the General Elections. Who is the person who administers the oath for Pro Tem Speaker? 
+1) The President.
+2) The Chief Justice of India.
+3) Speaker of the last Lok Sabha.
+4) Conventionally Pro Tem Speaker does not take any oath as it is a temporary office.
+Answer: 1
+
+2. On account of National Emergency the government may require funds to meet unexpected demand for money for which it may not be possible to give a detailed estimate. In such a case, the Parliament can grant money through
+1. Vote of Credit
+2. Supplementary grants
+3. Vote on Account
+4. Exceptional Grants
+Answer: 1
+Vote of Credit It is granted for meeting an unexpected demand upon the resources of India, when on account of the magnitude or the indefinite character of the service, the demand cannot be stated with the details ordinarily given in a budget. Hence, it is like a blank cheque given to the Executive by the Lok Sabha. 
+Supplementary Grant It is granted when the amount authorised by the Parliament through the appropriation act for a particular service for the current financial year is found to be insufficient for that year.
+Exceptional Grant It is granted for a special purpose and forms no part of the current service of any financial year.
+
+3. Consider the following statements:
+1. A no-confidence motion need not state the reasons on which it is based, unlike a censure motion.
+2. There is no mention of a No-Confidence Motion in the Constitution of India.
+3. The Leader of the Opposition decides whether a No-Confidence Motion is in order or not.
+4. A No-Confidence Motion is moved only against the Council of Ministers
+Choose the correct statement/s from the code below.
+1) 1 and 3 only
+2) 2, 3 and 4
+3) 1, 2 and 3
+4) 1, 2 and 4
+Answer: 4
+Article 75 of the Constitution says that the council of ministers shall be collectively responsible to the Lok Sabha. It means that the ministry stays in office so long as it enjoys confidence of the majority of the members of the Lok Sabha. In other words, the Lok Sabha can remove the ministry from office by passing a no-confidence motion. The motion needs the support of 50 members to be admitted. It is the 'Speaker' who decides whether a No-Confidence Motion is in order or not. It is passed only in the Lok Sabha.
+
+4. Consider the following statements:
+1. The government cannot withdraw money from the Consolidated Fund of India till the enactment of the Financial Act
+2. The President authorizes the withdrawal of funds from the Contingency Fund of India. 
+Choose the correct statement/s from the code below.
+1) 1 only
+2) 2 only
+3) Both 1 and 2
+4) None
+Answer: 4
+Appropriation Act authorises (or legalises) the payments from the Consolidated Fund of India i.e, the government cannot withdraw money from the Consolidated Fund of India till the enactment of the Appropriation Act.  The contingency fund of India fund is placed at the disposal of the president, and he can make advances out of it to meet unforeseen expenditure pending its authorisation by the Parliament.  The fund is held by the finance secretary on behalf of the president. Like the public account of India, it is also operated by executive action.
+
+5. Consider the statements regarding the pardoning powers of the President.
+1) The President can pardon sentences inflicted by court martial.
+2) Both the President and the Governor have the concurrent power in respect of suspension, remission and commutation of death sentences.
+Choose the correct statement/s from the codes below. 
+1) 1 only.
+2) 2 only.
+3) None of the above.
+4) Both.
+Answer: 4
+The President can pardon death sentence while governor cannot. Even if a state lawprescribes death sentence, the power to grant pardon lies with the President and not thegovernor.  However, the governor can suspend, remit or commute a death sentence. In otherwords, both the governor and the President have concurrent power in respect of suspension,remission and commutation of death sentence.
+
+6. Consider the statements regarding the Deputy Chairman of Rajya Sabha.
+1) He is subordinate to the Chairman of Rajya Sabha.
+2) He can vacate his office by giving a written resignation to the President of India.
+3) He is directly responsible to Rajya Sabha.
+Choose the correct statements from the codes below. 
+1) 1 and 2 only.
+2) 3 only.
+3) 2 and 3only.
+4) All the above.
+Answer: 2
+Deputy Chairman is not subordinate to the Chairman. He isdirectly responsible to the Rajya Sabha.
+The Deputy Chairman resigns by writing to the Chairman of the Rajya Sabha and not the President of India.
+
+7. Vice President can be removed by a resolution passed in the Rajya Sabha which requires a special majority ie effective majority is required in this case of removal.  What constitutes Effective Majority? 
+1) 2/3 rd of members present and voting in the House.
+2) Majority of the total membership of the House.
+3) Majority of the total membership of the House excluding the vacancies in the House.
+4) Majority of the persons present and voting in the House.
+Answer: 3
+The Constitutionstates that the Vice President can be removed by a resolution of the Rajya Sabha passed by an effective majority (more than 50% of effective membership(total membership-vacancies)) and agreed to by a simple majority (50% of voting members) of the Lok Sabha (Article 67(b)).
+
+8. Consider the statements regarding Ordinance making powers of the President under Article 123.
+1) Ordinance making powers of President is a parallel power of Legislation.
+2) Ordinance can be passed only on those subjects on whichthe Parliament can make laws.
+3) Can amend the constitution provided it doesn't alter the Basic Structure of the Constitution.
+4) The maximum life of an ordinance is 6 weeks.
+Choose the incorrect statement/s from the code below. 
+1) 1, 3 only.
+2) 1, 4 only.
+3) 1, 3, 4 only.
+4) All the above.
+Answer: 3
+An ordinance made when both the Houses are in session is void. Thus, the power of thePresident to legislate by ordinance is not a parallel power of legislation.  Ordinance can't be issued to amend constitution.  Every ordinance issued by the President during the recess of Parliament must be laid beforeboth the Houses of Parliament when it reassembles. If the ordinance is approved by both the Houses,it becomes an act. If Parliament takes no action at all, the ordinance ceases to operate on the expiry ofsix weeks from the reassembly of Parliament. The ordinance may also cease to operate even earlierthan the prescribed six weeks, if both the Houses of Parliament pass resolutions disapproving it. If theHouses of Parliament are summoned to reassemble on different dates, the period of six weeks iscalculated from the later of those dates. This means that the maximum life of an ordinance can be sixmonths and six weeks, in case of non-approval by the Parliament (six months being the maximum gapbetween the two sessions of Parliament).
+
+9. With reference to Vote on Account, consider the following statements:
+1. It is passed after general discussion of the Budget is over.
+2. It is passed before the discussion on demands for grants is taken up
+3. Parliament is authorised to make any grant in advance in with regard to Vote on Account
+Choose the correct statement/s from the code below.
+1) 1 and 3 only.
+2) 1 and 2 only.
+3) 2 and 3only.
+4) 1, 2 and 3
+Answer: 2
+The Appropriation Bill becomes the Appropriation Act after it is assented to by the President.  This act authorises (or legalises) the payments from the Consolidated Fund of India. This means that the government cannot withdraw money from the Consolidated Fund of India till the enactment of the appropriation bill. This takes time and usually goes on till the end of April. But the government needs money to carry on its normal activities after 31 March (the end of the financial year). To overcome this functional difficulty, the Constitution has authorised the Lok Sabha to make any grant in advance in respect to the estimated expenditure for a part of the financial year, pending the completion of the voting of the demands for grants and the enactment of the appropriation bill. This provision is known as the 'vote on account'. It is passed (or granted) after the general discussion on budget is over. It is generally granted for two months for an amount equivalent to one-sixth of the total estimation.
+
+10. Article 75 of the Indian Constitution clearly states Council of Ministers is collectively responsible to the Lok Sabha. What does the phrase collective responsibility imply? 
+1) All the Ministers own joint responsibility to the Lower House.
+2) If a no-confidence motion is passed by Lok Sabha against Council of Ministers, then every Minister is supposed to resign provided he is not from the Rajya Sabha.
+3) Council of Ministers swim or sink together and they work as a team.
+4) Cabinet decisions bind on all the Council of Ministers. 
+Choose the correct statement/s from the codes below.
+1) 1, 2 only.
+2) 2, 3, 4 only.
+3) 1, 3, 4 only.
+4) All the above.
+Answer: 3
+All Council of Ministers irrespective of any House he/she is from, are supposed to resign if a noconfidence motion is passed against them.
+
+11. Consider the following regarding Tiger Reserves in India
+1. Karanataka is having maximum number of Tiger Reserves in India
+2. Recently awarded Bor Wildlife Sanctuary asTiger Reserve is in Karnataka
+3. Rajaji National Park is a Tiger Reserve
+Select the correct options
+1. 1 and 3
+2. Only 1
+3. 1 and 2
+4. Only 3
+Answer:  4
+Maharashtra has maximum number of Tiger Reserves according to the website of NTCA
+http://projecttiger.nic.in/content/109_1_ListofTigerReservesCoreBufferAreas.aspx
+Bor Wildlife Sanctuary is in Maharasthra Recently Rajajai National Park is awarded the status of Tiger reserve. It is in Uttarakhand
+
+12. World's only Floating National Park is located in
+1. India
+2. Indonesia
+3. Brazil
+4. USA
+Answer:  1
+The Keibul Lamjao, the only floating national park in the world, is home to the last of the browantlered deer (Rucervus eldii eldii), one of the most endangered deer in the world.  It is located near Loktak Lake of Manipur, India
+
+13. Consider the following statements
+1. India has more National Park than Wildlife Sanctuaries
+2. Grazing of livestock can be permitted inside a Sanctuary but not inside a National Park.
+3. A National Park can be upgraded to Wildlife Sanctuaries for providing more protection
+to Wildlife
+Select the correct codes
+1. 1, 2 and 3
+2. 1 and 2
+3. Only 3
+4. Only 2
+Answer:  4
+India has more wildlife sanctuaries. Wildlife sanctuaries can be upgraded to National Park but vice versa is not allowed.
+
+15. Consider the following statements
+1. Coral triangle is an initiative of UNEP to protect Marine Ecosystem
+2. It is an area spanning Indonesia, Malaysia, the Philippines, Papua New Guinea, Thailand and Australia
+3. The primary criteria used to delineate the Coral Triangle were High species biodiversity Oceanography.
+Select the wrong statements
+1. Only 3
+2. 1 and 2
+3. 1, 2 and 3
+4. None
+Answer:  2
+Coral triangle is an initiative of WWF. The Coral Triangle, the global centre of marine biodiversity, is a 6 million km2 area spanning Indonesia, Malaysia, the Philippines, Papua New Guinea, Timor Leste and the Solomon Islands. 

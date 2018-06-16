@@ -1,0 +1,190 @@
+1. Which of the following professional(s) are more likely to run the risk of a permanent change in their cell's DNA? [1996]
+1. Researchers using Carbon 14 isotope
+2. X-ray technician
+3. Coal miner
+4. Dyer and painter
+Select the correct answer by using the codes given below
+Codes:
+(a) 2 alone (b) 1 , 2 and 3
+(c) 1, 2 and 4 (d) 1, 3 and 4
+
+2. Which one of the following techniques can be used to establish the paternity of a child? [1997]
+(a) Protein analysis
+(b) Chromosome counting
+(c) Quantitative analysis of DNA
+(d) DNA finger printing
+
+3. Assertion (A) : Insect resistant transgenic cotton has been produced by inserting Bt gene.
+Reason (R) : The Bt gene is derived from a bacterium.  [1999]
+(a) Both A and R are true and R is the correct explanation of A
+(b) Both A and R are true but R is not a correct explanation of A
+(c) A is true but R is false
+(d) A is false but R is true
+
+4. Assertion (A) : Dolly was the first cloned mammal.
+Reason (R) : Dolly was produced by in vitro fertilization. [1999]
+(a) Both A and R are true and R is the correct explanation of A
+(b) Both A and R are true but R is not a correct explanation of A
+(c) A is true but R is false
+(d) A is false but R is true
+
+5. Assertion (A) : "DNA finger printing" has become a powerful tool to establish paternity and identity of criminals in rape and assault cases.
+Reason (R) : Trace evidences such as hairs, saliva and dried semen are adequate for DNA analysis. [2000]
+Codes:
+(a) Both A and R are true and R is the correct explanation of A
+(b) Both A and R are true but R is not a correct explanation of A
+(c) A is true but R is false
+(d) A is false but R is true
+
+6. Insect-resistant cotton plants have been genetically engineered by inserting a gene from a/an [2000]
+(a) virus (b) bacterium
+(c) insect (d) plant
+
+7. Hybridoma technology is a new biotechnological approach for commercial production of [2000]
+(a) monoclonal antibodies
+(b) interferon
+(c) antibiotics
+(d) alcohol
+
+8. Match List-I with List-II and select the correct answer using the codes given below: [2001]
+List-I List-II
+(Achievement in genetics)  (Scientists)
+A. Discovery of transduction 1. Khurana
+and conjugation in bacteria
+B. Establishing the sex-linked 2. Korenberg
+inheritance
+C. Isolation of DNA polymerase 3. Lederberg
+from E. coli
+D. Establishing the complete 4. Morgan
+genetic code 5. Ochoa
+Codes:
+(a) A - 4; B - 3; C - 2; D - 1
+(b) A - 3; B - 4; C - 1; D - 5
+(c) A - 4; B - 3; C - 1; D - 5
+(d) A - 3; B - 4; C - 2; D - 1
+
+9. Which of the following features of DNA makes it uniquely suited to store and transmit genetic information from generation to generation? [2001]
+(a) Complementary of the two strands
+(b) Double helix
+(c) Number of base-pairs per turn
+(d) Sugar-phosphate backbone
+
+10. The American multinational company, Monsanfo, has produced an insect-resistant cotton variety that is undergoing field trials in India. A toxic gene from which one of the following bacteria has been transferred to this transgenic cotton? [2001]
+(a) Bacillus subtilis
+(b) Bacillus thuringiensis
+(c) Bacillus anyloliquifanciens
+(d) Bacillus globlii
+
+11. Match List-I (Scientists) with List-II (Achievements) and select the correct answer using the codes given below: [2002]
+List-I (Scientists) List-II (Achievements)
+A. Arber and Smith 1. Developed transgenic
+plants with Agrobacterium
+T-DNA
+B. Feldman 2. Discovered
+endonucleases
+C. Mullis 3. Discovered reverse
+transcriptase
+D. Temin and 4. Discovered polymerase
+Baltimore chain reaction
+(a) A - 2; B - 1; C - 4; D - 3
+(b) A - 1; B - 2; C - 4; D - 3
+(c) A - 2; B - 1; C - 3; D - 4
+(d) A - 1; B - 2; C - 3; D - 4
+
+12. With reference to the latest developments in stem cell research, consider the following statements [2002]
+1. The only source of human stem cells are the embryos at blastocyst stage.
+2. The stem cells can be derived without caisining destruction to blastocysts.
+3. The stem cells can regenerate themselves in vitro virtually forever.
+4. Indian research centres also created a few cell lines which can be developed into many types  of tissues.
+Which of these statements are correct?
+(a) 1, 2 and 4 (b) 1, 2 and 3
+(c) 1, 2 and 4 (d) 3 and 4
+
+13. Consider the following statements: [2004]
+1. Adam Osborne introduced the first portable computer.
+2. Lan Wilmut created the first cloned sheep.
+Which of the statements given above is/are correct?
+(a) 1 only (b) 2 only
+(c) Both 1 and 2 (d) Neither 1 nor 2
+
+14. Which one of the following is the landmark performance of Dr. V. Mohan Reddy, an Indian, born doctor working in U.S.A. during February, 2005?  [2005]
+(a) Research on human stem cell which is likely to revolutionise treatment of deadly disease like cancer.
+(b) Successful open heart procedure called arterial switch performed on an infant.
+(c) Research on genetic engineering which can help in treatment of deadly disease like AIDS.
+(d) Successful brain surgery to revive the function of nearly dead brain of a premature born infant.
+
+15. Consider the following statements : [2006]
+1. ELISA test is employed as the first and most basic test for an individual to detect cancer.
+2. Almost 50 per cent of human beings have Rh blood while the remaining have Rh - blood.  + 
+Which of the statements given above is / are correct ?
+(a) 1 only (b) 2 only
+(c) Both 1 and 2 (d) Neither 1 nor 2
+
+16. Consider the following statements: [2008]
+1. Clean Development Mechanism (CDM) in respect of carbon credits is one of the Kyoto Protocol Mechanisms.
+2. Under the CDM, the projects handled pertain only to the Annex-I countries.
+Which of the statements given above is/are correct?
+(a) 1 only (b) 2 only
+(c) Both 1 and 2 (d) Neither 1 nor 2
+
+17. Which one of the following Union Ministries is implementing the Biodiese1 Mission (as Nodal Ministry)? [2008]
+(a) Ministry of Agriculture
+(b) Ministry of Science and Technology
+(c) Ministry of New and Renewable Energy
+(d) Ministry of Rural Development
+
+18. WiMAX is related to which one of the following [2009]
+(a) Biotechnology
+(b) Space technology
+(c) Missile technology
+(d) Communication technology
+
+19. In the context of alternative sources of energy, ethanol as a viable bio-fuel can be obtained from [2009]
+(a) Potato (b) Rice
+(c) Sugarcane (d) Wheat
+
+20. In the context of CO emission and Global Warming, what is the name of a market driven device under the 2 UNFCC that allows developing countries to get funds/ incentives from the developed countries to adopt better technologies that reduce greenhouse gas emissions? [2009]
+(a) Carbon Footprint
+(b) Carbon Credit Rating
+(c) Clean Development Mechanism
+(d) Emission Reduction Norm
+
+21. The concept of carbon credit originated from which one of the following? [2009]
+(a) Earth Summit, Rio de Janeiro
+(b) Kyoto Protocol
+(c) Montreal Protocol
+(d) G-8 Summit, Heiligendamm
+
+22. With reference to the treatment of cancerous tumours, a tool called cyberknife has been making the news. In this context, which one of the following statements is not correct ? [2010]
+(a) It is a robotic image guided system
+(b) It delivers an extremely precise dose of radiation.
+(c) It has the capability of achieving sub-millimetre accuracy.
+(d) It can map the spread of tumour in the body
+
+23. Genetically modified "golden rice" has been engineered to meet human nutritional requirements.  Which one of the following statements best qualifies golden rice ? [2010]
+(a) The grains have been fortified with genes to provide three times higher grain yield per acre than other high yielding varieties
+(b) Its grains contain pro-vitamin A which upon ingestion is converted to vitamin A in the human body
+(c) Its modified genes cause the synthesis of all the nine essential amino acids
+(d) Its modified genes cause the fortification of its grains with vitamin D.
+
+24. A genetically engineered form of brinjal, known as the Bt-brinjal, has been developed. The objective of this is [2011 - I]
+(a) to make it pest-resistant.
+(b) to improve its taste and nutritive qualities.
+(c) to make it drought-resistant.
+(d) to make its shelf-life longer.
+
+25. With reference to 'stem cells', frequently in the news, which of the following statements is/are correct?  [2012 - I]
+1. Stem cells can be derived from mammals only.
+2. Stem  c el ls  c an  be  used  for sc reening new drugs.
+3. Stem  cells  can be  used  for medical therapies.
+Select the correct answer using the codes given below :
+(a) 1 and 2 only (b) 2 and 3 only
+(c) 3 only (d) 1, 2 and 3
+
+26. There  is some  concern  regarding the nanoparticles of some chemical elements  that  are  used by the industry in the  manufacture  of various products.  Why? [2014 - I]
+1. They can accumulate in the environment, and contaminate water and soil.
+2. They can enter the food chains.
+3. They can trigger the production of free radicals.
+Select the correct answer using the code given below.
+(a) 1 and 2 only (b) 3 only
+(c) 1 and 3 only (d) 1, 2 and 3

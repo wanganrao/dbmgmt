@@ -1,0 +1,1315 @@
+remaining from here
+
+1 How can two nations with the same money supply have different Gross Domestic
+Product (GDP)?
+1.  Circulation of the same money supply happens differently in both economies.
+2.  Labour productivity can be different in the two economies.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: C
+Statement 1: Suppose money is ideally sitting in an economy and does not changes hands. It does not generate any output then! A nation that circulates money more, i.e. where money changes more hands will have greater economic activity, and where it is lesser will have lesser economic activity and lesser GDP.
+So, 1 is correct.
+The concept is called velocity of money.
+Statement 2: Even if circulation of money becomes the same, how much the same unity of labour produces in the two economies can be different. A low skilled economy will not generate higher outputs, whereas a high skill base will generate more output with the same money wages. So, 2 is also correct.
+
+2 As per Classical Economic thought, if the buyers and sellers in each market take their decisions following only their own self-interest, then which of these follow?
+a)  Market will inevitably fail
+b)  Markets will need to be corrected by government intervention.
+c)  There will be need of an effective regulator.
+d)  Markets will function well.
+Answer: D
+ Classical thought is also known as the non-interventionist school.
+As per them, markets function best without government interference. So, (b) is
+wrong.
+Similarly, (c) will also be wrong.
+Classical economists observe that markets generally regulate themselves, when free of coercion. Adam Smith referred to this as a metaphorical "invisible hand," which moves markets toward their natural equilibrium. So, (d) is correct and (a) incorrect.
+In contrast to classical economics, Keynesian economics supports policies such as government intervention, deficit spending, control of the money supply, and
+a progressive income tax to counter recession and income inequality.
+Most classical economists reject these ideas. They assert that state intervention makes situations of economic slowdown worse.
+
+3 Which of the following statements is correct about how Francois Bernier describes India?
+a)  A bleak situation in comparison to developments in Europe.
+b)  A land of high spiritual and scientific intelligence
+c)  A land of astounding beauty and natural resources
+d)  A highly affluent society integrated with the world
+Answer: A
+Francois Bernier, a Frenchman, was a doctor, political philosopher and historian. Like many others, he came to the Mughal Empire in search of opportunities.
+Bernier often travelled with the army.
+In virtually every instance Bernier described what he saw in India as a bleak situation in comparison to developments in Europe.
+
+4 It is theorized that over the long run exchange rates between any two national currencies adjust to reflect differences in the price levels in the two countries. The theory would become invalid when
+1.  There are barriers to trade and investment.
+2.  There is difference in productivity of labour and capital between nations.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: C
+ When trade happens without barriers, market forces start operating across national borders.
+People would import only the cheapest commodities (assuming quality is same everywhere), and only that nation will export which produces it cheapest. Exports from all other nations will come to zero.
+Gradually all nations will export the commodities of their comparative advantage (e.g. Gems and Jewelleries from India) and import those of their least comparative advantage (e.g. handicrafts imported by USa).
+Slowly the exchange rates start converging, and reflect only the difference in prices between nations, as hypothesized by the Purchasing Power Parity (PPP) theory.
+
+5 GDP deflator is a measure of
+a)  Level of prices in the economy
+b)  International competitiveness of the domestic sector
+c)  Industrial activity in the economy
+d)  Depreciation of production assets
+Answer: A
+ It is the ratio of the value of goods and services an economy produces in a particular year at current prices to that at prices prevailing during any other reference (base) year.
+This ratio basically shows to what extent an increase in GDP or gross value added
+(GVa) in an economy has happened on account of higher prices, rather than increased output.
+Since the deflator covers the entire range of goods and services produced in the economy - as against the limited commodity baskets for the wholesale or consumer price indices - it is seen as a more comprehensive measure of inflation.
+Option (b): While level of inflation in an economy may show its international competitiveness, this is not why GDP deflator is used. Moreover, the ration of real and nominal GDP does not make much sense for international players as much the actual price level does. Inflation may be high in an economy, yet it may be highly competitive internationally due to low base prices of goods. So, (b) will be wrong.
+
+6 A country will necessarily be economically developed if
+1.  It has large reserves of natural resources.
+2.  It has a large base of working age population.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: D
+ Statement 1: The resource rich Africa and Latin America have some of the poorest countries in the world, whereas many prosperous countries have scarcely any natural wealth.
+The economic wealth, or well-being, of a country thus does not necessarily depend on the mere possession of resources; it is how these resources are used in generating a flow of production and how, as a consequence, income and wealth are generated from that process.
+So, 1 will be incorrect.
+Statement 2: It is called as demographic dividend, but its fruition depends on how skilled, healthy and well-managed is the labour force. India is a well known case.
+
+7 Lingayats do not practise funerary rites prescribed in the Dharmashastras because they believed
+a)  Funerary rites lead to environmental pollution.
+b)  After death a devotee will not return to this world.
+c)  Funerary rites are not needed as the soul will take another birth soon.
+d)  It was a Brahmanical practice and they opposed its domination.
+Answer: B
+ Lingayats believe that on death the devotee will be united with Shiva and will not return to this world. Therefore they do not practise funerary rites such as cremation, prescribed in the Dharmashastras. Instead, they ceremonially bury their dead.
+ The twelfth century witnessed the emergence of a new movement in Karnataka, led by a Brahmana named Basavanna (1106-68) who was initially a Jaina and a minister in the court of a Chalukya king. His followers were known as Virashaivas (heroes of Shiva) or Lingayats (wearers of the linga).
+The Lingayats challenged the idea of caste and the "pollution" attributed to certain groups by Brahmanas. They also questioned the theory of rebirth
+
+8 An economy generally sacrifices consumption goods in order to produce more capital goods. Why is it done?
+1.  To generate long-term growth
+2.  To avoid inflationary situations
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: C
+ Statement 1 & 2: Capital goods are tools, implements and machines etc that make production of consumption goods like furniture possible.
+Since resources are limited in an economy, they can either be channelized for immediate consumption or immediate investment to feed long-term consumption.
+If they are channelized for immediate consumption (i.e. say we are producing more aerated drinks but not drink making machines), a time would come when demand would overshoot supply and economic stagnation would follow.
+If however, a balance is maintained by sacrificing some consumption goods to produce more capital goods, we can have more aerated drinks in the future as there will be more machines to fulfil demand.
+Only this generates long-term growth. This is why the RBI Governor has prescribed moving from consumption spending to investment spending for the Indian economy.
+
+9 Why RBI is called as the 'lender of last resort'?
+a)  If commercial banks refuse to give loan to a poor, he can always turn to RBI for approval.
+b)  It acts as a guarantor for banks and extends loans to ensure the solvency of the latter.
+c)  All heavy infrastructure projects that cannot be financed by individual banks are financed by the RBI.
+d)  It is the last agency to assess the credit worthiness of borrowers.
+Answer: B
+ The total amount of deposits held by all commercial banks in the country is much larger than the total size of their reserves.
+So, if all the account-holders of all commercial banks in the country want their deposits back at the same time, the banks will not have enough means to satisfy the need of every accountholder and there will be bank failures.
+The Reserve Bank of India plays a crucial role here. In case of a crisis like the above it stands by the commercial banks as a guarantor and extends loans to ensure the solvency of the latter.
+This system of guarantee assures individual account-holders that their banks will be able to pay their money back in case of a crisis and there is no need to panic thus avoiding bank runs.
+This role of the monetary authority is known as the lender of last resort.
+
+10 Which of the following reduce accumulation of capital stock in the economy?
+1.  Depreciation of assets
+2.  Spending on infrastructure rather than capacity building of financial institutions
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: A
+ Statement 1: Depreciation is the gradual decrease in the economic value of the capital stock of a firm, nation or other entity.
+It can happen either by physical depreciation like wear and tear or obsolescence or by changes in the demand for the services of the capital in question. So, 1 is correct.
+Statement 2: Capital stock is anything that adds to the productive capacity of the economy. Spending on infrastructure actually increase the capital stock of the nation. So, 2 is wrong.
+
+11 "The lotus which blooms without flower" or the "Fire raging in the ocean" were terms used by the Kabir to describe
+a)  Socio-economic status of India
+b)  Efforts towards religious reforms in India
+c)  Nature of the Ultimate Reality
+d)  Poetical nature of Bhakti literature produced in India
+Answer: C
+ Some of Kabir's poems are known as ulatbansi (upside-down sayings), are written in a form in which everyday meanings are inverted.
+These hint at the difficulties of capturing the nature of the Ultimate Reality in words: expressions such as "the lotus which blooms without flower" or the "fire raging in the ocean" convey a sense of Kabir's mystical experiences.
+He also used terms drawn from Vedantic traditions, alakh (the unseen), nirakar (formless), Brahman, Atman, etc. Other terms with mystical connotations such as shabda (sound) or shunya (emptiness) were drawn from yogic traditions.
+
+12 The term 'Base Effect' is often used while discussing inflationary trends in the Indian economy. It refers to
+a)  Segment wise inflation trends
+b)  Cost push inflation
+c)  Demand pull inflation
+d)  None of the above
+Answer: D
+ The base effect refers to the impact of the rise in price level (i.e. last
+year's inflation) in the previous year over the corresponding rise in price levels in the current year (i.e., current inflation): if the price index had risen at a high rate in the corresponding period of the previous year leading to a high inflation rate, some of
+the potential rise is already factored in, therefore a similar absolute increase in the
+Price index in the current year will lead to a relatively lower inflation rates.
+On the other hand, if the inflation rate was too low in the corresponding period of
+the previous year, even a relatively smaller rise in the Price Index will arithmetically give a high rate of current inflation.
+
+13 Why do policymakers stress on high savings rate in the Indian economy?
+1.  Investments are financed by savings.
+2.  Saving discourages inflation causing consumption expenditure.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: C
+ The basic macroeconomic identity that one should know is: C+S+T = C+I+G.... (i)
+Here C is consumption, S is savings, T is taxes, I is investment and G is government spending.
+So, S+T=I+G..... (ii)
+Any increase in investments can either be financed by high savings or high taxes. So, 1 is correct.
+Also, in equation (i), total income = C+S+T. When S increases C will decrease also controlling inflationary trends in the economy.
+
+14 Revenue expenditure consists of all those expenditures of the government which
+a)  Generally do not result in creation of physical or financial assets
+b)  Generally are withdrawn from the Public Accounts Fund of India
+c)  Tackle special contingencies and exigencies of the government departments
+d)  Help in implementation of new projects of the Government
+Answer: A
+ Revenue expenditure consists of all those expenditures of the government which do not result in creation of physical or financial assets.
+It relates to those expenses incurred for the normal functioning of the government departments and various services, interest payments on debt incurred by the
+government, and grants given to state governments and other parties (even though some of the grants may be meant for creation of assets).
+
+15 The amara-nayaka system was a major political innovation of the Vijayanagara Empire. The amara-nayakas were
+a)  Military commanders who were given territories to govern
+b)  Chiefs of major municipalities
+c)  Peasants who were made independent cultivators in order to encourage greater loyalty to the crown
+d)  Independent spy advisors to the King
+Answer: A
+ Amara-nayakas collected taxes and other dues from peasants, craftspersons and traders in the area.
+They retained part of the revenue for personal use and for maintaining a stipulated contingent of horses and elephants.
+These contingents provided the Vijayanagara kings with an effective fighting force with which they brought the entire southern peninsula under their control.
+The amara-nayakas sent tribute to the king annually and personally appeared in the royal court with gifts to express their loyalty.
+
+16 The term 'factor cost' is often used in the estimation of national income. It is
+a)  Final market price of goods and services
+b)  Total Subsidies and taxes levied on factors
+c)  Total concessions given to units of production
+d)  None of the above
+Answer: D
+ Factor Cost or Factor Income are the incomes received by the owners of
+the production (the households) for rendering their factor services to the producers.
+It is a measure of national income or output based on the cost of factors of production, instead of market prices.
+This allows the effect of any subsidy or indirect tax to be removed from the final measure.
+
+17 If Gross Domestic Product (GDP) at market prices is growing at 5% every year, what does it necessarily imply?
+1.  Manufacturing activity must be growing nearly 5% annually.
+2.  Total volume of goods and services produced must be growing at 5% annually.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: D
+ GDP at market prices calculates total value of goods and services produced within a year at market prices, and not at their actual cost of production.
+So, even if only prices increased by 5% for all final goods and services produced, GDP will increase by 5% without any 'real' increase in production
+So, both 1 and 2 are incorrect.
+
+18 If both the Consumer Price Index (CPI) and Wholesale Price Index (WPI) increased by more than 10% within an year then
+1.  Prices of all goods and services musts have increased by more than 10% within a year.
+2.  Labour wages must have increased by more than 10% within a year.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: D
+CPI and WPI do not capture increase in prices of all goods and services in the economy.
+So, 1 will be wrong as prices of only sample (representative goods) may have increase leaving the prices of other goods and services constant.
+GDP deflator takes into account all such goods and services.
+CPI and WPI do not capture growth in labour wages. Even the CPI for workers captures inflation in items consumed by the working class and not wages per se. So,
+2 would be wrong.
+
+19 The Mansabdari system was introduced by Akbar. What did 'Mansab' of an officer imply in the system?
+1.  Salary of the officer
+2.  Land granted to the Officer
+3.  Number of soldiers maintained by the officer
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  1 and 3 only
+c)  3 only
+d)  1, 2 and 3
+Answer: B
+ The word mansab is of Arabic origin meaning rank or position. The system, hence, determined the rank of a government official.
+Every civil and military officer was given a 'mansab' and different numbers which could be divided by ten were used for ranking officers.It was also meant for fixing the salaries and allowances of officers.
+It was a system whereby nobles were granted the rights to hold a jagir, which meant revenue assignments (not land itself) for services rendered by them but the authority bestowed upon them was not unbridled but with the direct control of these nobles in the hands of the king. So, 2 would be wrong.
+
+20 In economics, the term 'Social Marginal Cost (SMC)' stands for
+a)  Cost incurred in use of an additional unit of physical capital
+b)  Total social productivity of skilled labour
+c)  Costs that occur to the society in addition to the producer
+d)  All of the above
+Answer: C
+ Externalities refer to the benefits (or harms) a firm or an individual causes to another for which they are not paid (or penalised).
+Firms have a private marginal cost and a social marginal cost.
+The total cost to society as a whole for producing one further unit, or taking one further action, in an economy is called as social cost.
+This total cost of producing one extra unit of something is not simply the direct cost borne by the producer, but also must include the costs to the external environment and other stakeholders.
+The idea of SMC is taken into account in evaluating investment projects.
+papers: Chapter 2 (Point on Externalities): 12th Macroeconomics 
+21 Net factor income from abroad includes
+1.  Remittances
+2.  Foreign investment
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: C
+ The difference between a nation's gross national product (GNP) and gross domestic product (GDP) is called NFIA.
+Net foreign factor income or NFIA is the difference between the aggregate amount that a country's citizens and companies earn abroad, and the aggregate amount that foreign citizens and overseas companies earn in that country.
+The NFIA level is generally not substantial in most nations, since factor payments earned by their citizens and those paid to foreigners more or less offset each other.
+However, the NFAI's impact may be significant in smaller nations with substantial foreign investment in relation to their economy and few assets overseas, since their GDP will be quite high compared to GNP.
+
+22 Public finance aims at which of the following objectives?
+1.  Allocating resources
+2.  Redistributing resources
+3.  Stabilising national income and employment
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  1 only
+c)  2 and 3 only
+d)  1, 2 and 3
+Answer: D
+  First, certain goods, referred to as public goods (such as national defence, roads, government administration), as distinct from private goods (like clothes, cars, food items), cannot be provided through the market mechanism, i.e. by transactions between individual consumers and producers and must be provided by the government. This is the allocation function.
+Second, through its tax and expenditure policy, the government attempts to bring
+about a distribution of income that is considered 'fair' by society. The government affects the personal disposable income of households by making transfer payments and collecting taxes and, therefore, can alter the income distribution. This is the distribution function.
+Third, the economy tends to be subject to substantial fluctuations and may suffer from prolonged periods of unemployment or inflation. The overall level of employment and prices in the economy depends upon the level of aggregate demand which is a function of the spending decisions of millions of private economic agents apart from the government.
+
+23 During a situation of low demand, what role monetary policy can play?
+1.  It can boost aggregate demand by printing more currency.
+2.  It can Increase liquidity in the market by selling bonds to the public.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: D
+ Printing currency does not come under monetary policy. It is a part of fiscal policy when the government desires to borrow freshly printed money from RBI in exchange for government securities. So, 1 is incorrect.
+It will however stimulate demand.
+Selling bonds to the public will actually reduce the liquidity in the market as public now invest their savings in bonds and bills. So, 2 would not stimulate aggregate demand and actually reduce it.
+
+24 Which of the following were the consequences of the Green Revolution in India?
+1.  Revival of agricultural growth
+2.  Self-sufficiency in food grain production
+
+3.  End of exploitative feudal relationships all over India.
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  1 and 3 only
+c)  2 and 3 only
+d)  1, 2 and 3
+Answer: A
+ Statement 1: Agriculture growth, which had stagnated in the 1950s, revived to more than 3% annually.
+Statement 2: India became self-sufficient in food production. Food production increased to 159 million tonnes in the mid 1980s from meagre 50 mT in the 1950s.
+Statement 3: Regions where GR was not introduced lagged behind prosperous GR regions. These backward regions also witnessed rising inter-caste violence due to the exploitative feudal relationships. So, it did not end from India. Statement 3 is incorrect.
+
+25 Consider the following.
+1.  Real GDP has increased year after year.
+2.  Government is continuously running a budget surplus.
+The above then necessarily imply that
+a)  The Government is not spending on infrastructure creation.
+b)  The economy is suffering with very high inflation.
+c)  Tax yields are very low in the economy.
+d)  None of the above can be a correct assessment.
+Answer: D
+ Option (a): It is not necessary only a government running a fiscal deficit focuses on infrastructure financing. If the Indian government radically increases its tax collections, its can achieve both a surplus and spending on
+infrastructure.
+Option (b): We cannot say. Moreover, the government is not spending excess money and total supply in the economy is increasing.
+Option (c): If tax yields were low, then a situation of budget surplus maynot be achieved. Even if achieved, we cannot surely conclude this is the case.
+
+26 Plan expenditure includes those kinds of expenditure which
+a)  Fall under Revenue expenditure
+b)  Create assets for the nation
+c)  Involve printing of currency
+d)  Generate tax expenditure
+Answer: B
+ The following may not apply to the present situation when Planning
+Commission has been abolished.
+For stepping up the rate of economic development five-year plans were formulated. The expenditure incurred on the items relating to five year plans is termed as plan expenditure. Such expenditure is incurred by the Central Government.
+A provision is made for such expenditure in the budget of the Central Government. Assistance given by the Central Government to the State Governments and Union Territories for plan purposes also forms part of the plan expenditure.
+
+27 Which of these bodies/agencies help augment human capital in India?
+1.  National Council of Educational Research and Training (NCERT)
+2.  All India Council of Technical Education (AICTE)
+3.  Indian Council for Medical Research (ICMR)
+4.  University Grants Commission (UGC)
+Select the correct answer using the codes below.
+a)  1 and 3 only
+b)  1, 2 and 4 only
+c)  2 and 4 only
+d)  1, 2, 3 and 4
+Answer: D
+ The concept of human capital recognizes that not all labor is equal and that the quality of employees can be improved by investing in them. The education, experience and abilities of an employee have an economic value for employers and for the economy as a whole.
+Education or health provided/facilitated by these bodies can significantly increase human capital. So, all 1, 2, 3 and 4 are correct.
+
+28 Why is paper money accepted as a unit of exchange?
+a)  It has intrinsic value.
+b)  It is authorized by the Central Bank as a legal tender.
+c)  It derives its legitimacy from conventions.
+d)  International Monetary Fund (IMF) authorizes the use of paper money in all
+nations.
+Answer: B
+ The value of the currency notes and coins is derived from the guarantee provided by the issuing authority of these items.
+Every currency note bears on its face a promise from the Governor of RBI that if someone produces the note to RBI, or any other commercial bank, RBI will be responsible for giving the person purchasing power equal to the value printed on the note.
+The same is also true of coins. Currency notes and coins are therefore called fiat money. They do not have intrinsic value like a gold or silver coin. They are also called legal tenders as they cannot be refused by any citizen of the country for settlement of any kind of transaction.
+
+29 What is speculative demand of money?
+a)  Money that people require for immediate purchases
+b)  Money that is invested in long-term capital market instruments
+c)  Money that is saved with the households in anticipation of a crisis
+d)  Money which is used to buy and sell short-term market instruments
+Answer: D
+ This is a Keynesian term. Option (a) is called transactions demand of money.
+Option (b) is not speculative demand of money as long-term investments are in nature of savings, not speculation.
+Option (c) is precautionary demand of money, again a Keynesian term.
+ An individual may hold her wealth in the form of landed property, bullion, bonds, money etc.
+When they invest in bonds, different people have different expectations regarding the future movements in the market rate of interest based on their private information regarding the economy.
+When the interest rate is very high everyone expects it to fall in future and hence anticipates capital gains from bond-holding. Hence people convert their money into bonds. Thus, speculative demand for money is low.
+The reverse condition is true also.
+
+30 Consider the following statements about Kashmir Stag.
+1.  It is the State Animal of Jammu and Kashmir.
+2.  Its only habitat is dense riverine forests.
+3.  It is listed as critically endangered by the IUCN.
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  1 only
+c)  2 and 3 only
+d)  1 and 3 only
+Answer: D
+ It lives in dense riverine forests, high valleys, and mountains of the
+Kashmir valley and northern Chamba in Himachal Pradesh. So, 2 is wrong.
+Due to habitat destruction, over-grazing by domestic livestock, and poaching they are at threat.
+Hangul, the only Asiatic survivor or sub-species of the European red deer, was once widely distributed in the mountains of Kashmir.
+But, they are now scattered within 141 km² of the Dachigam National Park located on foothills of Zabarwan range on the outskirts of Srinagar.
+
+31 Monetary policy becomes ineffective in stimulating demand in an economy when
+a)  Liquidity trap occurs.
+b)  Economy is operating at excess capacity.
+c)  The government is running a fiscal deficit.
+d)  Foreign Exchange Rate is stable.
+Answer: A
+ A liquidity trap occurs when low / zero interest rates fail to stimulate consumer spending and monetary policy becomes ineffective.
+In such as situation, an increase in the money supply could fail to increase spending because interest rates can't fall further.
+A liquidity trap means consumers' preference for liquid assets (cash) is greater than the rate at which the quantity of money is growing.
+So any attempt by policymakers to get individuals to hold non-liquid assets in the form of consumption by increasing the money supply won't work.
+
+32 Consider the following statements.
+1.  Debtors suffer due to low inflation.
+2.  Lenders suffer due to high inflation.
+3.  Bond Holders suffer due to sudden spike of interest rates.
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  3 only
+c)  1 only
+d)  1, 2 and 3 only
+Answer: D
+ Suppose a bank (lender) gave loan to a customer (debtor) at 10%
+annual simple interest rate.
+Assume inflation is at 6% right now, i.e. the value of money is eroded by 6% every year or effective money holding reduces by 6%.
+This means the real or effective interest rate (or return on loan) that the bank receives is only 4% (10-6).
+If inflation increases, real returns to banks decrease and thus 2 would be correct. By the same logic, 1 would be correct too.
+If interest rates spike suddenly, bonds become unattractive for bond holders. This is because now a lower priced bond can offer the same fixed return that now their high priced bond (purchased at promise of low interest rates) does. So, 3 is also correct.
+
+33 Chronologically, which of these event(s) happened after the invasion of Nadir Shah?
+1.  Ahmad Shah Abdali defeats the Marathas in the third battle of Panipat
+2.  The diwani of Bengal transferred to the East India Company
+3.  Humayun defeated by Sher Shah
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 only
+c)  1 and 3 only
+d)  1, 2 and 3
+Answer: A
+ The Mughal empire had been weakened by ruinous wars of succession in the three decades following the death of Aurangzeb, the Hindu Marathas of the Maratha Empire had captured vast swathes of territory in Central and Northern
+India, whilst many of the Mughal nobles had asserted their independence and founded small states.
+Its ruler, Muhammad Shah, proved unable to stop the disintegration of the empire. The imperial court administration was corrupt and weak whereas the country was
+extremely rich whilst Delhi's prosperity and prestige was still at a high. Nadir Shah,
+attracted by the country's wealth, then sought plunder like so many other foreign invaders before him.
+
+34 Narrow and Broad Money is differentiated based on their
+a)  Issuing authority
+b)  Liquidity
+c)  Total volume of circulation
+d)  Convertibility to foreign exchange
+Answer: B
+ It is not (a) since all currency that can be classified as either narrow or broad money is issued by the RBI.
+It cannot be (d) either as whether narrow or broad money all are convertible upto legal limits.
+RBI publishes figures for four alternative measures of money supply, viz. M1, M2, M3 and M4.
+M1 is most liquid and easiest for transactions whereas M4 is least liquid of all. M3 is the most commonly used measure of money supply. It is also known as aggregate monetary resources
+
+35 Banks hold a part of the money people keep in their bank deposits as reserve money. Why?
+1.  It is profitable for the banks to do so.
+2.  It is mandated by the RBI.
+3.  It helps avoid bank failures.
+4.  It is contributed to the forex reserves.
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1 only
+d)  2, 3 and 4 only
+Answer: B
+ Keeping reserves is costly for banks, as, otherwise, they could lend this balance to interest earning investment projects. So, 1 is wrong.
+RBI requires commercial banks to keep reserves in order to ensure that banks have a safe cushion of assets to draw on when account holders want to be paid. So, 2 and 3 are correct.
+
+4 is wrong as Forex reserves are made of foreign exchange, SDR and Gold.
+
+36 The zamindars held extensive personal lands - milkiyat - in Mughal India. These lands could NOT be
+1.  Cultivated for the private use of zamindars
+2.  Sold or mortgaged at will by Zamindars
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: D
+ Milkiyat lands were cultivated for the private use of zamindars, often with the help of hired or servile labour. The zamindars could sell,
+bequeath or mortgage these lands at will. So, both 1 and 2 are wrong.
+Zamindars also derived their power from the fact that they could often collect revenue on behalf of the state, a service for which they were compensated financially.
+
+37 When the Statutory Liquidity Ratio (SLR) is increased
+a)  Banks may cut their lending rates.
+b)  Money circulation in the economy becomes weak.
+c)  Inflation will shoot up in the next quarter.
+d)  Banks will lend lesser funds to retail customers.
+Answer: D
+Statutory Liquidity Ratio which requires the banks to maintain a given fraction of their total demand and time deposits in the form of specified liquid
+assets.
+It can be in cash, gold or securities etc. Therefore, as SLR increases, banks have less to lend.
+
+38 High powered money is the
+a)  Total liability of the monetary authority of the country
+b)  Reserves kept with RBI
+c)  Money circulating in security markets
+d)  Special deposits kept with the Government of India
+Answer: A
+It is also called as monetary base.
+It consists of currency (notes and coins in circulation with the public and vault cash of commercial banks) and deposits held by the Government of India and commercial banks with RBI.
+If a member of the public produces a currency note to RBI the latter must pay her value equal to the figure printed on the note.
+Similarly, the deposits are also refundable by RBI on demand from deposit-holders. These items are claims which the general public, government or banks have on RBI and hence are considered to be the liability of RBI.
+
+39 The word Yavana was used in India for
+a)  Greeks and other peoples who entered the Indian subcontinent
+b)  Prisoners sentenced for seditious acts
+c)  Messengers who visited Royal courts
+d)  Devadasis who performed for social service
+Answer: A
+In Sanskrit sources, the usage of the words "Yona", "Yauna", "Yonaka", "Yavana" or "Javana" etc. appears repeatedly, and particularly in relation to the Greek kingdoms which neighbored or sometimes occupied the Punjab region over a period of several centuries from the 4th century BCE to the first century CE.
+Examples are the Seleucid Empire, the Greco-Bactrian Kingdom and the Indo-Greek
+Kingdom.
+The Yavanas are mentioned in detail in Sangam literature epics such as Pattinappalai, describing their brisk trade with the Early Cholas in the Sangam period.
+
+40 If RBI undertakes Open Market Operations (OMOs), which of the following is most likely to occur?
+a)  The GDP of India will suddenly increase.
+b)  It will alter the total money supply in the economy in the short-term.
+c)  Foreign Institutional Investors (FIIs) will suddenly withdraw from the Indian markets.
+d)  It will immediately cut operating costs for banks.
+Answer: B
+RBI purchases (or sells) government securities to the general public in a bid to increase (or decrease) the stock of high powered money in the economy.
+FIIs would not withdraw as OMOs concern with general public. Moreover, OMOs only affect money supply, and not the confidence of FIIs. So, (c) will be wrong.
+GDP of India may increase or decrease, but that is a medium term phenomenon about which nothing can be accurately said. (a) is not the most appropriate here.
+Operating and lending costs of banks can be cut if their reserve size is reduced. OMOs do not aim at this, and hence (d) is wrong.
+
+41 According to Francois Bernier, some of the fundamental differences between Mughal
+India and Europe was/were
+1.  Lack of private property in land in Mughal India
+2.  Non-existent armies in Europe unlike in Mughal India
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: A
+Statement 1: Owing to crown ownership of land, argued Bernier, landholders could not pass on their land to their children. So they were averse to any long-term investment in the sustenance and expansion of production.
+Statement 2: Strong armies existed in both Europe and Mughal India. The organization systems were different though.
+
+42 What is 'Paradox of Thrift'?
+a)  Individuals save more during a recession which further depletes growth prospects.
+b)  Capital not flowing from developed countries to developing countries despite high savings in developed economies
+c)  Increase in economic efficiency and savings leading to reduced demand
+d)  If everyone tries to work during times of recession there will be even more unemployment.
+Answer: A
+It states that individuals try to save more during an economic recession, which essentially leads to a fall in aggregate demand and hence in economic growth. Such a situation is harmful for everybody as investments give lower returns than normal.
+This theory was heavily criticized by non-Keynesian economists on the ground that an increase in savings allows banks to lend more. This will make interest rates go down and lead to an increase in lending and, therefore, spending.
+
+43 Public goods are always
+1.  Rival goods
+2.  Exclusive goods
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: D
+A rival good is a good whose consumption by one consumer prevents simultaneous consumption by other consumers, for e.g. a berth on train. But, not all public goods are rival, for e.g. defense, police security, public parks etc. So, 1 is wrong.
+Excludable goods are those for which one can at low cost prevent those who have not paid for the good from consuming it. You can require people to pay for a stamp
+before you deliver mail or pay for a ticket before they board a train; you cannot cheaply or easily prevent people from entering a park or from listening to a radio station. So, 2 is not always correct.
+
+44 Which of the following taxes form part of revenue receipts of the Government of India?
+1.  Corporation Tax
+2.  Excise Taxes
+3.  Income Tax
+Select the correct answer using the code below.
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1 and 3 only
+d)  1, 2 and 3
+Answer: D
+Tax revenues, an important component of revenue receipts, comprise of direct taxes - which fall directly on individuals (personal income tax) and firms (corporation tax), and indirect taxes like excise taxes (duties levied on goods produced within the country), customs duties (taxes imposed
+on goods imported into and exported out of India) and service tax.
+
+45 Consider the following about Alvars and Nayanars.
+1.  They disapproved of the caste based discrimination in India.
+2.  They did not produce any written compositions.
+3.  Women devotees were not allowed within the Sangha.
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  1 only
+c)  2 and 3 only
+d)  3 only
+Answer: B
+Statement 1: Some historians suggest that the Alvars and Nayanars initiated a movement of pro
+To some extent this is corroborated by the fact that bhaktas hailed from diverse social backgrounds ranging from Brahmanas to artisans and cultivators and even from castes considered "untouchable".
+Statement 2 & 3: The compositions of Andal, a woman Alvar, were widely sung. Another woman, Karaikkal Ammaiyar, a devotee of Shiva, adopted the path of extreme asceticism in order to attain her goal. So, 3 is wrong.
+One of the major anthologies of compositions by the Alvars, the Nalayira Divyaprabandham, was frequently described as the Tamil Veda, thus claiming that the text was as significant as the four Vedas in Sanskrit that were cherished by the Brahmanas. So, 2 is also wrong.
+
+46 In an open economy without government intervention, trade deficit can be financed by
+1.  Excess of investments over savings
+2.  Capital inflows
+3.  High consumption expenditure
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 only
+c)  1 and 3 only
+d)  1, 2 and 3
+Answer: B
+Trade deficit is financed by excess of savings over investments, not
+the other way round. Only with more savings can we pay for the imports bill as well as manage the domestic investments. So, 1 is wrong.
+Total balance of payments consists of current account (includes trade, invisibles, remittances etc) as well as capital account. Capital inflows like FDI, FII help bridge the trade deficit and neutralize BoP. So, 2 is correct.
+High consumption expenditure will further inflate the import bill and cause trade
+deficit. So, 3 is incorrect.
+
+47 Which of these bills presented along with the Annual Financial Statement, provides details of the imposition, abolition, remission, alteration or regulation of taxes proposed in the Budget?
+a)  Appropriate Bill
+b)  Medium Term Framework Bill
+c)  Finance Bill
+d)  Budget Amendment Bill
+Answer: C
+While the Finance Bill generally seeks approval of the Parliament for raising resources through taxes, cess etc., an Appropriation Bill seeks Parliament's approval for the withdrawal from the Consolidated Fund of India to meet the approved expenditures of the Government. So, (a) is wrong.
+No such bill as (b) exists.
+Finance Bill is a secret bill introduced every year in Lok Sabha (Lower chamber of the Parliament) immediately after the presentation of the Union Budget, to give effect to the financial proposals of the Government of India for the immediately following financial year.
+It is through the Finance Act that amendments are made to the various Acts like
+Income Tax Act 1961, Customs Act 1962 etc.
+
+48 The main items of non-plan expenditure are
+1.  Interest payments
+2.  Defence services
+3.  Subsidies
+4.  Salaries
+5.  Pensions
+Select the correct answer using the code below.
+a)  3, 4 and 5 only
+b)  1 and 2 only
+c)  1, 2 and 3 only
+d)  1, 2, 3, 4 and 5
+Answer: D
+Budget documents classify total revenue expenditure into plan and non- plan expenditure.
+Plan revenue expenditure relates to central Plans (the Five-Year Plans) and central assistance for State and Union Territory Plans.
+Non-plan expenditure, the more important component of revenue expenditure, covers a vast range of general, economic and social services of the government.
+Interest payments on market loans, external loans and from various reserve funds constitute one of the single largest components of non-plan revenue expenditure.
+
+49 The main items of capital receipts of the government are
+1.  Monetization of RBI's reserves
+2.  Market borrowings of the government from the public
+3.  Earnings from import and export duties
+4.  Loans received from international organisations
+5.  Sale of shares in Public Sector Undertakings (PSUs) Select the correct answer using the code below.
+a)  2, 4 and 5 only
+b)  1 and 2 only
+c)  1, 4 and 5 only
+d)  1, 2, 3, 4 and 5
+Answer: A
+The main items of capital receipts are loans raised by the government from the public which are called market borrowings, borrowing by the government from the Reserve Bank and commercial banks and other financial institutions
+through the sale of treasury bills, loans received from foreign
+governments and international organisations, and recoveries of loans granted by the central government.
+Other items include small savings (Post-Office Savings Accounts, National Savings Certificates, etc), provident funds and net receipts obtained from the sale of shares in Public Sector Undertakings (PSUs).
+
+50 Consider the following statements about Lala Lajpat Rai.
+1.  He was a co-founder of the Anglo-Vedic School alongwith Dayanand Saraswati.
+2.  He was the founder of Servants of the People Society.
+3.  He had been the President of the Indian National Congress (INC).
+Select the correct answer using the codes below.
+a)  2 only
+b)  1 and 3 only
+c)  2 and 3 only
+d)  1, 2 and 3
+Answer: C
+Statement 1: He had helped establish the nationalistic Dayanand Anglo- Vedic School and became a follower of Dayanand Saraswati (founder of the Arya Samaj). He was not its co-founder.
+Statement 2: In 1921, he had founded Servants of the People Society, a non-profit welfare organisation, in Lahore, which shifted based to Delhi after partition, and has branches in many parts of India.
+Statement 3: In 1888 and 1889 he was a delegate to the annual sessions of Indian
+National Congress (INC) and was
+elected as its President in the Calcutta Special Session of 1920.
+
+51 The exercise of Gender Budgeting usually involves which of these activities in India?
+1.  Special initiatives for empowering women
+2.  Examination of the utilisation of resources allocated for women
+
+3.  Impact of public expenditure and policies of the government on women
+Select the correct answer using the code below.
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1 and 3 only
+d)  1, 2 and 3
+Answer: D
+GB entails dissection of the Government budgets to establish its gender differential impacts and to ensure that gender commitments are translated in to budgetary commitments.
+Gender Budgeting Cells (GBCs) in Union Government are envisaged to serve as focal points for coordinating gender budgeting initiatives within their Ministries and across Departments. So far 56 Ministries/Department have confirmed setting up of a cell/nominating a nodal person.
+
+52 The Central Bank does not intervene via foreign reserve transactions in the system of
+a)  Flexible Exchange Rates
+b)  Fixed Exchange Rates
+c)  Managed Exchange rates
+d)  All of the above
+Answer: A
+In a system of flexible exchange rates (also known as floating exchange rates), the exchange rate is determined by the forces of market demand and supply.
+In a completely flexible system, the central banks follow a simple set of rules - they do nothing to directly affect the level of the exchange rate, in other words they do not intervene in the foreign exchange market (and therefore, there are no official reserve transactions).
+
+53 The Union Government has issued detailed guidelines to tackle the outbreak of Zika Virus Disease in the wake of reported cases in Americas. Which of the following would help best control its outbreak in India?
+a)  Controlling mosquito population
+b)  Proper Polio immunization
+c)  Cutting down air pollution in cities
+d)  Sterilizing soil by special chemicals
+Answer: A
+Zika virus is spread to people through mosquito bites. The most common symptoms of Zika virus disease are fever, rash, joint pain, and conjunctivitis (red eyes). The illness is usually mild with symptoms lasting from several days to a week. Severe disease requiring hospitalization is uncommon.
+The World Health Organisation (WHO) has declared an international public health emergency over the explosive spread of the mosquito-borne Zika virus.
+
+54 Consider the following statements.
+1.  Fiscal deficit will always cause inflation.
+2.  Fiscal deficit will always slowdown the economy.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: D
+Statement 1: One of the main criticisms of deficits is that they are inflationary. This is because when government increases spending or cuts taxes, aggregate demand increases. If firms can't match (supply) increased demand, inflation will occur.
+However, if there are unutilised resources, output is held back by lack of demand. A high fiscal deficit is accompanied by higher demand and greater output and, therefore, need not be inflationary.
+Statement 2: Only when persistently high fiscal deficit is run by the government, it crowds out private sector investment, leads to inflation and slows down the economy.
+But a carefully crafted fiscal deficit will actually facilitate production by private sector by building human and physical capital. So, 2 is also wrong.
+
+55 The degree of openness of an economy can be measured best by
+a)  Total foreign trade as a proportion of GDP
+b)  Annual GDP growth trends
+c)  Volume of total money supply as a proportion of GDP
+d)  Number of financial institutions active in the economy
+Answer: A
+An open economy is one that trades with other nations in goods and services and, most often, also in financial assets.
+First, when a nation buys foreign goods, this spending escapes as a leakage from the circular flow of income decreasing aggregate demand.
+Second, our exports to foreigners enter as an injection into the circular flow, increasing aggregate demand for domestically produced goods.
+Total foreign trade (exports + imports) as a proportion of GDP is a common measure of the degree of openness of an economy.
+Even a closed economy can have high number of FIs or have high GDP growth rate or high circulation of money supply. So, other options are wrong.
+
+56 Union Law Ministry has constituted an expert committee to review the Specific Relief
+Act, 1963. The review will help
+a)  Ensure ease of doing business
+b)  Reduce atrocities against Scheduled Castes
+c)  Cut down total number of laws in the country
+d)  Modify the framework for implementation of Directive Principles of State
+Policy
+Answer: A
+The committee has been tasked to examine the Act in the context of present scenario involving many issues and dealing with its various provisions.
+The present scenario issues mainly include public private partnerships, contract based infrastructure development and other public projects involving enforceability of the contracts and huge investments thereof.
+The review of the Act will also ensure ease of doing business as it has been not amended since its inception to meet need of changing time.
+
+57 The current account of India records
+1.  Exports and imports in goods and services
+2.  Remittances
+3.  Official Gifts and grants by foreign nations
+Select the correct answer using the code below.
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1 and 3 only
+d)  1, 2 and 3
+Answer: D
+The current account records exports and imports in goods and services and transfer payments.
+Trade in services denoted as invisible trade (because they are not seen to cross national borders) includes both factor income (payment for inputs-investment income, that is, the interest, profits and dividends on our assets abroad minus the income foreigners earn on assets they own in India) and non-factor
+income (shipping, banking, insurance, tourism, software services, etc.).
+Transfer payments are receipts which the residents of a country receive 'for free', without having to make any present or future payments in return.
+They consist of remittances, gifts and grants. They could be official or private.
+
+58 Which of these factors affect the exchange rate of rupee?
+1.  Demand for Indian goods abroad
+2.  Net foreign investments in India
+3.  Political stability of India
+Select the correct answer using the code below.
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1 and 3 only
+d)  1, 2 and 3
+Answer: D
+Statement 1 refers to Indian exports. More the exports, more is the demand of rupee abroad, and higher is the appreciation of the currency.
+Statement 2: Higher FDI movements also indicate demand for rupee as investors must convert their currency into rupees for investments.
+Statement 3: Due to political instability FIIs can fly away from the country, FDI becomes less attractive. So, exchange rate fluctuates due to in and out movement of foreign capital.
+
+59 The term 'Agrarian structure' in context of rural India implies
+1.  Distribution of landholding
+2.  Land management system
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: C
+The term Agrarian Structure denotes all of the existing and lasting production and living conditions found in a rural region. It comprises social, technological, and economic elements and determines the achievable productivity, income and its distribution, and the rural population's social situation.
+The system of land tenure governs the traditional or legal rights individuals or groups have to land and the resulting social relationships among the rural population. Its components are the system of land ownership and system of labour organization.
+The land management system covers the factors on which the cultivation of land is possible. The main factors on which the cultivation of a land depends are land, labor and capital.
+
+60 'Credit creation' in terms of money multiplier is done by
+a)  Only Central Bank
+b)  Only governments
+c)  Banks
+d)  Financial authorities that regulate markets
+Answer: C
+ Money creation is the process by which the money supply of a country or a monetary region (such as the Eurozone) is increased. A central bank may introduce new money into the economy (termed "expansionary monetary policy", or "money printing" by detractors) by purchasing financial assets or lending money to financial institutions.
+Commercial bank lending also creates money in the form of demand deposits. Through fractional reserve banking, bank lending multiplies the amount of broad money beyond the amount of base money originally created by the central bank.
+The exact process has been explained very well in the NCERT book.
+
+61 Fiscal deficit is the difference between
+a)  Government's total expenditure and its total receipts excluding borrowing
+b)  Government's total revenue expenditure and its revenue receipts excluding borrowing
+c)  Government's planned expenditure and its total receipts
+d)  Government's total expenditure and its total receipts including borrowing
+Answer: A
+Gross fiscal deficit = Total expenditure - (Revenue receipts + Non- debt creating capital receipts)
+Non-debt creating capital receipts are those receipts which are not borrowings and, therefore, do not give rise to debt. Examples are recovery of loans and the proceeds from the sale of PSUs.
+
+62 Consider the following statements.
+1.  Assertion (a): A rise in the interest rates at home often leads to an appreciation of the domestic currency.
+2.  Reason (R): Higher interest rates attract foreign capital.
+In the context of the above, which of these is correct?
+a)  A is correct, and R is an appropriate explanation of A.
+b)  A is correct, but R is not an appropriate explanation of A.
+c)  A is correct, but R is incorrect.
+d)  Both A and R are incorrect.
+Answer: A
+There are huge funds owned by banks, multinational corporations and wealthy individuals which move around the world in search of the highest interest rates.
+The country offering higher interest rates (with safe assets) attract foreign capital
+and increase the demand for the currency of that nation (since foreign currency must
+be converted to domestic currency for investment).
+Higher demand for domestic currency leads to its appreciation.
+
+63 Which of the following raises the productivity of the economy?
+a)  Factor payments
+b)  Investment expenditure
+c)  Rent expenditure
+d)  Transfer payments
+Answer: D
+You should choose the most appropriate option here.
+Factor payments include payment towards land, labour, raw material etc. Since these are regular payments towards factors which are already productive, they don't add to their productive capacity. For e.g. a training programme may have increased labour productivity. Mere wage payment may not lead to the same. So, (a) is not most appropriate here.
+By the same logic, (c) is incorrect.
+Transfer payments do not directly absorb resources or create output. They are considered as a redistribution of resources in the economic system, e.g. pensions. So, (d) is also not correct.
+Investment expenditure refers to the expenditure incurred either by an individual or a firm or the government for the creation of new capital assets like machinery, building etc.
+Net investment expenditure is calculated by deducting the depreciation charges from the value of existing capital assets.
+
+64 The term 'twin deficits' is often in news. It occurs
+a)  When an economy has both current account deficit and fiscal deficit
+b)  When an economy has deficits in both trade and remittances
+c)  When an economy is suffering from both depreciation of exchange rate and high inflation
+d)  When a nation with high fiscal deficit is suffering from savings deficit
+Answer: A
+Twin deficit identity is used to refer to a nation's current account deficits and a simultaneous fiscal deficit.
+The term became widely used in the 1980s until the 1990s because the United States experienced the "twin" deficits during this timeframe. However, there is no reason why current account deficits and government budget deficits occurs at the same
+time.
+This is an insightful article on the issue http://www.thehindubusinessline.com/opinion/columns/harish-damodaran/the-twin-
+deficits-myth/article3961796.ece
+India was running high twin deficits in the post-2008 phase.
+
+65 United Nations Disengagement Observer Force (UNDOF) maintains the ceasefire between
+a)  Syria and Israel
+b)  Jordan and Egypt
+c)  Kuwait and Iraq
+d)  Saudi Arabia and Kuwait
+Answer: A
+ The UNDOF was established in 1974 by United Nations Security Council (UNSC) following the agreed disengagement of Syrian and Israeli forces in the Golan Heights.
+Since then, UNDOF has remained in the area to maintain the ceasefire between
+Syrian and Israeli forces and to supervise the implementation of the disengagement
+agreement.
+Major General Jai Shanker Menon of India has been appointed as the Head of Mission and Force Commander of the United Nations Disengagement Observer Force (UNDOF).
+Source: http://www.thehindu.com/news/international/ban-appoints-major-general-m enon-as-undof-head/article8188708.ece
+
+66 If we subtract 'X' from the fiscal deficit we will obtain 'Primary deficit'. Here 'X is
+a)  Interest payments
+b)  Major subsidies
+c)  Defence expenditure
+d)  Recovery of loans
+Answer: A
+Primary deficit refers to difference between fiscal deficit of the current year and interest payments on the previous borrowings. Primary Deficit = Fiscal Deficit - Interest Payments
+The total borrowing requirement of the government includes the interest commitments on accumulated debts. Primary deficit reflects the extent to which such interest commitments have compelled the government to borrow in the current period.
+
+67 Which of these are recent reforms in the International Monetary Fund (IMF)?
+1.  Voting quotas of some emerging economies has been increased.
+2.  IMF's Executive Board will now consist entirely of elected Executive Directors.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: C
+Statement 1: India's voting rights increased by 0.3% from the current
+2.3% to 2.6%. China's voting rights increased by 2.2% from current 3.8% to 6 %. These reforms shifted more than 6% of the quota shares to emerging and developing countries from the US and European countries. Russia and Brazil also have gained from the reforms.
+Statement 2: Currently, US, Japan, France, Germany, Italy, United Kingdom, Canada and Saudi Arabia are among the top ten members of the IMF.
+But, the member countries with the 5 largest quotas appointed the Executive
+Director, which will be made to an entirely elected system now. So, 2 is correct.
+The reforms were agreed upon by the 188 members of the IMF in 2010 in the aftermath of the global financial meltdown. However, there implementations were delayed due to the time taken by the US Congress to approve the changes.
+Source: http://www.thehindu.com/business/india-gets-more-voting-rights-in-imf-ref orms/article8163827.ece
+
+68 Which of the following cities have been shortlisted under the Smart Cities Mission?
+1.  Bhubneshwar
+2.  Jabalpur
+3.  Udaipur
+4.  Guwahati
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 and 4 only
+c)  1 only
+d)  1, 2, 3 and 4
+Answer: D
+The Union Ministry of Urban Development has shortlisted 20 cities from
+11 States and Delhi Union Territory in the list of first batch of Smart Cities Mission.
+Among the shortlisted 20 Smart cities, 3 are from Madhya Pradesh, 2 each are from
+Maharashtra, Rajasthan Tamil Nadu, Karnataka, Gujarat and Andhra Pradesh and 1
+each from Odisha, Kerala, Delhi (UT), Assam and Punjab.
+Source: http://indianexpress.com/article/india/india-news-india/india-20-smart-cities
+-list/
+
+69 Which of these argument(s) support the existence of an International Monetary System
+(IMS)?
+1.  An international payment system will fail if there is no authority to force the use of a particular currency in all international transactions.
+2.  An IMS is needed to decide on the exchange rate values of all currencies used in international transactions.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: D
+Statement 1: Even presently, there is no IMS that enforces the use of a particular currency in all international transactions. What is required is confidence in a currency, which is given by national governments themselves
+announcing the free convertibility of their currencies. So, 1 is not correct. Statement 2: Presently a mix of managed and floating exchange rate system is
+followed by most national governments themselves. The foreign exchange market
+forces decide the currency value. It will be a disaster if a single authority supersedes market forces. So, 2 is wrong.
+
+70 Functioning of which of the following authorities have a bearing on the Indian financial markets?
+1.  Reserve Bank of India (RBI)
+2.  Future Commodities Regulator (FCR)
+3.  Securities and Exchange Board of India (SEBI) Select the correct answer using the code below.
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1 and 3 only
+d)  1, 2 and 3
+Answer: C
+RBI regulates financial markets by way of sterilization, issuing bonds, managing liquidity like CRR, SLR etc. So, 1 is correct.
+SEBI regulates security markets which are a part of the larger financial markets. So,
+3 is also correct.
+There is no body like FCR. So, 2 is incorrect.
+The Financial Markets Committee (FMC) of RBI meets daily to review the consistency between policy rate, money market rates, and liquidity conditions.
+We will covering more questions on SEBI and other financial bodies when we touch
+Ramesh Singh's book on Indian economy.
+
+71 Indian Computer Emergency Response Team (CERT-In) works under the
+a)  Ministry of Communications and Information Technology
+b)  Ministry of Defence
+c)  Ministry of Home Affairs
+d)  Department of Science and Technology
+Answer: A
+Its objective:
+To protect Indian cyberspace and software infrastructure against destructive and hacking activities. Strengthen security-related defence of the Indian Internet domain.
+Issue guidelines, vulnerability notes, advisories, and whitepapers regarding to information security practices, prevention, procedures, response and reporting
+of cyber security incidents.
+The Union Cabinet has recently apprised the Memorandum of Understandings
+(MoUs) signed between CERT-In and 3 nations- Japan, Singapore and Malaysia.
+
+72 Consider the following statements.
+1.  It sets a three-year rolling target for specific fiscal indicators.
+2.  It examines whether revenue expenditure can be financed through revenue receipts on a sustainable basis.
+3.  It evaluates how productively capital receipts including market borrowings are being utilised.
+The above refer to which of these documents?
+a)  Fiscal Policy Strategy Statement
+b)  Medium-term Fiscal Policy Statement
+c)  Macroeconomic Framework Statement
+d)  Annual Financial Statement
+Answer: B
+The Fiscal Policy Strategy Statement sets the priorities of the government in the fiscal area, examining current policies and justifying any deviation in important fiscal measures. So, (a) is incorrect.
+The Macroeconomic Framework Statement assesses the prospects of the economy with respect to the GDP growth rate, fiscal balance of the central government and external balance. So, (c) is incorrect.
+(d) refers to Budget.
+
+73 Consider the following about Al-Biruni's work and stay in India.
+1.  He translated Patanjali's work on grammar into Arabic.
+2.  He rejected Indian philosophy and spiritual ideas.
+3.  Al-Biruni disapproved of the existence of the caste system in India.
+Which of the above is/are correct?
+a)  1 only
+b)  2 and 3 only
+c)  1 and 3 only
+d)  1, 2 and 3
+Answer: A
+Statement 1: Al-Biruni's expertise in several languages allowed him to compare languages and translate texts. He translated several Sanskrit works, including Patanjali's work on grammar, into Arabic. For his Brahmana friends, he translated the works of Euclid (a Greek mathematician) into Sanskrit.
+Statement 2: Al-Biruni spent years in the company of Brahmana priests and scholars, learning Sanskrit, and studying religious and philosophical texts. So, 2 is wrong.
+Statement 3: In spite of his acceptance of the Brahmanical description of the caste system, Al-Biruni disapproved of the notion of pollution. He remarked that everything which falls into a state of impurity strives and succeeds in regaining its original condition of purity.
+
+74 Suppose the economy has slowed down causing massive unemployment and high inflation. Keynesians may solve the problem by?
+a)  Reducing the regulation of financial markets
+b)  Liberalizing private economic system
+c)  A combination of fiscal stimulus and appropriate monetary policies
+d)  De-nationalizing public sector units to increase efficiency of economic system
+Answer: C
+Options (a) and (b) do not give any clear way as to how the crisis would be managed. Also, both (a) and (b) may lead to further deterioration of the situation as per Keynesians.
+Option (d) may not solve the crisis as greater privatization does not solve the problems of high unemployment. It is also not clear how this will tackle inflation. So, (d) is incorrect.
+Keynesian economists often argue that private sector decisions sometimes
+lead to inefficient macroeconomic outcomes which require active policy responses by the public sector, in particular, monetary policy actions by the central bank and fiscal policy actions by the government, in order to stabilize output over the business cycle.
+Keynesian economics advocates a mixed economy- predominantly private sector, but with a role for government intervention during recessions.
+
+75 'Sterilization' by RBI is related most with
+a)  Foreign capital flows
+b)  Domestic infrastructure investment
+c)  Fiscal deficit
+d)  Taxation policy of the government
+Answer: A
+Entry or outgo of foreign exchange in India has the potential to alter total money supply. This is because the inflow must be converted into Indian currency, and the outflow must be converted from Indian currency back to foreign exchange.
+RBI undertakes an open market sale of government securities of an amount equal to the amount of foreign exchange inflow in the economy, thereby keeping the stock of high powered money and total money supply unchanged.
+Thus it sterilises the economy against adverse external shocks. This operation of
+RBI is known as sterilisation.
+
+76 As per Ibn Battuta's account of India
+1.  Slaves were openly sold in markets and exchanged as gifts.
+2.  Female slaves were employed by the Sultan to keep a watch on his nobles.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: C
+It appears from Ibn Battuta's account that there was considerable differentiation among slaves.
+Some female slaves in the service of the Sultan were experts in music and dance, and Ibn Battuta enjoyed their performance at the wedding of the Sultan's sister.
+Female slaves were also employed by the Sultan to keep a watch on his nobles.
+
+77 Non-tax revenue of the central government mainly consists of
+1.  Interest receipts on account of loans forwarded by the government
+2.  Dividends and profits on investments made by the government
+3.  Cash grants-in-aid from foreign countries and international organisations
+4.  Wealth tax and estate duties levied on select properties
+Select the correct answer using the code below.
+a)  1 and 4 only
+b)  2 and 3 only
+c)  1, 2 and 3 only
+d)  1, 2, 3 and 4
+Answer: C
+Statement 4 is about direct taxes like wealth tax, gift tax and estate duty which have never been of much significance in terms of revenue yield and have thus been referred to as 'paper taxes'. Hence, it is wrong.
+Fees and other receipts for services rendered by the government also form part of the non-tax revenue.
+
+78 The Cabinet Committee on Economic Affairs (CCEa) has given its in principle approval for the Hybrid Annuity Model for implementing the National Highway Projects. Under the model
+1.  The government will bear all the risk of the project.
+2.  The highway toll tax will be collected by the private parties alone.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: D
+The highway toll tax will be collected by the government i.e. by the National Highways Authority of India (NHAI) unlike in the build, operate and transfer (BOT) toll model in which the private sector collects it. Thus, private party does not have to bear traffic and inflation risks as the project cost are also inflation indexed. So, 2 is wrong.
+There is distribution of risk between the government and private players in this model, hence, it will speed up the construction of highways in the country. So, 1 is wrong.
+The private developer will be able to recover his investment from the government by receiving annuity payments over a period of 15 years. For toll collection, there is a separate provision for operation and management payments by the government to
+the concessionaire.
+
+79 Khanqahs and silsilas are related with the tradition of
+a)  Gibbism
+b)  Batya
+c)  Sufism
+d)  Kahina
+Answer: C
+Institutionally, the sufis began to organise communities around the hospice or khanqah (Persian) controlled by a teaching master known as shaikh (in
+Arabic), pir or murshid (in Persian).
+Sufi silsilas began to crystallise in different parts of the Islamic world around the twelfth century. The word silsila literally means a chain, signifying a continuous link between master and disciple, stretching as an unbroken spiritual genealogy to the Prophet.
+
+80 What do you understand by the term 'Total Factor Productivity (TFP)'?
+a)  The total rent extracted from any one of the factors
+b)  The total value of output produced using any one of the factors
+c)  Effects on total output not caused by an increase in inputs
+d)  High growth of land and labour in a nation
+Answer: C
+You can understand TFP in this way.
+Suppose a nation has the same stock of land, labour and capital, and yet the next year its GDP increased by more than it increased last year.
+How do we explain this?
+Either the individual productivities of factors would have increased, or the total combined productivity of the economy has increased.
+This can happen either by better technology, better infrastructure etc that improve the total factor productivity of the economy.
+So, it is called as the part of the output not explained by the change in inputs.
+
+81 Consider the following statements.
+1.  Portuguese travellers Domingo Paes and Fernao Nuniz visited his Empire.
+2.  He defeated the Sultans of Bijapur, Golconda, the Bahmani Sultanate and the Raja of Odisha.
+3.  The south Indian mathematician Nilakantha Somayaji lived in his Empire.
+The above refer to?
+a)  Sadasiya Raya
+b)  Krishnadevaraya
+c)  Venkata I
+d)  Thimma Bhupala
+Answer: B
+Krishnadeva Raya's rule was characterised by expansion and consolidation. This was the time when the land between the Tungabhadra and Krishna rivers (the Raichur doab) was acquired (1512), the rulers of Orissa were subdued (1514) and severe defeats were inflicted on the Sultan of Bijapur (1520).
+Although the kingdom remained in a constant state of military preparedness, it flourished under conditions of unparalleled peace and prosperity.
+Krishnadeva Raya is credited with building some fine temples and adding impressive gopurams to many important south Indian temples.
+He also founded a suburban township near Vijayanagara called Nagalapuram after his mother. Some of the most detailed descriptions of Vijayanagara come from his time or just after.
+
+82 The error of double counting in the estimation of national income is related to which of the following goods?
+a)  Consumption goods
+b)  Intermediate goods
+c)  Consumer durables
+d)  Capital goods
+Answer: B
+Intermediate goods are crucial inputs to any production process and a significant part of our manpower and capital stock are engaged in production of these goods.
+However, since we are dealing with value of output, we should realise that the value of the final goods already includes the value of the intermediate goods that have
+entered into their production as inputs.
+Counting them separately will lead to the error of double counting. Whereas considering intermediate goods may give a fuller description of total economic activity, counting them will highly exaggerate the final value of our economic activity.
+
+83 The difference between Gross Domestic Product (GDP) and Gross National Product
+(GNP) is
+a)  Depreciation
+b)  Subsidies
+c)  Indirect and Direct Taxes
+d)  Net Factor Income from abroad
+Answer: D
+GNP ? GDP + Factor income earned by the domestic factors of
+production employed in the rest of the world- Factor income earned by the factors of production of the rest of the world employed in the domestic economy
+Hence, GNP ? GDP + Net factor income from abroad
+If we deduct depreciation from GNP the measure of aggregate income that we obtain is called Net National Product (NNP).
+
+84 Ain-i Akbari written by Abu'l Fazl deals with records of administrative arrangements made for
+1.  Ensuring cultivation by the state
+2.  Collection of revenue by the agencies of the state
+3.  Regulation of the relationship between the state and rural zamindars
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  1 only
+c)  2 and 3 only
+d)  1, 2 and 3
+Answer: D
+The Ain-i-Akbari is the third volume of the Akbarnama containing information regarding Akbar's reign in the form of, what would be called in modern times, administration reports, statistical compilations, or gazetteers.
+The Ain-i-Akbari is itself divided into five books. The first book deals with the imperial household, and the second with the servants of the emperor, the military and civil services. The third book deals with the imperial administration, containing the regulations for the judicial and executive departments. The fourth book contains information about Hindu philosophy, science, social customs and literature. The fifth book contains sayings of Akbar
+
+85 Muqaddam or mandal in the 16th-17th century India was
+a)  Headman of the panchayat
+b)  Tax collection officer
+c)  Adviser to the King
+d)  Local police head
+Answer: A
+ Some sources suggest that the headman was chosen through the consensus of the village elders, and that this choice had to be ratified by the zamindar.
+Headmen held office as long as they enjoyed the confidence of the village elders, failing which they could be dismissed by them.
+The chief function of the headman was to supervise the preparation of village accounts, assisted by the accountant or patwari of the panchayat.
+
+86 Cash Reserve Ratio (CRR) as a part of monetary policy instruments is used to control
+1.  Inflation
+2.  Fiscal deficit
+3.  Foreign Direct Investment (FDI)
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1 only
+d)  1, 2 and 3
+Answer: C
+Fiscal deficit pertains to the government's financial decisions and budget making. CRR does not control it. A very high value of CRR may however affect fiscal deficit choices of the government. So, 2 is a wrong choice.
+FDI is controlled through executive policy by way of approvals, caps etc and not through CRR. So, 3 is also wrong.
+If RBI decides to increase CRR, banks will keep more cash with RBI and lend less. Lower money circulation would reduce economic activity, demand and thus manage inflation.
+
+87 Consider the following about land revenue collection in Mughal India.
+1.  Land revenue was imposed without assessing the land.
+2.  Payment was accepted only in kind, not in cash.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: D
+The Mughal state tried to first acquire specific information about the extent of the agricultural lands in the empire and what these lands produced before fixing the burden of taxes on people. So, 1 is wrong.
+The land revenue arrangements consisted of two stages- first, assessment and then
+actual collection. The jama was the amount assessed, as opposed to hasil, the amount collected.
+Akbar decreed that while he should strive to make cultivators pay in cash, the option of payment in kind was also to be kept open. So, 2 is incorrect.
+While fixing revenue, the attempt of the state was to maximise its claims.
+
+88 The official Amin in Mughal India was responsible for
+a)  Ensuring that imperial regulations were carried out in the provinces
+b)  Ensuring external security and diplomatic negotiations for peace
+c)  Supervising the work of all welfare departments at the Centre
+d)  Extracting dues from defaulters
+Answer: A
+This is an account of important officers appointed in Mughal India.
+Appointment of two officers with specific responsibilities and jurisdiction was only to avoid concentration of authority in one single individual and also to see that one acts as a check over the other.
+Sarkars were further subdivided as paraganas.
+In each paragana a Shiqdar, an Amin, a Fotehdar, a Munsif, a Hindi writer and a Persian writer were appointed besides the Patwari, Chaudari and the Muqaddam who acted as the intermediaries between the government and the people.
+The duty of the Shiqdar was to maintain law and order, to collect the revenue and also decide the legal matters.
+The Amin was in charge of collection of the land revenue and he too tried civil and revenue cases.
+The Amin and the Shiqdar were of the same rank. The treasurer was Fotehdar and the entire amount collected was kept in his custody.
+He also maintained account of the income and expenditure of the paragana.
+
+89 The real exchange rate measures
+a)  Prices abroad relative to those at home
+b)  International speculation in major currencies
+c)  Depletion of foreign exchange reserves
+d)  Capital outflow abroad relative to inflow at home
+Answer: A
+Concept:Nominal exchange rate is the price of one currency in terms of number of units of some other currency.
+To incorporate the purchasing power and competitiveness aspect and, therefore, make the measure more meaningful, real exchange rates are used.
+The real exchange rates are nothing but the nominal exchange rates multiplied by the price indices of the two countries.
+This means the market price level of goods and services, given by indices of inflation. So if the price level in the US is higher than the price level in India, then the real exchange rate of the rupee versus the dollar will be greater than the nominal exchange rate.
+Suppose the nominal exchange rate is Rs 50 and US prices are greater than Indian prices, a dollar will buy more in India than what Rs 50 will buy in the US.
+
+90 Which of the following were the main features of the Mansabdari system?
+1.  The king himself appointed the mansabdars
+2.  A mansabdar could be asked to give only military assistance.
+3.  The mansabdari system was hereditary.
+Select the correct answer using the codes below.
+a)  1 only
+b)  1 and 2 only
+c)  3 only
+d)  1 and 3 only
+Answer: A
+The King could enhance the mansab, lower it or remove it and not just appoint it. So, 1 is correct.
+A mansabdar could be asked to perform any civil or military service. So, 2 is incorrect.
+The mansabdari system was not hereditary as appointments were made by the King. So, 3 is incorrect.
+There were 33 categories of the mansabdars. The lowest mansabdar commanded 10 soldiers and the highest 10,000 soldiers. Only the princes of the royal family and most important Rajput rulers were given a mansab of 10,000.
+
+91 In India, coins are issued by the
+a)  Government of India
+b)  Reserve Bank of India
+c)  Foreign Exchange Management Authority (FEMa)
+d)  State Governments
+Answer: A
+In India currency notes are issued by the Reserve Bank of India (RBI), which is the monetary authority in India.
+However, coins are issued by the Government of India. The responsibility for coinage vests with the Government of India on the basis of the Coinage Act, 2011 as amended from time to time. The Government of India is also responsible for the designing and minting of coins in various denominations.
+Apart from currency notes and coins, the balance in savings, or current account deposits, held by the public in commercial banks is also considered money.
+
+92 Under sulh-i kul introduced by Akbar
+1.  Religion was placed above the authority of the state.
+2.  State did not arbitrarily discriminate between religions.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: B
+Statement 1: In sulh-i kul all religions and schools of thought and freedom of expression but on condition that they did not undermine the authority of the state or fight among themselves.
+In fact, the ideal of sulh-i kul was implemented through state policies.
+Statement 2: Akbar abolished the tax on pilgrimage in 1563 and jizya in 1564 as the two were based on religious discrimination.
+All Mughal emperors gave grants to support the building and maintenance of places of worship. Even when temples were destroyed during war, grants were later issued for their repair.
+So, 1 is wrong and 2 will be correct.
+
+93 The convergence theory states that all industrial systems, whether capitalist or communist, would converge in their social, political and economic systems because of the determinant effects of
+a)  Technology
+b)  Human evolution
+c)  Natural laws
+d)  Administrative systems
+Answer: A
+Modern industrial systems of production, it is argued, create a highly complicated division of labour, incorporating wide-ranging skills and competencies.
+Furthermore, unlike preindustrial societies, industrialized societies are more open there are greater opportunities and freedom for people to choose their work and improve their social status, rather than this being determined by traditions and the family they were born into.
+In industrialized countries specialist education is believed to become more important, and a higher level of literacy and skills is found among the population as a whole.
+These lead to homogenization of industrial societies irrespective of the system they follow.
+
+94 Why higher GDP does not necessarily imply higher welfare for a nation?
+1.  It may not be uniformly distributed.
+2.  It does not include the spending by the unorganized sector.
+3.  It does not capture extent of environmental degradation.
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 only
+c)  1 and 3 only
+d)  1, 2 and 3
+Answer: C
+Statement 1: Rise in GDP may be concentrated in the hands of very few individuals or firms. For the rest, the income may in fact have fallen. In such a case the welfare of the entire country cannot be said to have increased.
+Statement 2: It captures spending by all groups as it accounts for all goods and services consumed in the economy. 2 is incorrect.
+Statement 3: Take an example to understand this statement.
+For e.g. the value added of the refinery will be counted as part of the GDP of the economy. But in carrying out the production the refinery may also be polluting the nearby river. This may cause harm to the people who use the water of the river. Hence their utility will fall. So, 3 is correct.
+
+95 Which of the following indices best reflects the international competitiveness of a nation's goods?
+a)  Real Effective Exchange Rate (NEER)
+b)  Nominal Exchange Rate (NER)
+c)  Consistent Balance of Payments (BoP) Surplus
+d)  Annual short-term capital Inflows
+Answer: A
+The real exchange rate is often taken as a measure of a country's international competitiveness as it takes into account purchasing power at both nations.
+When RER is averaged (weighted) for all trade partners, its called REER and best reflects international competitiveness.
+Option (d) referring mainly to FIIs is more related to the overall attractiveness of the economy and its GDP growth rate rather than its export products.
+A nation can run a BoP surplus even by importing less and exporting just enough to maintain it or by receiving large sums of lent money to foreign institutions. So, (c) is also wrong.
+
+96 Conversion of multi-crop lands to monoculture lands can be harmful to agriculture because
+1.  It depletes soil nutrients severely leaving soil weak for any healthy plant growth.
+2.  It increases the susceptibility of farm to pests.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: C
+Statement 1: Planting the same crop in the same place each year zaps nutrients from the earth and leaves soil weak and unable to support healthy plant growth. This is because the same nutrient is depleted again and again without replenishment.
+Since soil structure and quality becomes so poor, farmers are forced to use chemical fertilizers to encourage plant growth and fruit production.
+Statement 2: The ecological landscape of monoculture is that there is a massive range of genetically identical plants, against a backdrop of genetically diverse and adapting wild pests, which include fungi, bacteria, insects etc.
+These pests each have a wild population with its own biodiversity, and their populations are constantly changing and adapting to being able to eat the crops or benefit from the presence of whatever crops are being grown.
+The monoculture crops, however, are not changing, and are not able to adapt because they have no genetic variability and are not allowed to reproduce naturally.
+Development in India
+
+97 How can the government finance spending excess of revenue receipts?
+1.  Borrowing from markets
+2.  Borrowing from foreign nations
+3.  Requesting grants from international bodies
+Select the correct answer using the codes below.
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1 and 3 only
+d)  1, 2 and 3
+Answer: D
+The fiscal deficit will have to be financed through borrowing as the revenue generated is insufficient.
+Thus, it indicates the total borrowing requirements of the government from all sources.
+From the financing side Gross fiscal deficit = Net borrowing at home + Borrowing from RBI + Borrowing from abroad
+Net borrowing at home includes that directly borrowed from the public through debt instruments (for example, the various small savings schemes) and indirectly from commercial banks through Statutory Liquidity Ratio (SLR).
+
+98 A Central Public Sector Enterprise cannot attain Maharatna status if
+1.  It is not listed on the stock exchange.
+2.  Its operations are limited to India.
+Which of the above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  None
+Answer: C
+  The CPSEs fulfilling the following criteria are eligible to be considered for grant of Maharatna status.
+(i) Having Navratna status.
+(ii) Listed on Indian stock exchange with minimum prescribed public shareholding under SEBI regulations.
+(iii) Average annual turnover of more than Rs. 25,000 crore, during the last 3 years. (iv) Average annual net worth of more than Rs. 15,000 crore, during the last 3 years. (v) Average annual net profit after tax of more than Rs. 5,000 crore, during the last 3
+years.
+(vi) Should have significant global presence/international operations.
+Economic 
+99 Lichens are not likely to be found in
+1.  Cold regions
+2.  Tree barks
+3.  Sites with heavy air pollution due to sulphur dioxide
+Select the correct answer using the codes below.
+a)  1 and 3 only
+b)  1 and 2 only
+c)  3 only
+d)  They can be found at all these places.
+Answer: C
+Lichens and mosses can be found in even Tundra regions. So, 1 is incorrect.
+Lichens can be commonly found growing on the barks of trees as a thin greenish- white crust. So, 2 is wrong too.
+The hardy lichens are useful bio-indicators for air pollution, especially sulphur dioxide pollution, since they derive their water and essential nutrients mainly from the atmosphere rather than from the soil. So, they are not likely to be found there due to heavy damage. Statement 3 is correct.
+
+100 In an economy, the situation of 'Liquidity Trap' happens when
+a)  All commercial banks fail
+b)  Interest rates are too low
+c)  External economy is highly volatile
+d)  Interest rates are too high
+Answer: B
+Suppose interest rates are very low presently. Now seeing this, every investor feels since the interest rates are below normal and so low, they must rise.
+If the interest rates rise, the bonds that the investors hold with them become unattractive.
+Thus, everyone in the economy will hold their wealth in money balance and if additional money is injected within the economy it will be used up to satiate people's craving for money balances without increasing the demand for bonds and without further lowering the rate of interest below the floor R minimum. Such a situation is called a liquidity trap.

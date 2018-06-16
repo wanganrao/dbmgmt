@@ -1,0 +1,596 @@
+1. Which one of the following can be used to confirm whether drinking water contains a gamma emitting isotope or not ? [1995]
+(a) Microscope (b) Lead plate
+(c) Scintillation counter (d) Spectrophotometer
+
+2. Which one of the following pairs of materials serves as electrodes in chargeable batteries commonly used in devices such as torchlights, electric shaver etc. ?  [1995]
+(a) Nickel and cadmium
+(b) Zinc and carbon
+(c) Lead peroxide and lead
+(d) Iron and cadmium
+
+3. 'Yellow cake', an item of smuggling across border is [1995]
+(a) a crude form of heroin
+(b) a crude form of cocaine
+(c) uranium oxide
+(d) unrefined gold
+
+4. The difference between a nuclear reactor and an atomic bomb is that [1995]
+(a) no chain reaction takes place in nuclear reactor while in the atomic bomb there is a chain reaction
+(b) the chain reaction in nuclear reactor is controlled
+(c) the chain reaction in nuclear reactor is not controlled
+(d) no-chain reaction takes place in atomic bomb while it takes place in nuclear reactor
+
+5. The alpha particle carries two positive charge. Its mass is very nearly equal to that of [1996]
+(a) two protons
+(b) an atom of helium
+(c) sum of masses of two positrons and two neutrons
+(d) two positrons as each positron carries a single positive charge
+
+6. Match the names of outstanding Indian scientists given in List I with area of their specialized work given in List II and select the correct answer by using the codes given below the lists : [1998]
+List- I List-II
+A. Dr. Raja Ramanna 1. Plant chemistry
+B. Dr. M.S. Swaminathan 2. Nuclear physics
+C. Prof. U.R Rao 3. Thermodynamics & astrophysics
+D. Prof. Meghnad Saha 4. Space research
+5. Agricultural science
+Codes :
+(a) A-3; B-5; C-2; D-1 (b) A-2; B-1; C-4; D-3
+(c) A-2; B-5; C-4; D-3 (d) A-3; B-1; C-4; D-2
+
+7. Which one of the following elements is essential for the construction of nuclear reactors? [1998]
+(a) Cobalt (b) Nickel
+(c) Zirconium (d) Tungsten
+
+8. Barium in a suitable form is administered to patients before an X-ray examination of the stomach, because [1999]
+(a) barium allows X-rays to pass through the stomach on account of its transparency to X-rays
+(b) barium is a good absorber of g-rays and this helps the stomach to appear clearly in contrast with the other regions in the picture
+(c) barium is a good absorber of X-rays and this helps the stomach to appear clearly in contrast with the other regions in the picture
+(d) barium salts are white in colour and this helps the stomach to appear clearly in contrast with other regions in the pictures
+
+9. Cobalt-60 is commonly used in radiation therapy because it emits [1999]
+(a) alpha rays (b) beta rays
+(c) gamma rays (d) X-rays
+
+10. Assertion (A) : Large cold storage plants use ammonia as refrigerant while domestic refrigerators use chlorofluoro-carbons.
+Reason (R) : Ammonia can be liquefied at ambient temperature and low pressure. [2000]
+(a) Both A and R are true and R is the correct explanation of A
+(b) Both A and R are true but R is NOT a correct explanation of A
+(c) A is true but R is false
+(d) A is false but R is true
+
+11. Most of the explosions in mi nes occur due to the mixing of [2000]
+(a) hydrogen with oxygen
+(b) oxygen with acetylene
+(c) methane with air
+(d) carbon dioxide with ethane 
+
+12. In an atom, the order of filling up of the orbitals is governed by [2001]
+(a) Aufbau's principle
+(b) Heisenberg's uncertainty principle
+(c) Hund's rule
+(d) Pauli's exclusion principle
+
+13. A radioactive substance has a half-life of four months.  Three-fourth of the substance would decay in [2001]
+(a) 3 months (b) 4 months
+(c) 8 months (d) 12 months
+
+14. Which one of the following is NOT radioactive?  [2001]
+(a) Astatine (b) Francium
+(c) Tritium (d) Zirconium
+
+15. Match List I with List II and select the correct answer using the codes given below the lists: [2001]
+List-I (Characteristic) List-II (Particle)
+A. Zero mass 1. Positron
+B. Fractional charge 2. Neutrino
+C. Fractional spin 3. Quark
+D. Integral spin 4. Photon
+Codes:
+(a) A-2; B-3; C-1; D-4 (b)  A-3; B-2; C-4; D-1
+(c) A-2; B-3; C-4; D-1 (d)  A-3; B-2; C-1; D-4
+
+16. With reference to ionic compounds, consider the following statements: [2003]
+1. Ionic compounds are insoluble in alcohol.
+2. Ionic compounds in the solid state are good conductor of electricity.
+Which of these statements is/are correct?
+(a) Only 1 (b) Only 2
+(c) Both 1 and 2 (d) Neither 1 nor 2
+
+17. Regarding the atom of a chemical element, the magnetic quantum number refers to [2003]
+(a) orientation (b) shape
+(c) size (d) spin
+
+18. Which one of the following statements is correct?  [2003]
+(a) Liquid sodium is employed as a coolant in nuclear reactors
+(b) Calcium carbonate is an ingredient of tooth paste
+(c) Bordeaux mixture consists of sodium sulphate and lime
+(d) Zinc amalgams are used as a dental filling
+
+19. In a dry cell (battery), which of the following are used as electrolytes? [2009]
+(a) Ammonium chloride and Zinc chloride
+(b) Sodium chloride and Calcium chloride
+(c) Magnesium chloride and Zinc chloride
+(d) Ammonium chloride and Calcium chloride 
+
+20. Hydrogen fuel cell vehicles produce one of the following as "exhaust" [2010]
+(a) NH
+(b) CH
+(c)H 3 2 O (d)H 4 O 2 2
+
+21. The function of heavy water in a nuclear reactor is to: [2011 - I]
+(a) slow down the speed of neutrons
+(b) increase the speed of neutrons
+(c) cool down the reactor
+(d) stop the nuclear reaction
+
+22. Which one of the following is a mixed fertilizer?  [1995]
+(a) Urea
+(b) CAN
+(c) Ammonium sulphate
+(d) NPK
+
+23. The chemical used as a 'fixer ' in photography is [1995]
+(a) Sodium sulphate
+(b) Sodium thiosulphate
+(c) Ammonium persulphate
+(d) Borax
+
+24. Which one of the following elements is alloyed with iron to produce steel which can resist high temperatures and also have high hardness and abrasion resistance? [1996]
+(a) Aluminium (b) Chromium
+(c) Nickel (d) Tungsten
+
+25. Which one of the following is not an essential micronutrient for plants? [1996]
+(a) Boron (b) Zinc
+(c) Sodium (d) Copper
+
+26. The most reactive among the halogens is [1997]
+(a) Fluorine (b) Chlorine
+(c) Bromine (d) Iodine
+
+27. Match List I with List II and select the correct answer using the codes given below the lists: [1998]
+List- I List-II
+A. Blue vitriol 1. Sodium bicarbonate
+B. Epsom salt 2. Sodium hydroxide
+C. Baking soda 3. Magnesium sulphate
+D. Caustic soda 4. Copper sulphate
+Codes:
+(a) A-3; B-4; C-2; D-1 (b) A-4; B-3; C-2; D-1
+(c) A-3; B-4; C-1; D-2 (d) A-4; B-3; C-1; D-2
+
+28. Match List-I with List-II and select the correct answer using the codes given below the lists: [1998]
+List-I List-II
+A. Potassium bromide 1. Fertiliser
+B. Potassium nitrate 2. Photography
+C. Potassium sulphate 3. Bakery
+D. Monopotassium 4. Gun powder
+tartarate
+Codes :
+(a) A-2; B-4; C-1; D-3 (b) A-2; B-3; C-1; D-4
+(c) A-4; B-2; C-3; D-1 (d) A-4; B-2; C-1; D-3
+
+29. Consider the following statements : [1998]
+Coke is one of the materials of the charge added to blast furnace for the production of steel/iron. Its function is to
+1. act as the reducing agent
+2. remove silica associated with the iron ore
+3. function as fuel; to supply heat
+4. act as an oxidizing agent
+Of these statements
+(a) 1 and 2 are correct (b) 2 and 4 are correct
+(c) 1 and 3 are correct (d) 3 and 4 are correct
+
+30. Which one of the following metals does not form amalgam? [1998]
+(a) Zinc (b) Copper
+(c) Magnesium (d) Iron
+
+31. Assertion (A) : Sodium metal is stored under kerosene.
+Reason (R) : Metallic sodium melts when exposed to air. [1998]
+(a) Both A and R are true and R is the correct explanation of A
+(b) Both A and R are true but R is NOT the correct explanation of A
+(c) A is true but R is false
+(d) A is false but R is true
+
+32. Assertion (A) : To dilute sulphuric acid, acid is added to water and not water to acid. [1999]
+Reason (R) : Specific heat of water is quite large.
+(a) Both A and R are true and R is the correct explanation of A
+(b) Both A and R are true but R is not the correct explanation of A
+(c) A is true but R is false
+(d) A is false but R is true
+
+33. Match List-I with List-II and select the correct answer using the codes given below the lists: [2000]
+List-I List-II
+A. German silver 1. Tin
+B. Solder 2. Nickel
+C. Bleaching powder 3. Sodium
+D. Hypo 4. Chlorine
+Codes:
+(a) A-1; B-2; C-4; D-3
+(b) A-2; B-1; C-3; D-4
+(c) A-1; B-2; C-3; D-4
+(d) A-2; B-1; C-4; D-3
+
+34. Which one of the following materials is very hard and very ductile? [2000]
+(a) Carborundum (b) Tungsten
+(c) Cast iron (d) Nichrome
+
+35. Aluminium surface are often 'anodized'. This means the deposition of a layer of [2000]
+(a) chromium oxide (b) aluminium oxide
+(c) nickel oxide (d) zinc oxide
+
+36. Consider the following statements: Hard water is not suitable for [2000]
+1. drinking
+2. washing clothes with soap
+3. use in boilers
+4. irrigating crops
+Which of these statements are correct?
+(a) l and 3 (b) 2 and 3
+(c) 1, 2 and 4 (d) 1, 2, 3 and 4
+
+37. An aqueous solution of copper sulphate is acidic in nature because the salt undergoes [2001]
+(a) dialysis (b) electrolysis
+(c) hydrolysis (d) photolysis
+
+38. Consider the following statements with reference to the periodic table of chemical elements: [2001]
+1. Ionisation potential gradually decreases along a period
+2. In a group of elements, electron affinity decreases as the atomic weight increases
+3. In a given period, electronegativity decreases as the atomic number increases
+Which of these statement (s) is/are correct?
+(a) 1 only (b) 2 only
+(c) 1 and 3 (d) 2 and 3
+
+39. Match List-I (Oxidation number) with List II (The element) and select the correct answer using the codes given below the lists : [2002]
+List-I List-II
+(Oxidation number)  (The elements)
+A.2 1. Oxidation number of Mn in MnO 2
+B.3 2. Oxidation number of S in H 2 S 2 O 7 
+C.4 3. Oxidation number of Ca in CaO
+D.6 4. Oxidation number of Al in NaAlH 4
+Codes:
+(a) A-3; B-4; C-1; D-2 (b) A-4; B-3; C-1; D-2
+(c) A-3; B-4; C-2; D-1 (d) A-4; B-3; C-2; D-1
+
+40. Assertion : Synthetic detergents can lather well in hard water.
+Reason (R) : Synthetic detergents form soluble calcium and magnesium salts with hard water. [2002]
+(a) Bot h A and R are true and R i s the correct expl anat ion of A
+(b) Both A and R are true but R is not the correct explanation of A
+(c) A is true but R is false
+(d) A is false but R is true
+
+41. Which one of the following statements is NOT correct?  [2003]
+(a) The presence of NaCl increases the rate of setting of plaster of Paris
+(b) Gypsum is added to the cement to slow down its rate of setting
+(c) All alkaline earth metals form hydrated salts
+(d) Barium and strontium are found free in nature
+
+42. Assertion (A) : In the periodic table of chemical elements, electron affinity is always found to increase from top to bottom in a group
+Reason (R) : In a group, the atomic radii generally increase from top to bottom. [2003]
+(a) Both A and R are individually true and R is the correct explanation of A .
+(b) Both A and R are individually true but R is not the correct explanation of A
+(c) A is true but R is false
+(d) A is false but R is true 
+
+43. Assertion (A) : Coal-based thermal power stations contribute to acid-rain.
+Reason (R) : Oxides of carbon are emitted when coal burns. [2003]
+(a) Both A and R are individually true and R is the correct explanation of A
+(b) Both A and R are individually true but R is not the correct explanation of A
+(c) A is true but R is false
+(d) A is false but R is true
+
+44. Consider the following statements: [2004]
+1. Baking soda is used in fire extinguishers
+2. Quick lime is used in the manufacture of glass
+3. Gypsum is used in the manufacture of plaster of Paris
+Which of the statements given above is/are correct?
+(a) 1 and 2 (b) 2 and 3
+(c) 1 only (d) 1, 2 and 3
+
+45. Salts of which of the following elements provide colours to fireworks? [2004]
+(a) Zinc and sulphur
+(b) Potassium and mercury
+(c) Strontium and barium
+(d) Chromium and nickel
+
+46. Which are the materials generally employed as solder in soldering operations in electronics? [2006]
+(a) Iron and tin
+(b) Lead and tin
+(c) Aluminium and lead
+(d) Aluminium and iron
+
+47. Which one of the following non-metals is not a poor conductor of electricity? [2007]
+(a) Sulphur (b) Selenium
+(c) Bromine (d) Phosphorus
+
+48. Which one of the following types of glass can cut off ultraviolet rays? [2007]
+(a) Soda glass (b) Pyrex glass
+(c) Jena glass (d) Crookes glass
+
+49. Which one among the following is called philosopher's wool? [2007]
+(a) Zinc bromide (b) Zinc nitrate
+(c) Zinc oxide (d) Zinc chloride 
+
+50. Which one of the following does not contain silver?  [2007]
+(a) Horn silver (b) German silver
+(c) Ruby silver (d) Lunar caustic
+
+51. What are Rubies and Sapphires chemically known as? [2008]
+(a) Silicon dioxide (b) Aluminium oxide
+(c) Lead tetroxide (d) Boron nitride
+
+52. Which one of the following is also called Stranger Gas?  [2008]
+(a) Argon (b) Neon
+(c) Xenon (d) Nitrous oxide
+
+53. Which one of the following pairs of metals constitutes the lightest metal and the heaviest metal, respectively? [2008]
+(a) Lithium and mercury
+(b) Lithium and osmium
+(c) Aluminium and osmium
+(d) Aluminium and mercury
+
+54. Lead, ingested or inhaled, is a health hazard. After the addition of lead to petrol has been banned, what still are the sources of lead poisoning ? [2012 - I]
+1. Smelting units 2. Pens and pencils
+3. Paints 4. Hair oils and cosmetics
+(a) 1, 2 and 3 only (b) 1 and 3 only
+(c) 2 and 4 only (d) 1, 2, 3 and 4
+
+55. Photochemical smog is a resultant of the reaction among [2013 - I]
+(a) NO 2 , O and peroxyacetyl nitrate in the presence of sunlight
+(b) CO, O 2 3 and peroxyacetyl nitrate in the presence of sunlight
+(c) CO, CO 2 and NO at low temperature
+(d) high concentration of NO 2 2 , O and CO in the evening
+
+56. Which one of the following polymers is widely used for making bullet proof material? [1995]
+(a) Polyvinyl chloride (b) Polyamides
+(c) Polyethylene (d) Polycarbonates
+
+57. The offending substance in the liquor tragedies leading to blindness etc. is [1996]
+(a) ethyl alcohol (b) amyl alcohol
+(c) benzyl alcohol (d) methyl alcohol
+
+58. The characteristic odour of garlic is due to [1997]
+(a) a chloro compound
+(b) a sulphur compound
+(c) a fluorine compound
+(d) acetic acid
+
+59. Which one of the following is an active component of oil of clove? [1997]
+(a) Menthol (b) Eugenol
+(c) Methanol (d) Benzaldehyde
+
+60. Which one of the following was used as a chemical weapon in the first world war ? [1997]
+(a) Carbon monoxide (b) Hydrogen cyanide
+(c) Mustard gas (d) Water gas
+
+61. Which one of the following has the highest fuel value?[1997]
+(a) Hydrogen (b) Charcoal 
+(c) Natural gas (d) Gasoline
+
+62. Which one of the following is used as an anti-freeze for the automobile engines? [1997]
+(a) Propyl alcohol (b) Ethanol
+(c) Methanol (d) Ethylene glycol
+
+63. Assertion (A) : Phenyl is used as a household germicide.
+Reason (R) : Phenyl is phenol derivative and phenol is an effective germicide. [1998]
+(a) Both A and R are true and R is the correct explanation of A
+(b) Both A and R are true but R is NOT the correct explanation of A
+(c) A is true but R is false
+(d) A is false but R is true
+
+64. Consider the following statements about acetylene: [1998]
+1. It is used in welding industry
+2. It is a raw material for preparing plastics
+3. It is easily obtained by mixing silicon carbide and water of these statements
+(a) 1 and 2 are correct
+(b) 1 and 3 are correct
+(c) 2 and 3 are correct
+(d) 1, 2 and 3 are correct
+
+65. Assertion (A) : Formic acid is a stronger acid than acetic acid.      [1998]
+Reason (R) : Formic acid is an organic acid.
+(a) Both A and R are true and R is the correct explanation of A
+(b) Both A and R are true but R is not a correct explanation of A
+(c) A is true but R is false
+(d) A is false but R is true
+
+66. Match List-I (Industrial process) with List-II (Industry with which associated) and select the correct answer using the codes given below the lists: [2000]
+List-I List-II
+A. Cracking 1. Rubber
+B. Smelting 2. Petroleum
+C. Hydrogenation 3. Copper
+D. Vulcanization 4. Edible fats
+Codes:
+(a) A-3; B-2; C-1; D-4
+(b) A-2; B-3; C-4; D-1
+(c) A-2; B-3; C-1; D-4
+(d) A-3; B-2; C-4; D-1
+
+67. Which one of the following is the correct sequence in increasing order of molecular weights of the hydrocarbons? [2001]
+(a) Methane, ethane, propane and butane
+(b) Propane, butane, ethane and methane
+(c) Butane, ethane, propane and methane
+(d) Butane, propane, ethane and methane
+
+68. The purpose of adding sodium sulphate and sodium silicate to the detergent in a washing powder is [2003]
+1. to keep the washing powder dry
+2. to maintain the alkalinity of the powder
+Which of these statements is/are correct?
+(a) only 1 (b) Only 2
+(c) Both 1 and 2 .  (d) Neither 1 nor 2
+
+69. Match List-I (Fuel gases) with List-II (Major constituents) and select the correct answer using the codes given below the lists: [2004]
+List-I List-II
+A. CNG 1. Carbon monoxide, Hydrogen
+B. Coal gas 2. Butane, Propane
+C. LPG 3. Methane, Ethane
+D. Water gas 4. Hydrogen, Methane, Carbon monoxide
+Codes:
+(a) A-2; B-1; C-3; D-4 (b) A-3; B-4; C-2; D-1
+(c) A-2; B-4; C-3; D-1 (d) A-3; B-1; C-2; D-4
+
+70. Consider the following statements: [2005]
+1. Liquefied natural gas (LNG) is liquefied under extremely cold temperatures and high pressure to facilitate storage or transportation in specially designed vessels.
+2. First LNG terminal in India was built in Hassan.
+3. Natural gas liquids (NGL) are separated from LPG and these include ethane, propane, butane and natural gasoline.
+Which of the statements given above is/are correct?
+(a) 1 only (b) 1 and 3
+(c) 2 and 3 (d) 1, 2, and 3
+
+71. Assertion (A) : The main constituent of the liquefied petroleum gas is methane.
+Reason (R) : Methane can be used directly for burning in homes and factories where it can be supplied through pipelines. [2005]
+(a) Both A and R are true and R is the correct explanation of A
+(b) Both A and R are true but R is not the correct explanation of A
+(c) A is true but R is false
+(d) A is false but R is true
+
+72. Consider the following chemicals: [2006]
+1. Benzene
+2. Carbon tetrachloride
+3. Sodium carbonate
+4. Trichloroethylene
+Which of the above/is are used as dry cleaning chemical?
+(a) 1 only (b) 2 only
+(c) 1, 2 and 4 only (d) 1, 2, 3 and 4 
+
+73. Which one of the following is another name of RDX?[2007]
+(a) Cyanohydrin (b) Dextran 
+(c) Cyclohexane (d) Cyclonite
+
+74. What is Bisphenol A (BPA)? [2008]
+(a) A medical test for detecting cancer
+(b) A test for testing the use of drugs to improve performance by athletes
+(c) A chemical used for the development of food packaging materials
+(d) A special type of alloy steel
+
+75. Mixture of which one of the following pairs of gases is the cause of occurrence of most of the explosions in mines? [2008]
+(a) Hydrogen and Oxygen
+(b) Oxygen and acetylene
+(c) Methane and air
+(d) Carbon dioxide and methane
+
+76. Which one of the following is used as an explosive?[2009]
+(a) Phosphorus trichloride 
+(b) Mercuric oxide
+(c) Graphite
+(d) Nitroglycerine
+
+77. Consider the following statements : [2012 - I] Chlorofluorocarbons, known as ozone-depleting substances, are used
+1. In the production of plastic foams
+2. In the production of tubeless tyres
+3. In cleaning certain electronic components
+4. As pressurizing agents in aerosol cans
+Which of the statements given above is/are correct?
+(a) 1, 2 and 3 only (b) 4 only
+(c) 1, 3 and 4 only (d) 1, 2, 3 and 4
+
+78. With reference to the usefulness of the by-products of sugar industry, which of the following statements is/ are correct? [2013 - I]
+1. Bagasse can be used as biomass fuel for the generation of energy.
+2. Molasses can be used as one of the feedstocks for the production of synthetic chemical fertilizers.
+3. Molasses can be used for the production of ethanol.
+Select the correct answer using the codes given below.
+(a) 1 only (b) 2 and 3 only
+(c) 1 and 3 only (d) 1, 2 and 3
+
+79. The final Agent Orange raid in Vietnam took place in 1970- areas have begun to bloom again. But 19 years after the war's end, it seems plain that Agent Orange is killing and maiming human beings, something it never intended to do. The apparent toxic fallout from those clouds-is a crop of human miseries including cancers, miscarriages and birth defects-that may persist for decades." [1995]
+The offensive substance referred to in this quotation is:
+(a) DDT used as insecticide
+(b) A complex mixture of herbicides and weedicides used to increase agricultural output in the South Vietnam under the U.S. aid programme
+(c) A complex mixture of DDT and other insecticides used at aerial sprays for protection against malaria and other tropical diseases
+(d) Dioxin used as defoliants
+
+80. Which one of the following fuels causes minimum environmental pollution ? [1995]
+(a) Diesel (b) Coal
+(c) Hydrogen (d) Kerosene
+
+81. Physico-chemical characteristics of water in water sources undergo changes due to [1996]
+(a) aquatic macrophytes
+(b) aquatic fungi
+(c) effluents
+(d) evapotranspiration
+
+82. The water pollution in river is measured by the dissolved amount of [1998]
+(a) Chlorine (b) Ozone
+(c) Nitrogen (d) Oxygen
+
+83. Match List-I (Naturally occurring substances) with List-II (Elements) and select the correct answer using the codes given the lists: [1999]
+List-I List-II
+A Diamond 1. Calcium
+B. Marble 2. Silicon
+C. Sand 3. Aluminium
+D. Ruby 4. Carbon
+Codes:
+(a) A-3; B- 1; C-2; D-4 (b) A - 4; B- 2; C- 1; D-3
+(c) A-2; B- 1; C-3; D-4 (d) A - 4; B- 1; C- 2; D-3
+
+84. Which one of the following is produced during the formation of photochemical smog? [2003]
+(a) Hydrocarbons (b) Nitrogen Oxide
+(c) Ozone (d) Methane
+
+85. Which of the following substances are found in the beach sands of many parts of Kerala? [2006]
+1. Ilmenite 2. Zirecon
+3. Sillimanite 4. Tungsten
+Select the correct answer using the codes given below:
+(a) 1, 2, 3 and 4
+(b) 1, 2 and 3 only
+(c) 3 and 4 only
+(d) 1 and 2 only
+
+86. Consider the following: [2010]
+1. Oxides of Hydrogen
+2. Oxides of Nitrogen
+3. Oxides of Sulphur
+Which of the above causes/cause acid rain?
+(a) 1 and 2 only (b) 3 only
+(c) 2 and 3 only (d) 1, 2 and 3
+
+87. Excessive release of the pollutant carbon monoxide (CO) into the air may produce a condition in which oxygen supply in the human body decreases. What causes this condition? [2010]
+(a) When inhaled into the human body CO is converted into CO2
+(b) The inhaled CO has much higher affinity for haemoglobin as compared to oxygen
+(c) The inhaled CO destroys the chemical structure of haemoglobin
+(d) The inhaled CO adversely affects the respiratory centre in the brain
+
+88. Consider the following :  [2011 - I]
+1. Carbon dioxide
+2. Oxides of nitrogen
+3. Oxides of sulphur
+Which of the above is/are the emission/emissions from coal combustion at thermal power plants ?
+(a) 1 only (b) 2 and 3 only
+(c) 1 and 3 only (d) 1, 2 and 3
+
+89. Regarding "carbon credits'', which one of the following statements is not correct ? [2011 - I]
+(a) The carbon credit system was ratified in conjunction with the Kyoto Protocol.
+(b) Carbon credits are awarded to countries or groups that have reduced greenhouse gases below their emission quota.
+(c) The goal of the carbon credit system is to limit the increase of carbon dioxide emission.
+(d) Carbon credits are traded at a price fixed from time to time by the United Nations Environment Programme.
+
+90. Aspartame is an artificial sweetener sold in the market. It consist of amino acids and provides calories like other amino acids. Yet, it is used as a low-calorie sweetening agent in food items. What is the basis of this use ?  [2011 - I]
+(a) Aspartame is as sweet as table sugar, but unlike table sugar, it is not readily oxidized in human body due to lack of requisite enzymes
+(b) When aspartame is used in food processing, the sweet taste remains, but it becomes resistant to oxidation
+(c) Aspartame is as sweet as sugar, but after ingestion into the body, it is converted into metabolites that yield no calories
+(d) Aspartame is several times sweeter than table sugar, hence food items made with small quantities of aspartame yield fewer calories on oxidation
+
+91. What is the role of ultraviolet (UV) radiation in the water purification systems? [2012 - I]
+1.    It inactivates /kills the harmful microorganisms in water.
+2.    It removes all the undesirable odours from the water.
+3.    It quickens the sedimentation of solid particles, removes turbidity and improves the clarity of water.
+Which of the statements given above is/are correct?
+(a) 1 only (b) 2 and 3 only
+(c) 1 and 3 only (d) 1, 2 and 3
+
+92. Acid rain is caused by the pollution of environment by  [2013 - I]
+(a) carbon dioxide and nitrogen
+(b) carbon monoxide and carbon dioxide
+(c) ozone and carbon dioxide
+(d) nitrous oxide and sulphur dioxide
+
+93. Which of the following is/are the example/ examples of chemical change? [2014 - I]
+1. Crystallization of sodium chloride?
+2. Melting of ice
+3. Souring of milk
+Select the correct answer using the code given below.
+(a) 1 and 2 only (b) 3 only
+(c) 1, 2 and 3 (d) None
+
+94. With reference to 'fly ash' produced by the power plants using coal as fuel, which of the following statements is/are correct? [2015-I]
+1. Fly ash can be used in the production of bricks for building construction.
+2. Fly ash can be used as a replacement for some of the Portland cement concrete.
+3. Fly ash is made up of silicon dioxide and calcium oxide only, and does not contain any toxic elements.
+Select the correct answer using the code given below.
+(a) 1 and 2 (b) 2 only
+(c) 1 and 3 (d) 3 only

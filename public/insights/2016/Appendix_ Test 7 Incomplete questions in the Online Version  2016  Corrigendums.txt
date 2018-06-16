@@ -1,0 +1,70 @@
+Appendix: 
+Incomplete questions in the Online Version 
+protection   (inside)   and low protection outside
+• Act   as   a   "shock absorber" for the protected areas
+Q-Source:
+
+6.  What  is  an  Eco-sensitive  Zone (ESZ) as notified by the Ministry of Environment and Forests (MoEF) frequently?
+a) It is an ecological hotspot which is internationally recognized as a part of protected areas network
+b) It is a zone of high endemism of species
+c) It is the "Core zone" inside a protected area where no activities are allowed
+d) It is the area around a national park or sanctuary where developmental activities are regulated
+Solution: d)
+ As per MOEF 2011 guidelines, it is the area around a national park or sanctuary upto 10 kms where developmental activities are regulated (not prohibited) to:
+• Minimize   impact   of ecologically harmful developmental activities (e.g. mining) on fragile ecosystem
+encompassing the area
+• Protects biodiversity by avoiding fragmentation of habitat
+•   Act as a transition zone between  areas  of  high
+http://envfor.nic.in/content/esz- notifications
+
+9. Recently a lot of concern has been raised over the software "Flasher". Why?
+a) It can be used to change the IMEI number of the phone after connecting it to a computer
+b) It can block the firewall of public computers.
+c) It can steal sensitive data from high end computing devices installed in the research institutes in India.
+d) It can suppress the IP address of a computer thus posing a threat to cyber security.
+Solution: a)
+ It is software which is used to change the IMEI number of the phone  after  connecting  it  to  a computer.
+The software provides the option of allotting one IMEI number to multiple phones, a technique that misguides police during investigation.
+Q-Source:
+http://www.thehindu.com/news/nationa
+l/other-states/flasher-software-ties- cops-in-knots/article7649775.ece
+
+11. Consider the following statements.
+Assertion     (a):     Parliament cannot    enact    a    law    which    is inconsistent with any          Directive Principle mentioned under Part IV of the constitution.
+Reason (R): It is based on the
+'Doctrine of excess jurisprudence' as given by        the Supreme Court in the Ramnath Goenka v/s Union of India Case, 1962.
+In the context of the above, which of these is correct?
+a) A is correct, and R is an appropriate explanation of A.
+b) A is correct, but R is not an appropriate explanation of A.
+c) A is correct, but R is incorrect. d) Both A and R are incorrect. Solution: d)
+   Assertion:   Parliament can enact a law which is inconsistent with   a   DPSP   as   DPSP   is   not justiciable. However, SC may use DPSPs to validate a law enacted by the Parliament which violates the FRs.
+Reason:   There   is   no   doctrine   of excess jurisprudence.
+
+13. What can the system of "Proportional representation" mean in the national context?
+a) All constituencies in the country will have  their  political  representative  in the Parliament.
+b) All candidates fighting elections will be entitled to public office irrespective of the number of votes they have garnered.
+c) The seats in a constituency are distributed on the basis of votes polled by a party, and not on individual basis.
+d) Any system which is followed for elections to the offices of highest constitutional functionaries
+Solution: c)
+ There are several kinds of PR  systems. In one of  the  systems, the entire country is treated as one single constituency.
+Voters vote for the party, not for the candidates.
+Seats are allocated to each party is proportion of its share of votes in the national election.
+Another variant of PR, the Single Transferable Vote system (STV), is followed for Rajya Sabha elections. Every State has a specific quota of seats   in   the   Rajya   Sabha.   The
+members are elected by the respective State  legislative  assemblies.  The voters are the MLAs in that State.
+NCERT: Indian Constitution
+
+89.  Consider the following  about  the
+Law Commission of India.
+1. It is a statutory body.
+2. It acts as the legal representative of the Government in court hearings
+
+3. The Law Secretary to the Union Government is the ex- officio member of the Commission.
+Select the correct answer using the codes below:
+a) 1 and 3 only b) 2 and 3 only c) 3 only
+d) 1 and 2 only
+Solution: c)
+   Law   commission   of India is neither a constitutional nor a statutory body. Rather, it was established by an executive resolution of the GoI to make recommendations for law reforms. So, 1 would be wrong.
+The Commission is established for a fixed  tenure  (generally  three  years) and consists of a Chairperson and four
+other   full-time   members.   The   Law Secy. and the Secy Legislative Department are the  ex-officio members of the Commission. So, 3 would be correct.
+It   is   the   Attorney   general   or   the Solicitor generals who represent Indian government in court hearings. So, 2 is wrong.
+Q-Source: http://indianexpress.com/article/india/in dia-others/law-commission- recommends-abolition-of-death- penalty/

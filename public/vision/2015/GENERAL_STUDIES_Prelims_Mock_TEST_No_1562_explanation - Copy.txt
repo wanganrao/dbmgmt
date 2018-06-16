@@ -1,0 +1,847 @@
+VISIONIAS z™
+www.visionias.in www.visionias.wordpress.com
+
+ANSWERS & EXPLANATION GENERAL STUIDES (P) 2015 – Test 13 (1562)
+
+
+
+Q 1.C
+o The Earth's atmosphere is continuously stirred over the globe by winds. As a result, ozone-depleting gases get mixed throughout the atmosphere, including Antarctica, regardless of where they are emitted. The special meteorological conditions in Antarctica cause these gases to be more effective there in depleting ozone compared to anywhere else.
+o Human emissions of chlorofluorocarbons (CFCs) and halons (bromine-containing gases) have occurred mainly in the Northern Hemisphere. About 90% have been released in the latitudes corresponding to Europe, Russia, Japan, and North America. Gases such as CFCs and halons, which are insoluble in water and relatively unreactive, are mixed within a year or two throughout the lower atmosphere. Thus, ocean currents don't have any role to play in their transfer from northern to southern hemisphere.  The CFCs and halons in this well-mixed air rise from the lower atmosphere into the stratosphere mainly in tropical latitudes. Winds then move this air poleward - both north and south - from the tropics, so that air throughout the global stratosphere contains nearly equal amounts of chlorine and bromine.
+o In the Southern Hemisphere, the South Pole is part of a very large land mass (Antarctica) that is completely surrounded by ocean. This symmetry is reflected in the meteorological conditions that allow the formation in winter of a very cold region in the stratosphere over the Antarctic continent, isolated by a band of strong winds circulating around the edge of that region.
+o The very low stratospheric temperatures lead to the formation of clouds (polar stratospheric clouds) that are responsible for chemical changes that promote production of chemically active chlorine and bromine. This chlorine and bromine activation then leads to rapid ozone loss when sunlight returns to Antarctica in September and October of each year, which then results in the Antarctic ozone hole. Similar conditions do not exist over the Arctic. The wintertime temperatures in the Arctic stratosphere are not persistently low for as many weeks as over Antarctica, which results in correspondingly less ozone depletion in the Arctic (Please, refer to another question comparing the ozone holes over Arctic.
+
+Q 2.A
+o Geographical Indications of Goods are defined as that aspect of industrial property which refer to the geographical indication referring to a country or to a place situated therein as being the country or place of  origin  of  that  product.  GI  status  conveys  an  assurance  of  quality  and  distinctiveness  which  is essentially  attributable  to  the  fact  of  its  origin  in  that  defined  geographical  locality,  region  or country. Hence, 1st statement is correct.
+o Geographical  indications  are   used  for  agricultural  products,  foodstuffs,  wine  and  spirit  drinks, handicrafts, and industrial products. Hence, 2nd statement is incorrect.
+o Under  Articles  1  (2)  and  10  of  the  Paris  Convention  for  the  Protection  of  Industrial  Property, geographical indications are covered as an element of IPRs. They are also covered under Articles 22 to 24 of the Trade Related Aspects of Intellectual Property Rights (TRIPS)  Agreement, which was part of the Agreements concluding the Uruguay Round of GATT negotiations.
+o India, as a member of the World Trade Organization (WTO), enacted the Geographical Indications of
+Goods (Registration &    Protection)Act, 1999 has come into force with effect from 15th September
+2003. Hence, 3rd statement is incorrect.
+o Geographical indication promotes the craft and knowledge of local people. It also increases the price and increases the brand value of local product; it leads to greater income to the local communities. Hence,
+4th statement is correct.
+
+
+
+1                                     www.visionias.in                                                          ©Vision IAS
+Q 3.D
+o Geothermal energy comes from the heat within the earth. The word "geothermal" comes from the Greek words geo, meaning earth," and therme, meaning "heat." People around the world use geothermal energy to produce electricity, to heat buildings and greenhouses, and for other purposes.
+o Geothermal energy is called a renewable energy source because the water is replenished by rainfall, and the heat is continuously produced by the earth.
+o Some visible features of geothermal energy are volcanoes, hot springs, geysers, and fumaroles.
+o The most active geothermal resources are usually found along major plate boundaries where earthquakes and volcanoes are concentrated. Most of the geothermal activity in the world occurs in an
+area known as the "Ring of Fire." The Ring of Fire rims the Pacific Ocean and is bounded by Japan, the
+Philippines, the Aleutian Islands, North America, Central America, and South America.
+o Hence, option (d) is the correct answer.
+
+Q 4.D
+o There are number of cases where salinity is increasing in both surface water and groundwater.
+o The increase in groundwater salinity is mainly due to increased irrigation activities or sea water intrusion
+in coastal areas.
+o The salinity in surface water is increasing mainly due to discharges of industrial waste water or agricultural return water.
+o Hence, option (d) is the correct answer.
+
+Q 5.B
+o Cement can be replaced by the fly ash upto 35% thus fly ash helps in reducing construction cost of roads.
+Hence, 1st statement is correct.
+o Constituents of fly ash are silica, alumina, oxides of iron, toxic heavy metals like lead, arsenic, cobalt but
+it doesn't contain nitrogen oxides
+o However, the reason of smog near thermal power plants is that thermal power plants generate a number of pollutants apart from fly ash. One of these pollutants is nitrogen oxides. Hence, 2nd statement is incorrect.
+o Because fly ash consists of number of pollutants so it causes respiratory problems. Hence 3rd statement is correct.
+
+Q 6.D
+o Over 878 cultural and natural sites are now on the World Heritage List like the Great Barrier Reef, Belize's Barrier Reef and Tubbataha Reef Marine Park in the Philippines. WHC requires member states to protect and conserve listed sites for future generations.
+o CITES provides trade protection for the species listed under various levels of threat. It forbids trade of endangered species except in extraordinary circumstances. Over 2000 coral reef associated species are listed under CITES.
+o Ramsar Convention has been the principal instrument for international cooperation for conservation and wise use of wetlands. A large number of coral sites across the world are yet to be covered by the Ramsar Convention.
+o CBD also has focus on sustainable use of coral reefs.
+o  All are correct
+
+Q 7.D
+o An increase in concentration of CO2 impacts climate both directly through its radiative effect (due to trapping of long wave radiation) and indirectly through its physiological effect (reducing transpiration in land plants). This evapo-transpiration leads to release of water into the atmosphere and produces a cooling effect. If it is reduced it will reduce the evaporative cooling effect of plants and thus contribute
+to global warming.
+
+
+
+2                                     www.visionias.in                                                          ©Vision IAS
+Q 8.D
+o Contour farming is an example of such harvesting technique involving water and moisture control at a very simple level. It often consists of rows of rocks placed along the contour of steps. Runoff captured by these barriers also allows for retention of soil, thereby serving as erosion control measure on gentle slopes. The practice has been proved to reduce fertilizer loss, power and time consumption, and wear on machines, as well as to increase crop yields and reduce erosion. Contour farming is most effective when used in conjunction with such practices as strip cropping, terracing, and water diversion.
+
+Q 9.A
+o The concept of GWP has been developed to evaluate the relative radioactive effects (hence, the potential climatic effects) of equal emissions of each of the GHGs.Hence 1st statement is correct.
+o Global warming potential takes into account the differing residence time of gases in the atmosphere and define the time integrated warming effect due to an instantaneous release of unit mass of a given GHG
+in today's atmosphere.Hence, 2nd statement is correct.
+o GWPs are based on the heat-absorbing ability of each gas relative to that of carbon dioxide (CO2), as well as the decay rate of each gas (the amount removed from the atmosphere over a given number of years).
+o It is minimum for the Carbon Dioxide which has been assigned a value of 1, Methane has 20, Nitrous
+Oxide has 290 and so on for a period of 100 years. Hence, 3rd statement is incorrect.
+
+Q 10.A
+o Ozone breakdown is  dependent on stratospheric temperatures. The colder it is, the more ozone is lost as a result of the formation of polar stratospheric clouds (PSC), or mother-of-pearl clouds.PSCs dramatically amplify chemical ozone depletion.Hence, 1st statement is correct.
+o However, it is sunlight that initiates the formation of chlorine compounds in the stratosphere as a result of reactions that take place on the PSC particles. These chlorine compounds react further with ozone in catalytic processes, which results in severe ozone depletion i.e. the nitric acid in PSCs reacts with chloroflurocarbons to form chlorine , which catalyzes the photochemical destruction of ozone. Chlorine concentrations build up during the polar winter, and the consequent ozone destruction is greatest when the sunlight returns in spring. Thus, both sunlight and cold temperatues are critical to the process
+leading to ozone depletion.Hence, 2nd statement is incorrect.
+o Measurements from satellites and ground based stations reveal ozone losses of about 5%  to 10% at northern high latitudes during the Arctic winter. This is a much smaller loss than in the Antarctic because Arctic stratosphere generally warms up much earlier in the spring than does the Antarctic and the average temperatures are warmer. This means that cold temperatures and sunlight necessary for promotion of PSCs and the ozone depletion they promote, overlap for a much shorter interval in the Arctic. Also, the  polar vortex at the Arctic is not as tight as  polar vortex at the Antarctic as a result there is greater air exchange between the Arctic and the mid-latitudes, ozone depletion at the north pole is much less severe than at the south. Accordingly, the seasonal reduction of ozone levels over the Arctic is usually characterized as an "ozone dent", whereas the more severe ozone depletion over the Antarctic is considered an "ozone hole" Hence, 3rd statement is incorrect.
+NOTE- Polar Vortex is a circulation pattern of cold air ( high pressure ) that traps ozone gas .It is in this zone that ozone depletion occurs.
+
+Q 11.B
+
+Asiatic Lion is endangered.
+Wild cat is least concerned as per IUCN.
+
+Q 12.D
+o Rio+20 - the short name for the United Nations Conference on Sustainable Development which took place in Rio de Janeiro, Brazil, in June 2012 .
+o Rio+20 is a chance to move away from business-as-usual and to act to end poverty, address environmental destruction and build a bridge to the future.
+
+
+3                                     www.visionias.in                                                          ©Vision IAS
+o Rio+20 highlighted seven areas which need priority attention; these include decent jobs, energy, sustainable cities, food security and sustainable agriculture, water, oceans and disaster readiness.
+o  All the options given are included. Hence, option(d) is the correct answer.
+
+Q 13.D
+
+The WLPA provides for several categories of Protected Areas/Reserves:
+o National Parks
+o Wildlife Sanctuaries
+o Tiger Reserves
+o Conservation Reserves
+o Community Reserves and
+o  Biosphere reserves are setup under the Man and Biosphere Programme of UNESCO
+o Hence option (b) is the correct answer.
+
+Q 14.C
+o Kharai Camels- are an eco-tonal breed, as they survive in a dry land ecosystem as well as in a coastal ecosystem, and can easily swim in deep sea. They are the only camels who can swim and who have adapted to the extreme climate of Rann and shallow seas and high salinity. Gujarat (Rann of Kutch) is the only home to this breed of camel. They feed and digest on saline trees and shrubs. The growth of industrial activities in the coastal areas of Kutch has minimized the availability of camel food and water sources. Salinity has increased throughout the region. Thus, the socioeconomic condition of Kharai
+camel breeders ( Maaldhari Community) in Kutch is under threat. Hence, option (c) is the correct answer.
+o Saltwater Crocodile-The saltwater crocodile is one of the three crocodilians found in India, the other two being the more widespread, smaller mugger crocodile and the narrow-snouted, fish-eating gharial. Apart from the eastern coast of India i.e. Bhitarnika Wildlife Sanctuary (Odisha) , Sundarbans,  they are also present within the mangrove forests and other coastal areas of the Andaman and Nicobar Islands.  The saltwater crocodile is extremely rare on the Indian subcontinent.The primary behaviour to distinguish
+the saltwater crocodile from other crocodiles is its tendency to occupy salt water. Though other crocodiles also have salt glands that enable them to survive in saltwater, a trait which alligators do not possess, most other species do not venture out to sea except during extreme conditions.Saltwater crocodiles are agile predators.
+o Dugong- is an endangered, herbivorous, marine mammal, also known as the Sea Cow and is the State Animal of the Andaman and Nicobar Islands. The dugong is largely dependent on seagrass  and fishes and other acquatic vegetation for subsistence and is thus restricted to the coastal habitats which support seagrass meadows, with the largest dugong concentrations typically occurring in wide, shallow, protected areas such as bays , mangrove channels , the waters of large inshore islands and inter-reefal waters.Dugong is distributed in shallow tropical waters in Indo-Pacific Region.  In India, Dugong is reported from Gulf of Kutch, Gulf of Mannar and Palk Bay.
+o Wild Water Buffalo- also called Asian buffalo and Asiatic buffalo, is a large bovine native to the Indian Subcontinent and Southeast Asia. It is listed as Endangered in the IUCN Red List since 1986.The global population has been estimated at 3,400 individuals, of which 3,100 (91%) live in India, mostly in Assam.Wild water buffalos are both diurnal and nocturnal .They are probably grazers by preference, feeding mainly on true grasses when available, such as scutch grass and sedges , but they also eat herbs, fruits, and bark, as well as browsing on trees and shrubs. They also feed on crops, including rice , sugarcane , and jute , sometimes causing considerable damage. Some of the reasons for their habitat
+loss could be :habitat loss of floodplain areas due to conversion to agriculture and
+hydropower development; degradation of wetlands due to invasive species such as stem twiners and lianas ;diseases and parasites transmitted by domestic livestock ; interspecific competition for food and water between wild buffalo and domestic stock; tigers  preying on adult wild water buffalo, etc.
+
+Q 15.A
+Air pollutants can be classified into two general categories:
+o Primary pollutants: Those emitted directly from the identifiable sources. Examples include fine particles, sulphur compounds, oxides of nitrogen, carbon monoxide, halogen compounds, organic compounds etc.
+
+4                                     www.visionias.in                                                          ©Vision IAS
+o Secondary pollutants: Formed by interaction of two or more primary pollutants, reaction with atmospheric constituents or photo-activation. Examples- Ozone, Formaldehyde, PAN, Acid mists etc.
+
+Q 16.C
+o Low temperature means that H1N1, the virus that causes swine flu, is likely to thrive in the air for some more time.
+o Government introduced protocols based on guidelines of WHO. Under this, patients who have mild
+fever, cough, sore throat, body ache, nausea and diarrhoea need to stay at home to avoid spread of
+infection and be monitored for 48 hours.
+o A swine flu vaccine is available, but health officials are only recommending it for children, the elderly, and healthcare workers.
+o Usually, following a pandemic, people develop resistance to the virus but seasonal influenza viruses like this evolve continuously, which means that people can get infected multiple times throughout their lives.
+
+Q 17.C
+o LED consumes very less electricity as compared to conventional lamps.
+o Green buildings are the buildings which rely more on natural lightening and air system rather than power driven. This saves energy.
+o An efficient multi-modal transport system will encourage users to use public transport rather than private vehicles, reducing energy consumption. More cars in a town will lead to more energy consumption. moreover diesel is more polluting than petrol and it also produces less energy for the same distance covered
+
+Q 18.A
+o Green bond is very similar to normal bonds through which an entity raises money from investors. The only difference is that the issuer of a green bond publicly states that capital is being raised to fund
+‘green’ projects, which typically include those relating to renewable energy, emission reductions and so on.
+o Green bonds typically carry a lower interest rate than the loans offered by the commercial banks. Hence they offer better returns for the issuer. They carry a lower risk than other bonds.
+o In case of Green bonds, the repayment is tied to the issuer, not to the success of the projects. The repayment does not depend on the success of the projects. The risk of the project not performing stays with the issuer rather than investor.
+
+Q 19.B
+o Compensatory afforestation is defined as afforestation that is done when forest land is diverted for non-forestry use.
+o Currently it is in the ratio of 1:1, which means compensatory afforestation shall be done over equivalent area of non-forest land.
+o Clearing of naturally grown trees in forest land and using it for reforestation does not require compensatory afforestation.
+o When done over degraded forest land, current requirement is 2:1.
+
+Q 20.B
+
+Ex Situ Conservation
+Ex situ conservation is the conservation and maintenance of samples of living organisms outside their natural habitat, in the form of whole plants, seed, pollen, vegetative propagules, tissue or cell cultures. Hence, it does not include conservation of fauna (all of the animal life of a particular region or time)
+Ex situ conservation has several purposes:
+o Rescue threatened germplasm.
+o Produce material for conservation biology research.
+o Bulk up germplasm for storage in various forms of ex situ facility.
+o Supply material for various purposes to remove or reduce pressure from wild collecting.
+
+5                                     www.visionias.in                                                          ©Vision IAS
+o Grow those species with recalcitrant seeds that cannot be maintained in a seed store.
+o Make available material for conservation education and display.
+o Produce material for reintroduction, reinforcement, habitat restoration and management.
+
+Q 21.B
+o DDT which is used as a pesticide is a non-bio-degradable pollutant. Hence, 1st statement is correct.
+o Oil spills prevent atmospheric oxygen dissolution with sea water so it reduces oxygen level in sea water.
+Hence, 2nd statement is incorrect.
+o Hot water discharge from industries decreases oxygen level in water bodies. Hence, 3rd statement is incorrect.
+
+Q 22.C
+o Pangong Tso and Sambhar are salt water wetlands. Bhoj is an urban wetland. Deepor Bheel is in Assam and having Oxbow origin. Tsomoriri is an oligotrophic lake in the Ladakhi part of the Changthang Plateau and having Glaciatic nature.
+o Hence option (c) is the correct answer.
+o Wetlands in India are distributed in different geographical regions. The variability in climatic conditions
+and changing topography is responsible for significant diversity. They are classified into different types
+based on their origin, vegetation, nutrient status, thermal characteristics, like:
+o Glaciatic Wetlands (e.g., Tsomoriri in Jammu and Kashmir, Chandertal in Himachal Pradesh),
+o Tectonic Wetlands (e.g., Nilnag in Jammu and Kashmir, Khajjiar in Himachal Pradesh, and Nainital and Bhimtal in Uttaranchal)
+o Oxbow Wetlands (e.g., Dal Lake, Wular Lake in Jammu and Kashmir and Loktak Lake in Manipur and some of the wetlands in the river plains of Brahmaputra and Indo-Gangetic re- gion. Deepor Beel in Assam, Kabar in Bihar, Surahtal in Uttar Pradesh)
+o  Lagoons (e.g., Chilika in Orissa)
+o Crater Wetlands (Lonar lake in Maharashtra)
+o Salt water Wetlands (e.g., Pangong Tso in Jammu and Kashmir and Sambhar in Rajasthan)
+o Urban Wetlands (e.g., Dal Lake in Jammu and Kashmir, Nainital in Uttaranchal and Bhoj in Madhya
+Pradesh)
+o  Ponds/Tanks, man-made Wetlands (e.g., Harike in Punjab and Pong Dam in Himachal Pradesh)
+o Reservoirs (e.g., Idukki, Hirakud dam, Bhakra-Nangal dam)
+o Mangroves (e.g., Bhitarkanika in Orissa)
+o Coral reefs (e.g., Lakshadweep)
+o Creeks (Thane Creek in Maharashtra), seagrasses, estuaries, thermal springs are some kinds of wetlands in the country.
+
+Q 23.D
+o The Sangai Deer is an endemic, rare and endangered Brow-antlered deer found only in Manipur, India.
+Its common English name is Manipur Brow-antlered Deer and the scientific name, Rucervus eldi eldi. It lives in the marshy wetland in Keibul Lamjao in Imphal. Its habitat is located in the southern parts of the Loktak Lake(Ramsar Site), which is the largest freshwater lake in Eastern India. Sangai is also the state animal of Manipur.
+o The Manipuri Brow-antlered Deer or'sangai' or 'dancing deer', a critically endangered species of deer, lives in a unique floating habitat is facing a threat of extinction as the floating biomass (or 'phumdis') on which it walks has been steadily decreasing in buoyancy and thickness over the last few years. As a result, Sangai face death from drowning as the phumdis may not be able to support its weight. This has also restricted the mobility of the species, leading to inbreeding.
+Multiple threats stalk the sangai-
+i) The primary reason for the phumdis decrease is the Loktak hydro electric project- it has been keeping the water level in the lake artificially high, which separates the phumdis from the ground, preventing their absorption.
+ii) Pollution and Climate Change - the rise in temperature might increase decomposition rate of the
+Phumdi materials of the park and it will help in reducing the thickness and subsequent dying of the lake
+
+6                                     www.visionias.in                                                          ©Vision IAS
+iii) Poaching
+iv) Spread of the invasive para grass.
+v) There are reports of local people cutting up the phumdi into sizable pieces and then towing away these with dugout canoe for 'selling' to fish culture owners. This is another potential danger to the Sangai habitat.
+Hence, all the statements are correct.
+
+Q 24.B
+o Many desert plants have a thick cuticle on their leaf surfaces and have their stomata arranged in deep pits to minimise water loss through transpiration.
+o They also have a special photosynthetic pathway (CAM) that enables their stomata to remain closed during day time so as to minimise water loss.
+o Xerophytes are plants found in desert type climate. o Halophytes are plants found in saline environment. o Hence, option (b) is the correct answer.
+
+Q 25.D
+
+If CO2's GWP is 1 than GWP of other gasses are given in the following table
+Gas                             Global warming potential
+CO2                                        1
+Methane                                  21
+Nitrous oxide                             310
+HFCs                              140-11,700
+PFCs                              6500-50000
+
+Hence, option (d) is the correct answer.
+
+Q 26.C
+o Identification of wetlands can be attributed to following three main factors, viz., :
+     When an area is permanently or periodically inundated.
+     When an area supports hydrophytic vegetation
+     When an area has hydric soils that are saturated or flooded for a sufficiently long period to become anaerobic in the upper layers.
+o On these criteria, Ramsar Convention defines Wetlands as areas of marsh or fen, peat-land or water, whether artificial or natural, permanent or temporary , with the water that is static or flowing, fresh, brackish or salt including areas of marine water, the depth of which at low tide does not exceed 6 m. Mangroves, corals, estuaries, bays, creeks, flood plains, sea grasses, lakes etc. are covered under this definition.
+
+Q 27.D
+
+Q 28.D
+
+Tiger reserves are demarcated into two areas:
+1. Core Area
+No human activity is allowed in core areas except anything that affects the rights of the scheduled tribes or forest dwellers
+2. Buffer Area
+The buffer area is allowed for limited non-commercial activity such as development, co-existence of man and wild animals and scientific research. Hence, 1st statement is incorrect.
+No alteration in the boundaries of a tiger reserve shall be made except on a recommendation of the Tiger Conservation Authority and the approval of the National Board for Wildlife. Hence, 2nd statement is incorrect.
+
+
+7                                     www.visionias.in                                                          ©Vision IAS
+Q 29.B
+o Biodiversity Heritage Sites (BHS) are well defined areas that are unique ecologically fragile ecosystems- terrestrial, freshwater or marine having rich biodiversity comprising of any one or more of the components such as; species richness, high endemism, presence of rare, endemic and threatened species, keystone species, species of evolutionary significance, wild ancestors of domestic/cultivated species or land races or their varieties, past pre-eminence of biological components represented by fossil beds and having cultural or aesthetic values and are important for the maintenance of cultural diversity, with  or  without  a  long  history  of  human  association  with  them.  (Source:  NBA,  India)  Hence  1st statement is correct.
+o Under Section 37 of Biological Diversity Act, 2002 (BDA), the State Government in consultation with local bodies may notify in the official gazette, areas of biodiversity importance as Biodiversity Heritage Sites (BHS). Hence 2nd statement is correct.
+o As far as possible those sites may be considered for BHS which are not covered under Protected Area network under the Wildlife Protection Act 1972. Hence 3rd statement is incorrect.
+
+Q 30.A
+
+The olive ridley sea turtle, is a medium-sized species of sea turtle found in warm and tropical waters, primarily in the Pacific and Indian Oceans.
+Olive ridley turtles are best known for their behavior of synchronized nesting in mass numbers, termed arribadas. In the Indian Ocean, the majority of olive ridleys nest in two or three large groups near Gahirmatha in Odisha.
+They are listed as vulnerable species under IUCN
+
+Q 31.B
+o In the food chain, each level is called trophic level.
+o Food chains start at trophic level 1 with primary producers such as plants, move to  herbivores at level
+2, predators at level 3 and typically finish with  carnivores or apex predators  at level 4 or 5. Grass and
+Trees form the 1st level of the food chain while birds and cow forms the 2nd level.
+
+Q 32.A
+o  Declaration of National Parks. – Whenever it appears to the State Government that an area, whether within a sanctuary or not, is, by reason of its ecological, faunal, floral, geomorphological, or zoological association or importance, needed to be constituted as a National Park for the purpose of protecting and  propagating or developing wildlife therein or its environment, it may, by notification, declare its intention to constitute such area as a National Park. Hence, 1st statement is correct.
+o Though tourist activities are allowed ( but limited to buffer zone) , however, no grazing of any livetock is  permitted in a National Park and no livestock is allowed to enter except where such livestock, is used as a vehicle by a person authorised to enter such National Park.Hence, 2nd statement is incorrect.
+o No alteration of the boundaries of a National Park shall be made except on a resolution passed by the
+Legislature of the State. Hence, 3rd statement is incorrect.
+
+Q 33.C
+o The body compensates low oxygen availability by increasing red blood cell production, decreasing the binding capacity of hemoglobin and by increasing breathing rate.
+o Many tribes live in the high altitude of Himalayas. They normally have a higher red blood cell count (or
+total hemoglobin) than people living in the plains.
+o Hence, option c is the correct answer.
+
+
+
+
+Q 34.C
+o Primary sources for TDS in receiving waters are agricultural and residential runoff, leaching of soil contamination and point source water pollution discharge from industrial of sewage treatment plants.
+
+8                                     www.visionias.in                                                          ©Vision IAS
+o The principal application of TDS is in the study of water quality for streams, rivers and lakes, although TDS is not generally considered a primary pollutant (e.g. it is not deemed to be associated with health effects) it is used as an indication of aesthetic characteristics of drinking water and as an aggregate indicator of the presence of a broad array of chemical contaminants. Hence, only 4th statement is incorrect and rest all are correct.
+o Total dissolved solids are differentiated from total suspended solids (TSS)- in that the latter cannot pass through a sieve of two micrometers and yet are indefinitely suspended in solution.
+
+Q 35.C
+
+Khur is one of the three surviving species of wild ass in the world .The other two varieties of wild ass are
+--Kiang or the Tibetian wild ass found in Ladakh and Tibet----Mongolian wild ass--Khulan. The population of khur has declined sharply and only 1800 to 2000 m such species survive today
+
+
+
+Q 36.A
+o The Montreal Protocol, which was adopted in 1987 with the aim of reducing ozone depleting substances, has been successful in reducing these emissions by more than 90 per cent. This decrease is about five times larger than the annual emissions reduction target for the first commitment period (2008-2012) of the Kyoto Protocol.
+o According to the assessment, carried out by the United Nations Environment Programme (UNEP) and the World Meteorological Organization (WMO) the depletion of ozone has been arrested and the ozone layer will recover in next few decades.
+o Certain gases like CFC-11, CFC-12 etc. are ozone depleting substances and also produce green house effect.
+
+Q 37.A
+
+Sources of water pollution can be categorized as:
+o Point Source: A point source is a single, identifiable source of pollution, such as a pipe or a
+drain. Industrial waste and sewage waste water are examples of point source of water pollution.
+o Non-point Source: Non-point sources of pollution are often termed 'diffuse' pollution and refer to those inputs and impacts which occur over a wide area and are not easily attributed to a single source. They are often associated with particular land uses, as opposed to individual point source discharges. Examples are storm water runoff, fertilizers, pesticides etc.
+o Hence, option (a) is the correct answer.
+
+Q 38.C
+o Fire Extinguishers contain halons and HBFCs which are ozone depleting substances.
+o Thermonuclear explosion produce Nitric Oxide which is ozone depleting.
+o Cleaning Solvent contains Carbon Tetrachloride and methyl chloroform which produce free chlorine
+causing ozone depletion.
+o Pesticides contain methyl bromide which produces bromine causing ozone depletion.
+o Hydrocarbons are not responsible for producing ozone depleting substances.
+
+Q 39.C
+o Green manuring is growing in the field plants usually belonging to leguminous family and incorporating into the soil after sufficient growth. However, non-leguminous crops or plants are also used as green manure like Buckthorn , etc. Hence, only 1st statement is incorrect, rest all are correct.
+o Green undecomposed material used as manure is called green manure. It is obtained in two ways: by growing green manure crops or by collecting green leaf (along with twigs) from plants grown in wastelands, field bunds and forest.
+o The plants used for green manure are often cover crops grown primarily for this purpose. Typically, they are plowed under and incorporated into the soil while green or shortly after flowering. Green manure is commonly associated with organic farming and can play an important role in sustainable annual cropping systems.
+
+9                                     www.visionias.in                                                          ©Vision IAS
+o Advantages of Green Manuring- (i) Leguminous green manures such as clover and vetch contain nitrogen -fixing symbiotic bacteria in root nodules that fix atmospheric nitrogen in a form that plants can use. This performs the vital function of fertilization, (ii) green manure acts mainly as soil
+acidifying matter to decrease the alkalinity / pH of alkali soils by generating Humic acid and Acetic acid, (iii) the increased percentage of organic matter (biomass) improves water infiltration and retention, aeration, and other soil characteristics, iv) it also aids in suppression of weeds, etc.
+
+Q 40.D
+o The wastewater from industrial or domestic sources can be used after proper treatment, for irrigation, recharging ground water, and even for industrial or municipal use. If agricultural lands are available close to cities, municipal waste water can be easily used for irrigation.
+
+Q 41.D
+
+o CO doesn't produce Green house impact. Hence, Ist statement 1 is incorrect.
+o It reacts with haemoglobin and reduces the oxygen intake of blood.
+o Hence, 2nd statement is correct.
+It doesn't contribute to ozone layer depletion. Ozone depleting gasses are
+o Water vapor
+o Carbon dioxide
+o Methane
+o Nitrous oxide
+o Ozone
+o Chlorofluorocarbons
+Hence, 3rd statement is incorrect.
+It is produced by incomplete burning of wood. Hence, 4th statement is correct.
+
+Q 42.D
+o According to WHO guidelines sound level should be less than 30 db in indoors. Where noise is continuous, the equivalent sound pressure level should not exceed 30 dBA indoors, if negative effects on sleep are to be avoided.
+o Noise pollution have adverse effect on nervous system, blood pressure, blood cholesterol level.
+o A person's hearing can be damaged if exposed to noise level above 75 decibels
+
+Q 43.A
+o The Basel Convention on the Control of Trans boundary Movements of Hazardous Wastes and Their Disposal, usually known as the Basel Convention, is an international treaty that was designed to reduce the movements of hazardous waste between nations, and specifically to prevent transfer of hazardous waste from developed to less developed countries (LDCs).
+o It does not, however, address the movement of radioactive waste. The Convention was opened for signature on 22 March 1989, and entered into force on 5 May 1992.
+o As of February 2014, 180 states and the European Union are parties to the Convention
+
+Q 44.D
+
+All the statements are correct.
+o Ecosystems  for Life:  A  Bangladesh-India  Initiative  is  a  civil  society  led  multi-stakeholder  dialogue process to promote better understanding of the management of natural resources in Bangladesh and India.
+o Ecosystems for Life is being implemented in Bangladesh and India by IUCN Country Offices and managed by the IUCN Asia Regional Office. It aims at conservation of flagship species.
+
+
+
+
+Q 45.D
+
+
+10                                   www.visionias.in                                                          ©Vision IAS
+o The Brow antelered deer also known as Sangai is an endemic, rare and endangered deer found only in Manipur. It is also state animal of Manipur.Its also called as  Dancing deer and is found in its natural habitat only at Keibul Lamjao National Park over the floating biomass locally called "phumdi" in the south eastern part of Loktak lake.
+o Hoolock Gibbon is the only ape to be found in India ( Endangered and Endemic) . It is the most accomplished acrobat of all the apes. It lives in dense forests of north - eastern India. It is found in Bangladesh and in some parts of Burma and China. Its range extends into seven states covering Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland and Tripura.
+o Wild Ass( Asiatic Wild Ass) is an endemic and endangered variety  and its range once extended from western India , southern Pakistan, Afghanistan, and south-eastern Iran. Today, its last refuge lies in the Indian Wild Ass Sanctuary, Rann of Kutch.
+o Brown palm civet also called the Jerdon's palm civet is a civet endemic to the Western Ghats. It is largely arboreal and nocturnal, and mainly frugivorous, feeding on rainforest trees and liana fruit species,
+though it does supplement its diet with birds, rodents, and insects. Often found in coffee plantations and but  is known mostly from tropical rainforests .
+o Hence, (d) is the correct answer.
+
+Q 46.C
+o Water vapour is the biggest overall contributor to Green House Effect. Hence, 1st statement is incorrect.
+o Wetlands are biggest contributor to Methane (CH4) emission. Hence, 2nd statement is correct.
+o Hydrofluorocarbons (HFCs) are green house gasses which don't deplete ozone layer. Hence, 3rd statement is correct.
+
+Q 47.D
+o Tundras are among Earth's coldest, harshest biomes. Tundra lands are snow-covered for much of the year, until summer brings a burst of wildflowers.
+o The biodiversity of tundra is low. There are few species with large populations. Animal populations fluctuate throughout the seasons in the tundra biome. Some animals opt to hibernate during the winter and others migrate to warmer temperatures.
+
+Characteristics of Tundra
+o Extremely cold climate
+o Low biotic diversity
+o Simple vegetation structure
+o Limitation of drainage
+o Short season of growth and reproduction
+o Energy and nutrients in the form of dead organic material
+o Large population oscillations
+
+Q 48.C
+o The Kyoto Protocol was adopted in Kyoto, Japan, on 11 December 1997 and entered into force on 16
+February 2005. The detailed rules for the implementation of the Protocol were adopted at COP 7 in
+Marrakesh, Morocco, in 2001, and are referred to as the "Marrakesh Accords." Its first commitment period started in 2008 and ended in 2012.
+o The second commitment period from 1 January 2013 to 31 December 2020 was taken up in Doha,
+Qatar, on 8 December 2012, in the Doha Amendment Kyoto Protocol. Hence, 2nd statement is
+incorrect.
+o Durban Summit, 2011, the Ad Hoc Working Group on the Durban Platform for Enhanced Action (ADP) was established to develop a protocol, another legal instrument, or an agreed outcome with legal force under the UNFCC, applicable to all Parties.
+o The ADP is to complete its work as early as possible, but no later than 2015, in order to adopt this protocol, legal instrument or agreed outcome with legal force at the twenty-first session of the Conference of the Parties and for it to come into effect and be implemented from 2020.
+
+11                                   www.visionias.in                                                          ©Vision IAS
+Q 49.D
+
+
+All the options given above are included under Climate engineering, also referred to as geoengineering It is the deliberate and large- cale intervention in the Earth's climatic system with the aim of reducing
+global warming:
+o Use of giant mirrors in space to reflect the sunlight so as to reduce the warming of earth.
+o Aerosols in space also reflect the incoming sunlight and thus reduce the warming of earth.
+o Biochar is essentially charcoal made through pyrolysis of biomass and then burying it mixed with the soil. With regard to long-term carbon storage potential, biochar can work on a large scale with, in most
+cases, no negative soil side effects, but increase its fertility. Some estimates show biochar having the potential to sequester one billion tons of CO2 each year.
+o Fertilizing the oceans with iron to stimulate phytoplankton blooms to absorb carbon dioxide from the atmosphere and export carbon to the deep sea is another possible option.
+o However, all these steps are still contested and yet remain a possible option to be taken up on a large scale.
+
+Q 50.D
+o Three main compounds that cause acidification of the rain are sulphur compounds and radicals, nitrogen compounds and radicals and chlorine compounds and hydrochloric acid.
+o Volcanic eruption results in emission of gases like sulphur dioxide and nitric oxide, which are important cause of acid rain.
+o Decaying of vegetation also leads to release of sulphur dioxide and nitric oxide.
+o Pulp or paper industry is one of the important sources of hydrogen sulphide which is a cause of acid rain.
+o Lightning is the natural source of nitrogen oxides.
+o Decontamination of swimming pools is done using chlorine which is released in the atmosphere and is one of the components of acid rain.
+
+Q 51.A
+o Addition of fertilizers, sewage in water bodies increase the micro nutrients in the water bodies which results in algal bloom which results in eutrophication. Hence, Ist statement is correct.
+o Algal bloom come on the surface of water bodies which reduces penetration of sunlight into water bodies. This causes death of aquatic animals and plants. Hence, 2nd statement is correct.
+o Algal blooms results in decrease in oxygen as population of algal bloom increases further oxygen is taken up by microorganism which fed on dead algae during decomposition process. Hence, 3rd statement is incorrect.
+
+Q 52.A
+o In order to undertake complementary activities of biodiversity conservation and development of sustainable management aspects, Biosphere Reserves are demarcated into three inter-related zones. These are (I) natural or core zone (ii) manipulation or buffer zone and (iii) A transition zone outside the buffer zone.
+o The Core Zone: The core zone is kept absolutely undisturbed. It must contain suitable habitat for numerous plant and animal species, including higher order predators and may contain centres of endemism. Core areas often conserve the wild relatives of economic species and also represent important genetic reservoirs. The core zones also contain places of exceptional scientific interest. A core zone secures legal protection and management and research activities that do not affect natural processes and wildlife are allowed. Strict nature reserves and wilderness portions of the area are designated as core areas of BR. Hence, 1st statement is correct.
+o The Buffer Zone: In the Buffer Zone, which adjoins or surrounds core zone, uses and activities are managed in ways that protect the core zone. These uses and activities include restoration, demonstration sites for enhancing value addition to the resources, limited recreation, tourism, fishing and grazing, which are permitted to reduce its effect on core zone. Research and educational activities
+
+
+12                                   www.visionias.in                                                          ©Vision IAS
+are to be encouraged. Human activities, if natural within BR, are likely to be permitted to continue if these do not adversely affect the ecological diversity. Hence, 2nd statement is incorrect.
+o The Transition Zone: The Transition Zone is the outermost part of a Biosphere Reserve. This is usually not delimited one and is a zone of cooperation where conservation, knowledge and management skills are applied and uses are managed in harmony with the purpose of the Biosphere Reserve. This
+includes settlements, crop lands, managed forests and area for intensive recreation, and other economic uses characteristic of the region.Hence, 3rd statement is incorrect.
+o In Buffer Zone and the Transition Zones, manipulative macro-management practices are used.
+Experimental research areas are used for understanding the patterns and processes in the ecosystem.
+Modified or degraded landscapes are included as rehabilitation areas to restore the ecology in a way that it returns to sustainable productivity.
+
+Q 53.A
+o Researchers have found that rising temperatures in the world's oceans will affect the development of the plankton on which most marine life feeds. It has been demonstrated that the increasing warmth caused by a changing climate will upset the natural cycles of carbon dioxide, nitrogen and phosphorous. This will affect the plankton, making it scarcer and so causing problems for fish and other species higher up the food chain.
+o Krill is an important link at the base of the food chain. Research has shown that krill reproduce in significantly smaller numbers when ocean temperatures rise. This can have a cascading effect by disrupting the life cycle of krill eaters, such as penguins and seals-which in turn causes food shortages for higher predators.
+o It is expected that as oceans become warmer, in temperate regions, one may see more southern species coming in which are accustomed to warmer environment.
+o More CO2 in the atmosphere means more CO2 in the ocean; atmospheric CO2 is dissolved in the ocean, which becomes more acidic and the resulting changes in the chemistry of the oceans disrupts the ability of plants and animals in the sea to make shells and skeletons of calcium carbonate, while dissolving shells already formed. However, it is not a direct impact of global warming but the impact of higher concentration of CO2.
+
+Q 54.B
+
+The accelerated rates of species extinctions that the world is facing now are largely due to human activities. There are four major causes ('The Evil Quartet' is the sobriquet used to describe them) (i) Habitat loss and fragmentation
+(ii)  Over-exploitation
+(iii) Alien species invasions
+(iv) Co-extinctions
+
+Q 55.C
+o Ecosystem  services  are  the  benefits  people  obtain  from  ecosystems.  These  include  provisioning, regulating,  and  cultural  services  that directly affect people and the supporting services needed to maintain other services.
+o Supporting services are those that are necessary for the production of all other ecosystem services.
+o The presence of coastal ecosystems such as mangroves and coral reefs can reduce the damage caused by hurricanes or large waves. Its part of regulating services.
+o Products like food, clothing comes under provisioning.
+o Statements 1 and 3 are correct. Hence option C
+
+Q 56.D
+
+Mangrove forests are unique ecosystems. They offer significant and unique habitat to birds, mammals, and fish populations by establishing a complex marine food chain, creating a breeding habitat for the aquatic system. In addition,
+o The anchoring root system of mangroves contribute to improved water quality by filtering and assimilating pollutants,
+
+13                                   www.visionias.in                                                          ©Vision IAS
+o Stabilizing bottom sediments, and
+o Protecting the shoreline from erosion.
+
+Q 57.D
+
+These 12 chemicals include 8 pesticides (Aldrin, Chlordane, DDT, Dieldrin, Endrin, Heptachlor, Mirex and Toxaphene), two industrial chemicals (Polychlorinated biphenyls and hexachlorobenzene) and 2 unintended by products- dioxins and furans.
+
+Q 58.D
+o The exchange between hydrogen ion and the nutrients like potassium and magnesium in the soil cause leaching of the nutrients making the soil infertile.
+o Acid rain can damage buildings, historic monuments, and statues, especially those made of rocks, such as limestone and marble, that contain large amounts of calcium carbonate.
+o But Acid rain also increases the corrosion rate of metals, in particular iron, steel, copper and bronze. So it affects iron statue also.
+o Hence, both the statements are incorrect.
+
+Q 59.A
+o Centre for Science and Environment (CSE) has taken apart-quite literally- the thermal power sector in India and plant-by-plant looked at what is the efficiency rate, the pollution load, the management of waste and the compliance with environmental standards.
+o The plant load factor has been declining in the past few years, going down to a low of 65 per cent in
+2013-14, as compared to 79 per cent in 2007-08. This clearly speaks of the mismatch between demand
+and supply.
+o Clearly, a huge opportunity for India is to improve efficiency and to replace its existing stock of plants- not build new ones-with best technology.
+o PLF does not depend to T&D losses. Hence, 3rd statement is incorrect.
+
+Q 60.B
+o Silicosis can be caused by inhaling silica dust, found in many rocks such as marble, sandstone, slate etc.
+o Chalicosis is a form of pneumoconiosis found among stone-cutters. Hence, 2nd option is not correctly matched.
+o Mad-hatter disease is caused due to inhalation of mercury vapours, used to turn fur into felt during hat- making process.
+o Coal Worker's Disease, also known as Black lung disease, is caused by long exposure to coal dust. It is a common in coal miners and others who work with coal. It is similar to both silicosis from inhaling silica dust, and to the long-term effects of tobacco smoking.
+
+Q 61.C
+o Biofouling or biological fouling is the accumulation of microorganisms, plants, algae, or animals on
+wetted surfaces. Such accumulation is referred to as epibiosis when the host surface is another organism
+and the relationship is not parasitic.
+o An enrichment by or excess of nutrients to the water is called eutrophication and may result in an explosive growth of algae. Depending on the environment (quiet bay or rough seas) and the type of algae (microscopic or macroscopic), a 'bloom' can be observed in different forms: foam or a green tide on the beach.
+o Hypoxia (reduced dissolved oxygen content of a body of water).
+o Hence, all the statements are correct.
+
+Q 62.A
+o The disease was first reported from Kyasanur Forest of Karnataka in March 1957. The disease first manifested as an epizootic outbreak among monkeys killing several of them in the year 1957. Hence the disease is also locally known as Monkey Disease or Monkey Fever.Transmission to humans may occur
+
+
+14                                   www.visionias.in                                                          ©Vision IAS
+after a tick bite or contact with an infected animal, most importantly a sick or recently dead monkey. No person-to-person transmission has been found out so far.Hence, 1st statement is correct.
+o The vector for disease transmission is  Haemaphysalis spinigera, a forest tick (although ticks are commonly thought of as insects, they are actually arachnids like scorpions, spiders and mites. All members of this group have four pairs of legs as adults and have no antennae, whereas,
+an adult insects have three pairs of legs and one pair of antennae). Hence, 2nd statement is incorrect.
+o Rodents, shrews, and monkeys are common hosts for KFDV after being bitten by an infected tick, KFDV
+can cause epizootics with high fatality in primates. Hence, 3rd statement is correct.
+o The disease has historically been limited to the western and central districts of Karnataka State, India.
+However, in November 2012, samples from humans and monkeys tested positive for KFDV in the
+southernmost district of the State which neighbours Tamil Nadu State and Kerala State, indicating the possibility of wider distribution of KFDV. However, more recently ( April, 2015)  four persons have died of this disease in north Goa's Pali village in Valpoi taluk.
+o After an incubation period of 3-8 days, the symptoms of KFD begin suddenly with chills, fever, and headache. Severe muscle pain with vomiting, gastrointestinal symptoms and bleeding problems may occur 3-4 days after initial symptom onset. Patients may experience abnormally low blood pressure, and low platelet, red blood cell, and white blood cell counts.
+o After 1-2 weeks of symptoms, some patients recover without complication. However, the illness is biphasic for a subset of patients (10-20 per cent) who experience a second wave of symptoms at the beginning of the third week. These symptoms include fever and signs of neurological manifestations, such as severe headache, mental disturbances, tremors, and vision deficits.
+o The estimated case-fatality rate or morbidity rate among humans is from 3 to 4 per cent. Hence, 4th statement is incorrect.
+
+Q 63.D
+
+All statements are correct.
+o There are certain limitations of ecological pyramids such as it does not take into account the same species belonging to two or more trophic levels.
+o It assumes a simple food chain, something that almost never exists in nature; it does not accommodate a food web.
+o Moreover, saprophytes are not given any place in ecological pyramids even though they play a vital role in the ecosystem.
+
+Q 64.D
+o Pteris vittata is a hyperaccumulator of arsenic. It has been praised for its potential to remediate soils contaminated with arsenic. Even though it has the beneficial quality of being a natural bioaccumulator, it is still considered an invasive plant and should be managed as such.
+
+Q 65.A
+o It is issued by Central Pollution Control Board (CPCB)
+o It is represented by a pitcher or an 'earthen pot' indicating that the product is not harmful to the environment like as an earthen pot which is made of soil and after its use returned to it the soil.
+
+Q 66.C
+o Lichens are plant forms that combine algae and fungi in a single symbiotic organism. They are abundant in boreal and arctic habitats. Hence 1st statement is incorrect.
+o Lichens act as indicators for atmospheric pollution. Also called indicator organism or Bioindicators.
+o Bioindicators are living organisms that respond in an especially clear way to a change in the environment.
+o The lichens are useful bioindicators for air pollution, especially Sulfur dioxide pollution, since they derive their water and essential nutrients mainly from the atmosphere rather than from the soil. Hence
+2nd statement is incorrect.
+
+
+
+15                                   www.visionias.in                                                          ©Vision IAS
+o Lichens can also be used to measure toxic elemental pollutants and radioactive metals because they bind these substances in their fungal threads where they concentrate them over time. Hence 3rd statement is correct and option (c) is the correct answer.
+
+Q 67.D
+o Biochemical oxygen demand (BOD) is the amount of dissolved oxygen needed by aerobic biological organisms in a body of water to break down organic material present in a given water sample at certain temperature over a specific time period. Biological oxygen demand is term which used to determine the pollution level in water bodies.
+
+Q 68.C
+o Mercury causes severe nervous disorder, insomnia, minamata, memory loss. Hence, 1st statement is correct
+o Silica dust causes silicosis. Silicosis is a form of occupational lung disease caused by inhalation
+of crystalline silica dust, and is marked by inflammation and scarring in the form of nodular lesionsin the
+upper lobes of the lungs. Hence, 2nd statement is incorrect.
+o Suspended particulate matter is a major health problem in urban areas. Health impact of it â€“ lung
+disease, reduction in red blood cell production. Hence, 3rd statement is correct.
+
+Q 69.C
+o The presence of elements like lead, mercury, arsenic, cadmium, selenium, hexavalent chromium, and flame retardants beyond threshold quantities make e-waste hazardous in nature.
+o Argon and Plutonium are radioactive/nuclear wasters.
+
+Q 70.C
+o Urban sky glow - the brightening of the night sky over inhabited areas. It is the "glow" effect that can be  seen  over  distant  populated  areas. This  light  can  then  interfere  with  sensitive  astronomical instruments designed to capture light from distant galaxies.
+o Artificial light at night has been shown to affect the mating, migration, and predation behaviors of many different species and, consequently, the ecological community as a whole.  Night lighting that increases sky glow around sports stadiums can stop the mating activity of nearby frogs. Artificial lighting reduces visibility of species that communicate through light (bioluminescent flashes), such as glowworms and fireflies.
+o Use of intense lights for fishing at night on the ocean or along the shoreline attracts large numbers of fish, a method that leads to over-fishing. Hence, option c is incorrect.
+o Light pollution is directly linked to hormonal imbalance, melatonin suppression, sleep disruption, etc.
+and several studies have found increased instances of cancers, especially breast and prostrate.
+
+Q 71.D
+o Tiger census is carried out by the National Tiger Conservation Authority (NTCA)
+o Karnataka has the highest number of tigers.
+o In Thailand and some other nations, there is a legal recognition to people for keeping tigers and lions as pets.
+o The latest report -- based on camera traps and DNA testing of tiger scat --- found the tiger population had stabilised in most reserves that have almost reached the maximum number of felines they could sustain.
+o Tiger organs and bones fetch high prices on the black market because of demand driven by traditional
+Chinese medicine practitioners.
+
+Q 72.C
+o Azadirachta indica (Neem ) is a tree of the family Meliaceae. Scientific and Industrial Research laboratory at Delhi University has extracted three Compounds from neem oil, which were named nimbin, nimbinin, and nimbidin. The seeds contain a complex secondary metabolite azadirachtin.
+
+
+16                                   www.visionias.in                                                          ©Vision IAS
+Q 73.D
+o One of the energy efficient and pollution free method is to exploit the ability of certain microorganisms like bacteria, algae and fungi to fix atmospheric nitrogen, solubilize phosphorus, decompose organic material or oxidize sulphur in the soil.
+o When they are applied in the soil, they enhance growth and yield of crops, improve soil fertility and reduces pollution. They are known as 'bio fertilizers'. Thus bio-fertilizers are living or biologically active products or microbial inoculants of bacteria, algae and fungi (separately or in combination) which are able to enrich the soil with nitrogen, phosphorus, organic matter etc.
+
+Q 74.B
+o PSC-Type I clouds are now known as sites of harmful destruction of stratospheric ozone over the Antarctic and Arctic. Their surfaces act as catalysts which convert more benign forms of man-made chlorine into active free radicals (for example ClO, chlorine monoxide). During the return of spring sunlight these radicals destroy many ozone molecules in a series of chain reactions. Cloud formation is doubly harmful because it also removes gaseous nitric acid from the stratosphere which would otherwise combine with ClO to form less reactive forms of chlorine.
+o Hence, only statement 2 is correct.
+
+Q 75.A
+o In the absence of Green House Effect the average temperature of earth would be -19 degree Celsius.
+o Green House gases absorb long wave radiation emitted by earth. Hence, 2nd statement is incorrect.
+o After absorption of energy. Green House Gasses emits energy in all directions
+
+Q 76.D
+o All the above-mentioned options are mechanical measures of soil conservation.
+o Hence option (d) is the correct answer.
+o Basin listing consists of small interrupted basins along the counter with a special implement, called basin
+lister. Basin listing helps to retain rainwater as it falls & is especially effective on retentive soils having
+mild slopes.
+o Sub-soiling method break hard and impermeable subsoil with subsoiler & technique conserves rainwater by improving the physical conditions of a soil. This operation does not involve soil inversion and promotes greater moisture penetration into soil. It reduces both run-off & soil erosion.
+o Contour-Bunding consists of making embankments with narrow bases at intervals across slope on contour level. It conserves soil and water in arid and semi-arid areas with high infiltration & permeability
+o Bench Terracing is among one of best soil conservation methods, where cultivation is done on a terrace leveled section of land.
+o Water harvesting with check-dams not only provides water for dry season but also prevents or decreases run-off.
+
+Q 77.B
+o Corals provides CO2 to Zooxanthellae while Zooxanthellae helps corals by producing carbon compounds through photosynthesis. Hence, 1st statement is incorrect.
+o In Coral bleaching density of Zooxanthellae declines and green colour start changing. Hence, 2nd statement is correct.
+o Corals are very highly susceptible to global warming as coral species live in a small range of temperature.
+Both lower and higher temperature from that range are harmful for coral growth. Hence, 3rd statement
+is incorrect.
+
+Q 78.C
+o Red tide is a phenomenon caused by algal blooms during which algae become so numerous that they discolor coastal waters.
+o Sometimes the color appears red but not always, but it is generally termed as red tide. It is the bloom in any type of algae and not necessarily red algae.
+
+
+17                                   www.visionias.in                                                          ©Vision IAS
+o The algal bloom may also deplete oxygen in the waters and/or release toxins that may cause illness in humans and other animals.
+
+Q 79.D
+o Black carbon (BC) are fine, solid particles of carbon emitted by burning of wood, fossil fuels, coal. It contributes to global warming by absorbing short as well as long wave radiation. It is the strongest absorber of sunlight. CO2 absorbs long wave radiation only.
+o Effect of Black Carbon on glaciers disappears after few months of reduction in emission because carbon stays in atmosphere for few days or few weeks only.
+o Hence, all the statements are correct.
+
+Q 80.D
+o Agenda 21 is a non-binding, voluntarily implemented action plan of the United Nations with regard to sustainable development.
+o It is a product of the UN Conference on Environment and Development (UNCED) held in Rio de Janeiro, Brazil, in 1992.
+o It is an action agenda for the UN, other multilateral organizations, and individual governments around
+the world that can be executed at local, national, and global levels. The "21" in Agenda 21 refers to the
+21st century. It has been affirmed and modified at subsequent UN conferences.
+o It's document have been grouped into 4 sections:
+o Section I: Social and Economic Dimensions: This section is directed toward combating poverty, especially in developing countries, changing consumption patterns, promoting health, achieving a more
+sustainable population, and sustainable settlement in decision making.
+o Section II: Conservation and Management of Resources for Development Includes atmospheric protection, combating deforestation, protecting fragile environments, conservation of biological diversity (biodiversity), control of pollution and the management of biotechnology, and radioactive wastes.
+o Section III: Strengthening the Role of Major Groups Includes the roles of children and youth, women, NGOs, local authorities, business and workers and strengthening the role of indigenous peoples, their communities, and farmers.
+o Section IV: Means of Implementation Implementation includes science, technology transfer, education, international institutions and financial mechanisms.
+
+Q 81.C
+o Organic farming is a form of agriculture that relies on techniques such as crop rotation, green manure, compost and biological pest control.
+o Depending on whose definition is used, organic farming uses fertilizers and pesticides (which include herbicides, insecticides and fungicides) if they are considered natural (such as bone meal from animals), but it excludes or strictly limits the use of various methods (including synthetic petrochemical fertilizers and pesticides; plant growth regulators such as harmones; antibiotic use in livestock; genetically
+modified organisms and nanomaterials) for reasons including sustainability, openness, health and safety.
+
+Q 82.B
+o The Convention on the Conservation of Migratory Species of Wild Animals (Bonn Convention) aims to conserve terrestrial, marine and avian migratory species throughout their range. It is an intergovernmental treaty, concluded under the aegis of the United Nations Environment Programme, (UNEP) concerned with the conservation of wildlife and habitats on a global scale. The Convention was signed in 1979 in Bonn and entered into force in 1983.
+o India is signatory of the convention
+
+Q 83.D
+o Species don’t react with just their physical surroundings. They also interact with each other. That interaction may benefit at least one of the species, be negative to one or both species, or have no effect on either species.
+
+18                                   www.visionias.in                                                          ©Vision IAS
+o Competition is a negative interaction and an unstable situation. It happens whenever two species need a common resource that is in short supply. Hence 1st statement is correct.
+o Predation and parasitism are other negative interactions between species. Predation occurs when one species feeds on another.
+o Parasitism occurs when one species gains nutrition from another, typically when the parasite organism invades or attaches to the body of the host in some way. Hence 2nd and 3rd statements are correct.
+o Symbiosis is positive interaction between species that is beneficial to at least one of the species and does not harm the other. It includes three types of positive interactions: commensalism, protocooperation and mutualism. Hence 4th statement is also correct.
+o In commensalism, one of the species is benefited and the other is
+unaffected. Under protocooperation the relationship benefits both parties, but isn’t essential for their
+survival. This type of relationship is called protocooperation.
+o If the relationship reaches a point where one or both species cannot survive alone, it’s called mutualism.
+o Hence (d) option is the correct answer.
+
+Q 84.D
+o After large exposure to UVA the skin gradually loses its elasticity and starts to wrinkle. Therefore, large
+doses of UVA cause premature ageing.
+o it may enhance the development of skin cancers.
+o The various incoming sun rays penetrate the eye to different depths. While UVB is fully absorbed by the cornea, UVA passes through these surface layers to the lens. By Which cataract can be developed.
+o Immune system suppression also caused by UV radiation.
+o Noise pollution can  cause hearing loss and not UV radiation. Hence, Option 3 is incorrect and rest all are correct.
+
+Q 85.D
+o Eichhornia crassipes, commonly known as (common) water hyacinth, is an aquatic plant native to
+the Amazon basin, and is often considered a highly problematic invasive species outside its native range.
+o Farmers collect and pile up these plants to dry at the onset of the cold season; they then use the dry water hyacinths as fuel. They then use the ashes as fertilizer. In India, a ton of dried water hyacinth yield circa 50 liters ethanol and 200 kg residual fiber.
+o The roots of Eichhornia crassipes naturally absorb pollutants, including lead, mercury, and strontium-90, as well as some organic compounds believed to becarcinogenic, in concentrations 10,000 times that in the surrounding water. Water hyacinths can be cultivated for waste water treatment.
+o The plant is used as a carotene-rich table vegetable in Taiwan.  Javanese sometimes cook and eat the green parts and inflorescence
+
+Q 86.C
+o Under the Kyoto Protocol the Annex 1 countries (Mostly developed countries) have to reduce their emissions for the four gases- Carbon dioxide, methane, nitrous oxide, sulphur hexafluoride- and two group of gases- hydroflourocarbons and perflourocarbons.
+
+Q 87.D
+o Suspended particles cannot be removed completely by plain settling. Large, heavy particles settle out readily, but smaller and lighter particles do not settle easily. Such particles are called colloidal particles. To remove such smaller particles, alum is added. Alum causes flocculation. Flocculation is a process through which all the finer insoluble particles form large particles called flocs. These flocs then can easily settle and thus are removed from water.
+o Disinfection destroys pathogenic bacteria and is essential to prevent the spread of water borne disease.
+Typically the final process in drinking water treatment, it is accomplished by applying either chlorine,
+ozone or ultraviolet radiation to clarified water
+
+
+
+
+
+19                                   www.visionias.in                                                          ©Vision IAS
+Q 88.A
+o Energy density is the amount of stored energy in something. Ethanol has smaller energy density than gasoline.
+o This means that it takes more fuel by volume and mass to produce same amount of work.
+o However, because ethanol is a high-octane fuel, it offers increased vehicle power and performance.
+This also increases engine's thermal efficiency. Ethanol is a good cleaning agent. In newer vehicles it helps keep the engine clean. In older
+o vehicles it can sometimes loosen contaminants and residues that have already been deposited in a vehicle's fuel delivery system. Ethanol blended fuel releases less carbon dioxide other harmful gases.
+
+Q 89.B
+o Bio-magnification refers to increase in concentration of the toxicant at successive trophic levels. This happens a toxic substance accumulated by an organism cannot be metabolized or excreted and is thus passed on to the next higher trophic level. Absorption of toxicant by an organism is called as bio- accumulation. This phenomenon does not occur at the trophic levels. This phenomenon is well known for mercury and DDT.
+
+Q 90.A
+o Micro-irrigation techniques like drip and sprinkler irrigation leads to huge saving of water as compared to traditional surface irrigation techniques.
+o  Greywater or sullage is defined as wastewater generated from wash hand basins, showers and baths, which can be recycled on-site for uses such as WC flushing. Thus the clean groundwater that we use for flushing will be saved.
+o  Filters and RO systems lead to extraction of lot of water as wastewater. Thus using filter system is a healthy habit but in turn leads to more water usage. Hence, 3rd statement is incorrect.
+
+Q 91.A
+
+Farmers all over the world are suffering from a "pesticides treadmill". Pests are growing resistant to their sprays. So farmers have to spray ever more to have any effect, or buy new, more expensive chemicals. Thus the term means increasing the doses of pesticides to prevent the resurgence of the earlier controlled pest. Hence, 1st statement is correct.
+o Maharashtra state is a centre of India's cotton growing. Here many insects live in the cotton fields. The most destructive, the American bollworm, is spreading and growing resistant to pyrethroids and other cheap pesticides. To save their crops, farmers are spraying typically 10-12 times in a single growing season. Partly as a result, cotton farmers have become the biggest users of pesticides in India.
+o This repeated spraying is very expensive, forcing many farmers into debt.
+o And it is counter-productive, encouraging resistance to the chemicals among the pests. So the next year the farmer must spray even more. Hence, 2nd statement is correct.
+o Spraying often pollutes drinking water and neighbouring crops, and is a health hazard for farmers and their families. It is also labour intensive.
+An even more severe aspect of the pesticide treadmill is when it escalates. It can happen that the effective elimination of one target insect pest allows other insect pests to thrive, resulting in the farmer having to use other insecticides to eliminate the new pest problem. This can lead to more pests and the need for yet more insecticide types to deal with the additional problems. Constant spraying may simply kill other insects, who are harmless or even beneficial to the crop. Hence, 3rd statement is incorrect.
+
+Q 92.C
+
+Components of the environment:
+o Biotic: Living organisms including plants, animals, microorganisms (bacteria, fungi, protozoa), and human beings.
+o Abiotic: Light, climate (humidity and temperature), atmospheric gases, water, substrata (soil, river/sea bed).
+
+
+
+20                                   www.visionias.in                                                          ©Vision IAS
+o Living organisms, need both abiotic and biotic components of the environment for survival. A delicately balanced relationship between living organisms and their environment is critically important for their survival.
+
+Q 93.B
+o Regulate: Some organisms are able to maintain homeostasis by physiological (sometimes behavioural also) means which ensures constant body temperature, constant osmotic concentration, etc.
+o Conform: An overwhelming majority (99 per cent) of animals and nearly all plants cannot maintain a constant  internal  environment.  Their  body temperature  changes  with  the  ambient  temperature.  In aquatic animals, the osmotic concentration of the body fluids change with that of the ambient water osmotic concentration. These animals and plants are simply conformers.
+o Migrate : The organism can move away temporarily from the stressful habitat to a more hospitable area and return when stressful period is over.
+o Suspend: In bacteria, fungi and lower plants, various kinds of thick- walled spores are formed which help them to survive unfavourable conditions. They do so by reducing their metabolic activity and going into a date of ‘dormancy’.
+
+Q 94.C
+o Prime Minister recently launched the National Air Quality Index (AQI) for monitoring the quality of air in major urban centres across the country on a real-time basis and enhancing public awareness. The AQI has been at present launched for 10 cities -- Delhi, Agra, Kanpur, Lucknow, Varanasi, Faridabad, Ahmedabad, Chennai, Bangalore and Hyderabad. The Environment Ministry proposes to extend the measurement of air quality to 22 state capitals and 44 other cities with a population exceeding one million.
+o AQI will be used to inform people about daily air quality. It is not a monthly index. It will tell how clean or polluted the air is and what associated health effects might be of concern. This can help people take precautions on "bad air" days. It will have 'one number, one colour and one description' to inform the public about air quality in a simple and easily understandable format.
+o The index considers eight pollutants -- PM10, PM2.5, NO2, SO2, CO, O3, NH3 and Pb). The likely health implications of the six categories would also be provided with a colour code.
+
+Q 95.A
+o Energy Supply (26% of 2004 global greenhouse gas emissions) - The burning of coal, natural gas, and oil for electricity and heat is the largest single source of global greenhouse gas emissions.
+o Industry (19% of 2004 global greenhouse gas emissions) - Greenhouse gas emissions from industry primarily involve fossil fuels burned on-site at facilities for energy. This sector also includes emissions from chemical, metallurgical, and mineral transformation processes not associated with energy consumption. (Note: Emissions from electricity use are excluded and are instead covered in the Energy Supply sector.)
+o Land Use, Land-Use Change, and Forestry (17% of 2004 global greenhouse gas emissions) - Greenhouse gas emissions from this sector primarily include carbon dioxide (CO2) emissions from deforestation, land clearing for agriculture, and fires or decay of peat soils. This estimate does not include the CO2 that ecosystems remove from the atmosphere. The amount of CO2 that is removed is subject to large uncertainty, although recent estimates indicate that on a global scale, ecosystems on land remove about twice as much CO2 as is lost by deforestation.
+o Agriculture (14% of 2004 GHG emissions) - global greenhouse gas emissions) - Greenhouse gas emissions
+from agriculture mostly come from the management of agricultural soils, livestock, rice production, and
+biomass burning.
+o Transportation (13% of 2004 global greenhouse gas emissions) - Greenhouse gas emissions from this sector primarily involve fossil fuels burned for road, rail, air, and marine transportation. Almost all (95%) of the world's transportation energy comes from petroleum-based fuels, largely gasoline and diesel.
+o Commercial and Residential Buildings (8% of 2004 global greenhouse gas emissions) - Greenhouse gas emissions from this sector arise from on-site energy generation and burning fuels for heat in buildings or
+
+
+21                                   www.visionias.in                                                          ©Vision IAS
+cooking in homes. (Note: Emissions from electricity use are excluded and are instead covered in the
+Energy Supply sector.)
+o Waste and Wastewater (3% of 2004 global greenhouse gas emissions) - The largest source of greenhouse gas emissions in this sector is landfill methane (CH4), followed by wastewater methane (CH4) and nitrous oxide (N2O). Incineration of some waste products that were made with fossil fuels, such as plastics and synthetic textiles, also results in minor emissions of CO2.
+
+Q 96.B
+o To reduce energy consumption through demand side management.
+o Hence, only 2nd statement is incorrect, rest all are correct.
+
+Q 97.D
+o About 33% of the CO2 produced by anthropogenic activities is absorbed by oceans.
+o CO2 absorbed by ocean increases salinity of ocean thus it decreases salinity of ocean.
+o Increase in atmospheric CO2 leads to increase in acidity of ocean and carbonate ions which are required
+for coral growth reduced because of increase in acidity.
+
+Q 98.D
+o Algaculture is a form of aquaculture involving the farming of species of algae.
+o The majority of algae that are intentionally cultivated fall into the category of microalgae (also referred to as phytoplankton, microphytes, or planktonic algae). Macroalgae, commonly known asseaweed, also
+have many commercial and industrial uses, but due to their size and the specific requirements of the environment in which they need to grow, they do not lend themselves as readily to cultivation (this may change, however, with the advent of UAS seaweed cultivators using upflowing air bubbles in small containers).
+o Commercial and industrial algae cultivation has numerous uses, including production of food ingredients such as omega-3 fatty acids or natural food colorants and dyes, food, fertilizer, bioplastics, chemical feedstock, pharmaceuticals, and algal fuel, and can also be used as a means of pollution control.
+
+Advantages:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Q 99.C
+
+o Indian Institute of Tropical Meteorology (IITM), Pune, a constituent under the Ministry of
+Earth  Sciences, Government of India, is spearheading country's first major initiative named as "System
+of Air quality Forecasting And Research (SAFAR)". It has been successfully tested during the
+22                                   www.visionias.in                                                          ©Vision IAS
+commonwealth Games 2010 for National Capital Region Delhi. Its  vision is to spread the SAFAR to other major cities in India and to put our country in frontiers of Air Quality Forecasting Research. Currently its operational for Delhi and Pune.
+o The SAFAR provide location specific information on Air Quality in near real time and its forecast 24 hours in advance.
+o The ultimate objective is to increase the awareness among general public regarding the air quality in their city well in advance so that appropriate mitigation action and systematic measures can be taken up for the betterment of air quality and related health issues.
+o SAFAR system integrates several complex components like meso-net monitoring network consisting of online air pollution analyzers, automatic weather stations, emission inventory, activity data, 3 -D coupled atmospheric chemistry transport models to facilitate forecasting of several major air pollutants
+like: Ozone, NOx, CO, PM2.5, PM10, benzene, toluene, xylene and Black Carbon.
+o Hence, (c) is the correct answer.
+
+Q 100.D
+o Smog is formed by reaction of Volatile organic compounds with nitrogen oxides in the presence of sunlight.
+o One of the primary constituent of smog is ozone gas which is formed by the reaction of Volatile organic compounds with nitrogen oxides.
+o Health impact of smog: Heavy smog results in decrease in natural vitamin D production leading to rise in cases of Rickets.
+o Hence, all the statements are correct.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright © by Vision IAS
+All  rights  are  reserved.  No  part  of  this  document  may  be  reproduced,  stored  in  a  retrieval  system  or transmitted in any form or by any means, electronic, mechanical, photocopying, recording or otherwise,
+without prior permission of Vision IAS
+
+
+23                                   www.visionias.in                                                          ©Vision IAS
